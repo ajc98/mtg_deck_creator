@@ -12,9 +12,9 @@ app = typer.Typer(
     no_args_is_help=True,
 )
 ingest_app = typer.Typer(help="Ingest card data into the local database.", no_args_is_help=True)
-embed_app = typer.Typer(help="Generate and manage card embeddings.", no_args_is_help=True)
+embed_app  = typer.Typer(help="Generate and manage card embeddings.", no_args_is_help=True)
 app.add_typer(ingest_app, name="ingest")
-app.add_typer(embed_app, name="embed")
+app.add_typer(embed_app,  name="embed")
 
 console = Console()
 
@@ -355,6 +355,287 @@ def db_info() -> None:
     for t in tables:
         count = conn.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0]
         table.add_row(t, f"{count:,}")
+
+    console.print(table)
+
+
+# ---------------------------------------------------------------------------
+# ingest collection
+# ---------------------------------------------------------------------------
+
+
+@ingest_app.command("collection")
+def ingest_collection_cmd(
+    file: Path = typer.Option(..., "--file", "-f", help="Path to CSV collection file"),
+    source: str = typer.Option("manabox", "--source", "-s", help="App that exported the file (manabox, moxfield, archidekt)"),
+    replace: bool = typer.Option(False, "--replace", "-r", help="Replace existing collection instead of merging"),
+) -> None:
+    """Import an owned card collection from a CSV export."""
+    if not file.exists():
+        console.print(f"[red]File not found:[/red] {file}")
+        raise typer.Exit(1)
+
+    from mtgdeck.data.duckdb_repo import get_connection
+    from mtgdeck.data.collection_ingest import ingest_collection
+
+    conn = get_connection()
+    added, skipped = ingest_collection(conn, file, source=source, replace=replace)
+    console.print(f"[green]Done.[/green]  Added/updated: {added}  |  Skipped: {skipped}")
+
+
+# ---------------------------------------------------------------------------
+# build
+# ---------------------------------------------------------------------------
+
+
+@app.command("build")
+def build_cmd(
+    commander: str = typer.Argument(..., help="Commander name"),
+    lands: int    = typer.Option(36,    "--lands",   "-l", help="Target land count"),
+    model: str    = typer.Option("local","--model",  "-m", help="Embedding model alias"),
+    owned_only: bool = typer.Option(False, "--owned-only", help="Only include owned cards"),
+    output: Path  = typer.Option(None, "--output", "-o", help="Write decklist text to file"),
+    no_explain: bool = typer.Option(False, "--no-explain", help="Skip explanation report"),
+) -> None:
+    """Build a legal Commander deck for the given commander."""
+    import json
+
+    from mtgdeck.data.duckdb_repo import (
+        get_connection, lookup_card_by_name, get_edhrec_recommendations,
+        get_collection_names, embedding_count,
+    )
+    from mtgdeck.data.edhrec_fetch import fetch_edhrec
+    from mtgdeck.models import ScryfallCard
+    from mtgdeck.rules.commander_rules import is_legal_commander, CommanderProfile
+    from mtgdeck.rules.deck_validator import validate_deck
+    from mtgdeck.generation.candidate_pool import build_candidate_pool
+    from mtgdeck.generation.deck_builder import build_deck, DeckConfig
+    from mtgdeck.embeddings.embed_cards import resolve_model_name
+    from mtgdeck.output.decklist_writer import format_decklist, write_decklist
+    from mtgdeck.output.rich_tables import (
+        print_deck_summary, print_role_breakdown, print_mana_curve,
+        print_validation, print_top_cards,
+    )
+    from mtgdeck.output.explanation_report import generate_explanation
+
+    conn = get_connection()
+
+    # ── Look up commander ────────────────────────────────────────────────────
+    row = lookup_card_by_name(conn, commander)
+    if row is None:
+        console.print(f"[red]'{commander}'[/red] not found. Run [bold]ingest scryfall[/bold] first.")
+        raise typer.Exit(1)
+
+    raw  = json.loads(row["raw_json"])
+    card = ScryfallCard.model_validate(raw)
+
+    if not is_legal_commander(card):
+        console.print(f"[red]{card.name}[/red] is not a legal Commander.")
+        raise typer.Exit(1)
+
+    profile = CommanderProfile(card=card)
+    console.print(f"\n[bold]Building deck for:[/bold] [cyan]{card.name}[/cyan]")
+    console.print(f"Color identity: {'/'.join(profile.color_identity) or 'Colorless'}")
+
+    # ── Fetch EDHREC data ────────────────────────────────────────────────────
+    console.print("\nFetching EDHREC recommendations…")
+    try:
+        result = fetch_edhrec(conn, commander)
+        source = "cache" if result["from_cache"] else "web"
+        console.print(f"  {result['card_count']} cards ({source})")
+    except (LookupError, RuntimeError) as exc:
+        console.print(f"  [yellow]EDHREC unavailable:[/yellow] {exc}  — continuing without it")
+
+    edhrec_recs = get_edhrec_recommendations(conn, commander)
+
+    # ── Load embeddings if available ─────────────────────────────────────────
+    embedding_index = None
+    model_id = resolve_model_name(model)
+    if embedding_count(conn, model_id) > 0:
+        from mtgdeck.embeddings.vector_search import load_index
+        console.print("Loading embedding index…")
+        embedding_index = load_index(conn, model_id)
+        console.print(f"  {embedding_index.matrix.shape[0]:,} vectors loaded")
+    else:
+        console.print("[dim]No embeddings — skipping vector search. Run [bold]embed cards[/bold] to enable it.[/dim]")
+
+    # ── Collection ───────────────────────────────────────────────────────────
+    owned_names: set[str] | None = None
+    if owned_only:
+        owned_names = get_collection_names(conn)
+        if not owned_names:
+            console.print("[yellow]No collection loaded — ignoring --owned-only.[/yellow]")
+            owned_only = False
+
+    # ── Build candidate pool ─────────────────────────────────────────────────
+    console.print("\nBuilding candidate pool…")
+    candidates = build_candidate_pool(
+        conn, profile, edhrec_recs,
+        embedding_index=embedding_index,
+        model_alias=model,
+        owned_names=owned_names,
+        owned_only=owned_only,
+    )
+    console.print(f"  {len(candidates)} candidates")
+
+    if len(candidates) < 30:
+        console.print("[yellow]⚠  Fewer than 30 candidates — deck may be weak. Cache EDHREC data and run embed cards.[/yellow]")
+
+    # ── Build deck ───────────────────────────────────────────────────────────
+    config = DeckConfig(
+        commander_name=commander,
+        num_lands=lands,
+        owned_only=owned_only,
+        model_alias=model,
+    )
+    console.print("Running deck construction algorithm…")
+    deck = build_deck(conn, profile, candidates, config)
+
+    # ── Validate ─────────────────────────────────────────────────────────────
+    all_cards = [card] + deck.cards
+    validation = validate_deck(profile, all_cards)
+
+    # ── Output ───────────────────────────────────────────────────────────────
+    console.print()
+    print_deck_summary(console, deck.commander_name, deck.cards, deck.role_counts, deck.warnings)
+    print_role_breakdown(console, deck.role_counts)
+    print_mana_curve(console, deck.cards)
+    print_validation(console, validation)
+    print_top_cards(console, deck.card_scores, limit=15)
+
+    decklist_text = format_decklist(deck.commander_name, deck.cards)
+    console.print("\n[bold]Decklist:[/bold]")
+    console.print(decklist_text)
+
+    if output:
+        write_decklist(output, deck.commander_name, deck.cards)
+        console.print(f"[green]Decklist saved to[/green] {output}")
+
+    if not no_explain:
+        explanation = generate_explanation(
+            deck.commander_name, deck.cards, deck.card_scores,
+            deck.role_counts, deck.warnings,
+        )
+        explain_path = Path(f"{deck.deck_id}_explanation.md")
+        explain_path.write_text(explanation, encoding="utf-8")
+        console.print(f"[dim]Explanation saved to {explain_path}[/dim]")
+
+
+# ---------------------------------------------------------------------------
+# validate (decklist file)
+# ---------------------------------------------------------------------------
+
+
+@app.command("validate")
+def validate_cmd(
+    file: Path  = typer.Argument(..., help="Path to a decklist text file"),
+    commander: str = typer.Option("", "--commander", "-c", help="Commander name (if not in file)"),
+) -> None:
+    """Validate a decklist file against Commander rules."""
+    import json
+    from mtgdeck.data.duckdb_repo import get_connection, lookup_card_by_name
+    from mtgdeck.models import ScryfallCard
+    from mtgdeck.rules.commander_rules import is_legal_commander, CommanderProfile
+    from mtgdeck.rules.deck_validator import validate_deck
+    from mtgdeck.output.rich_tables import print_validation
+
+    if not file.exists():
+        console.print(f"[red]File not found:[/red] {file}")
+        raise typer.Exit(1)
+
+    conn = get_connection()
+    lines = file.read_text(encoding="utf-8").splitlines()
+
+    card_names: list[str] = []
+    commander_name = commander
+
+    for line in lines:
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        # Standard format: "1 Card Name" or "Card Name"
+        parts = line.split(None, 1)
+        if parts[0].isdigit():
+            count = int(parts[0])
+            name  = parts[1] if len(parts) > 1 else ""
+            card_names.extend([name] * count)
+        else:
+            card_names.append(line)
+
+    if not commander_name and card_names:
+        commander_name = card_names[0]
+
+    cmd_row = lookup_card_by_name(conn, commander_name)
+    if cmd_row is None:
+        console.print(f"[red]Commander '{commander_name}' not found in DB.[/red]")
+        raise typer.Exit(1)
+
+    raw  = json.loads(cmd_row["raw_json"])
+    card = ScryfallCard.model_validate(raw)
+
+    if not is_legal_commander(card):
+        console.print(f"[red]{card.name}[/red] is not a legal Commander.")
+        raise typer.Exit(1)
+
+    profile = CommanderProfile(card=card)
+
+    # Look up each card in the deck
+    deck_cards: list[dict] = []
+    missing: list[str] = []
+    for name in card_names:
+        row = lookup_card_by_name(conn, name)
+        if row is None:
+            missing.append(name)
+        else:
+            deck_cards.append(row)
+
+    if missing:
+        console.print(f"[yellow]Cards not in DB ({len(missing)}):[/yellow]")
+        for m in missing[:10]:
+            console.print(f"  • {m}")
+        if len(missing) > 10:
+            console.print(f"  … and {len(missing) - 10} more")
+
+    validation = validate_deck(profile, [cmd_row] + deck_cards if cmd_row else deck_cards)
+    print_validation(console, validation)
+
+
+# ---------------------------------------------------------------------------
+# explain
+# ---------------------------------------------------------------------------
+
+
+@app.command("explain")
+def explain_cmd(
+    deck_id: str = typer.Argument(..., help="Deck ID (shown after build)"),
+) -> None:
+    """Print the explanation report for a previously built deck."""
+    from mtgdeck.data.duckdb_repo import get_connection, get_card_scores
+
+    conn = get_connection()
+    scores = get_card_scores(conn, deck_id)
+
+    if not scores:
+        console.print(f"[red]No scores found for deck ID {deck_id}.[/red]")
+        raise typer.Exit(1)
+
+    table = Table(title=f"Card Scores — deck {deck_id[:8]}…")
+    table.add_column("Card", style="bold")
+    table.add_column("Role")
+    table.add_column("Score", justify="right")
+    table.add_column("EDHREC", justify="right")
+    table.add_column("Vector", justify="right")
+    table.add_column("Role Need", justify="right")
+
+    for s in scores:
+        table.add_row(
+            s["card_name"],
+            s["role"] or "—",
+            f"{s['final_score']:.3f}",
+            f"{s['edhrec_score']:.3f}",
+            f"{s['vector_similarity_score']:.3f}",
+            f"{s['role_need_score']:.3f}",
+        )
 
     console.print(table)
 

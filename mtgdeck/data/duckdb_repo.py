@@ -349,3 +349,116 @@ def clear_embeddings(conn: duckdb.DuckDBPyConnection, model_id: str) -> None:
     conn.execute(
         "DELETE FROM card_embeddings WHERE embedding_model = ?", [model_id]
     )
+
+
+# ---------------------------------------------------------------------------
+# Card lookups used by candidate pool and deck builder
+# ---------------------------------------------------------------------------
+
+
+def get_card_by_normalized_name(
+    conn: duckdb.DuckDBPyConnection, normalized_name: str
+) -> dict | None:
+    row = conn.execute(
+        "SELECT * FROM cards WHERE normalized_name = ? LIMIT 1",
+        [normalized_name],
+    ).fetchone()
+    if row is None:
+        return None
+    cols = [d[0] for d in conn.description]
+    return dict(zip(cols, row))
+
+
+def get_candidates_by_sql(
+    conn: duckdb.DuckDBPyConnection,
+    extra_where: str,
+    limit: int = 120,
+) -> list[dict]:
+    """Fetch cards matching an arbitrary WHERE clause fragment."""
+    sql = f"SELECT * FROM cards WHERE legal_commander = TRUE AND ({extra_where}) LIMIT {limit}"
+    rows = conn.execute(sql).fetchall()
+    cols = [d[0] for d in conn.description]
+    return [dict(zip(cols, row)) for row in rows]
+
+
+# ---------------------------------------------------------------------------
+# Generated decks
+# ---------------------------------------------------------------------------
+
+
+def save_generated_deck(
+    conn: duckdb.DuckDBPyConnection,
+    deck_id: str,
+    commander_name: str,
+    config_json: str,
+    deck_json: str,
+    decklist_text: str,
+) -> None:
+    conn.execute(
+        """
+        INSERT INTO generated_decks
+            (deck_id, commander_name, created_at, config_json, deck_json, decklist_text)
+        VALUES (?, ?, NOW(), ?, ?, ?)
+        ON CONFLICT (deck_id) DO UPDATE SET
+            deck_json     = EXCLUDED.deck_json,
+            decklist_text = EXCLUDED.decklist_text
+        """,
+        [deck_id, commander_name, config_json, deck_json, decklist_text],
+    )
+
+
+def save_card_scores(
+    conn: duckdb.DuckDBPyConnection,
+    deck_id: str,
+    scores,  # list[CardScore]
+) -> None:
+    conn.execute("DELETE FROM card_scores WHERE deck_id = ?", [deck_id])
+    rows = [
+        (
+            deck_id,
+            s.name,
+            s.primary_role,
+            s.final_score,
+            s.edhrec_score,
+            s.vector_score,
+            s.role_need_score,
+            s.synergy_score,
+            s.curve_score,
+            0.0,   # collection_score — not yet tracked per-card
+            0.0,   # budget_score — not yet tracked per-card
+            s.explanation,
+        )
+        for s in scores
+    ]
+    if rows:
+        conn.executemany(
+            """
+            INSERT INTO card_scores (
+                deck_id, card_name, role, final_score, edhrec_score,
+                vector_similarity_score, role_need_score, commander_synergy_score,
+                mana_curve_score, collection_score, budget_score, explanation
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            """,
+            rows,
+        )
+
+
+def get_card_scores(
+    conn: duckdb.DuckDBPyConnection, deck_id: str
+) -> list[dict]:
+    rows = conn.execute(
+        "SELECT * FROM card_scores WHERE deck_id = ? ORDER BY final_score DESC",
+        [deck_id],
+    ).fetchall()
+    cols = [d[0] for d in conn.description]
+    return [dict(zip(cols, row)) for row in rows]
+
+
+# ---------------------------------------------------------------------------
+# Collection
+# ---------------------------------------------------------------------------
+
+
+def get_collection_names(conn: duckdb.DuckDBPyConnection) -> set[str]:
+    rows = conn.execute("SELECT name FROM collection").fetchall()
+    return {r[0] for r in rows}
