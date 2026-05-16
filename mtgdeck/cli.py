@@ -12,7 +12,9 @@ app = typer.Typer(
     no_args_is_help=True,
 )
 ingest_app = typer.Typer(help="Ingest card data into the local database.", no_args_is_help=True)
+embed_app = typer.Typer(help="Generate and manage card embeddings.", no_args_is_help=True)
 app.add_typer(ingest_app, name="ingest")
+app.add_typer(embed_app, name="embed")
 
 console = Console()
 
@@ -105,6 +107,130 @@ def validate_commander(
         console.print(
             f"\n[red]✗[/red] [bold]{card.name}[/bold] is not a legal Commander."
         )
+
+
+# ---------------------------------------------------------------------------
+# embed cards
+# ---------------------------------------------------------------------------
+
+
+@embed_app.command("cards")
+def embed_cards_cmd(
+    model: str = typer.Option("local", "--model", "-m", help="Model alias (local, local-large) or HuggingFace ID"),
+    batch_size: int = typer.Option(256, "--batch-size", "-b", help="Encoding batch size"),
+    force: bool = typer.Option(False, "--force", "-f", help="Re-embed all cards, even if already embedded"),
+) -> None:
+    """Generate embeddings for all cards in the database."""
+    from mtgdeck.data.duckdb_repo import get_connection, embedding_count
+    from mtgdeck.embeddings.embed_cards import embed_cards, resolve_model_name
+
+    model_id = resolve_model_name(model)
+    conn = get_connection()
+
+    before = embedding_count(conn, model_id)
+    console.print(f"[bold]Embedding cards[/bold] with model [cyan]{model_id}[/cyan]")
+    if before and not force:
+        console.print(f"[dim]{before:,} embeddings already exist. Use --force to re-embed.[/dim]")
+
+    try:
+        embedded, skipped = embed_cards(conn, model_alias=model, batch_size=batch_size, force=force)
+    except RuntimeError as exc:
+        console.print(f"[red]Error:[/red] {exc}")
+        raise typer.Exit(1)
+
+    after = embedding_count(conn, model_id)
+    console.print(f"\n[green]Done.[/green]  Embedded: {embedded:,}  |  Total in DB: {after:,}")
+
+
+# ---------------------------------------------------------------------------
+# search
+# ---------------------------------------------------------------------------
+
+
+@app.command("search")
+def search_cmd(
+    query: str = typer.Argument(..., help="Free-text semantic search query"),
+    commander: str = typer.Option("", "--commander", "-c", help="Restrict to this commander's color identity"),
+    model: str = typer.Option("local", "--model", "-m", help="Embedding model alias"),
+    limit: int = typer.Option(20, "--limit", "-n", help="Max results"),
+    min_score: float = typer.Option(0.0, "--min-score", help="Minimum cosine similarity (0–1)"),
+    no_lands: bool = typer.Option(False, "--no-lands", help="Exclude land cards"),
+) -> None:
+    """Semantic vector search over all embedded cards."""
+    from mtgdeck.data.duckdb_repo import get_connection, lookup_card_by_name, embedding_count
+    from mtgdeck.embeddings.embed_cards import resolve_model_name
+    from mtgdeck.embeddings.vector_search import embed_and_search
+    from mtgdeck.models import ScryfallCard
+    import json
+
+    conn = get_connection()
+    model_id = resolve_model_name(model)
+
+    count = embedding_count(conn, model_id)
+    if count == 0:
+        console.print(
+            f"[red]No embeddings found[/red] for model [bold]{model_id}[/bold]. "
+            "Run [bold]embed cards[/bold] first."
+        )
+        raise typer.Exit(1)
+
+    commander_ci: list[str] | None = None
+    if commander:
+        row = lookup_card_by_name(conn, commander)
+        if row is None:
+            console.print(f"[red]Commander '{commander}' not found in DB.[/red]")
+            raise typer.Exit(1)
+        raw = json.loads(row["raw_json"])
+        card = ScryfallCard.model_validate(raw)
+        commander_ci = card.color_identity
+
+    console.print(
+        f"Searching [cyan]{count:,}[/cyan] embedded cards…  "
+        f"[dim]query: {query[:60]}{'…' if len(query) > 60 else ''}[/dim]"
+    )
+
+    try:
+        results = embed_and_search(
+            conn,
+            query,
+            model,
+            commander_ci=commander_ci,
+            top_k=limit,
+            min_score=min_score,
+            exclude_lands=no_lands,
+        )
+    except RuntimeError as exc:
+        console.print(f"[red]Error:[/red] {exc}")
+        raise typer.Exit(1)
+
+    if not results:
+        console.print("[yellow]No results found.[/yellow]")
+        return
+
+    table = Table(title=f"Search results: \"{query[:50]}\"")
+    table.add_column("#", justify="right", style="dim")
+    table.add_column("Card", style="bold")
+    table.add_column("Type")
+    table.add_column("CI")
+    table.add_column("CMC", justify="right")
+    table.add_column("Score", justify="right")
+
+    for i, r in enumerate(results, 1):
+        ci_str = "".join(r.color_identity) or "C"
+        table.add_row(
+            str(i),
+            r.name,
+            r.type_line[:40],
+            ci_str,
+            str(int(r.cmc)),
+            f"{r.similarity_score:.3f}",
+        )
+
+    console.print(table)
+    console.print(
+        f"[dim]Scores are raw cosine similarity (−1..1). "
+        f"Color identity filter: {'/'.join(commander_ci) if commander_ci else 'none'}[/dim]"
+    )
 
 
 # ---------------------------------------------------------------------------

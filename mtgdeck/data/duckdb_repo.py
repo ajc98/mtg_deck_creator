@@ -294,3 +294,58 @@ def clear_edhrec_cache(
         "DELETE FROM edhrec_recommendations WHERE commander_name = ?",
         [commander_name],
     )
+
+
+# ---------------------------------------------------------------------------
+# Embeddings
+# ---------------------------------------------------------------------------
+
+_INSERT_EMBEDDING = """
+INSERT INTO card_embeddings (normalized_name, embedding_model, embedding, embedded_text, created_at)
+VALUES (?, ?, ?, ?, NOW())
+ON CONFLICT (normalized_name, embedding_model) DO UPDATE SET
+    embedding     = EXCLUDED.embedding,
+    embedded_text = EXCLUDED.embedded_text,
+    created_at    = EXCLUDED.created_at
+"""
+
+
+def get_cards_without_embeddings(
+    conn: duckdb.DuckDBPyConnection, model_id: str
+) -> list[dict]:
+    """Return cards that have no embedding for *model_id* yet."""
+    rows = conn.execute(
+        """
+        SELECT c.normalized_name, c.name, c.type_line, c.mana_cost,
+               c.cmc, c.oracle_text, c.keywords
+        FROM cards c
+        LEFT JOIN card_embeddings ce
+            ON ce.normalized_name = c.normalized_name
+            AND ce.embedding_model = ?
+        WHERE ce.normalized_name IS NULL
+        ORDER BY c.name
+        """,
+        [model_id],
+    ).fetchall()
+    cols = [d[0] for d in conn.description]
+    return [dict(zip(cols, row)) for row in rows]
+
+
+def save_embeddings_batch(
+    conn: duckdb.DuckDBPyConnection,
+    rows: list[tuple],
+) -> None:
+    """rows: list of (normalized_name, model_id, embedding_list, embedded_text)."""
+    conn.executemany(_INSERT_EMBEDDING, rows)
+
+
+def embedding_count(conn: duckdb.DuckDBPyConnection, model_id: str) -> int:
+    return conn.execute(
+        "SELECT COUNT(*) FROM card_embeddings WHERE embedding_model = ?", [model_id]
+    ).fetchone()[0]
+
+
+def clear_embeddings(conn: duckdb.DuckDBPyConnection, model_id: str) -> None:
+    conn.execute(
+        "DELETE FROM card_embeddings WHERE embedding_model = ?", [model_id]
+    )
