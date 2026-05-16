@@ -108,6 +108,101 @@ def validate_commander(
 
 
 # ---------------------------------------------------------------------------
+# cache-edhrec
+# ---------------------------------------------------------------------------
+
+
+@app.command("cache-edhrec")
+def cache_edhrec(
+    commander: str = typer.Argument(..., help="Commander name (e.g. \"K'rrik, Son of Yawgmoth\")"),
+    force: bool = typer.Option(False, "--force", "-f", help="Bypass cache and fetch fresh data"),
+    ttl: int = typer.Option(7, "--ttl", help="Cache TTL in days"),
+) -> None:
+    """Fetch and cache EDHREC recommendations for a commander."""
+    from mtgdeck.data.duckdb_repo import get_connection
+    from mtgdeck.data.edhrec_fetch import fetch_edhrec
+    from mtgdeck.data.edhrec_parse import slugify
+
+    conn = get_connection()
+    slug = slugify(commander)
+
+    console.print(f"[bold]EDHREC cache[/bold] for [cyan]{commander}[/cyan]  (slug: {slug})")
+
+    if not force:
+        console.print("Checking local cache…")
+
+    try:
+        result = fetch_edhrec(conn, commander, force=force, ttl_days=ttl)
+    except LookupError as exc:
+        console.print(f"[red]Not found:[/red] {exc}")
+        raise typer.Exit(1)
+    except RuntimeError as exc:
+        console.print(f"[red]Fetch error:[/red] {exc}")
+        raise typer.Exit(1)
+
+    source = "[yellow]from cache[/yellow]" if result["from_cache"] else "[green]freshly fetched[/green]"
+    console.print(f"Status : {source}")
+    console.print(f"URL    : {result['url']}")
+    console.print(f"Time   : {result['fetched_at'].strftime('%Y-%m-%d %H:%M UTC')}")
+    console.print(f"Cards  : {result['card_count']} recommendation records")
+
+
+@app.command("edhrec-recs")
+def edhrec_recs(
+    commander: str = typer.Argument(..., help="Commander name"),
+    section: str = typer.Option("", "--section", "-s", help="Filter by section tag (e.g. synergy, top, creatures)"),
+    limit: int = typer.Option(20, "--limit", "-n", help="Max rows to show"),
+) -> None:
+    """Show cached EDHREC recommendations for a commander."""
+    from mtgdeck.data.duckdb_repo import get_connection, get_edhrec_recommendations, get_edhrec_page
+
+    conn = get_connection()
+
+    page = get_edhrec_page(conn, commander)
+    if not page:
+        console.print(
+            f"[red]No cached data[/red] for '{commander}'. "
+            "Run [bold]cache-edhrec[/bold] first."
+        )
+        raise typer.Exit(1)
+
+    recs = get_edhrec_recommendations(
+        conn,
+        commander,
+        section=section or None,
+        limit=limit,
+    )
+
+    fetched = page["fetched_at"].strftime("%Y-%m-%d") if page["fetched_at"] else "?"
+    title = f"EDHREC: {commander}  (cached {fetched})"
+    if section:
+        title += f"  [{section}]"
+
+    table = Table(title=title)
+    table.add_column("#", justify="right", style="dim")
+    table.add_column("Card", style="bold")
+    table.add_column("Section")
+    table.add_column("Decks %", justify="right")
+    table.add_column("Synergy", justify="right")
+    table.add_column("Salt", justify="right")
+
+    for i, r in enumerate(recs, 1):
+        synergy = f"{r['synergy_score']:.2f}" if r["synergy_score"] is not None else "—"
+        salt = f"{r['salt_score']:.2f}" if r["salt_score"] is not None else "—"
+        table.add_row(
+            str(i),
+            r["card_name"],
+            r["section"],
+            f"{r['deck_percentage']:.1f}%",
+            synergy,
+            salt,
+        )
+
+    console.print(table)
+    console.print(f"[dim]Showing {len(recs)} records.[/dim]")
+
+
+# ---------------------------------------------------------------------------
 # db-info
 # ---------------------------------------------------------------------------
 

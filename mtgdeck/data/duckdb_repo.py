@@ -178,3 +178,119 @@ def insert_cards_batch(
 ) -> int:
     conn.executemany(_INSERT_CARD, rows)
     return len(rows)
+
+
+# ---------------------------------------------------------------------------
+# EDHREC
+# ---------------------------------------------------------------------------
+
+_INSERT_EDHREC_PAGE = """
+INSERT INTO edhrec_pages
+    (commander_name, commander_slug, url, fetched_at, raw_html, raw_json)
+VALUES (?, ?, ?, ?, ?, ?)
+ON CONFLICT (commander_name) DO UPDATE SET
+    commander_slug = EXCLUDED.commander_slug,
+    url            = EXCLUDED.url,
+    fetched_at     = EXCLUDED.fetched_at,
+    raw_html       = EXCLUDED.raw_html,
+    raw_json       = EXCLUDED.raw_json
+"""
+
+_INSERT_EDHREC_REC = """
+INSERT INTO edhrec_recommendations
+    (commander_name, card_name, normalized_card_name, section, theme,
+     synergy_score, deck_percentage, deck_count, salt_score, source_url, fetched_at)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+"""
+
+
+def get_edhrec_page(
+    conn: duckdb.DuckDBPyConnection, commander_name: str
+) -> dict | None:
+    row = conn.execute(
+        "SELECT * FROM edhrec_pages WHERE commander_name = ?", [commander_name]
+    ).fetchone()
+    if row is None:
+        return None
+    cols = [d[0] for d in conn.description]
+    return dict(zip(cols, row))
+
+
+def save_edhrec_page(
+    conn: duckdb.DuckDBPyConnection, page: dict
+) -> None:
+    conn.execute(
+        _INSERT_EDHREC_PAGE,
+        [
+            page["commander_name"],
+            page["commander_slug"],
+            page["url"],
+            page["fetched_at"],
+            page.get("raw_html"),
+            page["raw_json"],
+        ],
+    )
+
+
+def save_edhrec_recommendations(
+    conn: duckdb.DuckDBPyConnection,
+    commander_name: str,
+    records: list[dict],
+    fetched_at,
+) -> None:
+    conn.execute(
+        "DELETE FROM edhrec_recommendations WHERE commander_name = ?",
+        [commander_name],
+    )
+    rows = [
+        (
+            r["commander_name"],
+            r["card_name"],
+            r["normalized_card_name"],
+            r["section"],
+            r["theme"],
+            r["synergy_score"],
+            r["deck_percentage"],
+            r["deck_count"],
+            r["salt_score"],
+            r["source_url"],
+            fetched_at,
+        )
+        for r in records
+    ]
+    if rows:
+        conn.executemany(_INSERT_EDHREC_REC, rows)
+
+
+def get_edhrec_recommendations(
+    conn: duckdb.DuckDBPyConnection,
+    commander_name: str,
+    section: str | None = None,
+    limit: int | None = None,
+) -> list[dict]:
+    sql = (
+        "SELECT * FROM edhrec_recommendations WHERE commander_name = ?"
+    )
+    params: list = [commander_name]
+    if section:
+        sql += " AND section = ?"
+        params.append(section)
+    sql += " ORDER BY deck_percentage DESC"
+    if limit:
+        sql += f" LIMIT {limit}"
+
+    rows = conn.execute(sql, params).fetchall()
+    cols = [d[0] for d in conn.description]
+    return [dict(zip(cols, row)) for row in rows]
+
+
+def clear_edhrec_cache(
+    conn: duckdb.DuckDBPyConnection, commander_name: str
+) -> None:
+    conn.execute(
+        "DELETE FROM edhrec_pages WHERE commander_name = ?", [commander_name]
+    )
+    conn.execute(
+        "DELETE FROM edhrec_recommendations WHERE commander_name = ?",
+        [commander_name],
+    )
