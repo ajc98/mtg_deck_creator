@@ -7,6 +7,7 @@ from typing import Iterator
 import duckdb
 from pydantic import ValidationError
 from rich.progress import Progress, SpinnerColumn, BarColumn, TaskProgressColumn, TimeElapsedColumn
+from rich.console import Console as _Console
 
 from mtgdeck.data.duckdb_repo import insert_cards_batch
 from mtgdeck.models import ScryfallCard
@@ -94,12 +95,14 @@ def ingest_scryfall(
             inserted += len(batch)
             batch.clear()
 
+    _console = _Console(highlight=False)
     with Progress(
-        SpinnerColumn(),
+        SpinnerColumn(spinner_name="line"),  # ASCII-safe spinner
         "[progress.description]{task.description}",
         BarColumn(),
         TaskProgressColumn(),
         TimeElapsedColumn(),
+        console=_console,
     ) as progress:
         task = progress.add_task("Ingesting Scryfall cards…", total=None)
 
