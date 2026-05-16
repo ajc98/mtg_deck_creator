@@ -492,8 +492,7 @@ def build_cmd(
     deck = build_deck(conn, profile, candidates, config)
 
     # ── Validate ─────────────────────────────────────────────────────────────
-    all_cards = [card] + deck.cards
-    validation = validate_deck(profile, all_cards)
+    validation = validate_deck(profile, deck.cards)  # validator adds commander internally
 
     # ── Output ───────────────────────────────────────────────────────────────
     console.print()
