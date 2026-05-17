@@ -82,7 +82,7 @@ def _role_sort_key(candidate, bucket_roles: set[str]) -> float:
     edhrec = 0.0
     if rec:
         edhrec = float(rec.get("deck_percentage") or 0) / 100.0
-    return edhrec * 1.5 + candidate.vector_score * 0.25
+    return edhrec * 2.0 + candidate.vector_score * 0.20
 
 
 _FETCH_TYPE_RE = re.compile(
@@ -250,20 +250,39 @@ def build_deck(
                 deck_cards.append(basic_row)
                 role_counts["land"] += 1
 
-    # ── Phase 2: synergy fill ────────────────────────────────────────────────
+    # ── Phase 2: two-tier synergy fill ───────────────────────────────────────
+    # Tier A (Plan A): EDHREC-recommended cards above threshold — always preferred.
+    #   Any owned card EDHREC says belongs in ≥15% of decks gets in before
+    #   vector-only candidates compete for the same slots.
+    # Tier B (Plan B): vector search fills whatever slots remain — important but
+    #   secondary; captures thematic cards EDHREC may not cover.
+    _EDHREC_GUARANTEE_PCT = 15.0
+
     remaining = 99 - len(deck_cards)
     if remaining > 0:
-        # Exclude lands entirely — off-color/useless lands would otherwise sneak in here;
-        # basic land backfill (Phase 3) handles any land shortfall instead.
-        synergy_pool = [
+        non_land = [
             c for c in candidates
             if c.name not in used and not any(r in LAND_ROLES for r in c.roles)
         ]
-        synergy_pool.sort(
+
+        def _edhrec_pct(c) -> float:
+            return float((c.edhrec_rec or {}).get("deck_percentage") or 0.0)
+
+        # Tier A: high-EDHREC cards sorted by EDHREC score descending
+        tier_a = sorted(
+            [c for c in non_land if _edhrec_pct(c) >= _EDHREC_GUARANTEE_PCT],
+            key=lambda c: score_card(c, current_role_counts, _ROLE_TARGETS, weights).edhrec_score,
+            reverse=True,
+        )
+        # Tier B: everything else sorted by full final_score (vector drives this)
+        tier_a_names = {c.name for c in tier_a}
+        tier_b = sorted(
+            [c for c in non_land if c.name not in tier_a_names],
             key=lambda c: score_card(c, current_role_counts, _ROLE_TARGETS, weights).final_score,
             reverse=True,
         )
-        for candidate in synergy_pool[:remaining]:
+
+        for candidate in (tier_a + tier_b)[:remaining]:
             cs = score_card(candidate, current_role_counts, _ROLE_TARGETS, weights)
             deck_cards.append(candidate.card_row)
             deck_scores.append(cs)
