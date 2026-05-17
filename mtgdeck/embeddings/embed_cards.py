@@ -26,6 +26,7 @@ MODEL_ALIASES: dict[str, str] = {
 MODEL_DEFAULT = "local"
 
 _BATCH_SIZE = 256
+_model_cache: dict[str, object] = {}
 
 
 # ---------------------------------------------------------------------------
@@ -62,7 +63,7 @@ def resolve_model_name(alias_or_id: str) -> str:
 
 
 def load_model(model_alias: str):
-    """Load a SentenceTransformer model. Raises RuntimeError if not installed."""
+    """Load a SentenceTransformer model, caching it for the process lifetime."""
     try:
         from sentence_transformers import SentenceTransformer
     except ImportError as exc:
@@ -72,7 +73,9 @@ def load_model(model_alias: str):
         ) from exc
 
     model_id = resolve_model_name(model_alias)
-    return SentenceTransformer(model_id)
+    if model_id not in _model_cache:
+        _model_cache[model_id] = SentenceTransformer(model_id)
+    return _model_cache[model_id]
 
 
 # ---------------------------------------------------------------------------

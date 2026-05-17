@@ -571,6 +571,156 @@ def build_cmd(
 
 
 # ---------------------------------------------------------------------------
+# build-all  (batch: every owned legendary creature)
+# ---------------------------------------------------------------------------
+
+
+@app.command("build-all")
+def build_all_cmd(
+    output_dir: Path = typer.Option(Path("commander_decks"), "--output-dir", "-o", help="Folder for output txt files"),
+    lands: int       = typer.Option(36,      "--lands",      "-l", help="Target land count"),
+    model: str       = typer.Option("local", "--model",      "-m", help="Embedding model alias"),
+    collection: Path = typer.Option(None,    "--collection", "-c", help="Path to collection CSV"),
+    resume: bool     = typer.Option(True,    "--resume/--no-resume",    help="Skip commanders whose file already exists"),
+) -> None:
+    """Build a deck for every legendary creature you own and save to output-dir."""
+    import re
+    import json
+
+    from mtgdeck.data.duckdb_repo import (
+        get_connection, lookup_card_by_name, get_edhrec_recommendations,
+        get_collection_names, get_collection_normalized_names,
+        collection_count, embedding_count,
+    )
+    from mtgdeck.data.edhrec_fetch import fetch_edhrec
+    from mtgdeck.data.collection_ingest import ingest_collection
+    from mtgdeck.embeddings.embed_cards import resolve_model_name
+    from mtgdeck.models import ScryfallCard
+    from mtgdeck.rules.commander_rules import is_legal_commander, CommanderProfile
+    from mtgdeck.generation.candidate_pool import build_candidate_pool
+    from mtgdeck.generation.deck_builder import build_deck, DeckConfig
+    from mtgdeck.output.decklist_writer import write_decklist
+
+    def _safe_filename(name: str) -> str:
+        return re.sub(r'[<>:"/\\|?*\']', '_', name).strip()[:80]
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    conn = get_connection()
+
+    # ── Ensure collection is loaded ───────────────────────────────────────────
+    csv_path = collection or _DEFAULT_COLLECTION_PATH
+    if collection_count(conn) == 0:
+        if not csv_path.exists():
+            console.print(f"[red]Collection file not found:[/red] {csv_path}")
+            raise typer.Exit(1)
+        console.print(f"Ingesting collection from [cyan]{csv_path}[/cyan]…")
+        added, _ = ingest_collection(conn, csv_path, source="my_collection", replace=True)
+        console.print(f"  {added:,} cards imported")
+
+    owned_names      = get_collection_names(conn)
+    owned_normalized = get_collection_normalized_names(conn)
+    console.print(f"Collection: [green]{len(owned_names):,} unique cards[/green]")
+
+    # ── Find all owned legendary creatures ───────────────────────────────────
+    rows = conn.execute(
+        """
+        SELECT DISTINCT c.name
+        FROM cards c
+        JOIN collection col ON col.normalized_name = c.normalized_name
+        WHERE c.legal_commander = TRUE
+          AND c.is_creature = TRUE
+          AND c.type_line LIKE '%Legendary%'
+        ORDER BY c.name
+        """
+    ).fetchall()
+    commanders = [r[0] for r in rows]
+    console.print(f"Found [cyan]{len(commanders)}[/cyan] legendary creatures in your collection\n")
+
+    # ── Load embedding index once ─────────────────────────────────────────────
+    embedding_index = None
+    model_id = resolve_model_name(model)
+    if embedding_count(conn, model_id) > 0:
+        from mtgdeck.embeddings.vector_search import load_index
+        console.print("Loading embedding index (owned cards only)…")
+        embedding_index = load_index(conn, model_id, owned_normalized_names=owned_normalized)
+        console.print(f"  {embedding_index.matrix.shape[0]:,} vectors loaded\n")
+
+    # ── Build loop ────────────────────────────────────────────────────────────
+    successes: list[str] = []
+    failures:  list[tuple[str, str]] = []
+
+    for i, commander_name in enumerate(commanders, 1):
+        out_file = output_dir / f"{_safe_filename(commander_name)}.txt"
+
+        if resume and out_file.exists():
+            console.print(f"[dim][{i}/{len(commanders)}] {commander_name} — skipped (file exists)[/dim]")
+            successes.append(commander_name)
+            continue
+
+        console.print(f"[bold][{i}/{len(commanders)}][/bold] {commander_name}")
+
+        try:
+            # Look up commander
+            row = lookup_card_by_name(conn, commander_name)
+            if row is None:
+                raise LookupError("not found in DB")
+
+            raw  = json.loads(row["raw_json"])
+            card = ScryfallCard.model_validate(raw)
+            if not is_legal_commander(card):
+                raise ValueError("not a legal commander")
+
+            profile = CommanderProfile(card=card)
+
+            # Fetch EDHREC (fail gracefully)
+            try:
+                fetch_edhrec(conn, commander_name)
+            except (LookupError, RuntimeError):
+                pass  # proceed without EDHREC data
+
+            edhrec_recs = get_edhrec_recommendations(conn, commander_name)
+
+            # Build candidate pool
+            candidates = build_candidate_pool(
+                conn, profile, edhrec_recs,
+                embedding_index=embedding_index,
+                model_alias=model,
+                owned_names=owned_names,
+                owned_only=True,
+            )
+
+            if len(candidates) < 15:
+                raise ValueError(f"only {len(candidates)} candidates — too few to build")
+
+            config = DeckConfig(
+                commander_name=commander_name,
+                num_lands=lands,
+                owned_only=True,
+                model_alias=model,
+            )
+            deck = build_deck(conn, profile, candidates, config)
+
+            write_decklist(out_file, commander_name, deck.cards)
+            role_summary = ", ".join(
+                f"{v} {k}" for k, v in sorted(deck.role_counts.items()) if v > 0 and k != "land"
+            )
+            console.print(f"  [green]✓[/green] {len(deck.cards)+1} cards | {out_file.name}")
+            console.print(f"  [dim]{role_summary}[/dim]")
+            successes.append(commander_name)
+
+        except Exception as exc:
+            console.print(f"  [red]✗ skipped:[/red] {exc}")
+            failures.append((commander_name, str(exc)))
+
+    # ── Summary ───────────────────────────────────────────────────────────────
+    console.print(f"\n[bold]Done.[/bold]  {len(successes)} decks built  |  {len(failures)} failed")
+    if failures:
+        console.print("\n[yellow]Failed commanders:[/yellow]")
+        for name, err in failures:
+            console.print(f"  • {name}: {err}")
+
+
+# ---------------------------------------------------------------------------
 # validate (decklist file)
 # ---------------------------------------------------------------------------
 

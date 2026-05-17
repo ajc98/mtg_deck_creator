@@ -82,7 +82,7 @@ def _role_sort_key(candidate, bucket_roles: set[str]) -> float:
     edhrec = 0.0
     if rec:
         edhrec = float(rec.get("deck_percentage") or 0) / 100.0
-    return edhrec + candidate.vector_score * 0.5
+    return edhrec * 1.5 + candidate.vector_score * 0.25
 
 
 _FETCH_TYPE_RE = re.compile(

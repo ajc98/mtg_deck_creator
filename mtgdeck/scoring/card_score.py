@@ -22,15 +22,15 @@ _SECTION_IMPORTANCE: dict[str, float] = {
 
 @dataclass
 class ScoreWeights:
-    edhrec:    float = 0.30
-    vector:    float = 0.20
+    edhrec:    float = 0.40  # boosted: community wisdom > semantic similarity
+    vector:    float = 0.10
     role_need: float = 0.25
     synergy:   float = 0.15
     curve:     float = 0.10
 
     def without_vector(self) -> "ScoreWeights":
         """Redistribute vector weight when embeddings are unavailable."""
-        return ScoreWeights(edhrec=0.40, vector=0.0, role_need=0.30, synergy=0.20, curve=0.10)
+        return ScoreWeights(edhrec=0.50, vector=0.0, role_need=0.30, synergy=0.15, curve=0.05)
 
 
 @dataclass
