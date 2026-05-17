@@ -462,3 +462,12 @@ def get_card_scores(
 def get_collection_names(conn: duckdb.DuckDBPyConnection) -> set[str]:
     rows = conn.execute("SELECT name FROM collection").fetchall()
     return {r[0] for r in rows}
+
+
+def get_collection_normalized_names(conn: duckdb.DuckDBPyConnection) -> set[str]:
+    rows = conn.execute("SELECT normalized_name FROM collection").fetchall()
+    return {r[0] for r in rows}
+
+
+def collection_count(conn: duckdb.DuckDBPyConnection) -> int:
+    return conn.execute("SELECT COUNT(*) FROM collection").fetchone()[0]

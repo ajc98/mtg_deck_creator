@@ -38,30 +38,56 @@ class EmbeddingIndex:
 
 
 def load_index(
-    conn: duckdb.DuckDBPyConnection, model_alias: str
+    conn: duckdb.DuckDBPyConnection,
+    model_alias: str,
+    owned_normalized_names: set[str] | None = None,
 ) -> EmbeddingIndex:
-    """Load all embeddings for *model_alias* from DuckDB into an in-memory index."""
+    """Load card embeddings into an in-memory index.
+
+    When *owned_normalized_names* is provided only those cards are loaded,
+    restricting all subsequent vector searches to the owned collection.
+    """
     from mtgdeck.embeddings.embed_cards import resolve_model_name
 
     model_id = resolve_model_name(model_alias)
 
-    rows = conn.execute(
-        """
-        SELECT ce.normalized_name,
-               c.name,
-               c.type_line,
-               c.color_identity,
-               c.cmc,
-               c.is_land,
-               c.is_creature,
-               c.oracle_text,
-               ce.embedding
-        FROM card_embeddings ce
-        JOIN cards c ON c.normalized_name = ce.normalized_name
-        WHERE ce.embedding_model = ?
-        """,
-        [model_id],
-    ).fetchall()
+    if owned_normalized_names is not None:
+        rows = conn.execute(
+            """
+            SELECT ce.normalized_name,
+                   c.name,
+                   c.type_line,
+                   c.color_identity,
+                   c.cmc,
+                   c.is_land,
+                   c.is_creature,
+                   c.oracle_text,
+                   ce.embedding
+            FROM card_embeddings ce
+            JOIN cards c ON c.normalized_name = ce.normalized_name
+            WHERE ce.embedding_model = ?
+              AND ce.normalized_name = ANY(?)
+            """,
+            [model_id, list(owned_normalized_names)],
+        ).fetchall()
+    else:
+        rows = conn.execute(
+            """
+            SELECT ce.normalized_name,
+                   c.name,
+                   c.type_line,
+                   c.color_identity,
+                   c.cmc,
+                   c.is_land,
+                   c.is_creature,
+                   c.oracle_text,
+                   ce.embedding
+            FROM card_embeddings ce
+            JOIN cards c ON c.normalized_name = ce.normalized_name
+            WHERE ce.embedding_model = ?
+            """,
+            [model_id],
+        ).fetchall()
 
     if not rows:
         return EmbeddingIndex(

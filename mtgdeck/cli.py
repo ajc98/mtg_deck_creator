@@ -388,23 +388,29 @@ def ingest_collection_cmd(
 # ---------------------------------------------------------------------------
 
 
+_DEFAULT_COLLECTION_PATH = Path("my_cards/my_collection.csv")
+
+
 @app.command("build")
 def build_cmd(
     commander: str = typer.Argument(..., help="Commander name"),
-    lands: int    = typer.Option(36,    "--lands",   "-l", help="Target land count"),
-    model: str    = typer.Option("local","--model",  "-m", help="Embedding model alias"),
-    owned_only: bool = typer.Option(False, "--owned-only", help="Only include owned cards"),
-    output: Path  = typer.Option(None, "--output", "-o", help="Write decklist text to file"),
-    no_explain: bool = typer.Option(False, "--no-explain", help="Skip explanation report"),
+    lands: int    = typer.Option(36,      "--lands",      "-l", help="Target land count"),
+    model: str    = typer.Option("local", "--model",      "-m", help="Embedding model alias"),
+    owned_only: bool = typer.Option(False, "--owned-only",       help="Build deck only from cards in my_cards/my_collection.csv"),
+    collection: Path = typer.Option(None, "--collection", "-c", help="Path to collection CSV (default: my_cards/my_collection.csv)"),
+    output: Path  = typer.Option(None,    "--output",     "-o", help="Write decklist text to file"),
+    no_explain: bool = typer.Option(False, "--no-explain",       help="Skip explanation report"),
 ) -> None:
     """Build a legal Commander deck for the given commander."""
     import json
 
     from mtgdeck.data.duckdb_repo import (
         get_connection, lookup_card_by_name, get_edhrec_recommendations,
-        get_collection_names, embedding_count,
+        get_collection_names, get_collection_normalized_names,
+        collection_count, embedding_count,
     )
     from mtgdeck.data.edhrec_fetch import fetch_edhrec
+    from mtgdeck.data.collection_ingest import ingest_collection
     from mtgdeck.models import ScryfallCard
     from mtgdeck.rules.commander_rules import is_legal_commander, CommanderProfile
     from mtgdeck.rules.deck_validator import validate_deck
@@ -420,7 +426,35 @@ def build_cmd(
 
     conn = get_connection()
 
-    # ── Look up commander ────────────────────────────────────────────────────
+    # ── Auto-ingest collection if --owned-only ────────────────────────────────
+    owned_names: set[str] | None = None
+    owned_normalized: set[str] | None = None
+
+    if owned_only:
+        csv_path = collection or _DEFAULT_COLLECTION_PATH
+        if collection_count(conn) == 0:
+            if not csv_path.exists():
+                console.print(
+                    f"[red]Collection file not found:[/red] {csv_path}\n"
+                    "Create [bold]my_cards/my_collection.csv[/bold] with your cards and try again."
+                )
+                raise typer.Exit(1)
+            console.print(f"Ingesting collection from [cyan]{csv_path}[/cyan]…")
+            added, skipped = ingest_collection(conn, csv_path, source="my_collection", replace=True)
+            console.print(f"  {added:,} cards imported  ({skipped} skipped)")
+        else:
+            console.print(f"[dim]Collection already loaded ({collection_count(conn):,} cards).[/dim]")
+
+        owned_names       = get_collection_names(conn)
+        owned_normalized  = get_collection_normalized_names(conn)
+
+        if not owned_names:
+            console.print("[red]Collection is empty — cannot build owned-only deck.[/red]")
+            raise typer.Exit(1)
+
+        console.print(f"Collection: [green]{len(owned_names):,} unique cards[/green]")
+
+    # ── Look up commander ─────────────────────────────────────────────────────
     row = lookup_card_by_name(conn, commander)
     if row is None:
         console.print(f"[red]'{commander}'[/red] not found. Run [bold]ingest scryfall[/bold] first.")
@@ -433,11 +467,21 @@ def build_cmd(
         console.print(f"[red]{card.name}[/red] is not a legal Commander.")
         raise typer.Exit(1)
 
+    # Validate commander is in the collection when --owned-only
+    if owned_only and owned_names and card.name not in owned_names:
+        console.print(
+            f"[red]'{card.name}'[/red] is not in your collection.\n"
+            "Add it to [bold]my_collection.csv[/bold] or pick a commander you own."
+        )
+        raise typer.Exit(1)
+
     profile = CommanderProfile(card=card)
     console.print(f"\n[bold]Building deck for:[/bold] [cyan]{card.name}[/cyan]")
     console.print(f"Color identity: {'/'.join(profile.color_identity) or 'Colorless'}")
+    if owned_only:
+        console.print("[dim]Mode: owned cards only[/dim]")
 
-    # ── Fetch EDHREC data ────────────────────────────────────────────────────
+    # ── Fetch EDHREC data ─────────────────────────────────────────────────────
     console.print("\nFetching EDHREC recommendations…")
     try:
         result = fetch_edhrec(conn, commander)
@@ -448,26 +492,21 @@ def build_cmd(
 
     edhrec_recs = get_edhrec_recommendations(conn, commander)
 
-    # ── Load embeddings if available ─────────────────────────────────────────
+    # ── Load embeddings (restricted to collection when --owned-only) ──────────
     embedding_index = None
     model_id = resolve_model_name(model)
     if embedding_count(conn, model_id) > 0:
         from mtgdeck.embeddings.vector_search import load_index
         console.print("Loading embedding index…")
-        embedding_index = load_index(conn, model_id)
+        embedding_index = load_index(
+            conn, model_id,
+            owned_normalized_names=owned_normalized,   # None = full 36k index
+        )
         console.print(f"  {embedding_index.matrix.shape[0]:,} vectors loaded")
     else:
         console.print("[dim]No embeddings — skipping vector search. Run [bold]embed cards[/bold] to enable it.[/dim]")
 
-    # ── Collection ───────────────────────────────────────────────────────────
-    owned_names: set[str] | None = None
-    if owned_only:
-        owned_names = get_collection_names(conn)
-        if not owned_names:
-            console.print("[yellow]No collection loaded — ignoring --owned-only.[/yellow]")
-            owned_only = False
-
-    # ── Build candidate pool ─────────────────────────────────────────────────
+    # ── Build candidate pool ──────────────────────────────────────────────────
     console.print("\nBuilding candidate pool…")
     candidates = build_candidate_pool(
         conn, profile, edhrec_recs,
@@ -503,6 +542,17 @@ def build_cmd(
     print_top_cards(console, deck.card_scores, limit=15)
 
     decklist_text = format_decklist(deck.commander_name, deck.cards)
+
+    # Persist the formatted decklist text into the DB now that we have it
+    from mtgdeck.data.duckdb_repo import save_generated_deck
+    import json as _json
+    save_generated_deck(
+        conn, deck.deck_id, deck.commander_name,
+        _json.dumps({"commander": config.commander_name, "num_lands": lands}),
+        _json.dumps([deck.commander_name] + [c.get("name","") for c in deck.cards]),
+        decklist_text,
+    )
+
     console.print("\n[bold]Decklist:[/bold]")
     console.print(decklist_text)
 
