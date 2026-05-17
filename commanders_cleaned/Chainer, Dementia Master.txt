@@ -1,4 +1,3 @@
-Commander
 1 Chainer, Dementia Master
 1 Fabled Passage
 1 Urborg, Tomb of Yawgmoth
@@ -41,21 +40,19 @@ Commander
 1 Iron-Shield Elf
 1 Gray Merchant of Asphodel
 1 Crypt Ghast
+1 Driver of the Dead
+1 Nullpriest of Oblivion
 1 Viscera Seer
-1 Massacre Wurm
-1 K'rrik, Son of Yawgmoth
 1 Carrion Feeder
+1 Dimir House Guard
+1 Massacre Wurm
+1 Nezumi Graverobber // Nighteyes the Desecrator
+1 K'rrik, Son of Yawgmoth
 1 Blood Artist
 1 Zulaport Cutthroat
 1 Twilight Diviner
 1 Umbral Collar Zealot
 1 Burnished Hart
-1 Valgavoth, Terror Eater
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Morbid Opportunist
-1 Cathodion
-1 Angel of Suffering
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -68,18 +65,20 @@ Commander
 1 Bolas's Citadel
 1 Whip of Erebos
 1 Spawning Pit
-1 Crucible of Worlds
 1 Greed
-1 Necropotence
-1 Ripples of Undeath
 1 Black Market
 1 Grave Pact
+1 Dictate of Erebos
+1 Necropotence
+1 Ripples of Undeath
 1 Village Rites
 1 Deadly Dispute
 1 Saw in Half
 1 Complete Disregard
 1 Grip of Desolation
 1 Deal Gone Bad
+1 Consumed by Greed
+1 Unbury
 1 Dark Ritual
 1 Cabal Ritual
 1 Buried Alive
@@ -87,6 +86,6 @@ Commander
 1 Feed the Swarm
 1 Decree of Pain
 1 Exsanguinate
+1 Gravedig
 1 Bubbling Muck
-1 Diabolic Tutor
 1 Liliana of the Dark Realms

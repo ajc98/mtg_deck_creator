@@ -47,18 +47,20 @@ Creatures
 1 Dominator Drone
 1 Dawnhand Eulogist
 1 Triskaidekaphile
-1 Consuming Aberration
-1 Dimir House Guard
+1 Expendable Lackey
 1 Canyon Crawler
-1 Page, Loose Leaf
-1 Halo Scarab
 1 Gríma Wormtongue
+1 Dimir House Guard
+1 Heirloom Auntie
+1 Nezumi Graverobber // Nighteyes the Desecrator
+1 Consuming Aberration
+1 Halo Scarab
+1 Azula, On the Hunt
+1 Azula, Cunning Usurper
+1 Page, Loose Leaf
 1 Aven Courier
 1 Bellowing Crier
 1 Cathodion
-1 Azula, On the Hunt
-1 Shield Broker
-1 Azula, Cunning Usurper
 
 Artifacts
 1 Sol Ring
@@ -73,11 +75,13 @@ Artifacts
 1 All-Fates Scroll
 1 Found Footage
 1 Swiftfoot Boots
+1 Orochi Hatchery
 1 Sapphire Medallion
-1 Wishclaw Talisman
 
 Enchantments
 1 Waste Not
+1 Stormchaser's Talent
+1 Necropotence
 1 Propaganda
 
 Instants
@@ -93,21 +97,17 @@ Instants
 1 Deal Gone Bad
 1 Recoil
 1 Become Anonymous
+1 Deadly Dispute
+1 Unbury
 1 Counterspell
 1 An Offer You Can't Refuse
 1 Dark Ritual
 1 Negate
 1 Aetherize
-1 Mystical Teachings
 1 Flare of Denial
-1 Kitsune's Technique
 
 Sorceries
 1 Ponder
 1 Feed the Swarm
 1 Diabolic Tutor
 1 Buried Alive
-1 Brainspoil
-1 Razaketh's Rite
-1 Bloodline Bidding
-1 Transgress the Mind

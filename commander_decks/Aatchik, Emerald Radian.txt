@@ -36,6 +36,7 @@ Lands
 1 Swarmyard
 1 Ash Barrens
 1 Shire Terrace
+1 Grim Backwoods
 1 Forest
 1 Swamp
 
@@ -54,17 +55,18 @@ Creatures
 1 Mirkwood Bats
 1 Zulaport Cutthroat
 1 Scute Swarm
-1 Haywire Mite
 1 Springheart Nantuko
-1 Nyx Weaver
+1 Beledros Witherbloom
 1 Viscera Seer
-1 Umbral Collar Zealot
-1 Blood Artist
 1 Nantuko Husk
-1 Birds of Paradise
 1 Carrion Feeder
-1 Dimir House Guard
-1 Slavering Branchsnapper
+1 Nyx Weaver
+1 Golgari Findbroker
+1 Evolution Witness
+1 Spinner of Souls
+1 Sengir, the Dark Baron
+1 Poison-Tip Archer
+1 Haywire Mite
 
 Artifacts
 1 Sol Ring
@@ -75,17 +77,14 @@ Artifacts
 1 Skullclamp
 1 Thundering Broodwagon
 1 Swiftfoot Boots
-1 Patchwork Banner
-1 Fellwar Stone
-1 Veloheart Bike
-1 Thought Vessel
 
 Enchantments
 1 Moldervine Reclamation
 1 Bastion of Remembrance
-1 Ripples of Undeath
-1 Doubling Season
 1 Insidious Roots
+1 Grave Pact
+1 Necropotence
+1 Doubling Season
 1 Parallel Lives
 
 Instants
@@ -99,15 +98,16 @@ Instants
 1 Saw in Half
 1 Grip of Desolation
 1 Not Dead After All
-1 Midnight Tilling
+1 Second Harvest
+1 Fake Your Own Death
+1 Cache Grab
+1 Unbury
+1 Heritage Reclamation
 
 Sorceries
 1 Rampant Growth
 1 Feed the Swarm
 1 Decree of Pain
-1 Swarmyard Massacre
-1 Cultivate
-1 Buried Alive
-1 Razaketh's Rite
 1 Malevolent Rumble
-1 Farseek
+1 Recollect
+1 Treasured Find

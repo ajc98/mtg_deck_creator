@@ -46,23 +46,22 @@ Creatures
 1 Birds of Paradise
 1 Jacked Rabbit
 1 Harvestrite Host
+1 Hare Apparent
+1 Warren Warleader
+1 Pawpatch Recruit
+1 Hazardroot Herbalist
+1 Toski, Bearer of Secrets
+1 Aragorn and Arwen, Wed
 1 Burrowguard Mentor
 1 Valley Questcaller
-1 Warren Warleader
-1 Hare Apparent
 1 Hinterland Sanctifier
-1 Pawpatch Recruit
 1 Head of the Homestead
 1 Treeguard Duo
 1 Intrepid Rabbit
-1 Hazardroot Herbalist
 1 Seasoned Warrenguard
 1 Druid of the Spade
 1 Warren Elder
 1 Brave-Kin Duo
-1 Three Tree Rootweaver
-1 Rishkar, Peema Renegade
-1 Llanowar Elves
 
 Artifacts
 1 Sol Ring
@@ -75,12 +74,13 @@ Artifacts
 1 Swiftfoot Boots
 1 Halo Fountain
 1 Carrot Cake
-1 Thought Vessel
 
 Enchantments
 1 Stocking the Pantry
-1 Doubling Season
+1 Greater Good
 1 Beastmaster Ascension
+1 Hunter's Talent
+1 Doubling Season
 1 Parallel Lives
 1 Felidar Retreat
 

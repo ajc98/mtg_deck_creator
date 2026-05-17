@@ -44,17 +44,19 @@ Creatures
 1 Mirkwood Bats
 1 Marionette Apprentice
 1 Crypt Ghast
+1 Pirate Peddlers
+1 Carrion Feeder
+1 Viscera Seer
+1 Dimir House Guard
+1 Heirloom Auntie
 1 Academy Manufactor
-1 Blood Artist
 1 Fire Navy Trebuchet
+1 Infestation Sage
+1 Bitterbloom Bearer
+1 Blood Artist
 1 Zulaport Cutthroat
 1 Nadier's Nightblade
-1 Pirate Peddlers
 1 Umbral Collar Zealot
-1 Qarsi Revenant
-1 Gray Merchant of Asphodel
-1 Dimir House Guard
-1 Shadowborn Apostle
 
 Artifacts
 1 Sol Ring
@@ -67,17 +69,19 @@ Artifacts
 1 Goldvein Pick
 1 Skullclamp
 1 Swiftfoot Boots
+1 Idol of Oblivion
 1 Fireshrieker
 1 Whip of Erebos
-1 Idol of Oblivion
-1 Wishclaw Talisman
 
 Enchantments
 1 Obsessive Pursuit
 1 Greed
 1 Bastion of Remembrance
-1 Kaya's Ghostform
+1 Vampiric Rites
 1 Black Market
+1 Grave Pact
+1 Dictate of Erebos
+1 Kaya's Ghostform
 
 Instants
 1 Deadly Dispute
@@ -87,21 +91,15 @@ Instants
 1 Murder
 1 Overkill
 1 Complete Disregard
+1 Not Dead After All
+1 Fake Your Own Death
 1 Dark Ritual
 1 Zuko's Conviction
 1 Eviscerator's Insight
-1 Not Dead After All
 
 Sorceries
 1 Feed the Swarm
 1 Deadly Precision
 1 Epic Downfall
 1 Decree of Pain
-1 Diabolic Tutor
-1 Razaketh's Rite
-1 Buried Alive
-1 Brainspoil
 1 Foggy Swamp Visions
-
-Other
-1 Liliana of the Dark Realms

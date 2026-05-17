@@ -40,18 +40,19 @@ Creatures
 1 Survey Mechan
 1 Kappa Cannoneer
 1 Triskaidekaphile
-1 Diamond Mare
 1 Academy Manufactor
+1 Expendable Lackey
+1 Diamond Mare
 1 Meneldor, Swift Savior
 1 Three Tree Mascot
 1 Omni-Changeling
 1 Junk Winder
 1 Adaptive Automaton
 1 Barkform Harvester
-1 Page, Loose Leaf
 1 Halo Scarab
-1 Opaline Unicorn
 1 Emrakul's Messenger
+1 Page, Loose Leaf
+1 Opaline Unicorn
 1 Cathodion
 
 Artifacts
@@ -70,10 +71,12 @@ Artifacts
 1 Swiftfoot Boots
 1 Maskwood Nexus
 1 Stalactite Dagger
-1 Sapphire Medallion
-1 Mirrormind Crown
-1 Sword of Hearth and Home
 1 Noble's Purse
+1 Scytheclaw
+1 Orochi Hatchery
+1 Sapphire Medallion
+1 Magnifying Glass
+1 Mirrormind Crown
 
 Enchantments
 1 Leyline of Transformation
@@ -95,12 +98,9 @@ Instants
 1 An Offer You Can't Refuse
 1 Aetherize
 1 Negate
-1 Mirrorform
 
 Sorceries
 1 Ponder
 1 Preordain
 1 Splash Portal
-1 Solve the Equation
 1 Rite of Replication
-1 Curse of the Swine

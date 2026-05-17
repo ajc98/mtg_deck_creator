@@ -1,4 +1,3 @@
-Commander
 1 K'rrik, Son of Yawgmoth
 1 Fabled Passage
 1 Urborg, Tomb of Yawgmoth
@@ -41,17 +40,19 @@ Commander
 1 Knight of Malice
 1 Gray Merchant of Asphodel
 1 Crypt Ghast
+1 Canyon Crawler
+1 Beamsaw Prospector
+1 Viscera Seer
+1 Carrion Feeder
+1 June, Bounty Hunter
 1 Blood Celebrant
 1 Chainer, Dementia Master
 1 Blood Artist
 1 Shard of the Nightbringer
-1 Viscera Seer
 1 Vampire Nighthawk
 1 Massacre Wurm
-1 Page, Loose Leaf
 1 Halo Scarab
-1 Gifted Aetherborn
-1 Rune-Scarred Demon
+1 Azula, On the Hunt
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -71,17 +72,16 @@ Commander
 1 Necropotence
 1 Sanguine Bond
 1 Exquisite Blood
-1 Black Market
 1 Saw in Half
 1 Grasp of Darkness
 1 Victim of Night
 1 Requiting Hex
 1 Complete Disregard
+1 Not Dead After All
+1 Deadly Dispute
 1 Dark Ritual
 1 Cabal Ritual
-1 Not Dead After All
 1 Undying Malice
-1 Tendrils of Corruption
 1 Environmental Sciences
 1 Diabolic Tutor
 1 Buried Alive
@@ -89,6 +89,5 @@ Commander
 1 Decree of Pain
 1 Exsanguinate
 1 Bubbling Muck
-1 Razaketh's Rite
 1 Duress
 1 Liliana of the Dark Realms

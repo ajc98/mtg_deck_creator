@@ -1,4 +1,3 @@
-Commander
 1 Appa, Loyal Sky Bison
 1 Fabled Passage
 1 Terramorphic Expanse
@@ -43,6 +42,10 @@ Commander
 1 Inspiring Overseer
 1 Mangara, the Diplomat
 1 Earth Kingdom Protectors
+1 Vengeful Villagers
+1 Sun Titan
+1 Eldrazi Ravager
+1 Cavalry Pegasus
 1 Aang, the Last Airbender
 1 Appa, Steadfast Guardian
 1 Avatar Enthusiasts
@@ -50,7 +53,6 @@ Commander
 1 Invasion Reinforcements
 1 Momo, Friendly Flier
 1 Jeong Jeong's Deserters
-1 Vengeful Villagers
 1 Glider Kids
 1 Restoration Angel
 1 Compassionate Healer
@@ -58,9 +60,7 @@ Commander
 1 Suki, Courageous Rescuer
 1 Circuit Mender
 1 Fiend Hunter
-1 Sun Titan
 1 Ornithopter of Paradise
-1 Page, Loose Leaf
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -72,6 +72,7 @@ Commander
 1 Meteor Sword
 1 Swiftfoot Boots
 1 Halo Fountain
+1 Sword of Hearth and Home
 1 Kyoshi Battle Fan
 1 Fellwar Stone
 1 Coveted Jewel
@@ -79,7 +80,6 @@ Commander
 1 Path to Redemption
 1 Team Avatar
 1 Aang's Iceberg
-1 Builder's Talent
 1 Dawn's Truce
 1 Energybending
 1 Path to Exile
@@ -94,4 +94,3 @@ Commander
 1 Fumigate
 1 Damning Verdict
 1 Another Round
-1 Secret Rendezvous

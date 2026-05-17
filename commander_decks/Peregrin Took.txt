@@ -38,10 +38,11 @@ Creatures
 1 Courier of Comestibles
 1 Survey Mechan
 1 Archetype of Endurance
+1 Spinner of Souls
 1 Academy Manufactor
-1 Sarinth Steelseeker
 1 Gala Greeters
 1 Arasta of the Endless Web
+1 Sarinth Steelseeker
 1 Scute Swarm
 1 Meriadoc Brandybuck
 1 Tendershoot Dryad
@@ -53,7 +54,6 @@ Creatures
 1 Glittermonger
 1 Galadriel, Gift-Giver
 1 Biowaste Blob
-1 Mushroom Watchdogs
 
 Artifacts
 1 Sol Ring
@@ -64,16 +64,16 @@ Artifacts
 1 Bumbleflower's Sharepot
 1 Ominous Parcel
 1 Swiftfoot Boots
+1 Evolving Door
+1 Skullclamp
 1 Bootleggers' Stash
 1 Emerald Medallion
 1 Chitterspitter
-1 Thought Vessel
 1 Noble's Purse
-1 Omni-Cheese Pizza
-1 All-Fates Scroll
 
 Enchantments
 1 Sapling Nursery
+1 Greater Good
 1 Parallel Lives
 1 Doubling Season
 1 Welcome to Sweettooth

@@ -52,19 +52,18 @@ Creatures
 1 Earth Kingdom Protectors
 1 Triskaidekaphile
 1 Invasion Reinforcements
-1 Compassionate Healer
-1 Water Tribe Rallier
 1 Suki, Courageous Rescuer
 1 Appa, Steadfast Guardian
 1 Monastery Mentor
+1 Kyoshi Warriors
+1 Mischievous Mystic
+1 Furious Forebear
+1 Compassionate Healer
+1 Water Tribe Rallier
 1 Tetsuko Umezawa, Fugitive
 1 Exalted Sunborn
-1 Mischievous Mystic
 1 Curiosity Crafter
-1 Flexible Waterbender
-1 Adept Watershaper
-1 Loran of the Third Path
-1 Page, Loose Leaf
+1 Halo Scarab
 
 Artifacts
 1 Sol Ring
@@ -80,15 +79,18 @@ Artifacts
 1 Idol of Oblivion
 1 Swiftfoot Boots
 1 Halo Fountain
-1 White Lotus Tile
+1 Kyoshi Battle Fan
 
 Enchantments
 1 Waterbender Ascension
+1 Path to Redemption
 1 Watery Grasp
 1 Aang's Iceberg
 1 Airbender Ascension
 1 Team Avatar
-1 Path to Redemption
+1 Felidar Retreat
+1 Air Nomad Legacy
+1 Endless Foot Assault
 
 Instants
 1 Arcane Denial
@@ -102,15 +104,13 @@ Instants
 1 It'll Quench Ya!
 1 An Offer You Can't Refuse
 1 Negate
-1 Frantic Search
-1 Dawn's Truce
 
 Sorceries
 1 Suppression Ray // Orderly Plaza
 1 Waterbending Lesson
 1 Dusk // Dawn
 1 Time Wipe
-1 Ponder
+1 Martial Coup
 
 Other
 1 Elspeth, Sun's Champion

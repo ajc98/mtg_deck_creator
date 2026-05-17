@@ -42,18 +42,22 @@ Creatures
 1 Iron-Shield Elf
 1 Dominator Drone
 1 Kami of Jealous Thirst
-1 Page, Loose Leaf
+1 Gravewaker
+1 Doomed Necromancer
+1 Graveshifter
+1 Dusk Mangler
+1 Nezumi Bone-Reader
+1 June, Bounty Hunter
+1 Woe Strider
+1 Midnight Reaper
+1 Heirloom Auntie
+1 Suspicious Shambler
 1 Halo Scarab
+1 Page, Loose Leaf
 1 Cathodion
 1 Azula, On the Hunt
-1 Vile Entomber
-1 Shadowborn Apostle
-1 Mind Raker
-1 Suspicious Shambler
-1 Doomed Necromancer
-1 Gravewaker
-1 Nezumi Bone-Reader
 1 Skullsnatcher
+1 Vile Entomber
 
 Artifacts
 1 Expedition Map
@@ -68,8 +72,6 @@ Artifacts
 1 Magnifying Glass
 1 Bender's Waterskin
 1 Hedron Archive
-1 Wishclaw Talisman
-1 Oblivion Stone
 
 Enchantments
 1 Greed
@@ -85,7 +87,9 @@ Instants
 1 Deal Gone Bad
 1 Wither and Bloom
 1 Sold Out
-1 Cabal Ritual
+1 Dose of Dawnglow
+1 Consumed by Greed
+1 Unbury
 
 Sorceries
 1 Environmental Sciences
@@ -94,11 +98,7 @@ Sorceries
 1 Brainspoil
 1 Decree of Pain
 1 Decode Transmissions
-1 Buried Alive
-1 Psychic Whorl
-1 Transgress the Mind
-1 Seeker's Folly
-1 Head Games
-1 Diabolic Tutor
 1 Stir the Grave
 1 Gravedig
+1 Buried Alive
+1 Psychic Whorl

@@ -36,15 +36,15 @@ Creatures
 1 Dragonhawk, Fate's Tempest
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Academy Manufactor
-1 Rose Room Treasurer
-1 Hearthborn Battler
-1 Kindlespark Duo
-1 Bedhead Beastie
+1 Eldrazi Ravager
+1 Prosperous Bandit
 1 Halo Scarab
-1 Page, Loose Leaf
-1 Oliphaunt
+1 Rose Room Treasurer
+1 Academy Manufactor
+1 Hearthborn Battler
 1 Goblin Glasswright // Craft with Pride
+1 Oliphaunt
+1 Zuko, Exiled Prince
 
 Artifacts
 1 Sol Ring
@@ -59,22 +59,23 @@ Artifacts
 1 Swiftfoot Boots
 1 Bilbo's Ring
 1 Sword of Hearth and Home
+1 Gathering Stone
+1 Sapphire Medallion
+1 Ravenous Amulet
 1 Unlicensed Hearse
-1 Thought Vessel
-1 Mirrormind Crown
-1 Mirage Mirror
+1 Orochi Hatchery
+1 Magnifying Glass
 
 Enchantments
 1 Sticky Fingers
 1 Case of the Crimson Pulse
 1 Impact Tremors
-1 Rain of Riches
 1 Shiny Impetus
+1 Cool but Rude
+1 Curse of Opulence
+1 Rain of Riches
 1 Alchemist's Talent
 1 Warstorm Surge
-1 Cool but Rude
-1 Powerbalance
-1 Curse of Opulence
 
 Instants
 1 Big Score
@@ -86,17 +87,16 @@ Instants
 1 Lightning Strike
 1 Impossible Inferno
 1 Lithobraking
+1 Reckless Ransacking
 1 Chaos Warp
 1 Bolt Bend
-1 Reckless Ransacking
-1 Siege Smash
-1 Burst Lightning
-1 Might of the Meek
 
 Sorceries
 1 Faithless Looting
 1 Playful Shove
 1 Processor Assault
 1 Blasphemous Act
+1 Electroduplicate
 1 Spiteful Repossession
+1 Glimpse the Impossible
 1 Goblin Glasswright // Craft with Pride

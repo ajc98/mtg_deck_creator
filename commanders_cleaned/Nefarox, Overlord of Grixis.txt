@@ -1,4 +1,3 @@
-Commander
 1 Nefarox, Overlord of Grixis
 1 Barren Moor
 1 Bojuka Bog
@@ -38,18 +37,22 @@ Commander
 1 Iron-Shield Elf
 1 Crypt Ghast
 1 Gray Merchant of Asphodel
+1 Witch-king, Bringer of Ruin
+1 Sludge Crawler
+1 Dominator Drone
+1 Eldrazi Ravager
+1 Culling Drone
 1 Burnished Hart
 1 Nighthowler
 1 Vampire Nighthawk
 1 Massacre Wurm
+1 Azula, On the Hunt
+1 The Rise of Sozin // Fire Lord Sozin
 1 Desecration Demon
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Dimir House Guard
 1 Cathodion
-1 Grim Guardian
-1 Azula, On the Hunt
-1 Shadowborn Apostle
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -70,8 +73,6 @@ Commander
 1 Derelict Attic // Widow's Walk
 1 Black Market
 1 Kaya's Ghostform
-1 Stab Wound
-1 Unhallowed Pact
 1 Murder
 1 Doom Blade
 1 Hero's Downfall
@@ -79,7 +80,6 @@ Commander
 1 Grip of Desolation
 1 Not Dead After All
 1 Dark Ritual
-1 Tendrils of Corruption
 1 Diabolic Tutor
 1 Decree of Pain
 1 Feed the Swarm
@@ -87,6 +87,5 @@ Commander
 1 Exsanguinate
 1 Bubbling Muck
 1 Razaketh's Rite
-1 Buried Alive
 1 Liliana of the Dark Realms
 1 Ob Nixilis Reignited

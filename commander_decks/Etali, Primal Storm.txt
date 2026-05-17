@@ -38,21 +38,22 @@ Creatures
 1 Molten Gatekeeper
 1 Dragonhawk, Fate's Tempest
 1 Combat Celebrant
-1 Burnished Hart
 1 Lavaleaper
-1 Ornithopter of Paradise
-1 Halo Scarab
-1 Page, Loose Leaf
 1 Laelia, the Blade Reforged
+1 Inferno Titan
+1 Ardent Dustspeaker
+1 Eldrazi Ravager
+1 Vile Aggregate
+1 Burnished Hart
+1 Ornithopter of Paradise
 1 Fire Sages
-1 Flamebraider
-1 Storm-Kiln Artist
-1 Bedhead Beastie
 1 Zuko, Exiled Prince
-1 Akki Rockspeaker
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
-1 Cathodion
+1 Fire Nation Cadets
+1 Oliphaunt
+1 Rough Rhino Cavalry
+1 Halo Scarab
 
 Artifacts
 1 Sol Ring
@@ -78,7 +79,6 @@ Enchantments
 1 Powerbalance
 1 Sunbird's Invocation
 1 Firebender Ascension
-1 Curse of Opulence
 
 Instants
 1 Thrill of Possibility

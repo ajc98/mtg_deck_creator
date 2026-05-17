@@ -1,4 +1,3 @@
-Commander
 1 Old Hob, Alleycat Blues
 1 Command Tower
 1 Fabled Passage
@@ -43,22 +42,24 @@ Commander
 1 Molten Gatekeeper
 1 Arabella, Abandoned Doll
 1 Agate Instigator
-1 Raphael, Tough Turtle
 1 Lita, Little Orphan Amphibian
+1 Ravenous Robots
+1 Mechanized Ninja Cavalry
+1 Featherbrained Filcher
+1 Rose Room Treasurer
+1 Furious Forebear
+1 Raphael, Tough Turtle
 1 Raphael, the Nightwatcher
 1 Mutant Town Musicians
 1 Leonardo, Big Brother
 1 EPF Point Squad
-1 Mechanized Ninja Cavalry
-1 Ravenous Robots
 1 Rock Soldiers
-1 Featherbrained Filcher
 1 High-Flying Ace
-1 Rose Room Treasurer
 1 Casey Jones, Jury-Rig Justiciar
 1 East Wind Avatar
 1 Exalted Sunborn
-1 Rubble Rouser
+1 Halo Scarab
+1 Storm-Kiln Artist
 1 Arcane Signet
 1 Sol Ring
 1 Boros Signet
@@ -72,7 +73,6 @@ Commander
 1 Mind Stone
 1 Mouser Foundry
 1 Swiftfoot Boots
-1 Omni-Cheese Pizza
 1 Cool but Rude
 1 Impact Tremors
 1 Endless Foot Assault
@@ -93,7 +93,6 @@ Commander
 1 Turtles Forever
 1 Abrade
 1 Teferi's Protection
-1 Dawn's Truce
 1 Cut a Deal
 1 Faithless Looting
 1 Go Ninja Go

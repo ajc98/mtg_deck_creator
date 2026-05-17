@@ -38,14 +38,19 @@ Creatures
 1 Enraged Flamecaster
 1 Rubble Rouser
 1 Molten Gatekeeper
+1 Combat Celebrant
+1 Sabertooth Outrider
+1 Eldrazi Ravager
+1 Vile Aggregate
+1 Zuko, Exiled Prince
+1 Fire Sages
+1 Jeong Jeong, the Deserter
+1 Brazen Collector
 1 Flamekin Gildweaver
+1 Fire Nation Cadets
+1 Rough Rhino Cavalry
 1 Molten-Core Maestro
 1 Casey Jones, Jury-Rig Justiciar
-1 Foraging Wickermaw
-1 Warren Torchmaster
-1 Bedhead Beastie
-1 Halo Scarab
-1 Page, Loose Leaf
 
 Artifacts
 1 Sol Ring
@@ -58,9 +63,9 @@ Artifacts
 1 Swiftfoot Boots
 1 Bilbo's Ring
 1 Sword of Hearth and Home
+1 Scytheclaw
 1 Skinwing
 1 Bonehoard
-1 Scytheclaw
 1 Cori-Steel Cutter
 1 Helm of the Host
 1 Gimli's Axe
@@ -68,14 +73,12 @@ Artifacts
 1 Firdoch Core
 1 Heraldic Banner
 1 Kyoshi Battle Fan
-1 All-Fates Scroll
 
 Enchantments
 1 Sticky Fingers
 1 Case of the Crimson Pulse
 1 Impact Tremors
 1 Cool but Rude
-1 Firebender Ascension
 
 Instants
 1 Thrill of Possibility
@@ -86,7 +89,6 @@ Instants
 1 Impossible Inferno
 1 Lithobraking
 1 Chaos Warp
-1 Reckless Ransacking
 
 Sorceries
 1 Faithless Looting
@@ -96,5 +98,3 @@ Sorceries
 1 Processor Assault
 1 Blasphemous Act
 1 Mana Geyser
-1 Glimpse the Impossible
-1 Dragon Fodder

@@ -1,4 +1,3 @@
-Commander
 1 Korlessa, Scale Singer
 1 Command Tower
 1 Fabled Passage
@@ -43,6 +42,11 @@ Commander
 1 Survey Mechan
 1 Archetype of Endurance
 1 Triskaidekaphile
+1 Qiqirn Merchant
+1 Archmage of Runes
+1 Evercoat Ursine
+1 Eldrazi Ravager
+1 Toski, Bearer of Secrets
 1 Transcendent Dragon
 1 Steel Hellkite
 1 Chomping Changeling
@@ -51,8 +55,6 @@ Commander
 1 Page, Loose Leaf
 1 Raucous Audience
 1 Cathodion
-1 Micromancer
-1 Saber-Tooth Moose-Lion
 1 Sol Ring
 1 Arcane Signet
 1 Patchwork Banner
@@ -60,13 +62,12 @@ Commander
 1 Thought Vessel
 1 Ominous Parcel
 1 Swiftfoot Boots
+1 Gathering Stone
+1 Sword of Hearth and Home
 1 Mind Stone
 1 Maskwood Nexus
-1 All-Fates Scroll
-1 Fellwar Stone
-1 Found Footage
-1 Oblivion Stone
 1 Garruk's Uprising
+1 Ballad of the Black Flag
 1 Encroaching Dragonstorm
 1 Wild Growth
 1 Wizard Class
@@ -87,8 +88,6 @@ Commander
 1 Aetherize
 1 Run Away Together
 1 An Offer You Can't Refuse
-1 Frantic Search
-1 Case the Joint
 1 Rampant Growth
 1 Farseek
 1 Ponder

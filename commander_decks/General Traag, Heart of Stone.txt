@@ -38,22 +38,18 @@ Creatures
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Nettle Drone
+1 Gimli, Counter of Kills
+1 Halo Scarab
+1 Flamekin Gildweaver
 1 Aetherjacket
 1 Frogmyr Enforcer
 1 Junk Diver
 1 Satyr Rambler
-1 Halo Scarab
-1 Page, Loose Leaf
-1 Flamekin Gildweaver
-1 Cathodion
 1 Storm-Kiln Artist
-1 Zuko, Exiled Prince
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Alena, Kessig Trapper
+1 Page, Loose Leaf
 1 Bedhead Beastie
+1 Cathodion
+1 Oliphaunt
 
 Artifacts
 1 Sol Ring
@@ -72,17 +68,20 @@ Artifacts
 1 Mouser Foundry
 1 Bilbo's Ring
 1 Sword of Hearth and Home
+1 Ravenous Amulet
+1 Maskwood Nexus
 1 Oblivion Stone
 1 Gathering Stone
 1 Hard-Won Jitte
-1 Maskwood Nexus
 1 Basilisk Collar
+1 Magnifying Glass
+1 Boom Box
 
 Enchantments
 1 Case of the Crimson Pulse
 1 Cool but Rude
-1 Rain of Riches
 1 Firebender Ascension
+1 Rain of Riches
 1 Fervor
 
 Instants
@@ -100,4 +99,5 @@ Instants
 Sorceries
 1 Stone Rain
 1 Bot Bashing Time
+1 Glimpse the Impossible
 1 Portent of Betrayal

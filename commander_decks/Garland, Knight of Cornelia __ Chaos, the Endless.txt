@@ -39,12 +39,13 @@ Creatures
 1 Iron-Shield Elf
 1 Dominator Drone
 1 Molten Gatekeeper
+1 Valgavoth's Faithful
 1 Dimir House Guard
+1 June, Bounty Hunter
+1 Suspicious Shambler
 1 Halo Scarab
 1 Page, Loose Leaf
-1 Shadowborn Apostle
 1 Storm-Kiln Artist
-1 Canyon Crawler
 1 Akki Rockspeaker
 1 Fire Sages
 1 Jeong Jeong, the Deserter
@@ -52,13 +53,10 @@ Creatures
 1 Flamecache Gecko
 1 Brazen Collector
 1 Cathodion
-1 Vile Entomber
+1 Shadowborn Apostle
 1 Fire Nation Cadets
 1 Soulbright Seeker
-1 Bedhead Beastie
 1 Zuko, Exiled Prince
-1 Azula, On the Hunt
-1 Rough Rhino Cavalry
 
 Artifacts
 1 Expedition Map
@@ -70,15 +68,13 @@ Artifacts
 1 Fellwar Stone
 1 Found Footage
 1 Bilbo's Ring
-1 Wishclaw Talisman
-1 Magnifying Glass
-1 Bender's Waterskin
 
 Enchantments
 1 Case of the Crimson Pulse
 1 Greed
 1 Shadows of the Past
 1 Cool but Rude
+1 Necropotence
 
 Instants
 1 Take Out the Trash
@@ -91,6 +87,8 @@ Instants
 1 Wither and Bloom
 1 Darkblast
 1 Lithobraking
+1 Consumed by Greed
+1 Unbury
 
 Sorceries
 1 Scrounge for Eternity
@@ -98,7 +96,9 @@ Sorceries
 1 Hymn of the Faller
 1 Intimidation Tactics
 1 Processor Assault
+1 Stir the Grave
+1 Gravedig
+1 Grim Discovery
 1 Buried Alive
 1 Razaketh's Rite
 1 Brainspoil
-1 Diabolic Tutor

@@ -48,6 +48,7 @@ Creatures
 1 Guttersnipe
 1 Vivi Ornitier
 1 Stormcatch Mentor
+1 Goblin Electromancer
 1 Thundertrap Trainer
 1 Daring Waverider
 1 Harnesser of Storms
@@ -57,7 +58,6 @@ Creatures
 1 Lightshell Duo
 1 Alania's Pathmaker
 1 Rapid Augmenter
-1 Goblin Electromancer
 
 Artifacts
 1 Sol Ring
@@ -87,16 +87,17 @@ Instants
 1 Izzet Charm
 1 Lithobraking
 1 Shore Up
-1 Run Away Together
 1 Counterspell
+1 Arcane Denial
+1 Long River's Pull
+1 Spellgyre
+1 Refute
+1 Run Away Together
 1 Chaos Warp
 1 Electrodominance
 1 Negate
-1 Arcane Denial
 1 An Offer You Can't Refuse
-1 Long River's Pull
 1 Narset's Reversal
-1 Consider
 
 Sorceries
 1 Pearl of Wisdom
@@ -109,7 +110,6 @@ Sorceries
 1 Otterball Antics
 1 Mana Geyser
 1 Expressive Iteration
-1 Solve the Equation
 
 Other
 1 Ral, Crackling Wit

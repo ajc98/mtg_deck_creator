@@ -52,17 +52,19 @@ Creatures
 1 Mirkwood Bats
 1 Sauron, the Lidless Eye
 1 Boggart Cursecrafter
-1 The Balrog, Flame of Udûn
 1 Voracious Fell Beast
-1 Inferno Titan
 1 Halo Scarab
-1 Rubble Rouser
+1 Magda, the Hoardmaster
 1 Dimir House Guard
-1 Burnished Hart
-1 Mauhúr, Uruk-hai Captain
+1 Razaketh, the Foulblooded
+1 June, Bounty Hunter
+1 The Balrog, Flame of Udûn
+1 Inferno Titan
 1 Flamekin Gildweaver
+1 Storm-Kiln Artist
+1 Azula, On the Hunt
+1 Canyon Crawler
 1 Ruthless Knave
-1 Page, Loose Leaf
 
 Artifacts
 1 Sol Ring
@@ -74,18 +76,16 @@ Artifacts
 1 Expedition Map
 1 Found Footage
 1 Swiftfoot Boots
-1 Firdoch Core
-1 Chromatic Lantern
-1 Hedron Archive
+1 Skullclamp
+1 Magnifying Glass
 
 Enchantments
 1 Greed
 1 Case of the Crimson Pulse
-1 Warstorm Surge
 1 Shiny Impetus
-1 Ripples of Undeath
-1 Kaya's Ghostform
-1 Fires of Mount Doom
+1 Book of Mazarbul
+1 Grave Pact
+1 Warstorm Surge
 
 Instants
 1 Thrill of Possibility
@@ -97,7 +97,6 @@ Instants
 1 Lithobraking
 1 Chaos Warp
 1 Dark Ritual
-1 Cabal Ritual
 
 Sorceries
 1 Faithless Looting
@@ -106,7 +105,8 @@ Sorceries
 1 Lash of the Balrog
 1 Processor Assault
 1 Blasphemous Act
+1 Swarming of Moria
+1 Foray of Orcs
+1 Electroduplicate
 1 Buried Alive
 1 Diabolic Tutor
-1 Swarming of Moria
-1 Razaketh's Rite

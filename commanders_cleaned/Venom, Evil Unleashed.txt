@@ -1,4 +1,3 @@
-Commander
 1 Venom, Evil Unleashed
 1 Fabled Passage
 1 Terramorphic Expanse
@@ -40,17 +39,15 @@ Commander
 1 Knight of Malice
 1 Merciless Enforcers
 1 Zulaport Cutthroat
-1 Qarsi Revenant
 1 Pirate Peddlers
+1 Dimir House Guard
+1 June, Bounty Hunter
+1 Qarsi Revenant
 1 Bonebind Orator
 1 Bile-Vial Boggart
 1 Squirrelanoids
 1 Shredder, Unrelenting
 1 Tunnel Rats
-1 Vile Entomber
-1 Dimir House Guard
-1 Inner Demons Gangsters
-1 Shadowborn Apostle
 1 Arcane Signet
 1 Sol Ring
 1 Mind Stone
@@ -60,8 +57,13 @@ Commander
 1 Found Footage
 1 Swiftfoot Boots
 1 Black Mage's Rod
+1 Whip of Erebos
 1 Basilisk Collar
-1 Wishclaw Talisman
+1 Bastion of Remembrance
+1 Black Market
+1 Grave Pact
+1 Shadows of the Past
+1 Obsessive Pursuit
 1 Corrupted Conviction
 1 Deadly Dispute
 1 Village Rites
@@ -73,21 +75,18 @@ Commander
 1 Heartless Act
 1 Doom Blade
 1 Maximum Overdrive
-1 Dark Ritual
 1 Fake Your Own Death
-1 Cabal Ritual
-1 Corpse Churn
 1 Scarblade's Malice
-1 Howl from Beyond
-1 Moment of Craving
-1 Eviscerator's Insight
+1 Bake into a Pie
+1 Consumed by Greed
+1 Unbury
+1 Dark Ritual
 1 Feed the Swarm
 1 Deadly Precision
 1 Decree of Pain
 1 Exsanguinate
-1 Razaketh's Rite
-1 Buried Alive
-1 Perfect Intimidation
-1 Brainspoil
-1 Bogslither's Embrace
+1 Stir the Grave
+1 Grim Discovery
+1 Gravedig
+1 Ruinous Waterbending
 1 Liliana of the Dark Realms

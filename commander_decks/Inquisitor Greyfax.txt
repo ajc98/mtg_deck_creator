@@ -51,17 +51,20 @@ Creatures
 1 Nadier's Nightblade
 1 Marionette Apprentice
 1 Dominator Drone
+1 Dimir House Guard
+1 Syr Vondam, Sunstar Exemplar
 1 Academy Manufactor
+1 Inside Source
+1 Expendable Lackey
+1 Hare Apparent
+1 Lunarch Veteran // Luminous Phantom
 1 Junk Winder
 1 Wernog, Rider's Chaplain
-1 Dimir House Guard
-1 Page, Loose Leaf
 1 Halo Scarab
-1 Cathodion
-1 Angel of the Ruins
-1 Canyon Crawler
-1 Shepherding Spirits
 1 Azula, On the Hunt
+1 Canyon Crawler
+1 Page, Loose Leaf
+1 Cathodion
 
 Artifacts
 1 Arcane Signet
@@ -76,15 +79,15 @@ Artifacts
 1 Idol of Oblivion
 1 Found Footage
 1 Swiftfoot Boots
-1 Chromatic Lantern
 1 Magnifying Glass
+1 Chromatic Lantern
 1 Bender's Waterskin
 
 Enchantments
 1 Obsessive Pursuit
+1 Tolls of War
 1 Propaganda
 1 Ghostly Prison
-1 Tolls of War
 
 Instants
 1 Deadly Dispute
@@ -98,17 +101,14 @@ Instants
 1 Generous Gift
 1 Complete Disregard
 1 Teferi's Protection
+1 Drag the Canal
 1 Counterspell
 1 Negate
 1 An Offer You Can't Refuse
-1 Drag the Canal
-1 Stroke of Midnight
 
 Sorceries
 1 Suppression Ray // Orderly Plaza
 1 Dusk // Dawn
 1 Time Wipe
 1 Martial Coup
-1 Buried Alive
-1 Brainspoil
-1 Razaketh's Rite
+1 Tempt with Bunnies

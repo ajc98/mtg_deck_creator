@@ -1,4 +1,3 @@
-Commander
 1 Lagorin, Soul of Alacria
 1 Command Tower
 1 Fabled Passage
@@ -43,17 +42,20 @@ Commander
 1 District Mascot
 1 Unswerving Sloth
 1 Veteran Survivor
+1 Hare Apparent
+1 Surrak, the Hunt Caller
+1 Cavalry Pegasus
+1 Evercoat Ursine
+1 Eldrazi Ravager
+1 Toski, Bearer of Secrets
 1 Shepherd of the Clouds
+1 Halo Scarab
+1 Courier of Comestibles
 1 Selvala, Explorer Returned
 1 Adept Watershaper
 1 Compassionate Healer
 1 Metastatic Evangel
 1 Slavering Branchsnapper
-1 Page, Loose Leaf
-1 Hazard of the Dunes
-1 Thornvault Forager
-1 Halo Scarab
-1 Courier of Comestibles
 1 Sol Ring
 1 Arcane Signet
 1 Veloheart Bike
@@ -63,17 +65,17 @@ Commander
 1 Found Footage
 1 Halo Fountain
 1 Broadcast Rambler
-1 The Ozolith
 1 Esika's Chariot
+1 Rolling Hamsphere
+1 The Ozolith
+1 Magnifying Glass
 1 Subway Train
-1 Unlicensed Hearse
-1 Swiftfoot Boots
 1 Stocking the Pantry
 1 Terrasymbiosis
 1 Garruk's Uprising
 1 Felidar Retreat
+1 Greater Good
 1 Banishing Light
-1 Reconnaissance
 1 Heritage Reclamation
 1 Return of the Wildspeaker
 1 Path to Exile
@@ -86,8 +88,6 @@ Commander
 1 Run Over
 1 Biosynthic Burst
 1 Saved by the Shell
-1 Disenchant
-1 Gift of the Viper
 1 Rampant Growth
 1 Farseek
 1 Explore
@@ -98,4 +98,3 @@ Commander
 1 Cultivate
 1 Fangs of Kalonia
 1 Zimone's Experiment
-1 Bushwhack

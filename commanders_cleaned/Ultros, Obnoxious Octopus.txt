@@ -1,4 +1,3 @@
-Commander
 1 Ultros, Obnoxious Octopus
 1 Fabled Passage
 1 Terramorphic Expanse
@@ -33,15 +32,16 @@ Commander
 1 Tanufel Rimespeaker
 1 Survey Mechan
 1 Triskaidekaphile
+1 Chasm Skulker
 1 Silver Myr
 1 Ornithopter of Paradise
-1 Page, Loose Leaf
 1 Halo Scarab
-1 Burnished Hart
 1 Emrakul's Messenger
+1 Page, Loose Leaf
+1 Burnished Hart
 1 Cathodion
-1 Chasm Skulker
 1 The Unagi of Kyoshi Island
+1 Expendable Lackey
 1 Sol Ring
 1 Thran Dynamo
 1 Arcane Signet
@@ -53,9 +53,9 @@ Commander
 1 Fellwar Stone
 1 Ominous Parcel
 1 Swiftfoot Boots
+1 Helm of the Host
 1 Sapphire Medallion
 1 Coveted Jewel
-1 Helm of the Host
 1 Found Footage
 1 Oblivion Stone
 1 Wizard Class
@@ -77,16 +77,15 @@ Commander
 1 Negate
 1 Memory Deluge
 1 Opt
-1 Case the Joint
 1 Finale of Revelation
 1 Treasure Cruise
 1 Stolen by the Fae
 1 Splash Portal
 1 Rite of Replication
+1 Mind Spiral
 1 Curse of the Swine
 1 Ponder
 1 Solve the Equation
 1 Preordain
 1 Deep Analysis
-1 Mind Spiral
 1 River's Rebuke

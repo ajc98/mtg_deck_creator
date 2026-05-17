@@ -46,9 +46,19 @@ Creatures
 1 Birds of Paradise
 1 Bloom Tender
 1 Rubble Rouser
-1 Dryad of the Ilysian Grove
-1 Forgotten Ancient
+1 Beledros Witherbloom
+1 Expendable Lackey
+1 Manaform Hellkite
+1 Dragonmaster Outcast
 1 Dimir House Guard
+1 Qiqirn Merchant
+1 Dragon Mage
+1 Savage Ventmaw
+1 Sludge Crawler
+1 Adéwalé, Breaker of Chains
+1 Runescale Stormbrood // Chilling Screech
+1 Transcendent Dragon
+1 Dryad of the Ilysian Grove
 
 Artifacts
 1 Sol Ring
@@ -58,22 +68,18 @@ Artifacts
 1 Infinite Guideline Station
 1 Found Footage
 1 Swiftfoot Boots
-1 Thought Vessel
-1 Gilded Lotus
-1 Thran Dynamo
-1 Expedition Map
+1 Gathering Stone
 1 Mind Stone
-1 The Ozolith
-1 Glittering Stockpile
-1 All-Fates Scroll
+1 Thought Vessel
 
 Enchantments
 1 Whirlwind of Thought
 1 Case of the Crimson Pulse
 1 Garruk's Uprising
 1 Simic Ascendancy
+1 Greater Good
+1 Ballad of the Black Flag
 1 Terrasymbiosis
-1 Doubling Season
 
 Instants
 1 Growth Spiral
@@ -89,14 +95,11 @@ Instants
 1 Teferi's Protection
 1 Maestros Charm
 1 Counterspell
-1 Riveteers Charm
-1 Planar Genesis
+1 Runescale Stormbrood // Chilling Screech
+1 Dispelling Exhale
+1 Spellgyre
 1 Izzet Charm
-1 Jeskai Charm
-1 Negate
-1 Beast Within
 1 Sphinx's Revelation
-1 An Offer You Can't Refuse
 
 Sorceries
 1 Farseek
@@ -107,9 +110,7 @@ Sorceries
 1 Dusk // Dawn
 1 Culmination of Studies
 1 Cultivate
-1 Tempt with Discovery
 1 Explore
-1 Circuitous Route
 
 Other
 1 Kaya, Bane of the Dead

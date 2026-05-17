@@ -1,4 +1,3 @@
-Commander
 1 Oroku Saki, Shredder Rising
 1 Fabled Passage
 1 Bojuka Bog
@@ -36,18 +35,19 @@ Commander
 1 Merciless Enforcers
 1 Gray Merchant of Asphodel
 1 Kami of Jealous Thirst
+1 Shredder, Unrelenting
+1 Okiba-Gang Shinobi
+1 Skullsnatcher
+1 Appendage Amalgam
+1 Sludge Crawler
 1 Virus Beetle
 1 Insectoid Exterminator
 1 Squirrelanoids
-1 Skullsnatcher
-1 Okiba-Gang Shinobi
 1 Hullcarver
-1 Shredder, Unrelenting
 1 Super Shredder
-1 Appendage Amalgam
 1 Crypt Rats
-1 Page, Loose Leaf
-1 Halo Scarab
+1 Azula, On the Hunt
+1 The Rise of Sozin // Fire Lord Sozin
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -91,5 +91,4 @@ Commander
 1 In Garruk's Wake
 1 Fell
 1 Duress
-1 Diabolic Tutor
 1 Liliana of the Dark Realms

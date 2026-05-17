@@ -50,6 +50,7 @@ Creatures
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Devoted Duelist
+1 Jolrael, Mwonvuli Recluse
 1 Forgotten Ancient
 1 Kalonian Hydra
 1 Evolution Witness
@@ -58,6 +59,7 @@ Creatures
 1 Ghalta, Primal Hunger
 1 Mossborn Hydra
 1 Sakura-Tribe Elder
+1 Courier of Comestibles
 1 Savage Ventmaw
 1 Taurean Mauler
 1 Grumgully, the Generous
@@ -70,9 +72,8 @@ Artifacts
 1 Swiftfoot Boots
 1 The Ozolith
 1 Talisman of Impulse
+1 Magnifying Glass
 1 Mind Stone
-1 Glittering Stockpile
-1 All-Fates Scroll
 
 Enchantments
 1 Garruk's Uprising
@@ -80,9 +81,9 @@ Enchantments
 1 Greater Good
 1 Case of the Crimson Pulse
 1 Cool but Rude
+1 Primeval Bounty
 1 Unnatural Growth
 1 Ordeal of Nylea
-1 Stocking the Pantry
 
 Instants
 1 Return of the Wildspeaker
@@ -94,10 +95,9 @@ Instants
 1 Lithobraking
 1 Snakeskin Veil
 1 Gaea's Gift
+1 Cache Grab
 1 Chaos Warp
 1 Bolt Bend
-1 Bite Down
-1 Broken Wings
 
 Sorceries
 1 Rampant Growth
@@ -107,9 +107,9 @@ Sorceries
 1 Decimate
 1 Processor Assault
 1 Blasphemous Act
+1 Many Partings
 1 Cultivate
 1 Fangs of Kalonia
-1 Circuitous Route
 
 Other
 1 Domri, Anarch of Bolas

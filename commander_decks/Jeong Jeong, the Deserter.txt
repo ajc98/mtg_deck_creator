@@ -40,12 +40,16 @@ Creatures
 1 Guttersnipe
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Deserter's Disciple
+1 Camera Launcher
+1 Halo Scarab
 1 Zuko, Exiled Prince
 1 Ty Lee, Artful Acrobat
 1 Laelia, the Blade Reforged
+1 Eldrazi Ravager
+1 Vile Aggregate
+1 Deserter's Disciple
+1 Oliphaunt
 1 Caldera Pyremaw
-1 Bedhead Beastie
 
 Artifacts
 1 Sol Ring
@@ -56,23 +60,20 @@ Artifacts
 1 Sword of Hearth and Home
 1 Thought Vessel
 1 Glittering Stockpile
+1 Magnifying Glass
 1 All-Fates Scroll
 1 Twin Blades
 1 Fellwar Stone
 1 The Ozolith
-1 Magnifying Glass
-1 Hedron Archive
-1 Coveted Jewel
 
 Enchantments
 1 The Cave of Two Lovers
 1 Case of the Crimson Pulse
 1 Cool but Rude
 1 Firebender Ascension
-1 Warstorm Surge
-1 Fervor
 1 Curse of Opulence
-1 Outpost Siege
+1 Fervor
+1 Warstorm Surge
 
 Instants
 1 Zuko's Exile
@@ -99,5 +100,4 @@ Sorceries
 1 Iroh's Demonstration
 1 Processor Assault
 1 Blasphemous Act
-1 Bumi Bash
-1 Mana Geyser
+1 Kindle the Inner Flame

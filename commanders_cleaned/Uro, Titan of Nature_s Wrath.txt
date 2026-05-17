@@ -1,4 +1,3 @@
-Commander
 1 Uro, Titan of Nature's Wrath
 1 Fabled Passage
 1 Command Tower
@@ -49,30 +48,32 @@ Commander
 1 Koma, World-Eater
 1 Archetype of Endurance
 1 Triskaidekaphile
+1 Evercoat Ursine
+1 Eldrazi Ravager
+1 Toski, Bearer of Secrets
+1 Spinner of Souls
+1 Expendable Lackey
+1 Champion of Dusan
 1 Avenger of Zendikar
-1 Lotus Cobra
 1 Scute Swarm
 1 Rampaging Baloths
+1 Springheart Nantuko
+1 Dour Port-Mage
+1 Lotus Cobra
 1 Azusa, Lost but Seeking
 1 Ramunap Excavator
 1 Dryad of the Ilysian Grove
-1 Springheart Nantuko
 1 Satyr Wayfinder
 1 Coiling Oracle
 1 Hydroid Krasis
 1 Loot, Exuberant Explorer
-1 Mossborn Hydra
-1 Kodama of the East Tree
-1 Springbloom Druid
 1 Sol Ring
 1 Arcane Signet
+1 Sword of Hearth and Home
 1 Crucible of Worlds
-1 Fellwar Stone
-1 Thought Vessel
-1 Mind Stone
-1 Expedition Map
 1 Greater Good
 1 Garruk's Uprising
+1 Stormchaser's Talent
 1 Wild Growth
 1 Growth Spiral
 1 Planar Genesis
@@ -85,17 +86,15 @@ Commander
 1 Rapid Hybridization
 1 Heritage Reclamation
 1 Evacuation
+1 Peerless Recycling
 1 Counterspell
 1 An Offer You Can't Refuse
 1 Negate
-1 Midnight Tilling
-1 Cache Grab
-1 Embrace the Paradox
 1 Rampant Growth
 1 Farseek
 1 Explore
 1 Ponder
 1 Urban Evolution
-1 Cultivate
+1 Recollect
 1 Malevolent Rumble
-1 Doppelgang
+1 Cultivate

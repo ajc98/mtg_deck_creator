@@ -47,18 +47,25 @@ Creatures
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Aurelia, the Warleader
-1 Caldera Pyremaw
-1 Etali, Primal Storm
 1 Combat Celebrant
+1 Etali, Primal Storm
+1 Dragon Mage
+1 Drakuseth, Maw of Flames
+1 Laelia, the Blade Reforged
+1 Eldrazi Ravager
 1 Dragonspeaker Shaman
-1 Page, Loose Leaf
 1 Dragonlord's Servant
+1 Caldera Pyremaw
+1 Fire Sages
+1 Jeong Jeong, the Deserter
+1 Brazen Collector
+1 Fire Nation Cadets
+1 Zuko, Exiled Prince
+1 Oliphaunt
+1 Rough Rhino Cavalry
+1 Page, Loose Leaf
 1 Burnished Hart
 1 Young Pyromancer
-1 Loyal Warhound
-1 Halo Scarab
-1 Shepherding Spirits
-1 Angel of the Ruins
 
 Artifacts
 1 Sol Ring
@@ -72,16 +79,11 @@ Artifacts
 1 Hedron Archive
 1 Found Footage
 1 Swiftfoot Boots
-1 Pyromancer's Goggles
-1 Gilded Lotus
-1 Helm of the Host
+1 Gathering Stone
 
 Enchantments
 1 Case of the Crimson Pulse
 1 Cool but Rude
-1 Monologue Tax
-1 Firebender Ascension
-1 Ghostly Prison
 
 Instants
 1 Big Score
@@ -97,7 +99,6 @@ Instants
 1 Teferi's Protection
 1 Chaos Warp
 1 Bolt Bend
-1 Valorous Stance
 
 Sorceries
 1 Faithless Looting
@@ -110,4 +111,3 @@ Sorceries
 1 Reconstruct History
 1 Promise of Loyalty
 1 Mana Geyser
-1 Will of the Jeskai

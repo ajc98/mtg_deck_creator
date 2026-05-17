@@ -36,6 +36,7 @@ Lands
 1 Obscura Storefront
 1 Polluted Delta
 1 Polluted Mire
+1 Grim Backwoods
 1 Forest
 1 Swamp
 
@@ -54,21 +55,20 @@ Creatures
 1 Zulaport Cutthroat
 1 Mirkwood Bats
 1 Nadier's Nightblade
-1 Deep Forest Hermit
-1 Academy Manufactor
+1 Viscera Seer
+1 Ruthless Knave
+1 Dimir House Guard
+1 Poison-Tip Archer
+1 Spinner of Souls
 1 Camellia, the Seedmiser
+1 Academy Manufactor
+1 Deep Forest Hermit
 1 Scurry of Squirrels
 1 Squirrel Sovereign
 1 Blood Artist
 1 Honored Dreyleader
 1 Hazel's Brewmaster
 1 Scute Swarm
-1 Nested Shambler
-1 Poison-Tip Archer
-1 Nut Collector
-1 Birds of Paradise
-1 Marionette Apprentice
-1 Gala Greeters
 
 Artifacts
 1 Sol Ring
@@ -79,16 +79,17 @@ Artifacts
 1 Idol of Oblivion
 1 Swiftfoot Boots
 1 Chitterspitter
-1 Sword of the Squeak
-1 Bootleggers' Stash
 
 Enchantments
 1 Moldervine Reclamation
 1 Bastion of Remembrance
+1 Greater Good
+1 Grave Pact
+1 Dictate of Erebos
 1 Squirrel Nest
 1 Parallel Lives
-1 Beastmaster Ascension
 1 Doubling Season
+1 Beastmaster Ascension
 
 Instants
 1 Deadly Dispute
@@ -109,7 +110,6 @@ Sorceries
 1 Swarmyard Massacre
 1 Chatterstorm
 1 Rootcast Apprenticeship
-1 Cultivate
 
 Other
 1 Garruk, Cursed Huntsman

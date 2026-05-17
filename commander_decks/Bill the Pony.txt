@@ -30,6 +30,7 @@ Lands
 1 Cryptic Caves
 1 Volatile Fault
 1 Maze's End
+1 High Market
 9 Plains
 
 Creatures
@@ -40,21 +41,21 @@ Creatures
 1 Helpful Hunter
 1 Survey Mechan
 1 Zetalpa, Primal Dawn
+1 Furious Forebear
 1 Rosie Cotton of South Lane
-1 Academy Manufactor
 1 Eastfarthing Farmer
+1 Academy Manufactor
+1 Cat Collector
+1 Lita, Little Orphan Amphibian
+1 Lunarch Veteran // Luminous Phantom
 1 Nyx-Fleece Ram
 1 Rasaad yn Bashir
-1 Cat Collector
 1 Restoration Angel
 1 Sun Titan
 1 Diamond Mare
-1 Lita, Little Orphan Amphibian
-1 Page, Loose Leaf
 1 Halo Scarab
-1 Cathodion
-1 Shepherding Spirits
-1 Angel of the Ruins
+1 Hare Apparent
+1 Page, Loose Leaf
 
 Artifacts
 1 Sol Ring
@@ -72,15 +73,14 @@ Artifacts
 1 Bumbleflower's Sharepot
 1 Swiftfoot Boots
 1 Halo Fountain
-1 Bark of Doran
 1 Carrot Cake
-1 Kite Shield
+1 Bark of Doran
+1 Magnifying Glass
 
 Enchantments
 1 Ghostly Prison
-1 Airbender Ascension
 1 Monologue Tax
-1 Tenuous Truce
+1 Builder's Talent
 
 Instants
 1 Path to Exile
@@ -89,9 +89,9 @@ Instants
 1 Disenchant
 1 Stroke of Midnight
 1 Teferi's Protection
-1 Refuse to Yield
 1 Second Breakfast
 1 Crumb and Get It
+1 Refuse to Yield
 1 Personify
 1 Parting Gust
 
@@ -101,7 +101,7 @@ Sorceries
 1 Cut a Deal
 1 Dusk // Dawn
 1 Fumigate
-1 Another Round
+1 Tempt with Bunnies
 
 Other
 1 Elspeth, Sun's Champion

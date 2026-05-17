@@ -42,17 +42,16 @@ Creatures
 1 Survey Mechan
 1 Selfless Spirit
 1 Sun Titan
+1 Kinscaer Sentry
+1 Eldrazi Ravager
+1 Silver Sable, Mercenary Leader
 1 Emeria Shepherd
 1 Skyclave Apparition
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Cathodion
 1 Shepherding Spirits
-1 Kinscaer Sentry
 1 Knight of Grace
-1 Seeker of the Way
-1 Abzan Battle Priest
-1 Hare Apparent
 
 Artifacts
 1 Sol Ring
@@ -67,6 +66,7 @@ Artifacts
 1 Ominous Parcel
 1 Swiftfoot Boots
 1 Halo Fountain
+1 Argent Dais
 1 All-Fates Scroll
 1 Magnifying Glass
 1 Bender's Waterskin

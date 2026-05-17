@@ -1,4 +1,3 @@
-Commander
 1 Alharu, Solemn Ritualist
 1 Terramorphic Expanse
 1 The Fair Basilica
@@ -37,21 +36,24 @@ Commander
 1 Helpful Hunter
 1 Survey Mechan
 1 Hanged Executioner
+1 Intrepid Rabbit
+1 Hare Apparent
+1 Syndicate Messenger
+1 Boss's Chauffeur
+1 Furious Forebear
+1 Luminous Broodmoth
 1 Kinsbaile Aspirant
 1 Ainok Bond-Kin
 1 Warren Elder
 1 Oreskos Swiftclaw
 1 Syr Alin, the Lion's Claw
 1 Gallant Fowlknight
+1 Halo Scarab
 1 Aerie Auxiliary
 1 Exosuit Savior
 1 Page, Loose Leaf
-1 Halo Scarab
-1 Intrepid Rabbit
 1 Poised Practitioner
 1 Shrike Force
-1 Cathodion
-1 Shepherding Spirits
 1 Arcane Signet
 1 Sol Ring
 1 Mind Stone
@@ -67,15 +69,15 @@ Commander
 1 Swiftfoot Boots
 1 Hero's Blade
 1 Feldon's Cane
+1 Magnifying Glass
 1 Tangle Tumbler
 1 Angelic Gift
 1 Banishing Light
 1 Muster the Departed
-1 Liminal Hold
 1 Felidar Retreat
-1 Font of Vigor
-1 Seam Rip
-1 Hold for Ransom
+1 Builder's Talent
+1 Liminal Hold
+1 Aligned Heart
 1 Personify
 1 Path to Exile
 1 Swords to Plowshares
@@ -85,8 +87,6 @@ Commander
 1 Lightfoot Technique
 1 Slash of Light
 1 Make Your Move
-1 Devouring Light
-1 Make a Stand
 1 Environmental Sciences
 1 Cut a Deal
 1 Dismantling Wave
@@ -94,5 +94,4 @@ Commander
 1 Dusk // Dawn
 1 Fumigate
 1 Martial Coup
-1 Scout for Survivors
 1 Elspeth, Sun's Champion

@@ -45,22 +45,24 @@ Creatures
 1 Mirkwood Bats
 1 Marauding Blight-Priest
 1 Glidedive Duo
+1 Moonrise Cleric
+1 Sludge Crawler
+1 Dominator Drone
+1 Culling Drone
+1 Eldrazi Ravager
+1 Sun Titan
+1 Dimir House Guard
+1 June, Bounty Hunter
+1 Sengir, the Dark Baron
+1 Shadewing Laureate
 1 Lifecreed Duo
 1 Essence Channeler
 1 Darkstar Augur
 1 Star Charter
-1 Moonrise Cleric
 1 Starlit Soothsayer
 1 Starseer Mentor
 1 Wax-Wane Witness
 1 Malakir Familiar
-1 Valley Questcaller
-1 Momo, Friendly Flier
-1 Skeletal Vampire
-1 Bloodhunter Bat
-1 Blood Artist
-1 Jackdaw Savior
-1 Page, Loose Leaf
 
 Artifacts
 1 Sol Ring
@@ -76,13 +78,14 @@ Artifacts
 1 Sinister Monolith
 1 Skullclamp
 1 Swiftfoot Boots
+1 Whip of Erebos
 
 Enchantments
 1 Lunar Convocation
 1 Banishing Light
-1 Sanguine Bond
-1 Exquisite Blood
-1 Ripples of Undeath
+1 Builder's Talent
+1 Bastion of Remembrance
+1 Necropotence
 
 Instants
 1 Dawn's Truce
@@ -95,9 +98,8 @@ Instants
 1 Generous Gift
 1 Crumb and Get It
 1 Teferi's Protection
-1 Sonar Strike
-1 Hazel's Nocturne
-1 Dark Ritual
+1 Unbury
+1 Feed the Cycle
 
 Sorceries
 1 Diresight
@@ -107,7 +109,5 @@ Sorceries
 1 Dusk // Dawn
 1 Fumigate
 1 Damning Verdict
-1 Stargaze
-1 Exsanguinate
-1 Buried Alive
-1 Diabolic Tutor
+1 Coiling Rebirth
+1 Zombify

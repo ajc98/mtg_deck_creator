@@ -42,19 +42,20 @@ Creatures
 1 Gray Merchant of Asphodel
 1 Zulaport Cutthroat
 1 Crypt Ghast
-1 Chainer, Dementia Master
 1 Doomed Necromancer
-1 Blood Celebrant
-1 Blood Artist
-1 Braids, Cabal Minion
-1 Burnished Hart
-1 Dimir House Guard
-1 Page, Loose Leaf
-1 Halo Scarab
+1 Driver of the Dead
+1 Gravewaker
+1 Valgavoth's Faithful
 1 Viscera Seer
-1 Shadowborn Apostle
-1 Cathodion
+1 Dimir House Guard
+1 Vampire Aristocrat
+1 Dusk Mangler
+1 Ogre Slumlord
+1 Heirloom Auntie
+1 Nezumi Graverobber // Nighteyes the Desecrator
 1 Canyon Crawler
+1 Beamsaw Prospector
+1 Chainer, Dementia Master
 
 Artifacts
 1 Sol Ring
@@ -67,15 +68,18 @@ Artifacts
 1 Ominous Parcel
 1 Found Footage
 1 Swiftfoot Boots
-1 Wishclaw Talisman
+1 Orochi Hatchery
 
 Enchantments
 1 Greed
 1 Bastion of Remembrance
+1 Vampiric Rites
 1 Black Market
 1 Grave Pact
 1 Dictate of Erebos
-1 Vampiric Rites
+1 Necropotence
+1 Corpseweft
+1 Waste Not
 
 Instants
 1 Deadly Dispute
@@ -88,7 +92,6 @@ Instants
 1 Deal Gone Bad
 1 Cabal Ritual
 1 Dark Ritual
-1 Smother
 
 Sorceries
 1 Environmental Sciences
@@ -97,8 +100,5 @@ Sorceries
 1 Diabolic Tutor
 1 Decree of Pain
 1 Feed the Swarm
-1 Exsanguinate
-1 Head Games
-1 Duress
-1 Razaketh's Rite
-1 Brainspoil
+1 Stir the Grave
+1 Gravedig

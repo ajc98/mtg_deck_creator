@@ -1,4 +1,3 @@
-Commander
 1 Totentanz, Swarm Piper
 1 Command Tower
 1 Evolving Wilds
@@ -34,6 +33,8 @@ Commander
 1 Swarmyard
 1 Ash Barrens
 1 Shire Terrace
+1 High Market
+1 Volatile Fault
 1 Swamp
 1 Mountain
 1 Garna, Bloodfist of Keld
@@ -45,21 +46,23 @@ Commander
 1 Iron-Shield Elf
 1 Mirkwood Bats
 1 Zulaport Cutthroat
-1 Piper of the Swarm
+1 Viscera Seer
+1 Dimir House Guard
+1 June, Bounty Hunter
 1 Ogre Slumlord
+1 Warehouse Tabby
+1 Midnight Reaper
+1 Piper of the Swarm
 1 Tangled Colony
+1 Canyon Crawler
+1 Beamsaw Prospector
 1 Redcap Gutter-Dweller
 1 Persistent Marshstalker
 1 Typhoid Rats
 1 Blood Artist
 1 Crypt Rats
-1 Viscera Seer
 1 Nadier's Nightblade
 1 Blightbelly Rat
-1 Warehouse Tabby
-1 Dimir House Guard
-1 Rubble Rouser
-1 Gnat Miser
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -75,7 +78,9 @@ Commander
 1 Impact Tremors
 1 Bastion of Remembrance
 1 Grave Pact
-1 Cool but Rude
+1 Black Market
+1 Dictate of Erebos
+1 Echoing Assault
 1 Fell the Profane // Fell Mire
 1 Village Rites
 1 Deadly Dispute
@@ -85,9 +90,8 @@ Commander
 1 Abrade
 1 Murder
 1 Lithobraking
-1 Chaos Warp
-1 Dark Ritual
 1 Not Dead After All
+1 Chaos Warp
 1 Environmental Sciences
 1 Faithless Looting
 1 Feed the Swarm
@@ -95,8 +99,3 @@ Commander
 1 Processor Assault
 1 Blasphemous Act
 1 Revenge of the Rats
-1 Swarmyard Massacre
-1 Diabolic Tutor
-1 Psychic Whorl
-1 Razaketh's Rite
-1 Buried Alive

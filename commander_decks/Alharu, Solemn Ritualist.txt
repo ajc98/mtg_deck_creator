@@ -41,21 +41,24 @@ Creatures
 1 Helpful Hunter
 1 Survey Mechan
 1 Hanged Executioner
+1 Intrepid Rabbit
+1 Hare Apparent
+1 Syndicate Messenger
+1 Boss's Chauffeur
+1 Furious Forebear
+1 Luminous Broodmoth
 1 Kinsbaile Aspirant
 1 Ainok Bond-Kin
 1 Warren Elder
 1 Oreskos Swiftclaw
 1 Syr Alin, the Lion's Claw
 1 Gallant Fowlknight
+1 Halo Scarab
 1 Aerie Auxiliary
 1 Exosuit Savior
 1 Page, Loose Leaf
-1 Halo Scarab
-1 Intrepid Rabbit
 1 Poised Practitioner
 1 Shrike Force
-1 Cathodion
-1 Shepherding Spirits
 
 Artifacts
 1 Arcane Signet
@@ -73,17 +76,17 @@ Artifacts
 1 Swiftfoot Boots
 1 Hero's Blade
 1 Feldon's Cane
+1 Magnifying Glass
 1 Tangle Tumbler
 
 Enchantments
 1 Angelic Gift
 1 Banishing Light
 1 Muster the Departed
-1 Liminal Hold
 1 Felidar Retreat
-1 Font of Vigor
-1 Seam Rip
-1 Hold for Ransom
+1 Builder's Talent
+1 Liminal Hold
+1 Aligned Heart
 
 Instants
 1 Personify
@@ -95,8 +98,6 @@ Instants
 1 Lightfoot Technique
 1 Slash of Light
 1 Make Your Move
-1 Devouring Light
-1 Make a Stand
 
 Sorceries
 1 Environmental Sciences
@@ -106,7 +107,6 @@ Sorceries
 1 Dusk // Dawn
 1 Fumigate
 1 Martial Coup
-1 Scout for Survivors
 
 Other
 1 Elspeth, Sun's Champion

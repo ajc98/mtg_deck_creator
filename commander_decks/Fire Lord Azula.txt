@@ -52,13 +52,15 @@ Creatures
 1 Guttersnipe
 1 Vivi Ornitier
 1 Vindictive Warden
-1 Veyran, Voice of Duality
 1 Etali, Primal Storm
+1 Fire Sages
+1 Ty Lee, Artful Acrobat
+1 Sludge Crawler
+1 Jeong Jeong, the Deserter
 1 Goblin Electromancer
 1 Stormcatch Mentor
-1 Fire Sages
-1 Dimir House Guard
-1 Ty Lee, Artful Acrobat
+1 Archmage of Runes
+1 Veyran, Voice of Duality
 
 Artifacts
 1 Arcane Signet
@@ -67,14 +69,10 @@ Artifacts
 1 Izzet Signet
 1 Bender's Waterskin
 1 Swiftfoot Boots
-1 Wishclaw Talisman
-1 Thought Vessel
-1 Chromatic Lantern
 
 Enchantments
 1 Firebender Ascension
 1 Underworld Breach
-1 Necropotence
 
 Instants
 1 Frantic Search
@@ -93,21 +91,23 @@ Instants
 1 Heartless Act
 1 Lithobraking
 1 Octopus Form
+1 Counterspell
+1 It'll Quench Ya!
+1 Spellgyre
+1 Consign to Memory
+1 Refute
 1 Electrodominance
 1 Dark Ritual
 1 Narset's Reversal
 1 An Offer You Can't Refuse
-1 Counterspell
 1 Chaos Warp
 1 Bolt Bend
 1 Cabal Ritual
 1 Negate
 1 Mystical Teachings
-1 Cunning Maneuver
 
 Sorceries
 1 Processor Assault
 1 Blasphemous Act
 1 Exsanguinate
 1 Mana Geyser
-1 Ponder

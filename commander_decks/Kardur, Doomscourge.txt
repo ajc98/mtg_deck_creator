@@ -36,6 +36,7 @@ Lands
 1 Volatile Fault
 1 Rogue's Passage
 1 Reliquary Tower
+1 High Market
 1 Mountain
 1 Swamp
 
@@ -50,16 +51,19 @@ Creatures
 1 Zulaport Cutthroat
 1 Guttersnipe
 1 Gray Merchant of Asphodel
+1 Sludge Crawler
+1 Venerated Stormsinger
+1 Culling Drone
+1 Pulse Tracker
+1 Dimir House Guard
+1 June, Bounty Hunter
+1 Massacre Wurm
+1 Ogre Slumlord
+1 Deathgreeter
+1 Canyon Crawler
+1 Beamsaw Prospector
 1 Blood Artist
 1 Alexios, Deimos of Kosmos
-1 Burnished Hart
-1 Massacre Wurm
-1 Vampire Nighthawk
-1 Dimir House Guard
-1 Rubble Rouser
-1 Shadowborn Apostle
-1 Canyon Crawler
-1 Halo Scarab
 
 Artifacts
 1 Sol Ring
@@ -73,16 +77,16 @@ Artifacts
 1 Glittering Stockpile
 1 Found Footage
 1 Swiftfoot Boots
+1 Skullclamp
 1 Helm of the Host
-1 Wishclaw Talisman
 
 Enchantments
 1 Case of the Crimson Pulse
 1 Shiny Impetus
+1 Vampiric Rites
+1 Black Market
+1 Bastion of Remembrance
 1 Curse of Opulence
-1 Kaya's Ghostform
-1 Sunbird's Invocation
-1 Cool but Rude
 
 Instants
 1 Village Rites
@@ -95,21 +99,17 @@ Instants
 1 Grip of Desolation
 1 Lithobraking
 1 Not Dead After All
+1 Fake Your Own Death
 1 Chaos Warp
 1 Undying Malice
-1 Fake Your Own Death
-1 Dark Ritual
 
 Sorceries
 1 Faithless Looting
 1 Feed the Swarm
 1 Processor Assault
 1 Blasphemous Act
+1 Electroduplicate
 1 Mana Geyser
-1 Diabolic Tutor
-1 Razaketh's Rite
-1 Buried Alive
-1 Brainspoil
 
 Other
 1 Ob Nixilis Reignited

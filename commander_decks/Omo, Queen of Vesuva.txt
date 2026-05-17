@@ -55,6 +55,11 @@ Creatures
 1 Acidic Slime
 1 Lord of the Unreal
 1 Triskaidekaphile
+1 Aven Courier
+1 Rampant Frogantua
+1 Evercoat Ursine
+1 Eldrazi Ravager
+1 Toski, Bearer of Secrets
 1 Dryad of the Ilysian Grove
 1 Avenger of Zendikar
 1 Magus of the Candelabra
@@ -62,14 +67,12 @@ Creatures
 1 Scute Swarm
 1 Ramunap Excavator
 1 Rampaging Baloths
-1 Aven Courier
 1 Apex Devastator
 1 Hydra Broodmaster
 1 Galerider Sliver
 1 Elvish Rejuvenator
 1 Terastodon
 1 Azusa, Lost but Seeking
-1 Rampant Frogantua
 
 Artifacts
 1 Sol Ring
@@ -78,7 +81,6 @@ Artifacts
 1 Swiftfoot Boots
 1 Mirage Mirror
 1 Maskwood Nexus
-1 Chromatic Lantern
 
 Enchantments
 1 Copy Land
@@ -102,14 +104,12 @@ Sorceries
 1 Finale of Revelation
 1 Urban Evolution
 1 Harmonize
-1 Hour of Promise
 1 March from Velis Vel
+1 Hour of Promise
 1 Aggressive Biomancy
 1 Curse of the Swine
 1 Replication Technique
 1 Doppelgang
-1 Tempt with Discovery
 
 Other
 1 Vivien Reid
-1 Nissa, Steward of Elements

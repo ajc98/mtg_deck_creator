@@ -49,6 +49,9 @@ Creatures
 1 Archetype of Endurance
 1 Zulaport Cutthroat
 1 Mirkwood Bats
+1 Sludge Crawler
+1 Evercoat Ursine
+1 Dominator Drone
 1 Blood Artist
 1 Savra, Queen of the Golgari
 1 Gala Greeters
@@ -68,23 +71,21 @@ Artifacts
 1 Talisman of Resilience
 1 Skullclamp
 1 Swiftfoot Boots
+1 Gathering Stone
 1 Bolas's Citadel
 1 Golgari Signet
-1 Thought Vessel
 
 Enchantments
 1 Moldervine Reclamation
 1 Vampiric Rites
 1 Greed
 1 Bastion of Remembrance
+1 Beastmaster Ascension
 1 Sanguine Bond
 1 Parallel Lives
 1 Exquisite Blood
 1 Doubling Season
 1 Insidious Roots
-1 Wild Growth
-1 Binding the Old Gods
-1 Necropotence
 
 Instants
 1 Fell the Profane // Fell Mire
@@ -111,4 +112,3 @@ Sorceries
 1 Decree of Pain
 1 Exsanguinate
 1 Cultivate
-1 Diabolic Tutor

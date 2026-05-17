@@ -43,20 +43,23 @@ Creatures
 1 Gray Merchant of Asphodel
 1 Nadier's Nightblade
 1 Dunland Crebain
-1 Mordor Trebuchet
 1 Easterling Vanguard
-1 Ogre Slumlord
+1 Mordor Trebuchet
 1 Warg Rider
-1 Gríma Wormtongue
+1 Ogre Slumlord
 1 Voracious Fell Beast
+1 Gríma Wormtongue
+1 Dimir House Guard
+1 Pirate Peddlers
 1 Blood Artist
 1 Piper of the Swarm
 1 Zulaport Cutthroat
 1 Fire Navy Trebuchet
 1 Nested Shambler
 1 Crypt Ghast
-1 Dimir House Guard
-1 Shadowborn Apostle
+1 Bitterbloom Bearer
+1 Infestation Sage
+1 Marionette Apprentice
 
 Artifacts
 1 Sol Ring
@@ -71,13 +74,14 @@ Artifacts
 1 Skullclamp
 1 Found Footage
 1 Swiftfoot Boots
-1 Wishclaw Talisman
 
 Enchantments
 1 Vampiric Rites
 1 Bastion of Remembrance
 1 March from the Black Gate
 1 Grave Pact
+1 Black Market
+1 Dictate of Erebos
 
 Instants
 1 Village Rites
@@ -88,8 +92,8 @@ Instants
 1 Overkill
 1 Doom Blade
 1 Dark Ritual
-1 Cabal Ritual
 1 Fake Your Own Death
+1 Shelob's Ambush
 
 Sorceries
 1 Mordor Muster
@@ -97,9 +101,5 @@ Sorceries
 1 Lash of the Balrog
 1 Claim the Precious
 1 Decree of Pain
-1 Army of the Damned
 1 Dread Summons
-1 Diabolic Tutor
-1 Razaketh's Rite
-1 Buried Alive
-1 Brainspoil
+1 Army of the Damned

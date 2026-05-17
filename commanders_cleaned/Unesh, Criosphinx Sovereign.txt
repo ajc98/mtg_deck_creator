@@ -1,4 +1,3 @@
-Commander
 1 Unesh, Criosphinx Sovereign
 1 Fabled Passage
 1 Cephalid Coliseum
@@ -35,16 +34,16 @@ Commander
 1 Sphinx of the Final Word
 1 Curator of Destinies
 1 Triskaidekaphile
+1 Expendable Lackey
+1 Halo Scarab
 1 Alhammarret, High Arbiter
 1 Omni-Changeling
 1 Three Tree Mascot
 1 Page, Loose Leaf
-1 Halo Scarab
 1 Burnished Hart
 1 Barkform Harvester
 1 Emrakul's Messenger
 1 Cathodion
-1 Kaho, Minamo Historian
 1 Sol Ring
 1 Thought Vessel
 1 Arcane Signet
@@ -61,8 +60,8 @@ Commander
 1 Patchwork Banner
 1 Heraldic Banner
 1 Gathering Stone
-1 Bident of Thassa
 1 Wizard Class
+1 Stormchaser's Talent
 1 Propaganda
 1 Witness Protection
 1 Arcane Denial

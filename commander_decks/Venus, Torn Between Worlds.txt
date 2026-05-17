@@ -66,6 +66,7 @@ Artifacts
 1 Thought Vessel
 1 Fellwar Stone
 1 Bender's Waterskin
+1 Magnifying Glass
 1 Mind Stone
 1 All-Fates Scroll
 
@@ -73,6 +74,8 @@ Enchantments
 1 Terrasymbiosis
 1 Garruk's Uprising
 1 Simic Ascendancy
+1 Greater Good
+1 Sylvan Scavenging
 
 Instants
 1 Growth Spiral
@@ -88,26 +91,23 @@ Instants
 1 Heritage Reclamation
 1 Saved by the Shell
 1 Snakeskin Veil
+1 Ooze Spill
 1 Counterspell
 1 Negate
 1 Biosynthic Burst
 1 Gaea's Gift
-1 Ooze Spill
+1 Return to the Sewers
 1 Tenderize
 1 Planar Genesis
-1 Return to the Sewers
-1 Slip Out the Back
-1 Blossoming Defense
 
 Sorceries
 1 Bushwhack
 1 Rampant Growth
 1 Farseek
 1 Explore
-1 Cultivate
 1 Longstalk Brawl
 1 Mutant Chain Reaction
+1 Cultivate
 1 Primal Might
 1 Kapow!
 1 Michelangelo's Technique
-1 Cowabunga!

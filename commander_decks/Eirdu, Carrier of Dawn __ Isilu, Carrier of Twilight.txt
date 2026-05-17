@@ -42,18 +42,20 @@ Creatures
 1 Purging Stormbrood // Absorb Essence
 1 Knight of Malice
 1 Dominator Drone
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Cathodion
-1 Azula, On the Hunt
-1 The Rise of Sozin // Fire Lord Sozin
-1 Dimir House Guard
-1 Mind Raker
 1 Tivash, Gloom Summoner
 1 Hare Apparent
-1 Shadowborn Apostle
-1 Gathering Throng
-1 Iron-Shield Elf
+1 Mavren Fein, Dusk Apostle
+1 Alharu, Solemn Ritualist
+1 Dimir House Guard
+1 June, Bounty Hunter
+1 Furious Forebear
+1 Sengir, the Dark Baron
+1 Halo Scarab
+1 Azula, On the Hunt
+1 Page, Loose Leaf
+1 Cathodion
+1 The Rise of Sozin // Fire Lord Sozin
+1 Beamsaw Prospector
 
 Artifacts
 1 Expedition Map
@@ -64,16 +66,19 @@ Artifacts
 1 Fellwar Stone
 1 Found Footage
 1 Halo Fountain
+1 Orochi Hatchery
 1 Magnifying Glass
 1 Bender's Waterskin
 1 Hedron Archive
-1 Wishclaw Talisman
-1 Oblivion Stone
 
 Enchantments
 1 Greed
 1 Lunar Convocation
-1 Necropotence
+1 Builder's Talent
+1 Waste Not
+1 Sothera, the Supervoid
+1 Aligned Heart
+1 Hoofprints of the Stag
 
 Instants
 1 Energybending
@@ -85,7 +90,8 @@ Instants
 1 Abstruse Appropriation
 1 Purging Stormbrood // Absorb Essence
 1 Not Dead After All
-1 Appeal to Eirdu
+1 Deadly Dispute
+1 Auspicious Arrival
 
 Sorceries
 1 Environmental Sciences
@@ -96,13 +102,7 @@ Sorceries
 1 Dusk // Dawn
 1 Winnowing
 1 In Garruk's Wake
-1 Razaketh's Rite
 1 Psychic Whorl
-1 Transgress the Mind
-1 Seeker's Folly
-1 Buried Alive
-1 Head Games
-1 Diabolic Tutor
 
 Other
 1 Kaya, Bane of the Dead

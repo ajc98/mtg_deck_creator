@@ -1,4 +1,3 @@
-Commander
 1 Gonti, Night Minister
 1 Bojuka Bog
 1 Fabled Passage
@@ -36,6 +35,11 @@ Commander
 1 Crypt Ghast
 1 Gray Merchant of Asphodel
 1 Mirkwood Bats
+1 Sludge Crawler
+1 Gorbag of Minas Morgul
+1 Dominator Drone
+1 Eldrazi Ravager
+1 Culling Drone
 1 Gonti, Lord of Luxury
 1 Vault Skirge
 1 Academy Manufactor
@@ -43,14 +47,11 @@ Commander
 1 Marionette Apprentice
 1 Qarsi Revenant
 1 Bitterbloom Bearer
+1 Azula, On the Hunt
 1 Common Crook
-1 Gorbag of Minas Morgul
-1 Ruthless Knave
 1 Dimir House Guard
 1 Gifted Aetherborn
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Wanted Scoundrels
+1 Ruthless Knave
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -81,12 +82,10 @@ Commander
 1 Dark Ritual
 1 Fake Your Own Death
 1 Cabal Ritual
-1 Not Dead After All
 1 Cruelclaw's Heist
 1 Feed the Swarm
 1 Decree of Pain
 1 Exsanguinate
 1 Bubbling Muck
 1 Razaketh's Rite
-1 Buried Alive
 1 Liliana of the Dark Realms

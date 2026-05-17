@@ -36,6 +36,7 @@ Lands
 1 Urborg, Tomb of Yawgmoth
 1 Windswept Heath
 1 Obscura Storefront
+1 Grim Backwoods
 1 Forest
 1 Swamp
 
@@ -54,20 +55,20 @@ Creatures
 1 Mirkwood Bats
 1 Nadier's Nightblade
 1 Marionette Apprentice
-1 Chatterfang, Squirrel General
-1 Honored Dreyleader
 1 Vinereap Mentor
 1 Hazel's Brewmaster
-1 Squirrel Sovereign
 1 Academy Manufactor
-1 Osteomancer Adept
 1 Scurry of Squirrels
+1 Dimir House Guard
+1 Carrion Feeder
+1 June, Bounty Hunter
 1 Curious Forager
+1 Golgari Findbroker
+1 Spinner of Souls
+1 Osteomancer Adept
 1 Corpseberry Cultivator
-1 Deep Forest Hermit
-1 Bushy Bodyguard
-1 Bakersbane Duo
-1 Nut Collector
+1 Chatterfang, Squirrel General
+1 Honored Dreyleader
 
 Artifacts
 1 Sol Ring
@@ -78,14 +79,13 @@ Artifacts
 1 Idol of Oblivion
 1 Swiftfoot Boots
 1 Chitterspitter
-1 Sword of the Squeak
 
 Enchantments
 1 Moldervine Reclamation
 1 Squirrel Nest
+1 Greater Good
+1 Bastion of Remembrance
 1 Doubling Season
-1 Beastmaster Ascension
-1 Midnight Snack
 1 Parallel Lives
 
 Instants
@@ -102,12 +102,12 @@ Instants
 1 Hazel's Nocturne
 1 Cache Grab
 1 Second Harvest
+1 Consumed by Greed
+1 Peerless Recycling
 
 Sorceries
 1 Many Partings
 1 Rampant Growth
 1 Decree of Pain
-1 Swarmyard Massacre
-1 Chatterstorm
-1 Rootcast Apprenticeship
-1 Cultivate
+1 Coiling Rebirth
+1 Recollect

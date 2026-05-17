@@ -35,23 +35,23 @@ Creatures
 1 Reclamation Sage
 1 Acidic Slime
 1 Survey Mechan
+1 Avenger of Zendikar
+1 Gala Greeters
+1 Jolrael, Mwonvuli Recluse
 1 Forgotten Ancient
 1 Evolution Witness
 1 Managorger Hydra
 1 Tuskguard Captain
-1 Avenger of Zendikar
 1 Wildwood Scourge
 1 Kalonian Hydra
 1 Avatar of the Resolute
 1 Servant of the Scale
+1 Halo Scarab
+1 Courier of Comestibles
 1 Animal Attendant
-1 Gala Greeters
 1 Page, Loose Leaf
-1 Slavering Branchsnapper
 1 Thornvault Forager
 1 Raucous Audience
-1 Courier of Comestibles
-1 Halo Scarab
 
 Artifacts
 1 Sol Ring
@@ -60,11 +60,12 @@ Artifacts
 1 Mind Stone
 1 Found Footage
 1 Swiftfoot Boots
+1 Evolving Door
 1 Emerald Medallion
+1 Magnifying Glass
 1 All-Fates Scroll
 1 The Ozolith
 1 Fellwar Stone
-1 Magnifying Glass
 
 Enchantments
 1 Terrasymbiosis
@@ -72,11 +73,9 @@ Enchantments
 1 Stocking the Pantry
 1 Greater Good
 1 Wild Growth
+1 Primeval Bounty
 1 Retreat to Kazandu
 1 Beastmaster Ascension
-1 Communal Brewing
-1 Ordeal of Nylea
-1 Doubling Season
 
 Instants
 1 Return of the Wildspeaker
@@ -87,6 +86,7 @@ Instants
 1 Broken Wings
 1 Snakeskin Veil
 1 Gaea's Gift
+1 Cache Grab
 1 Solidarity of Heroes
 1 Gift of the Viper
 

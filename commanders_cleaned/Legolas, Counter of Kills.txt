@@ -1,4 +1,3 @@
-Commander
 1 Legolas, Counter of Kills
 1 Command Tower
 1 Fabled Passage
@@ -45,18 +44,17 @@ Commander
 1 Reclamation Sage
 1 Survey Mechan
 1 Triskaidekaphile
+1 Imperious Perfect
+1 Galadriel, Gift-Giver
+1 Dwynen's Elite
 1 Celeborn the Wise
 1 Glorfindel, Dauntless Rescuer
-1 Imperious Perfect
 1 Wose Pathfinder
 1 Rishkar, Peema Renegade
-1 Galadriel, Gift-Giver
 1 Birds of Paradise
-1 Dwynen's Elite
 1 Thornweald Archer
 1 Elvish Regrower
 1 Virulent Emissary
-1 Slavering Branchsnapper
 1 Sol Ring
 1 Arcane Signet
 1 Found Footage
@@ -64,12 +62,14 @@ Commander
 1 Basilisk Collar
 1 Galadhrim Bow
 1 Thought Vessel
+1 Magnifying Glass
 1 Mind Stone
 1 All-Fates Scroll
 1 Fellwar Stone
 1 Terrasymbiosis
 1 Hunter's Talent
 1 Simic Ascendancy
+1 Greater Good
 1 Propaganda
 1 Growth Spiral
 1 Opt
@@ -86,11 +86,10 @@ Commander
 1 Galadhrim Ambush
 1 Negate
 1 Counterspell
+1 Stew the Coneys
 1 Gift of the Viper
 1 Bite Down
 1 Gaea's Gift
-1 Stew the Coneys
-1 Broken Wings
 1 Rampant Growth
 1 Farseek
 1 Many Partings

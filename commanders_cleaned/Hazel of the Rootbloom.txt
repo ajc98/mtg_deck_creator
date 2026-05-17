@@ -1,4 +1,3 @@
-Commander
 1 Hazel of the Rootbloom
 1 Command Tower
 1 Woodland Cemetery
@@ -51,20 +50,20 @@ Commander
 1 Nadier's Nightblade
 1 Zulaport Cutthroat
 1 Mirkwood Bats
-1 Chatterfang, Squirrel General
-1 Deep Forest Hermit
 1 Hazel's Brewmaster
 1 Scurry of Squirrels
 1 Academy Manufactor
-1 Honored Dreyleader
 1 Camellia, the Seedmiser
+1 Woe Strider
+1 Dimir House Guard
+1 Poison-Tip Archer
+1 Ogre Slumlord
+1 Moonstone Eulogist
+1 Chatterfang, Squirrel General
+1 Deep Forest Hermit
+1 Honored Dreyleader
 1 Squirrel Sovereign
 1 Beledros Witherbloom
-1 Peregrin Took
-1 Morbid Opportunist
-1 Poison-Tip Archer
-1 Arasta of the Endless Web
-1 End-Raze Forerunners
 1 Sol Ring
 1 Arcane Signet
 1 Talisman of Resilience
@@ -75,13 +74,14 @@ Commander
 1 Swiftfoot Boots
 1 Chitterspitter
 1 Maskwood Nexus
-1 Sword of the Squeak
 1 Binding the Old Gods
 1 Moldervine Reclamation
 1 Bastion of Remembrance
-1 Beastmaster Ascension
 1 Squirrel Nest
-1 Gourmand's Talent
+1 Doubling Season
+1 Parallel Lives
+1 Greater Good
+1 Beastmaster Ascension
 1 Deadly Dispute
 1 Saw in Half
 1 Putrefy
@@ -90,12 +90,11 @@ Commander
 1 Snakeskin Veil
 1 Second Harvest
 1 Plumb the Forbidden
-1 Cache Grab
 1 Shamanic Revelation
 1 Maelstrom Pulse
 1 Casualties of War
 1 Decree of Pain
-1 Swarmyard Massacre
 1 Rootcast Apprenticeship
+1 Swarmyard Massacre
 1 Chatterstorm
 1 Garruk, Cursed Huntsman

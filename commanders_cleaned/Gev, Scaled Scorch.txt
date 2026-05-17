@@ -1,4 +1,3 @@
-Commander
 1 Gev, Scaled Scorch
 1 Command Tower
 1 Fabled Passage
@@ -43,22 +42,24 @@ Commander
 1 Agate Instigator
 1 Molten Gatekeeper
 1 Iridescent Vinelasher
+1 Steampath Charger
+1 Viscera Seer
+1 Carrion Feeder
+1 Dimir House Guard
 1 Fireglass Mentor
 1 Valley Flamecaller
 1 Hearthborn Battler
 1 Agate-Blade Assassin
 1 Cindering Cutthroat
-1 Steampath Charger
 1 Thought-Stalker Warlock
 1 Reptilian Recruiter
 1 Frilled Sparkshooter
 1 Kindlespark Duo
 1 Ravine Raider
 1 Glidedive Duo
-1 Viscera Seer
 1 Viashino Pyromancer
 1 Zulaport Cutthroat
-1 Dimir House Guard
+1 Canyon Crawler
 1 Sol Ring
 1 Arcane Signet
 1 Patchwork Banner
@@ -71,11 +72,11 @@ Commander
 1 Chronicle of Victory
 1 Found Footage
 1 Swiftfoot Boots
+1 Maskwood Nexus
 1 Wishclaw Talisman
 1 Case of the Crimson Pulse
 1 Impact Tremors
-1 Necropotence
-1 Cool but Rude
+1 Bastion of Remembrance
 1 Thrill of Possibility
 1 Deadly Dispute
 1 Big Score
@@ -97,5 +98,3 @@ Commander
 1 In Garruk's Wake
 1 Boltwave
 1 Diabolic Tutor
-1 Razaketh's Rite
-1 Buried Alive

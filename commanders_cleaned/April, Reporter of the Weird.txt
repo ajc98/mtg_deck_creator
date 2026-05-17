@@ -1,4 +1,3 @@
-Commander
 1 April, Reporter of the Weird
 1 Fabled Passage
 1 Terramorphic Expanse
@@ -40,13 +39,13 @@ Commander
 1 Body of Knowledge
 1 Survey Mechan
 1 Twenty-Toed Toad
+1 Donatello, Gadget Master
+1 Eldrazi Ravager
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Glamer Gifter
-1 Donatello, Gadget Master
 1 Mischievous Mystic
 1 Clinquant Skymage
-1 Emrakul's Messenger
 1 Sol Ring
 1 Arcane Signet
 1 Thought Vessel
@@ -57,6 +56,7 @@ Commander
 1 Sword of Hearth and Home
 1 Ominous Parcel
 1 Swiftfoot Boots
+1 Atomic Microsizer
 1 Fireshrieker
 1 Basilisk Collar
 1 Hero's Blade
@@ -64,12 +64,11 @@ Commander
 1 Springleaf Drum
 1 Hedron Archive
 1 Gilded Lotus
-1 Atomic Microsizer
 1 Wizard Class
-1 Propaganda
 1 Security Bypass
-1 Witness Protection
 1 Waterbender Ascension
+1 Propaganda
+1 Witness Protection
 1 Arcane Denial
 1 Frantic Search
 1 Opt

@@ -48,12 +48,16 @@ Creatures
 1 Guttersnipe
 1 Psychosis Crawler
 1 Coruscation Mage
+1 Mischievous Mystic
+1 Knowledge Seeker
+1 Third Path Iconoclast
+1 Chasm Skulker
+1 Dour Port-Mage
 1 Goblin Electromancer
 1 Stormcatch Mentor
 1 Archmage of Runes
-1 Mischievous Mystic
-1 Otter-Penguin
-1 Kitsa, Otterball Elite
+1 Young Pyromancer
+1 Halo Scarab
 
 Artifacts
 1 Arcane Signet
@@ -64,10 +68,13 @@ Artifacts
 1 Fellwar Stone
 1 Thought Vessel
 1 Swiftfoot Boots
+1 Dawn-Blessed Pennant
+1 Soul-Guide Lantern
 
 Enchantments
 1 Cool but Rude
-1 Propaganda
+1 Stormchaser's Talent
+1 Underworld Breach
 
 Instants
 1 Frantic Search
@@ -82,21 +89,17 @@ Instants
 1 Rapid Hybridization
 1 Lithobraking
 1 Octopus Form
+1 Lost Days
 1 Counterspell
 1 It'll Quench Ya!
 1 Chaos Warp
 1 Negate
 1 An Offer You Can't Refuse
-1 Lost Days
 1 Big Score
 1 Thrill of Possibility
 1 Aetherize
 1 Opt
-1 Energybending
-1 Dig Through Time
-1 Solstice Revelations
-1 Combustion Technique
-1 Lightning Strike
+1 Magma Opus
 
 Sorceries
 1 Faithless Looting
@@ -108,6 +111,3 @@ Sorceries
 1 Blasphemous Act
 1 Waterbending Lesson
 1 Solve the Equation
-1 Teachings of the Archaics
-1 Expressive Iteration
-1 Aang's Journey

@@ -40,18 +40,20 @@ Creatures
 1 Grim Guardian
 1 Vengeful Dead
 1 Marauding Blight-Priest
-1 Page, Loose Leaf
-1 Halo Scarab
 1 Dimir House Guard
-1 Cathodion
-1 Azula, On the Hunt
-1 Shadowborn Apostle
-1 Vile Entomber
-1 Death Cultist
-1 Mind Raker
-1 Infectious Host
-1 Easterling Vanguard
+1 June, Bounty Hunter
+1 Gnawing Zombie
+1 Deathgreeter
+1 Sengir, the Dark Baron
+1 Heirloom Auntie
 1 Gothmog, Morgul Lieutenant
+1 Easterling Vanguard
+1 Halo Scarab
+1 Azula, On the Hunt
+1 Page, Loose Leaf
+1 Cathodion
+1 Shadowborn Apostle
+1 Death Cultist
 
 Artifacts
 1 Expedition Map
@@ -68,12 +70,12 @@ Artifacts
 1 Bender's Waterskin
 1 Wishclaw Talisman
 1 Hedron Archive
-1 Oblivion Stone
 
 Enchantments
 1 Greed
-1 Necropotence
-1 Mornsong Aria
+1 Sothera, the Supervoid
+1 Grave Pact
+1 Waste Not
 
 Instants
 1 Energybending
@@ -83,8 +85,8 @@ Instants
 1 Foolish Fate
 1 Deal Gone Bad
 1 Sold Out
-1 Tribute to Hunger
-1 Cabal Ritual
+1 Not Dead After All
+1 Deadly Dispute
 
 Sorceries
 1 Environmental Sciences
@@ -95,11 +97,9 @@ Sorceries
 1 Decree of Pain
 1 Blood Tithe
 1 Buried Alive
-1 Diabolic Tutor
 1 Psychic Whorl
+1 Diabolic Tutor
 1 Transgress the Mind
-1 Seeker's Folly
-1 Head Games
 
 Other
 1 Ob Nixilis Reignited

@@ -1,4 +1,3 @@
-Commander
 1 Hama, the Bloodbender
 1 Command Tower
 1 Fabled Passage
@@ -45,15 +44,16 @@ Commander
 1 Gray Merchant of Asphodel
 1 Dominator Drone
 1 Triskaidekaphile
+1 June, Bounty Hunter
+1 Cabal Patriarch
+1 Dimir House Guard
 1 Consuming Aberration
 1 Lo and Li, Royal Advisors
 1 Meneldor, Swift Savior
-1 Dimir House Guard
+1 Halo Scarab
 1 Master Pakku
 1 Gonti, Night Minister
-1 Canyon Crawler
 1 Academy Manufactor
-1 June, Bounty Hunter
 1 Arcane Signet
 1 Sol Ring
 1 Bender's Waterskin
@@ -64,9 +64,10 @@ Commander
 1 All-Fates Scroll
 1 Swiftfoot Boots
 1 Sapphire Medallion
-1 Wishclaw Talisman
 1 Waterbender Ascension
 1 Obsessive Pursuit
+1 Stormchaser's Talent
+1 Necropotence
 1 Watery Grasp
 1 Propaganda
 1 Frantic Search
@@ -79,6 +80,8 @@ Commander
 1 Octopus Form
 1 Become Anonymous
 1 Not Dead After All
+1 Zuko's Conviction
+1 Unbury
 1 Counterspell
 1 Dark Ritual
 1 An Offer You Can't Refuse
@@ -86,16 +89,12 @@ Commander
 1 Negate
 1 Cabal Ritual
 1 Azula Always Lies
-1 Aetherize
 1 Waterbending Lesson
 1 Splash Portal
 1 Feed the Swarm
 1 Epic Downfall
 1 Deadly Precision
-1 Foggy Swamp Visions
 1 Ruinous Waterbending
+1 Foggy Swamp Visions
 1 Ponder
-1 Buried Alive
 1 Dai Li Indoctrination
-1 Brainspoil
-1 Razaketh's Rite

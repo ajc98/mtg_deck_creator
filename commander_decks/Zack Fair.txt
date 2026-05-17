@@ -39,18 +39,19 @@ Creatures
 1 Mangara, the Diplomat
 1 Helpful Hunter
 1 Survey Mechan
+1 Hare Apparent
 1 Luminous Broodmoth
+1 Furious Forebear
+1 Suki, Courageous Rescuer
+1 Lunarch Veteran // Luminous Phantom
 1 Sun Titan
 1 Metastatic Evangel
-1 Page, Loose Leaf
 1 Halo Scarab
+1 Page, Loose Leaf
 1 Cathodion
 1 Shepherding Spirits
+1 Mage's Attendant
 1 Angel of the Ruins
-1 Burdened Stoneback
-1 Knight of Grace
-1 Hare Apparent
-1 Gathering Throng
 
 Artifacts
 1 Sol Ring
@@ -71,13 +72,15 @@ Artifacts
 1 The Ozolith
 1 Hero's Blade
 1 Basilisk Collar
-1 Oblivion Stone
+1 Magnifying Glass
 
 Enchantments
 1 Banishing Light
+1 Felidar Retreat
+1 Builder's Talent
+1 Aligned Heart
 1 Abiding Grace
 1 Ghostly Prison
-1 Felidar Retreat
 1 Charitable Levy
 
 Instants
@@ -90,8 +93,6 @@ Instants
 1 Teferi's Protection
 1 Boon of Safety
 1 Slash of Light
-1 Make a Stand
-1 Energybending
 
 Sorceries
 1 Secret Rendezvous
@@ -101,8 +102,5 @@ Sorceries
 1 Damning Verdict
 1 Dusk // Dawn
 1 Vanquish the Horde
-1 Scout for Survivors
 1 Martial Coup
-
-Other
-1 Elspeth, Sun's Champion
+1 Scout for Survivors

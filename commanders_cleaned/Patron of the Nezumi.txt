@@ -1,4 +1,3 @@
-Commander
 1 Patron of the Nezumi
 1 Bojuka Bog
 1 Fabled Passage
@@ -39,22 +38,22 @@ Commander
 1 Iron-Shield Elf
 1 Gray Merchant of Asphodel
 1 Crypt Ghast
+1 Graveshifter
+1 Nezumi Bone-Reader
+1 Dimir House Guard
+1 Dusk Mangler
+1 Ogre Slumlord
+1 Massacre Wurm
+1 Skullsnatcher
 1 Crypt Rats
 1 Okiba-Gang Shinobi
-1 Ogre Slumlord
 1 Piper of the Swarm
 1 Gnat Miser
-1 Nezumi Bone-Reader
 1 Typhoid Rats
 1 Persistent Marshstalker
 1 Thornplate Intimidator
 1 Tangled Colony
-1 Massacre Wurm
-1 Skullsnatcher
-1 Page, Loose Leaf
 1 Halo Scarab
-1 Dimir House Guard
-1 Nezumi Cutthroat
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -67,9 +66,9 @@ Commander
 1 Found Footage
 1 Swiftfoot Boots
 1 Bolas's Citadel
-1 Hall of Triumph
 1 Waste Not
 1 Greed
+1 Vampiric Rites
 1 Black Market
 1 Grave Pact
 1 Necropotence
@@ -79,14 +78,14 @@ Commander
 1 Murder
 1 Complete Disregard
 1 Grip of Desolation
+1 Consumed by Greed
+1 Unbury
 1 Dark Ritual
-1 Cabal Ritual
 1 Diabolic Tutor
 1 Feed the Swarm
 1 In Garruk's Wake
 1 Exsanguinate
+1 Gravedig
+1 Grim Discovery
 1 Swarmyard Massacre
-1 Dread Summons
-1 Revenge of the Rats
-1 Duress
 1 Liliana of the Dark Realms

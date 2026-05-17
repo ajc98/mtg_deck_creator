@@ -37,6 +37,7 @@ Lands
 1 Polluted Mire
 1 Ash Barrens
 1 Grim Backwoods
+1 High Market
 1 Swamp
 1 Forest
 
@@ -54,21 +55,24 @@ Creatures
 1 Mirkwood Bats
 1 Nadier's Nightblade
 1 Marionette Apprentice
+1 Dross Hopper
+1 Nantuko Husk
+1 Woe Strider
+1 Wight of the Reliquary
+1 Spinner of Souls
+1 Moonstone Eulogist
+1 Scavenger Drake
+1 Sengir, the Dark Baron
+1 Arasta of the Endless Web
+1 Bitterbloom Bearer
+1 Scute Swarm
+1 Aatchik, Emerald Radian
 1 Chatterfang, Squirrel General
 1 Blood Artist
-1 Arasta of the Endless Web
 1 Necrosquito
-1 Bitterbloom Bearer
 1 Umbral Collar Zealot
-1 Aatchik, Emerald Radian
 1 Morbid Opportunist
 1 Academy Manufactor
-1 Scute Swarm
-1 Dross Hopper
-1 Virus Beetle
-1 Nantuko Husk
-1 Tendershoot Dryad
-1 Zulaport Cutthroat
 
 Artifacts
 1 Sol Ring
@@ -77,18 +81,14 @@ Artifacts
 1 Idol of Oblivion
 1 Skullclamp
 1 Swiftfoot Boots
-1 Mind Stone
-1 Omni-Cheese Pizza
-1 Chromatic Lantern
-1 Golgari Signet
 
 Enchantments
 1 Vampiric Rites
 1 Bastion of Remembrance
-1 Doubling Season
 1 Grave Pact
+1 Moldervine Reclamation
+1 Doubling Season
 1 Parallel Lives
-1 Binding the Old Gods
 
 Instants
 1 Deadly Dispute

@@ -45,18 +45,20 @@ Creatures
 1 Mirkwood Bats
 1 Marionette Apprentice
 1 Nadier's Nightblade
-1 Academy Manufactor
 1 Fire Navy Trebuchet
+1 Sludge Crawler
+1 Dominator Drone
+1 Eldrazi Ravager
+1 Culling Drone
 1 Pirate Peddlers
+1 Dimir House Guard
+1 Moonstone Eulogist
+1 Heirloom Auntie
+1 Academy Manufactor
+1 Beamsaw Prospector
 1 Umbral Collar Zealot
 1 Lightless Evangel
 1 Merchant of Many Hats
-1 Moonstone Eulogist
-1 Gray Merchant of Asphodel
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Dimir House Guard
-1 Burnished Hart
 
 Artifacts
 1 Sol Ring
@@ -73,8 +75,11 @@ Artifacts
 
 Enchantments
 1 Obsessive Pursuit
-1 Exquisite Blood
 1 Bastion of Remembrance
+1 Black Market
+1 Midnight Snack
+1 Waste Not
+1 Exquisite Blood
 
 Instants
 1 Fell the Profane // Fell Mire
@@ -86,10 +91,10 @@ Instants
 1 Heartless Act
 1 Murder
 1 Doom Blade
+1 Fake Your Own Death
+1 Not Dead After All
 1 Zuko's Conviction
 1 Dark Ritual
-1 Cabal Ritual
-1 Fake Your Own Death
 
 Sorceries
 1 Aang's Journey
@@ -98,12 +103,5 @@ Sorceries
 1 Epic Downfall
 1 In Garruk's Wake
 1 Decree of Pain
-1 Diabolic Tutor
-1 Exsanguinate
 1 Ruinous Waterbending
-1 Dai Li Indoctrination
-1 Diresight
-1 Razaketh's Rite
-
-Other
-1 Liliana of the Dark Realms
+1 Foggy Swamp Visions

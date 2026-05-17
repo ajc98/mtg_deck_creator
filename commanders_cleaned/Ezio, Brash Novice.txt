@@ -1,4 +1,3 @@
-Commander
 1 Ezio, Brash Novice
 1 Command Tower
 1 Terramorphic Expanse
@@ -43,19 +42,23 @@ Commander
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Aya of Alexandria
+1 Hare Apparent
+1 Aurelia, the Warleader
+1 Sun Titan
+1 Syr Alin, the Lion's Claw
+1 Haazda Vigilante
+1 Eldrazi Ravager
+1 Rasaad yn Bashir
 1 Alexios, Deimos of Kosmos
 1 Senu, Keen-Eyed Protector
-1 Sun Titan
-1 Razorkin Needlehead
-1 Towering Viewpoint
-1 Page, Loose Leaf
-1 Alena, Kessig Trapper
-1 Halo Scarab
-1 Metastatic Evangel
 1 Fire Sages
+1 Jeong Jeong, the Deserter
+1 Brazen Collector
+1 Fire Nation Cadets
+1 Zuko, Exiled Prince
+1 Rough Rhino Cavalry
+1 Halo Scarab
 1 Storm-Kiln Artist
-1 Feisty Spikeling
-1 Akki Rockspeaker
 1 Sol Ring
 1 Arcane Signet
 1 Boros Signet
@@ -70,13 +73,11 @@ Commander
 1 Smoke Bomb
 1 Basilisk Collar
 1 Caduceus, Staff of Hermes
-1 The Ozolith
-1 Short Bow
-1 Gimli's Axe
 1 Case of the Crimson Pulse
 1 Angelic Gift
 1 Origin of the Hidden Ones
 1 Cool but Rude
+1 Sticky Fingers
 1 Reconnaissance
 1 Thrill of Possibility
 1 Take Out the Trash
@@ -89,13 +90,11 @@ Commander
 1 Stroke of Midnight
 1 Boros Charm
 1 Chaos Warp
-1 Safe Passage
-1 Lightfoot Technique
-1 Disenchant
 1 Faithless Looting
 1 Cut a Deal
 1 Blasphemous Act
 1 Damning Verdict
 1 Dusk // Dawn
+1 Tempt with Bunnies
+1 Heroic Reinforcements
 1 Reconstruct History
-1 Rally at the Hornburg

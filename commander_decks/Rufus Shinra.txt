@@ -49,18 +49,21 @@ Creatures
 1 Zulaport Cutthroat
 1 Mirkwood Bats
 1 Dominator Drone
-1 Blood Artist
 1 Sun Titan
+1 Sludge Crawler
+1 Culling Drone
+1 Eldrazi Ravager
+1 Sauron, the Necromancer
+1 Blood Artist
 1 Viscera Seer
+1 Azula, On the Hunt
+1 The Rise of Sozin // Fire Lord Sozin
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Dimir House Guard
 1 Cathodion
 1 Shepherding Spirits
 1 Syr Vondam, Sunstar Exemplar
-1 Umbral Collar Zealot
-1 Angel of the Ruins
-1 Canyon Crawler
 
 Artifacts
 1 Arcane Signet
@@ -77,13 +80,11 @@ Artifacts
 1 Swiftfoot Boots
 1 Hero's Blade
 1 Basilisk Collar
-1 Wishclaw Talisman
 
 Enchantments
 1 Bastion of Remembrance
 1 Grave Pact
 1 Hidden Stockpile
-1 Ghostly Prison
 
 Instants
 1 Deadly Dispute
@@ -98,7 +99,6 @@ Instants
 1 Generous Gift
 1 Complete Disregard
 1 Teferi's Protection
-1 Altar's Reap
 
 Sorceries
 1 Cut a Deal

@@ -45,15 +45,16 @@ Creatures
 1 Kappa Cannoneer
 1 Krang, Utrom Warlord
 1 Triskaidekaphile
-1 Fugitive Droid
 1 Donatello, Gadget Master
-1 Utrom Scientists
 1 Mechan Assembler
+1 Fugitive Droid
+1 Utrom Scientists
 1 Academy Manufactor
+1 Halo Scarab
+1 Emrakul's Messenger
 1 Henchbots
 1 Aetherjacket
 1 Page, Loose Leaf
-1 Halo Scarab
 
 Artifacts
 1 Sol Ring
@@ -70,14 +71,14 @@ Artifacts
 1 Bespoke Bō
 1 Sapphire Medallion
 1 Magnifying Glass
+1 Idol of Oblivion
+1 Turtle Blimp
 1 Fellwar Stone
 1 Firdoch Core
 1 Springleaf Drum
 1 Cryogen Relic
 1 Basilisk Collar
 1 The Ozolith
-1 Idol of Oblivion
-1 Turtle Blimp
 
 Enchantments
 1 Propaganda
@@ -91,13 +92,12 @@ Instants
 1 Refute
 1 Pongify
 1 Rapid Hybridization
-1 Negate
-1 Counterspell
 1 Ooze Spill
 1 Return to the Sewers
+1 Negate
+1 Counterspell
 1 An Offer You Can't Refuse
 1 Run Away Together
-1 Annul
 
 Sorceries
 1 Reverse Engineer

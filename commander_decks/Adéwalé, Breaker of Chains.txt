@@ -41,17 +41,20 @@ Creatures
 1 Forerunner of the Coalition
 1 Dominator Drone
 1 Triskaidekaphile
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Cathodion
-1 Azula, On the Hunt
-1 Dimir House Guard
-1 Azula, Cunning Usurper
-1 Mind Raker
-1 Kefnet the Mindful
 1 Sludge Crawler
-1 Lo and Li, Royal Advisors
+1 Eldrazi Ravager
+1 Culling Drone
+1 Appendage Amalgam
+1 Dimir House Guard
+1 Pirate Peddlers
 1 Expendable Lackey
+1 Azula, On the Hunt
+1 Azula, Cunning Usurper
+1 Halo Scarab
+1 Page, Loose Leaf
+1 Cathodion
+1 Mind Raker
+1 Nezumi Graverobber // Nighteyes the Desecrator
 
 Artifacts
 1 Expedition Map
@@ -63,13 +66,14 @@ Artifacts
 1 Fountainport Bell
 1 Adrestia
 1 Found Footage
+1 Sword of Hearth and Home
 1 Magnifying Glass
 1 Bender's Waterskin
 1 Wishclaw Talisman
 1 Hedron Archive
-1 Oblivion Stone
 
 Enchantments
+1 Stormchaser's Talent
 1 Necropotence
 
 Instants
@@ -84,10 +88,8 @@ Instants
 1 Deal Gone Bad
 1 Darkblast
 1 Become Anonymous
+1 Unbury
 1 Mystical Teachings
-1 Dig Through Time
-1 Cabal Ritual
-1 Octopus Form
 
 Sorceries
 1 Environmental Sciences
@@ -96,9 +98,7 @@ Sorceries
 1 Brainspoil
 1 Buried Alive
 1 Diabolic Tutor
-1 Razaketh's Rite
 1 Transgress the Mind
+1 Razaketh's Rite
 1 Psychic Whorl
 1 Seeker's Folly
-1 Head Games
-1 Ponder

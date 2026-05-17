@@ -1,4 +1,3 @@
-Commander
 1 Locke Cole
 1 Command Tower
 1 Terramorphic Expanse
@@ -43,15 +42,15 @@ Commander
 1 The Rise of Sozin // Fire Lord Sozin
 1 Kami of Jealous Thirst
 1 Dominator Drone
-1 Hullcarver
 1 Dreadwing Scavenger
+1 Sludge Crawler
+1 Adéwalé, Breaker of Chains
+1 Azula, On the Hunt
+1 Azula, Cunning Usurper
+1 Hullcarver
 1 Dimir House Guard
 1 Chasm Skulker
 1 Canyon Crawler
-1 Halo Scarab
-1 Page, Loose Leaf
-1 Vile Entomber
-1 Voracious Tome-Skimmer
 1 Sol Ring
 1 Arcane Signet
 1 Thought Vessel
@@ -64,12 +63,12 @@ Commander
 1 Bident of Thassa
 1 Swiftfoot Boots
 1 Black Mage's Rod
-1 Wishclaw Talisman
 1 Assassin Gauntlet
+1 Wishclaw Talisman
 1 Wizard Class
 1 Aquitect's Defenses
-1 Propaganda
 1 Gossip's Talent
+1 Propaganda
 1 Frantic Search
 1 Arcane Denial
 1 Opt

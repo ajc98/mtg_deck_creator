@@ -46,6 +46,13 @@ Creatures
 1 Nettle Guard
 1 Rubble Rouser
 1 Molten Gatekeeper
+1 Knight of Grace
+1 Survey Mechan
+1 Veteran Survivor
+1 Thistledown Players
+1 Warren Warleader
+1 Sun Titan
+1 Eldrazi Ravager
 1 Manifold Mouse
 1 Heartfire Hero
 1 Whiskervale Forerunner
@@ -55,12 +62,9 @@ Creatures
 1 Mouse Trapper
 1 Steelburr Champion
 1 Veteran Guardmouse
-1 Thistledown Players
 1 Valley Questcaller
 1 Roughshod Duo
 1 Brave-Kin Duo
-1 Valley Flamecaller
-1 Three Tree Mascot
 
 Artifacts
 1 Sol Ring
@@ -76,15 +80,13 @@ Artifacts
 1 Swiftfoot Boots
 1 Sword of the Squeak
 1 Short Bow
-1 Basilisk Collar
-1 Thought Vessel
 
 Enchantments
 1 Feather of Flight
 1 Banishing Light
 1 Cool but Rude
+1 Sheltered by Ghosts
 1 War Squeak
-1 Echoing Assault
 
 Instants
 1 Might of the Meek
@@ -97,11 +99,9 @@ Instants
 1 Generous Gift
 1 Boros Charm
 1 Crumb and Get It
+1 Teferi's Protection
+1 Divine Resilience
 1 Mabel's Mettle
-1 Valley Rally
-1 Rabid Gnaw
-1 Parting Gust
-1 Chaos Warp
 
 Sorceries
 1 Dewdrop Cure

@@ -35,6 +35,7 @@ Lands
 1 Hallowed Fountain
 1 Steam Vents
 1 Prairie Stream
+1 Castle Ardenvale
 1 Plains
 1 Island
 1 Mountain
@@ -55,17 +56,18 @@ Creatures
 1 Agate Instigator
 1 Molten Gatekeeper
 1 Arabella, Abandoned Doll
-1 Rapid Augmenter
 1 Rose Room Treasurer
+1 Boss's Chauffeur
+1 Luminous Broodmoth
+1 Furious Forebear
+1 Rapid Augmenter
 1 Devilish Valet
 1 Tetsuko Umezawa, Fugitive
 1 Skyclave Apparition
-1 Luminous Broodmoth
 1 Sun Titan
 1 Junk Winder
 1 Exalted Sunborn
 1 Combat Celebrant
-1 Boss's Chauffeur
 1 Restoration Angel
 1 Plumecreed Escort
 1 Blade Splicer
@@ -83,13 +85,11 @@ Artifacts
 1 Skullclamp
 1 Helm of the Host
 1 Idol of Oblivion
-1 Talisman of Progress
 
 Enchantments
 1 Impact Tremors
 1 Echoing Assault
 1 Murmuration
-1 Fortune Teller's Talent
 
 Instants
 1 Path to Exile
@@ -107,9 +107,9 @@ Sorceries
 1 Stolen by the Fae
 1 Dusk // Dawn
 1 Time Wipe
+1 Martial Coup
 1 Storm of Souls
 1 Calamity of Cinders
-1 Martial Coup
 
 Other
 1 Elspeth, Sun's Champion

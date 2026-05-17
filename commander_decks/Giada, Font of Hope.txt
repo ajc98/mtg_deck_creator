@@ -37,18 +37,18 @@ Creatures
 1 Inspiring Overseer
 1 Helpful Hunter
 1 Survey Mechan
+1 Hare Apparent
 1 Lyra Dawnbringer
 1 Youthful Valkyrie
 1 Angel of Vitality
 1 Emeria Shepherd
 1 Angel of Finality
 1 Exalted Sunborn
-1 Page, Loose Leaf
 1 Halo Scarab
+1 Page, Loose Leaf
 1 Cathodion
 1 Shepherding Spirits
 1 Knight of Grace
-1 Hare Apparent
 1 Gathering Throng
 
 Artifacts
@@ -70,17 +70,17 @@ Artifacts
 1 Gilded Lotus
 1 Gathering Stone
 1 The Ozolith
+1 Magnifying Glass
 1 Oblivion Stone
 1 All-Fates Scroll
-1 Magnifying Glass
-1 Bender's Waterskin
 
 Enchantments
 1 Banishing Light
-1 Ghostly Prison
 1 Monologue Tax
+1 Builder's Talent
+1 Aligned Heart
+1 Ghostly Prison
 1 Charitable Levy
-1 Case of the Pilfered Proof
 
 Instants
 1 Dawn's Truce

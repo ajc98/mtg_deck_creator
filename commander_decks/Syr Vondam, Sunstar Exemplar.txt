@@ -49,20 +49,21 @@ Creatures
 1 Marionette Apprentice
 1 Gray Merchant of Asphodel
 1 Zulaport Cutthroat
+1 Knight Luminary
+1 Boss's Chauffeur
+1 Viscera Seer
+1 Dimir House Guard
+1 June, Bounty Hunter
+1 Luminous Broodmoth
+1 Sengir, the Dark Baron
+1 Super Shredder
+1 Lunarch Veteran // Luminous Phantom
 1 Umbral Collar Zealot
 1 Charming Prince
 1 Dalkovan Packbeasts
 1 Restoration Angel
 1 Sun Titan
-1 Knight Luminary
-1 Viscera Seer
 1 Distinguished Conjurer
-1 Luminous Broodmoth
-1 Blood Artist
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Dimir House Guard
-1 Cathodion
 
 Artifacts
 1 Sol Ring
@@ -75,15 +76,17 @@ Artifacts
 1 Expedition Map
 1 Skullclamp
 1 Swiftfoot Boots
+1 The Ozolith
 1 Hero's Blade
 1 Hylderblade
 
 Enchantments
 1 Vampiric Rites
 1 Bastion of Remembrance
-1 Airbender Ascension
-1 Sothera, the Supervoid
 1 Monologue Tax
+1 Hidden Stockpile
+1 Sothera, the Supervoid
+1 Airbender Ascension
 
 Instants
 1 Village Rites
@@ -107,9 +110,6 @@ Sorceries
 1 Damning Verdict
 1 Another Round
 1 Hymn of the Faller
-1 Razaketh's Rite
-1 Scout for Survivors
-1 Buried Alive
 
 Other
 1 Kaya, Bane of the Dead

@@ -42,18 +42,22 @@ Creatures
 1 Iron-Shield Elf
 1 Crypt Ghast
 1 Gray Merchant of Asphodel
+1 Witch-king, Bringer of Ruin
+1 Sludge Crawler
+1 Dominator Drone
+1 Eldrazi Ravager
+1 Culling Drone
 1 Burnished Hart
 1 Nighthowler
 1 Vampire Nighthawk
 1 Massacre Wurm
+1 Azula, On the Hunt
+1 The Rise of Sozin // Fire Lord Sozin
 1 Desecration Demon
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Dimir House Guard
 1 Cathodion
-1 Grim Guardian
-1 Azula, On the Hunt
-1 Shadowborn Apostle
 
 Artifacts
 1 Sol Ring
@@ -78,8 +82,6 @@ Enchantments
 1 Derelict Attic // Widow's Walk
 1 Black Market
 1 Kaya's Ghostform
-1 Stab Wound
-1 Unhallowed Pact
 
 Instants
 1 Murder
@@ -89,7 +91,6 @@ Instants
 1 Grip of Desolation
 1 Not Dead After All
 1 Dark Ritual
-1 Tendrils of Corruption
 
 Sorceries
 1 Diabolic Tutor
@@ -99,7 +100,6 @@ Sorceries
 1 Exsanguinate
 1 Bubbling Muck
 1 Razaketh's Rite
-1 Buried Alive
 
 Other
 1 Liliana of the Dark Realms

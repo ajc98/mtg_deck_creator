@@ -36,8 +36,12 @@ Creatures
 1 Fierce Empath
 1 Reclamation Sage
 1 Survey Mechan
-1 Ghalta, Primal Hunger
+1 Surrak, the Hunt Caller
 1 Goreclaw, Terror of Qal Sisma
+1 Evercoat Ursine
+1 Eldrazi Ravager
+1 Toski, Bearer of Secrets
+1 Ghalta, Primal Hunger
 1 Apex Devastator
 1 Terastodon
 1 Page, Loose Leaf
@@ -48,7 +52,6 @@ Creatures
 1 Raucous Audience
 1 Cathodion
 1 Courier of Comestibles
-1 Aberrant Manawurm
 
 Artifacts
 1 Sol Ring
@@ -66,18 +69,16 @@ Artifacts
 1 Bender's Waterskin
 1 Coveted Jewel
 1 Spellbook
+1 Sword of Hearth and Home
 1 Evolving Door
-1 Hedron Archive
-1 Oblivion Stone
 
 Enchantments
 1 Garruk's Uprising
 1 Greater Good
 1 Thickest in the Thicket
+1 Hunter's Talent
 1 Unnatural Growth
 1 Wild Growth
-1 Hunter's Talent
-1 Mana Reflection
 
 Instants
 1 Return of the Wildspeaker
@@ -88,7 +89,6 @@ Instants
 1 Gaea's Gift
 1 Snakeskin Veil
 1 Biosynthic Burst
-1 Midnight Tilling
 
 Sorceries
 1 Rampant Growth

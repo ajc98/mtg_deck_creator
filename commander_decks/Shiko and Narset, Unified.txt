@@ -50,15 +50,17 @@ Creatures
 1 Vivi Ornitier
 1 Coruscation Mage
 1 Rubble Rouser
+1 Goblin Electromancer
+1 Haughty Djinn
+1 Stormcatch Mentor
+1 Archmage of Runes
+1 Elsha, Threefold Master
+1 Velomachus Lorehold
+1 Eldrazi Ravager
 1 Veyran, Voice of Duality
 1 Monastery Mentor
-1 Goblin Electromancer
 1 Caldera Pyremaw
 1 Third Path Iconoclast
-1 Haughty Djinn
-1 Elsha, Threefold Master
-1 Young Pyromancer
-1 Manaform Hellkite
 
 Artifacts
 1 Arcane Signet
@@ -73,9 +75,9 @@ Artifacts
 
 Enchantments
 1 Whirlwind of Thought
+1 Shiny Impetus
 1 Aligned Heart
 1 Ghostly Prison
-1 Curse of Opulence
 
 Instants
 1 Frantic Search
@@ -93,7 +95,6 @@ Instants
 1 Narset's Reversal
 1 Electrodominance
 1 Big Score
-1 Expansion // Explosion
 
 Sorceries
 1 Suppression Ray // Orderly Plaza
@@ -111,4 +112,3 @@ Sorceries
 1 Compulsive Research
 1 Deep Analysis
 1 Rite of Replication
-1 Curse of the Swine

@@ -43,18 +43,19 @@ Creatures
 1 Iron-Shield Elf
 1 Dominator Drone
 1 Triskaidekaphile
+1 Kheru Spellsnatcher
+1 Transcendent Dragon
+1 Qiqirn Merchant
+1 Expendable Lackey
+1 Beamsaw Prospector
 1 Dimir House Guard
+1 Dusk Mangler
+1 Sengir, the Dark Baron
 1 Halo Scarab
+1 Azula, On the Hunt
 1 Page, Loose Leaf
 1 Cathodion
 1 Grim Servant
-1 Azula, On the Hunt
-1 Azula, Cunning Usurper
-1 Mind Raker
-1 Witch-king, Bringer of Ruin
-1 Sludge Crawler
-1 Lo and Li, Royal Advisors
-1 Expendable Lackey
 
 Artifacts
 1 Expedition Map
@@ -65,14 +66,15 @@ Artifacts
 1 Fellwar Stone
 1 Fountainport Bell
 1 Found Footage
-1 Wishclaw Talisman
+1 Gathering Stone
+1 Orochi Hatchery
 1 Magnifying Glass
-1 Bender's Waterskin
 1 Hedron Archive
-1 Oblivion Stone
+1 Wishclaw Talisman
 
 Enchantments
-1 Necropotence
+1 Ballad of the Black Flag
+1 Waste Not
 
 Instants
 1 Case the Joint
@@ -86,19 +88,17 @@ Instants
 1 Deal Gone Bad
 1 Darkblast
 1 Become Anonymous
-1 Dig Through Time
-1 Cabal Ritual
-1 Octopus Form
+1 Spellgyre
+1 Refute
+1 Arcane Denial
+1 Deadly Dispute
+1 Sold Out
 
 Sorceries
 1 Environmental Sciences
 1 Intimidation Tactics
 1 In Garruk's Wake
+1 Dread Summons
+1 Razaketh's Rite
 1 Buried Alive
 1 Brainspoil
-1 Razaketh's Rite
-1 Transgress the Mind
-1 Psychic Whorl
-1 Seeker's Folly
-1 Head Games
-1 Ponder

@@ -1,4 +1,3 @@
-Commander
 1 Gorbag of Minas Morgul
 1 Mortuary Mire
 1 Bojuka Bog
@@ -28,6 +27,7 @@ Commander
 1 Cryptic Caves
 1 Volatile Fault
 1 Arid Archway
+1 High Market
 8 Swamp
 1 Ruthless Knave
 1 Changeling Wayfinder
@@ -39,20 +39,22 @@ Commander
 1 Iron-Shield Elf
 1 Venerated Stormsinger
 1 Zulaport Cutthroat
-1 Weirding Shaman
+1 Boggart Prankster
+1 Sludge Crawler
+1 Dominator Drone
+1 Eldrazi Ravager
+1 Dimir House Guard
+1 June, Bounty Hunter
+1 Heirloom Auntie
 1 Warg Rider
 1 Mordor Trebuchet
-1 Heirloom Auntie
+1 Gothmog, Morgul Lieutenant
+1 Dunland Crebain
+1 Common Crook
+1 Weirding Shaman
 1 Graveshifter
-1 Boggart Prankster
 1 Champion of the Weird
 1 Bile-Vial Boggart
-1 Goblin Turncoat
-1 Gothmog, Morgul Lieutenant
-1 Gutsplitter Gang
-1 Blood Artist
-1 Dimir House Guard
-1 Dunland Crebain
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -65,11 +67,12 @@ Commander
 1 Chronicle of Victory
 1 Found Footage
 1 Swiftfoot Boots
-1 Gathering Stone
+1 Maskwood Nexus
 1 Greed
 1 Boggart Mischief
 1 Bastion of Remembrance
 1 March from the Black Gate
+1 Vampiric Rites
 1 Grave Pact
 1 Black Market
 1 Dictate of Erebos
@@ -80,15 +83,11 @@ Commander
 1 Murder
 1 Complete Disregard
 1 Grip of Desolation
-1 Unbury
-1 Dark Ritual
-1 Undying Malice
 1 Fake Your Own Death
+1 Not Dead After All
+1 Unbury
 1 Mordor Muster
 1 Feed the Swarm
 1 Shredder's Technique
 1 Decree of Pain
 1 In Garruk's Wake
-1 Bloodline Bidding
-1 Razaketh's Rite
-1 Buried Alive

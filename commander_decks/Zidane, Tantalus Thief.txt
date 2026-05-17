@@ -46,18 +46,15 @@ Creatures
 1 Mangara, the Diplomat
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Alexios, Deimos of Kosmos
-1 Restoration Angel
 1 Magda, the Hoardmaster
 1 Academy Manufactor
-1 Charming Prince
-1 Page, Loose Leaf
+1 Rose Room Treasurer
+1 Furious Forebear
+1 Alexios, Deimos of Kosmos
+1 Restoration Angel
 1 Halo Scarab
 1 Storm-Kiln Artist
-1 Kirol, Attentive First-Year
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
+1 Hare Apparent
 
 Artifacts
 1 Sol Ring
@@ -72,16 +69,19 @@ Artifacts
 1 Idol of Oblivion
 1 Found Footage
 1 Swiftfoot Boots
+1 Helm of the Host
+1 Magnifying Glass
 
 Enchantments
 1 Cool but Rude
+1 Curse of Opulence
+1 Shiny Impetus
+1 Monologue Tax
 1 Rain of Riches
 1 Alchemist's Talent
 1 Ghostly Prison
-1 Curse of Opulence
+1 Builder's Talent
 1 Airbender Ascension
-1 Shiny Impetus
-1 Monologue Tax
 
 Instants
 1 Big Score
@@ -95,9 +95,8 @@ Instants
 1 Lithobraking
 1 Boros Charm
 1 Teferi's Protection
-1 Chaos Warp
 1 Parting Gust
-1 Abrade
+1 Chaos Warp
 
 Sorceries
 1 Cut a Deal
@@ -111,3 +110,4 @@ Sorceries
 1 Harmless Offering
 1 Another Round
 1 Promise of Loyalty
+1 Tempt with Bunnies

@@ -39,25 +39,24 @@ Creatures
 1 Tireless Provisioner
 1 Survey Mechan
 1 Archetype of Endurance
-1 Earth Kingdom General
 1 The Earth King
+1 Scute Swarm
+1 Rampaging Baloths
+1 Earth Kingdom General
 1 Rebellious Captives
 1 Badgermole Cub
 1 Chomping Changeling
 1 Badgermole
 1 The Boulder, Ready to Rumble
 1 Walltop Sentries
-1 Scute Swarm
-1 Rampaging Baloths
 1 Springheart Nantuko
 1 Springbloom Druid
 1 Foggy Swamp Vinebender
 1 Yedora, Grave Gardener
 1 Avenger of Zendikar
+1 Halo Scarab
 1 Spinner of Souls
-1 Lotus Cobra
-1 Mossborn Hydra
-1 Llanowar Loamspeaker
+1 Courier of Comestibles
 
 Artifacts
 1 Sol Ring
@@ -68,13 +67,14 @@ Artifacts
 1 Ominous Parcel
 1 Swiftfoot Boots
 1 Maskwood Nexus
+1 Evolving Door
 1 The Ozolith
 1 Emerald Medallion
 1 Kyoshi Battle Fan
-1 Patchwork Banner
-1 Mind Stone
-1 All-Fates Scroll
 1 Stalactite Dagger
+1 Patchwork Banner
+1 Magnifying Glass
+1 Mind Stone
 
 Enchantments
 1 Terrasymbiosis
@@ -83,6 +83,7 @@ Enchantments
 1 Stocking the Pantry
 1 Garruk's Uprising
 1 Sapling Nursery
+1 Eusocial Engineering
 1 Retreat to Kazandu
 
 Instants
@@ -104,4 +105,3 @@ Sorceries
 1 Rockalanche
 1 Earthbending Lesson
 1 Cultivate
-1 Fangs of Kalonia

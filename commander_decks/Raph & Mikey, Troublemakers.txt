@@ -45,21 +45,24 @@ Creatures
 1 Darksteel Colossus
 1 Rubble Rouser
 1 Molten Gatekeeper
+1 Combat Celebrant
+1 Etali, Primal Storm
+1 Goreclaw, Terror of Qal Sisma
+1 Evercoat Ursine
+1 Savage Ventmaw
+1 Rampant Frogantua
 1 Raphael, the Nightwatcher
 1 Ghalta, Primal Hunger
-1 Etali, Primal Storm
 1 Terastodon
-1 Goreclaw, Terror of Qal Sisma
+1 Fire Sages
+1 Jeong Jeong, the Deserter
+1 Brazen Collector
+1 Fire Nation Cadets
+1 Zuko, Exiled Prince
 1 Birds of Paradise
 1 Llanowar Elves
-1 Savage Ventmaw
-1 Evercoat Ursine
-1 Combat Celebrant
-1 Page, Loose Leaf
-1 Thornvault Forager
-1 Halo Scarab
-1 Akki Rockspeaker
-1 Fire Sages
+1 Rough Rhino Cavalry
+1 Oliphaunt
 
 Artifacts
 1 Sol Ring
@@ -73,7 +76,6 @@ Artifacts
 1 Swiftfoot Boots
 1 Emerald Medallion
 1 Thought Vessel
-1 Hedron Archive
 
 Enchantments
 1 Garruk's Uprising
@@ -95,7 +97,6 @@ Instants
 1 Snakeskin Veil
 1 Bolt Bend
 1 Chaos Warp
-1 Saved by the Shell
 
 Sorceries
 1 Rampant Growth
@@ -110,6 +111,3 @@ Sorceries
 1 Cultivate
 1 Mana Geyser
 1 Circuitous Route
-
-Other
-1 Domri, Anarch of Bolas

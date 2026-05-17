@@ -1,4 +1,3 @@
-Commander
 1 Prime Speaker Zegana
 1 Command Tower
 1 Hinterland Harbor
@@ -50,6 +49,7 @@ Commander
 1 Trygon Predator
 1 Archetype of Endurance
 1 Triskaidekaphile
+1 Expendable Lackey
 1 Forgotten Ancient
 1 Managorger Hydra
 1 Coiling Oracle
@@ -65,15 +65,16 @@ Commander
 1 Thought Vessel
 1 Swiftfoot Boots
 1 Gilded Lotus
+1 Magnifying Glass
 1 Mind Stone
 1 The Ozolith
 1 All-Fates Scroll
 1 Garruk's Uprising
 1 Wizard Class
 1 Simic Ascendancy
+1 Primeval Bounty
+1 Greater Good
 1 Terrasymbiosis
-1 Wild Growth
-1 Ordeal of Nylea
 1 Growth Spiral
 1 Return of the Wildspeaker
 1 Arcane Denial
@@ -88,14 +89,12 @@ Commander
 1 An Offer You Can't Refuse
 1 Repulsive Mutation
 1 Refute
-1 Planar Genesis
 1 Rampant Growth
 1 Farseek
 1 Explore
 1 Splash Portal
-1 Cultivate
 1 Rite of Replication
+1 Body of Research
+1 Cultivate
 1 Urban Evolution
 1 Ponder
-1 Curse of the Swine
-1 Preordain

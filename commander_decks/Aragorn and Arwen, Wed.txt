@@ -51,18 +51,20 @@ Creatures
 1 Generous Ent
 1 Reclamation Sage
 1 Rosie Cotton of South Lane
+1 Butterbur, Bree Innkeeper
+1 Frodo, Determined Hero
+1 Evercoat Ursine
+1 Eldrazi Ravager
+1 Finneas, Ace Archer
+1 Toski, Bearer of Secrets
 1 Evolution Witness
 1 Abzan Battle Priest
 1 Gandalf, White Rider
 1 Tuskguard Captain
-1 Butterbur, Bree Innkeeper
 1 Birds of Paradise
-1 Frodo, Determined Hero
 1 Meriadoc Brandybuck
-1 Westfold Rider
 1 Scute Swarm
 1 Protector of Gondor
-1 Landroval, Horizon Witness
 
 Artifacts
 1 Sol Ring
@@ -73,17 +75,14 @@ Artifacts
 1 Halo Fountain
 1 The Ozolith
 1 Thought Vessel
-1 Galadhrim Bow
-1 Dúnedain Blade
-1 All-Fates Scroll
-1 Fellwar Stone
 
 Enchantments
 1 Terrasymbiosis
 1 Garruk's Uprising
 1 Banishing Light
-1 Doubling Season
 1 Felidar Retreat
+1 Greater Good
+1 Doubling Season
 
 Instants
 1 Dawn's Truce
@@ -96,8 +95,8 @@ Instants
 1 Teferi's Protection
 1 Stew the Coneys
 1 Second Breakfast
-1 Stroke of Midnight
 1 Galadhrim Ambush
+1 Rootborn Defenses
 
 Sorceries
 1 Rampant Growth
@@ -109,6 +108,7 @@ Sorceries
 1 Dusk // Dawn
 1 Cultivate
 1 Farseek
+1 Martial Coup
 
 Other
 1 Elspeth, Sun's Champion

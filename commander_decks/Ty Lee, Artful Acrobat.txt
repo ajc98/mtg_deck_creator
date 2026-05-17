@@ -41,15 +41,16 @@ Creatures
 1 Coruscation Mage
 1 Thunderdrum Soloist
 1 Rubble Rouser
-1 Boar-q-pine
-1 Young Pyromancer
+1 Combat Celebrant
 1 Etali, Primal Storm
-1 Mongoose Lizard
 1 Fire Nation Cadets
 1 Rough Rhino Cavalry
+1 Boar-q-pine
+1 Young Pyromancer
+1 Oliphaunt
+1 Mongoose Lizard
 1 Monastery Swiftspear
 1 Heartfire Immolator
-1 Crackling Cyclops
 
 Artifacts
 1 Sol Ring
@@ -60,11 +61,13 @@ Artifacts
 1 Bender's Waterskin
 1 Swiftfoot Boots
 1 Bilbo's Ring
+1 Goldvein Pick
 1 Twin Blades
 1 Fellwar Stone
-1 Goldvein Pick
 
 Enchantments
+1 Fervor
+1 Sticky Fingers
 1 Firebender Ascension
 1 Dragon Mantle
 1 Cool but Rude
@@ -98,6 +101,3 @@ Sorceries
 1 Iroh's Demonstration
 1 Blasphemous Act
 1 Mana Geyser
-1 Screaming Fury
-1 Glimpse the Impossible
-1 Aang's Journey

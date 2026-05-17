@@ -1,4 +1,3 @@
-Commander
 1 Sanar, Unfinished Genius // Wild Idea
 1 Fabled Passage
 1 Terramorphic Expanse
@@ -33,22 +32,23 @@ Commander
 1 Kefnet the Mindful
 1 Molten Gatekeeper
 1 Triskaidekaphile
+1 Magda, the Hoardmaster
+1 Expendable Lackey
 1 Goblin Glasswright // Craft with Pride
 1 Bill Ferny, Bree Swindler
-1 Page, Loose Leaf
 1 Halo Scarab
 1 Storm-Kiln Artist
+1 Page, Loose Leaf
 1 Akki Rockspeaker
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
 1 Cathodion
+1 Micromancer
 1 Fire Nation Cadets
 1 Soulbright Seeker
 1 Zuko, Exiled Prince
-1 Micromancer
 1 Rough Rhino Cavalry
-1 Magda, the Hoardmaster
 1 Bedhead Beastie
 1 Oliphaunt
 1 Expedition Map
@@ -59,12 +59,11 @@ Commander
 1 Traveler's Amulet
 1 Ominous Parcel
 1 Found Footage
-1 Fellwar Stone
+1 Orochi Hatchery
 1 Magnifying Glass
-1 Bender's Waterskin
 1 Noble's Purse
-1 Hedron Archive
-1 Oblivion Stone
+1 Fellwar Stone
+1 Bender's Waterskin
 1 Case of the Crimson Pulse
 1 Cool but Rude
 1 Divert Disaster
@@ -83,12 +82,12 @@ Commander
 1 Become Anonymous
 1 Octopus Form
 1 Reckless Ransacking
-1 Anticipate
-1 Big Score
+1 Cunning Maneuver
 1 Environmental Sciences
 1 Solve the Equation
 1 Processor Assault
 1 Fanged Flames
 1 Culmination of Studies
+1 Replication Technique
 1 Goblin Glasswright // Craft with Pride
-1 Expressive Iteration
+1 Glimpse the Impossible

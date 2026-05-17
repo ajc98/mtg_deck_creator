@@ -1,4 +1,3 @@
-Commander
 1 Butterbur, Bree Innkeeper
 1 Command Tower
 1 Canopy Vista
@@ -35,6 +34,7 @@ Commander
 1 Shire Terrace
 1 Demolition Field
 1 Maze's End
+1 High Market
 1 Forest
 1 Plains
 1 Gilded Goose
@@ -43,20 +43,20 @@ Commander
 1 Prosperous Innkeeper
 1 Avacyn's Pilgrim
 1 Peregrin Took
+1 Spinner of Souls
+1 Furious Forebear
 1 Rosie Cotton of South Lane
-1 Mushroom Watchdogs
 1 Eastfarthing Farmer
 1 Meriadoc Brandybuck
 1 Brandywine Farmer
-1 Bill the Pony
 1 Academy Manufactor
+1 Lunarch Veteran // Luminous Phantom
+1 Mushroom Watchdogs
+1 Bill the Pony
 1 Honored Dreyleader
 1 Galadriel, Gift-Giver
 1 Llanowar Elves
-1 Sarinth Steelseeker
 1 Bakersbane Duo
-1 Ajani's Pridemate
-1 Samwise the Stouthearted
 1 Courier of Comestibles
 1 Sol Ring
 1 Arcane Signet
@@ -69,13 +69,13 @@ Commander
 1 Swiftfoot Boots
 1 Halo Fountain
 1 Heaped Harvest
-1 Fellwar Stone
-1 Heraldic Banner
 1 Carrot Cake
+1 Greater Good
 1 Welcome to Sweettooth
-1 Gourmand's Talent
 1 Doubling Season
-1 Banishing Light
+1 Parallel Lives
+1 Gourmand's Talent
+1 Clachan Festival
 1 Pawpatch Formation
 1 Swords to Plowshares
 1 Path to Exile
@@ -87,7 +87,6 @@ Commander
 1 Crumb and Get It
 1 Stew the Coneys
 1 Second Breakfast
-1 Cycle of Renewal
 1 Personify
 1 Many Partings
 1 Rampant Growth

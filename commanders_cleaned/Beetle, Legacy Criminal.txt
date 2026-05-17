@@ -1,4 +1,3 @@
-Commander
 1 Beetle, Legacy Criminal
 1 Fabled Passage
 1 Evolving Wilds
@@ -34,17 +33,17 @@ Commander
 1 Whirlwind Adept
 1 Kefnet the Mindful
 1 Triskaidekaphile
-1 Fugitive Droid
-1 Agent of Kotis
 1 Donatello, Gadget Master
+1 Agent of Kotis
+1 Expendable Lackey
+1 Fugitive Droid
+1 Halo Scarab
+1 Emrakul's Messenger
 1 Page, Loose Leaf
 1 Towering Viewpoint
-1 Halo Scarab
 1 Kitsa, Otterball Elite
-1 Emrakul's Messenger
 1 Cathodion
 1 Flying Octobot
-1 Faerie Vandal
 1 Sol Ring
 1 Mind Stone
 1 Goldvein Pick
@@ -59,11 +58,12 @@ Commander
 1 Pinnacle Kill-Ship
 1 Tormod's Crypt
 1 Mirage Mirror
+1 Magnifying Glass
 1 Sapphire Medallion
 1 Found Footage
 1 Oblivion Stone
-1 Gossip's Talent
 1 Stormchaser's Talent
+1 Gossip's Talent
 1 Arcane Denial
 1 Frantic Search
 1 Refute
@@ -72,15 +72,14 @@ Commander
 1 Titan's Presence
 1 Fleeting Distraction
 1 Become Anonymous
-1 Counterspell
 1 Phantom Interference
+1 Counterspell
 1 Disdainful Stroke
 1 Aetherize
 1 Negate
 1 An Offer You Can't Refuse
 1 Majestic Metamorphosis
 1 Consider
-1 Case the Joint
 1 Preordain
 1 Treasure Cruise
 1 Ponder

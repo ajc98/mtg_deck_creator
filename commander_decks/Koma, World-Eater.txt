@@ -52,13 +52,16 @@ Creatures
 1 Trygon Predator
 1 Adrix and Nev, Twincasters
 1 Triskaidekaphile
+1 Uro, Titan of Nature's Wrath
+1 Curiosity Crafter
+1 Evercoat Ursine
+1 Kalonian Hydra
 1 Junk Winder
 1 Loot, Exuberant Explorer
 1 Coiling Oracle
 1 Mossborn Hydra
 1 Troyan, Gutsy Explorer
 1 Tireless Provisioner
-1 Azusa, Lost but Seeking
 
 Artifacts
 1 Sol Ring
@@ -77,13 +80,11 @@ Artifacts
 
 Enchantments
 1 Garruk's Uprising
+1 Beastmaster Ascension
 1 Doubling Season
 1 Parallel Lives
 1 Unnatural Growth
 1 Wild Growth
-1 Beastmaster Ascension
-1 Witness Protection
-1 Propaganda
 
 Instants
 1 Growth Spiral
@@ -110,4 +111,3 @@ Sorceries
 1 Cultivate
 1 Tempt with Discovery
 1 Bushwhack
-1 Ponder

@@ -46,19 +46,21 @@ Creatures
 1 Crypt Ghast
 1 Mirkwood Bats
 1 Witch-king, Bringer of Ruin
+1 Gollum, Scheming Guide
+1 Sunset Saboteur
+1 Sludge Crawler
+1 Doomed Necromancer
+1 Gríma Wormtongue
+1 Viscera Seer
+1 Dimir House Guard
+1 June, Bounty Hunter
 1 Massacre Wurm
+1 Midnight Reaper
+1 Suspicious Shambler
 1 Gothmog, Morgul Lieutenant
 1 Voracious Fell Beast
-1 Gríma Wormtongue
 1 Dunland Crebain
-1 Valgavoth, Terror Eater
-1 Grim Servant
-1 Burnished Hart
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Dimir House Guard
-1 Morbid Opportunist
-1 Cathodion
+1 Canyon Crawler
 
 Artifacts
 1 Sol Ring
@@ -74,9 +76,11 @@ Artifacts
 1 Whip of Erebos
 
 Enchantments
-1 Ripples of Undeath
 1 March from the Black Gate
+1 Black Market
+1 Grave Pact
 1 Necropotence
+1 Corpseweft
 
 Instants
 1 Nasty End
@@ -86,9 +90,10 @@ Instants
 1 Murder
 1 Saw in Half
 1 Complete Disregard
-1 Dark Ritual
-1 Cabal Ritual
-1 Corpse Churn
+1 Consumed by Greed
+1 Unbury
+1 Not Dead After All
+1 Shelob's Ambush
 
 Sorceries
 1 Environmental Sciences
@@ -99,8 +104,6 @@ Sorceries
 1 Claim the Precious
 1 Feed the Swarm
 1 Lash of the Balrog
-1 The Black Breath
-1 Diabolic Tutor
-1 Razaketh's Rite
-1 Exsanguinate
 1 Coiling Rebirth
+1 Scrounge for Eternity
+1 Dread Summons

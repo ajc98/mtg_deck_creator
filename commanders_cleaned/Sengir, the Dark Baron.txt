@@ -1,4 +1,3 @@
-Commander
 1 Sengir, the Dark Baron
 1 Fabled Passage
 1 Terramorphic Expanse
@@ -39,17 +38,21 @@ Commander
 1 Gray Merchant of Asphodel
 1 Zulaport Cutthroat
 1 Marauding Blight-Priest
-1 Blood Artist
+1 Ogre Slumlord
+1 Venerated Stormsinger
+1 Moonstone Eulogist
 1 Viscera Seer
-1 Vampire Nighthawk
-1 Massacre Wurm
-1 Crypt Ghast
 1 Carrion Feeder
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Vengeful Bloodwitch
-1 Cathodion
 1 Dimir House Guard
+1 June, Bounty Hunter
+1 Pirate Peddlers
+1 Massacre Wurm
+1 Scavenger Drake
+1 Blood Artist
+1 Vampire Nighthawk
+1 Crypt Ghast
+1 Halo Scarab
+1 Azula, On the Hunt
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -61,34 +64,30 @@ Commander
 1 Skullclamp
 1 Found Footage
 1 Swiftfoot Boots
+1 Malefic Scythe
 1 Greed
 1 Vampiric Rites
 1 The Cloning of Shredder
 1 Meathook Massacre II
+1 Bastion of Remembrance
 1 Black Market
+1 Grave Pact
+1 Dictate of Erebos
+1 Shadows of the Past
 1 Sanguine Bond
 1 Exquisite Blood
-1 Grave Pact
-1 Necropotence
-1 Bastion of Remembrance
 1 Village Rites
 1 Deadly Dispute
 1 Murder
 1 Hero's Downfall
 1 Victim of Night
 1 Complete Disregard
+1 Fake Your Own Death
 1 Dark Ritual
-1 Cabal Ritual
-1 Unlikely Aid
-1 Tribute to Hunger
-1 Altar's Reap
-1 Overkill
 1 Diabolic Tutor
 1 Buried Alive
 1 Feed the Swarm
 1 Eaten Alive
 1 Exsanguinate
 1 Army of the Damned
-1 Duress
-1 Razaketh's Rite
 1 Liliana of the Dark Realms

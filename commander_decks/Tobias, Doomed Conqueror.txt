@@ -51,17 +51,18 @@ Creatures
 1 Survey Mechan
 1 Selfless Spirit
 1 Triskaidekaphile
-1 Luminous Broodmoth
-1 Sun Titan
 1 Boss's Chauffeur
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Cathodion
-1 Angel of the Ruins
-1 Shepherding Spirits
 1 Invasion Reinforcements
-1 Knight of Grace
 1 Resolute Reinforcements
+1 Expendable Lackey
+1 Hare Apparent
+1 Luminous Broodmoth
+1 Furious Forebear
+1 Sun Titan
+1 Halo Scarab
+1 Page, Loose Leaf
+1 Dwarven Castle Guard
+1 Cathodion
 
 Artifacts
 1 Sol Ring
@@ -79,8 +80,11 @@ Artifacts
 1 Halo Fountain
 1 Spawning Pit
 1 Maskwood Nexus
-1 Found Footage
-1 Oblivion Stone
+1 Magnifying Glass
+1 Essence Anchor
+
+Enchantments
+1 Builder's Talent
 
 Instants
 1 Arcane Denial
@@ -95,18 +99,16 @@ Instants
 1 Counterspell
 1 Negate
 1 Flare of Denial
-1 An Offer You Can't Refuse
-1 Aetherize
-1 Case the Joint
 
 Sorceries
 1 Suppression Ray // Orderly Plaza
 1 Vanquish the Horde
 1 Dusk // Dawn
 1 Fumigate
+1 Martial Coup
 1 Storm of Souls
+1 Tempt with Bunnies
 1 Ponder
 1 Time Wipe
 1 Dewdrop Cure
-1 Martial Coup
 1 Solve the Equation

@@ -1,4 +1,3 @@
-Commander
 1 Goreclaw, Terror of Qal Sisma
 1 Mosswort Bridge
 1 Fabled Passage
@@ -33,8 +32,11 @@ Commander
 1 Fierce Empath
 1 Survey Mechan
 1 Archetype of Endurance
-1 Ghalta, Primal Hunger
 1 Surrak, the Hunt Caller
+1 Evercoat Ursine
+1 Eldrazi Ravager
+1 Kalonian Hydra
+1 Ghalta, Primal Hunger
 1 Terastodon
 1 End-Raze Forerunners
 1 Rampaging Baloths
@@ -42,15 +44,12 @@ Commander
 1 Kodama of the East Tree
 1 The Earth King
 1 Spinner of Souls
+1 Shopkeeper's Bane
 1 Page, Loose Leaf
 1 Thornvault Forager
 1 Halo Scarab
 1 Wose Pathfinder
 1 Slavering Branchsnapper
-1 Shopkeeper's Bane
-1 Raucous Audience
-1 Cathodion
-1 Courier of Comestibles
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -65,10 +64,10 @@ Commander
 1 Coveted Jewel
 1 Garruk's Uprising
 1 Greater Good
-1 Unnatural Growth
-1 Wild Growth
 1 Hunter's Talent
 1 Beastmaster Ascension
+1 Unnatural Growth
+1 Wild Growth
 1 Return of the Wildspeaker
 1 Heritage Reclamation
 1 Beast Within

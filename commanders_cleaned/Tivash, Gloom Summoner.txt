@@ -1,4 +1,3 @@
-Commander
 1 Tivash, Gloom Summoner
 1 Fabled Passage
 1 Bojuka Bog
@@ -26,6 +25,7 @@ Commander
 1 Rogue's Passage
 1 Adventurer's Inn
 1 Cryptic Caves
+1 High Market
 10 Swamp
 1 Solemn Simulacrum
 1 Dread Presence
@@ -36,19 +36,19 @@ Commander
 1 Iron-Shield Elf
 1 Gray Merchant of Asphodel
 1 Crypt Ghast
+1 Starscape Cleric
+1 Moonstone Eulogist
+1 Canyon Crawler
+1 Beamsaw Prospector
+1 Dimir House Guard
+1 Deathgreeter
+1 Sengir, the Dark Baron
 1 Vampire Nighthawk
 1 Gifted Aetherborn
 1 Marauding Blight-Priest
 1 Gollum, Obsessed Stalker
 1 Qarsi Revenant
 1 K'rrik, Son of Yawgmoth
-1 Shard of the Nightbringer
-1 Diamond Mare
-1 Starscape Cleric
-1 Burnished Hart
-1 Blood Artist
-1 Nullpriest of Oblivion
-1 Tymaret, Chosen from Death
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -59,23 +59,25 @@ Commander
 1 Thran Dynamo
 1 Found Footage
 1 Swiftfoot Boots
+1 Idol of Oblivion
 1 Whip of Erebos
 1 Staff of the Death Magus
 1 Demon's Horn
-1 Basilisk Collar
-1 Bolas's Citadel
 1 Greed
 1 Font of Agonies
+1 Midnight Snack
+1 Obsessive Pursuit
+1 Vampiric Rites
+1 Black Market
 1 Sanguine Bond
 1 Exquisite Blood
-1 Midnight Snack
-1 Necropotence
 1 Deadly Dispute
 1 Village Rites
 1 Complete Disregard
 1 Grip of Desolation
 1 Deal Gone Bad
 1 Darkblast
+1 Bake into a Pie
 1 Tendrils of Corruption
 1 Dark Ritual
 1 Diresight
@@ -86,7 +88,4 @@ Commander
 1 Exsanguinate
 1 Blood Tithe
 1 Essence Harvest
-1 Consume Spirit
-1 Corrupt
-1 Bubbling Muck
 1 Liliana of the Dark Realms

@@ -42,12 +42,14 @@ Creatures
 1 Helpful Hunter
 1 Survey Mechan
 1 Voice of the Blessed
+1 Sun Titan
+1 Eldrazi Ravager
+1 Dalkovan Packbeasts
 1 Ajani's Pridemate
 1 Angel of Vitality
 1 Essence Channeler
 1 Hinterland Sanctifier
 1 Sunscorch Regent
-1 Sun Titan
 1 Healer's Hawk
 1 Cat Collector
 1 Lifecreed Duo
@@ -57,8 +59,6 @@ Creatures
 1 Evangel of Heliod
 1 Shepherding Spirits
 1 Angel of the Ruins
-1 Knight of Grace
-1 Eager Glyphmage
 
 Artifacts
 1 Sol Ring
@@ -73,8 +73,9 @@ Artifacts
 1 Skullclamp
 1 Found Footage
 1 Swiftfoot Boots
+1 Sword of Hearth and Home
+1 Argent Dais
 1 Caduceus, Staff of Hermes
-1 Oblivion Stone
 
 Enchantments
 1 Banishing Light
@@ -106,4 +107,3 @@ Sorceries
 
 Other
 1 Elspeth, Sun's Champion
-1 Ajani, Caller of the Pride

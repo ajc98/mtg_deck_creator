@@ -37,19 +37,20 @@ Creatures
 1 Jolrael, Mwonvuli Recluse
 1 Reclamation Sage
 1 Selfless Safewright
+1 Evercoat Ursine
+1 Eldrazi Ravager
+1 Toski, Bearer of Secrets
 1 Glorfindel, Dauntless Rescuer
 1 Imperious Perfect
 1 Dwynen's Elite
 1 Gala Greeters
 1 Wildborn Preserver
+1 Galadriel, Gift-Giver
 1 High-Rise Sawjack
 1 Slavering Branchsnapper
 1 Thornvault Forager
 1 Courier of Comestibles
 1 Page, Loose Leaf
-1 Halo Scarab
-1 Saber-Tooth Moose-Lion
-1 Lys Alana Dignitary
 
 Artifacts
 1 Sol Ring
@@ -59,6 +60,7 @@ Artifacts
 1 Found Footage
 1 Ominous Parcel
 1 Swiftfoot Boots
+1 Sword of Hearth and Home
 1 Emerald Medallion
 1 Galadhrim Bow
 1 Mind Stone
@@ -69,11 +71,10 @@ Artifacts
 1 Evolving Door
 1 Bender's Waterskin
 1 Coveted Jewel
-1 Hedron Archive
 
 Enchantments
-1 Retreat to Kazandu
 1 Beastmaster Ascension
+1 Retreat to Kazandu
 1 Wild Growth
 
 Instants
@@ -99,7 +100,6 @@ Sorceries
 1 Harmonize
 1 Shamanic Revelation
 1 Cultivate
-1 Overrun
 
 Other
 1 Vivien Reid

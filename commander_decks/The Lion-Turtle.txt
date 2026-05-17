@@ -37,6 +37,7 @@ Lands
 1 Yavimaya, Cradle of Growth
 1 Demolition Field
 1 Maze's End
+1 High Market
 1 Forest
 1 Island
 
@@ -51,6 +52,9 @@ Creatures
 1 Survey Mechan
 1 Archetype of Endurance
 1 Triskaidekaphile
+1 Spinner of Souls
+1 Expendable Lackey
+1 Sagu Pummeler
 1 Guru Pathik
 1 Turtle-Duck
 1 Badgermole
@@ -66,9 +70,6 @@ Creatures
 1 Haru, Hidden Talent
 1 Iguana Parrot
 1 Foggy Swamp Vinebender
-1 Ostrich-Horse
-1 Birds of Paradise
-1 Llanowar Elves
 
 Artifacts
 1 Sol Ring
@@ -76,13 +77,13 @@ Artifacts
 1 Bender's Waterskin
 1 Meteor Sword
 1 Swiftfoot Boots
-1 Thought Vessel
 
 Enchantments
+1 Stormchaser's Talent
+1 Greater Good
 1 Watery Grasp
 1 Waterbender Ascension
 1 Honest Work
-1 Turtle Power!
 
 Instants
 1 Growth Spiral
@@ -97,17 +98,16 @@ Instants
 1 Heritage Reclamation
 1 Pongify
 1 Octopus Form
+1 Peerless Recycling
 1 It'll Quench Ya!
 1 Cycle of Renewal
-1 Counterspell
-1 Negate
 
 Sorceries
 1 Aang's Journey
 1 Environmental Sciences
 1 Waterbending Lesson
 1 Teachings of the Archaics
+1 Recollect
 1 Rockalanche
 1 Earthbending Lesson
 1 Explore
-1 Cultivate

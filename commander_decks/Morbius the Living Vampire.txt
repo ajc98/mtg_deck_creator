@@ -49,19 +49,21 @@ Creatures
 1 Marauding Blight-Priest
 1 Dominator Drone
 1 Dawnhand Eulogist
-1 Vampire Nighthawk
-1 Qarsi Revenant
-1 Rune-Scarred Demon
-1 Blood Artist
-1 Dimir House Guard
-1 Bog Glider
-1 Razaketh, the Foulblooded
-1 Canyon Crawler
-1 Mob Lookout
-1 Academy Manufactor
-1 Grim Servant
+1 Vampire Soulcaller
+1 Driver of the Dead
+1 Nullpriest of Oblivion
 1 Viscera Seer
+1 Razaketh, the Foulblooded
+1 Dimir House Guard
+1 Sengir, the Dark Baron
+1 Qarsi Revenant
+1 Vampire Nighthawk
+1 Bog Glider
 1 Beetle, Legacy Criminal
+1 Halo Scarab
+1 Blood Artist
+1 Azula, Cunning Usurper
+1 Rune-Scarred Demon
 
 Artifacts
 1 Sol Ring
@@ -76,11 +78,13 @@ Artifacts
 1 Swiftfoot Boots
 1 Sapphire Medallion
 1 Fireshrieker
-1 Wishclaw Talisman
 
 Enchantments
-1 Propaganda
+1 Stormchaser's Talent
+1 Vampiric Rites
+1 Black Market
 1 Necropotence
+1 Propaganda
 
 Instants
 1 Frantic Search
@@ -95,13 +99,12 @@ Instants
 1 Whoosh!
 1 Recoil
 1 Slip Out the Back
+1 Unbury
 1 Counterspell
 1 Negate
 1 Dark Ritual
 1 An Offer You Can't Refuse
 1 Cabal Ritual
-1 Mystical Teachings
-1 Flare of Denial
 
 Sorceries
 1 Ponder
@@ -109,6 +112,3 @@ Sorceries
 1 Scheming Silvertongue // Sign in Blood
 1 Feed the Swarm
 1 Exsanguinate
-1 Buried Alive
-1 Brainspoil
-1 Razaketh's Rite

@@ -39,6 +39,8 @@ Creatures
 1 Angel of the Ruins
 1 Survey Mechan
 1 Archetype of Endurance
+1 Expendable Lackey
+1 Jolrael, Mwonvuli Recluse
 1 Selvala, Explorer Returned
 1 Page, Loose Leaf
 1 Raucous Audience
@@ -49,14 +51,10 @@ Creatures
 1 Jackdaw Savior
 1 Saber-Tooth Moose-Lion
 1 Aang, the Last Airbender
+1 Hare Apparent
 1 Gathering Throng
 1 Silhana Ledgewalker
 1 Kefnet the Mindful
-1 Helpful Hunter
-1 Loot, Exuberant Explorer
-1 Blanchwood Prowler
-1 Veteran Survivor
-1 Expendable Lackey
 
 Artifacts
 1 Expedition Map
@@ -74,7 +72,8 @@ Artifacts
 
 Enchantments
 1 Banishing Light
-1 Airtight Alibi
+1 Greater Good
+1 Builder's Talent
 
 Instants
 1 Case the Joint
@@ -87,11 +86,10 @@ Instants
 1 Titan's Presence
 1 Snakeskin Veil
 1 Become Anonymous
+1 Cache Grab
 1 Dig Through Time
 1 Midnight Tilling
-1 Cache Grab
 1 Summary Dismissal
-1 Lull
 
 Sorceries
 1 Suppression Ray // Orderly Plaza
@@ -103,6 +101,8 @@ Sorceries
 1 Dusk // Dawn
 1 Time Wipe
 1 Damning Verdict
+1 Body of Research
+1 Tempt with Bunnies
 1 Say Its Name
 1 Cultivate
 

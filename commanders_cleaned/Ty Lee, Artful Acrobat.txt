@@ -1,4 +1,3 @@
-Commander
 1 Ty Lee, Artful Acrobat
 1 Fire Nation Palace
 1 Fabled Passage
@@ -37,15 +36,16 @@ Commander
 1 Coruscation Mage
 1 Thunderdrum Soloist
 1 Rubble Rouser
-1 Boar-q-pine
-1 Young Pyromancer
+1 Combat Celebrant
 1 Etali, Primal Storm
-1 Mongoose Lizard
 1 Fire Nation Cadets
 1 Rough Rhino Cavalry
+1 Boar-q-pine
+1 Young Pyromancer
+1 Oliphaunt
+1 Mongoose Lizard
 1 Monastery Swiftspear
 1 Heartfire Immolator
-1 Crackling Cyclops
 1 Sol Ring
 1 Arcane Signet
 1 Glittering Stockpile
@@ -54,9 +54,11 @@ Commander
 1 Bender's Waterskin
 1 Swiftfoot Boots
 1 Bilbo's Ring
+1 Goldvein Pick
 1 Twin Blades
 1 Fellwar Stone
-1 Goldvein Pick
+1 Fervor
+1 Sticky Fingers
 1 Firebender Ascension
 1 Dragon Mantle
 1 Cool but Rude
@@ -86,6 +88,3 @@ Commander
 1 Iroh's Demonstration
 1 Blasphemous Act
 1 Mana Geyser
-1 Screaming Fury
-1 Glimpse the Impossible
-1 Aang's Journey

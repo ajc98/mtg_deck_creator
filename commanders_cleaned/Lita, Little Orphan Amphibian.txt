@@ -1,4 +1,3 @@
-Commander
 1 Lita, Little Orphan Amphibian
 1 Fabled Passage
 1 Terramorphic Expanse
@@ -40,19 +39,21 @@ Commander
 1 Academy Manufactor
 1 Rosie Cotton of South Lane
 1 Cat Collector
+1 Eastfarthing Farmer
+1 Appa, Steadfast Guardian
+1 Resolute Reinforcements
+1 Blade Splicer
+1 Luminous Broodmoth
+1 Furious Forebear
+1 Suki, Courageous Rescuer
+1 Lunarch Veteran // Luminous Phantom
 1 Sun Titan
 1 Skyclave Apparition
 1 Ambrosia Whiteheart
-1 Appa, Steadfast Guardian
-1 Resolute Reinforcements
 1 Restoration Angel
-1 Eastfarthing Farmer
-1 Page, Loose Leaf
 1 Halo Scarab
-1 Cathodion
-1 Blade Splicer
-1 Charming Prince
-1 Luminous Broodmoth
+1 Boss's Chauffeur
+1 Hare Apparent
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -65,12 +66,12 @@ Commander
 1 Found Footage
 1 Swiftfoot Boots
 1 Halo Fountain
-1 Argent Dais
+1 Helm of the Host
+1 Magnifying Glass
+1 Bumbleflower's Sharepot
 1 Charitable Levy
 1 Felidar Retreat
-1 Airbender Ascension
-1 Ghostly Prison
-1 Angelic Gift
+1 Builder's Talent
 1 Dawn's Truce
 1 Path to Exile
 1 Swords to Plowshares
@@ -79,14 +80,12 @@ Commander
 1 Make Your Move
 1 Thraben Charm
 1 Perch Protection
-1 Make a Stand
 1 Rootborn Defenses
 1 Parting Gust
-1 Pyrrhic Strike
-1 Duty Beyond Death
+1 Second Breakfast
 1 Cut a Deal
 1 Dusk // Dawn
 1 Vanquish the Horde
 1 Martial Coup
-1 Another Round
+1 Tempt with Bunnies
 1 Elspeth, Sun's Champion

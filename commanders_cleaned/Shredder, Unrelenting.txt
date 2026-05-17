@@ -1,4 +1,3 @@
-Commander
 1 Shredder, Unrelenting
 1 Fabled Passage
 1 Terramorphic Expanse
@@ -41,6 +40,11 @@ Commander
 1 Crypt Ghast
 1 Dream Beavers
 1 Gray Merchant of Asphodel
+1 Throat Slitter
+1 Sludge Crawler
+1 Dominator Drone
+1 Eldrazi Ravager
+1 Culling Drone
 1 Squirrelanoids
 1 Ulna Alley Shopkeep
 1 Tunnel Rats
@@ -48,8 +52,7 @@ Commander
 1 Massacre Wurm
 1 Hog-Monkey
 1 Vampire Nighthawk
-1 Dimir House Guard
-1 Scarblade Scout
+1 Azula, On the Hunt
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
@@ -62,7 +65,6 @@ Commander
 1 Bolas's Citadel
 1 Shredder's Armor
 1 Hall of Triumph
-1 Omni-Cheese Pizza
 1 Greed
 1 Waste Not
 1 Necropotence
@@ -82,9 +84,6 @@ Commander
 1 Zuko's Conviction
 1 Foolish Fate
 1 Cabal Ritual
-1 Give In to Violence
-1 Azula Always Lies
-1 Blight Rot
 1 Shredder's Revenge
 1 Shredder's Technique
 1 Feed the Swarm

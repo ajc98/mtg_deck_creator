@@ -30,6 +30,7 @@ Lands
 1 Cryptic Caves
 1 Volatile Fault
 1 Maze's End
+1 High Market
 9 Plains
 
 Creatures
@@ -38,18 +39,17 @@ Creatures
 1 Survey Mechan
 1 Boss's Chauffeur
 1 Academy Manufactor
-1 Ainok Bond-Kin
 1 Eastfarthing Farmer
-1 Sun Titan
-1 Bill the Pony
 1 Cat Collector
-1 Page, Loose Leaf
+1 Furious Forebear
+1 Suki, Courageous Rescuer
+1 Lunarch Veteran // Luminous Phantom
+1 Ainok Bond-Kin
+1 Sun Titan
 1 Halo Scarab
-1 Stone Docent
-1 Metastatic Evangel
-1 Cathodion
-1 Exalted Sunborn
-1 Shepherding Spirits
+1 Hare Apparent
+1 Bill the Pony
+1 Page, Loose Leaf
 
 Artifacts
 1 Sol Ring
@@ -67,10 +67,10 @@ Artifacts
 1 Halo Fountain
 1 Found Footage
 1 Swiftfoot Boots
+1 The Ozolith
 1 Carrot Cake
 1 Noble's Purse
 1 Bumbleflower's Sharepot
-1 The Ozolith
 
 Enchantments
 1 Felidar Retreat
@@ -79,6 +79,9 @@ Enchantments
 1 Endless Foot Assault
 1 Clachan Festival
 1 Uneasy Alliance
+1 Kinbinding
+1 Murmuration
+1 Aligned Heart
 
 Instants
 1 Dawn's Truce
@@ -91,8 +94,6 @@ Instants
 1 Rootborn Defenses
 1 Teferi's Protection
 1 Second Breakfast
-1 Duty Beyond Death
-1 Thraben Charm
 
 Sorceries
 1 Cut a Deal
@@ -101,7 +102,6 @@ Sorceries
 1 Dusk // Dawn
 1 Damning Verdict
 1 Martial Coup
-1 Hop to It
 
 Other
 1 Elspeth, Sun's Champion

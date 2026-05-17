@@ -42,27 +42,18 @@ Creatures
 1 Rubble Rouser
 1 Dominator Drone
 1 Molten Gatekeeper
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Vindictive Warden
-1 Flamecache Gecko
-1 Brazen Collector
-1 Cathodion
-1 Storm-Kiln Artist
-1 Fire Nation Cadets
-1 Soulbright Seeker
+1 Sludge Crawler
+1 Sauron, the Necromancer
+1 Sunset Saboteur
+1 Shadow Urchin
+1 Emeria Shepherd
 1 Dimir House Guard
-1 Zuko, Exiled Prince
-1 Azula, On the Hunt
-1 Rough Rhino Cavalry
-1 Canyon Crawler
+1 June, Bounty Hunter
 1 Twilight Diviner
-1 The Rise of Sozin // Fire Lord Sozin
-1 Angel of the Ruins
-1 Shadowborn Apostle
+1 Hare Apparent
+1 Canyon Crawler
+1 Halo Scarab
+1 Storm-Kiln Artist
 
 Artifacts
 1 Expedition Map
@@ -74,13 +65,22 @@ Artifacts
 1 Ominous Parcel
 1 Fellwar Stone
 1 Found Footage
-1 Magnifying Glass
+1 Argent Dais
+1 Whip of Erebos
 
 Enchantments
 1 Case of the Crimson Pulse
 1 Greed
 1 The Revelations of Ezio
 1 Cool but Rude
+1 Builder's Talent
+1 Hidden Stockpile
+1 Necropotence
+1 Echoing Assault
+1 War Effort
+1 Corpseweft
+1 Endless Foot Assault
+1 Waste Not
 
 Instants
 1 Take Out the Trash
@@ -90,6 +90,9 @@ Instants
 1 Path to Exile
 1 Grip of Desolation
 1 Lithobraking
+1 Unbury
+1 Consumed by Greed
+1 Wither and Bloom
 
 Sorceries
 1 Environmental Sciences
@@ -98,10 +101,7 @@ Sorceries
 1 Processor Assault
 1 Dusk // Dawn
 1 Damning Verdict
-1 Razaketh's Rite
-1 Buried Alive
-1 Brainspoil
-1 Diabolic Tutor
+1 Gravedig
 
 Other
 1 Kaya, Bane of the Dead

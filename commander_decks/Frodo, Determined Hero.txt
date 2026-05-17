@@ -37,8 +37,11 @@ Creatures
 1 Mangara, the Diplomat
 1 Helpful Hunter
 1 Survey Mechan
-1 Samwise the Stouthearted
 1 Sun Titan
+1 Eldrazi Ravager
+1 Haazda Vigilante
+1 Meanders Guide
+1 Samwise the Stouthearted
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Cathodion
@@ -48,7 +51,6 @@ Creatures
 1 Knight of Grace
 1 Hare Apparent
 1 Gathering Throng
-1 Veteran Survivor
 
 Artifacts
 1 Sol Ring
@@ -65,18 +67,17 @@ Artifacts
 1 Swiftfoot Boots
 1 Caduceus, Staff of Hermes
 1 Halo Fountain
+1 Argent Dais
 1 Fireshrieker
 1 Basilisk Collar
 1 Hero's Blade
 1 Oblivion Stone
 1 Magnifying Glass
-1 Bender's Waterskin
 
 Enchantments
 1 Banishing Light
 1 Ghostly Prison
 1 Charitable Levy
-1 Case of the Pilfered Proof
 
 Instants
 1 Dawn's Truce
@@ -92,7 +93,6 @@ Instants
 1 Hold at Bay
 1 Ajani's Response
 1 Energybending
-1 Safe Passage
 
 Sorceries
 1 Cut a Deal

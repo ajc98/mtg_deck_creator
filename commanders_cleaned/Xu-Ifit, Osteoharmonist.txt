@@ -1,4 +1,3 @@
-Commander
 1 Xu-Ifit, Osteoharmonist
 1 Fabled Passage
 1 Bojuka Bog
@@ -37,18 +36,18 @@ Commander
 1 Iron-Shield Elf
 1 Gray Merchant of Asphodel
 1 Crypt Ghast
+1 Doomed Necromancer
+1 Valgavoth's Faithful
+1 Dimir House Guard
+1 Nezumi Bone-Reader
+1 June, Bounty Hunter
+1 Massacre Wurm
+1 Qarsi Revenant
 1 Twilight Diviner
 1 Umbral Collar Zealot
 1 Valgavoth, Terror Eater
 1 Moonshadow
-1 Qarsi Revenant
-1 Page, Loose Leaf
 1 Halo Scarab
-1 Dimir House Guard
-1 Cathodion
-1 Massacre Wurm
-1 Azula, On the Hunt
-1 Shadowborn Apostle
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -62,10 +61,11 @@ Commander
 1 Whip of Erebos
 1 Greed
 1 Meathook Massacre II
-1 Ripples of Undeath
 1 Sothera, the Supervoid
-1 Kaya's Ghostform
 1 Grave Pact
+1 Black Market
+1 Necropotence
+1 Ripples of Undeath
 1 Village Rites
 1 Deadly Dispute
 1 Corrupted Conviction
@@ -76,6 +76,7 @@ Commander
 1 Darkblast
 1 Murder
 1 Not Dead After All
+1 Zuko's Conviction
 1 Undying Malice
 1 Dark Ritual
 1 Fake Your Own Death
@@ -86,7 +87,5 @@ Commander
 1 Feed the Swarm
 1 Decree of Pain
 1 Exsanguinate
-1 Hymn of the Faller
-1 Razaketh's Rite
-1 Essence Harvest
-1 Brainspoil
+1 Zombify
+1 Stir the Grave

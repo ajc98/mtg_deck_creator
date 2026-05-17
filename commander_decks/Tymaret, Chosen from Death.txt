@@ -43,19 +43,16 @@ Creatures
 1 Gray Merchant of Asphodel
 1 Crypt Ghast
 1 Marauding Blight-Priest
+1 Doomed Necromancer
+1 Dimir House Guard
+1 June, Bounty Hunter
+1 Dusk Mangler
+1 Massacre Wurm
+1 Qarsi Revenant
 1 Gifted Aetherborn
 1 Vampire Nighthawk
-1 Massacre Wurm
 1 Blood Artist
 1 Shard of the Nightbringer
-1 Qarsi Revenant
-1 K'rrik, Son of Yawgmoth
-1 Marshmist Titan
-1 Page, Loose Leaf
-1 Burnished Hart
-1 Halo Scarab
-1 Mogis's Marauder
-1 Starscape Cleric
 
 Artifacts
 1 Sol Ring
@@ -75,9 +72,11 @@ Artifacts
 Enchantments
 1 Greed
 1 Black Market
+1 Dictate of Erebos
+1 Bastion of Remembrance
+1 Necropotence
 1 Sanguine Bond
 1 Exquisite Blood
-1 Necropotence
 
 Instants
 1 Village Rites
@@ -88,8 +87,9 @@ Instants
 1 Doom Blade
 1 Grip of Desolation
 1 Foolish Fate
+1 Consumed by Greed
+1 Unbury
 1 Dark Ritual
-1 Cabal Ritual
 
 Sorceries
 1 Environmental Sciences
@@ -98,9 +98,9 @@ Sorceries
 1 Feed the Swarm
 1 In Garruk's Wake
 1 Exsanguinate
+1 Gravedig
+1 Stir the Grave
 1 Corrupt
-1 Duress
-1 Consume Spirit
 
 Other
 1 Liliana of the Dark Realms

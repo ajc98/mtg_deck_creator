@@ -1,4 +1,3 @@
-Commander
 1 Garna, Bloodfist of Keld
 1 Command Tower
 1 Fabled Passage
@@ -46,23 +45,22 @@ Commander
 1 Kardur, Doomscourge
 1 Zulaport Cutthroat
 1 Viscera Seer
-1 Blood Artist
 1 Carrion Feeder
-1 Mirkwood Bats
 1 Woe Strider
-1 Perforating Artist
+1 Midnight Reaper
+1 Uglúk of the White Hand
 1 Marionette Apprentice
 1 Mogg War Marshal
 1 Totentanz, Swarm Piper
-1 Vengeful Bloodwitch
 1 Venerated Stormsinger
 1 Infestation Sage
+1 Blood Artist
+1 Mirkwood Bats
+1 Perforating Artist
+1 Vengeful Bloodwitch
 1 Umbral Collar Zealot
 1 Boggart Cursecrafter
 1 Dimir House Guard
-1 Rubble Rouser
-1 Molten Gatekeeper
-1 Shadowborn Apostle
 1 Stadium Headliner
 1 Arcane Signet
 1 Sol Ring
@@ -76,11 +74,14 @@ Commander
 1 Found Footage
 1 Swiftfoot Boots
 1 Spawning Pit
+1 Ravenous Amulet
 1 Vampiric Rites
 1 Bastion of Remembrance
 1 Impact Tremors
-1 Cool but Rude
 1 Boggart Mischief
+1 Grave Pact
+1 Black Market
+1 Dictate of Erebos
 1 Village Rites
 1 Deadly Dispute
 1 Corrupted Conviction
@@ -97,5 +98,3 @@ Commander
 1 Processor Assault
 1 Blasphemous Act
 1 Dragon Fodder
-1 Razaketh's Rite
-1 Buried Alive

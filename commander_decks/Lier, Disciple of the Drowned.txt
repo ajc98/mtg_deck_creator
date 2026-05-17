@@ -36,15 +36,17 @@ Creatures
 1 Archmage of Runes
 1 Triskaidekaphile
 1 Survey Mechan
+1 Shipwreck Dowser
+1 Expendable Lackey
+1 Halo Scarab
 1 Haughty Djinn
 1 Micromancer
 1 Page, Loose Leaf
-1 Halo Scarab
-1 Emrakul's Messenger
 1 Harbinger of the Seas
-1 Cathodion
 1 Mocking Sprite
 1 Kitsa, Otterball Elite
+1 Emrakul's Messenger
+1 Cathodion
 
 Artifacts
 1 Sol Ring
@@ -58,10 +60,11 @@ Artifacts
 1 Gilded Lotus
 1 Ominous Parcel
 1 Swiftfoot Boots
+1 Ravenous Amulet
 1 Sapphire Medallion
-1 Found Footage
 
 Enchantments
+1 Stormchaser's Talent
 1 Propaganda
 1 Wizard Class
 1 Fortune Teller's Talent
@@ -87,7 +90,6 @@ Instants
 1 Drown in Dreams
 1 Arcane Denial
 1 An Offer You Can't Refuse
-1 Think Twice
 
 Sorceries
 1 Ponder
@@ -99,5 +101,3 @@ Sorceries
 1 Treasure Cruise
 1 Rite of Replication
 1 Finale of Revelation
-1 River's Rebuke
-1 March from Velis Vel

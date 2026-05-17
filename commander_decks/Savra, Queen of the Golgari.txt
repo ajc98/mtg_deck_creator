@@ -38,6 +38,7 @@ Lands
 1 Polluted Mire
 1 Grim Backwoods
 1 Demolition Field
+1 High Market
 1 Forest
 1 Swamp
 
@@ -56,16 +57,19 @@ Creatures
 1 Poison-Tip Archer
 1 Mirkwood Bats
 1 Viscera Seer
-1 Blood Artist
-1 Beledros Witherbloom
 1 Carrion Feeder
-1 Umbral Collar Zealot
-1 Infestation Sage
-1 Chatterfang, Squirrel General
 1 Woe Strider
+1 Golgari Rotwurm
+1 Spinner of Souls
+1 Deathgreeter
+1 Sengir, the Dark Baron
+1 Beledros Witherbloom
+1 Infestation Sage
+1 Jolrael, Mwonvuli Recluse
+1 Blood Artist
+1 Umbral Collar Zealot
+1 Chatterfang, Squirrel General
 1 Dimir House Guard
-1 Slavering Branchsnapper
-1 Canyon Crawler
 
 Artifacts
 1 Sol Ring
@@ -74,8 +78,7 @@ Artifacts
 1 Talisman of Resilience
 1 Skullclamp
 1 Swiftfoot Boots
-1 Mind Stone
-1 All-Fates Scroll
+1 Ravenous Amulet
 
 Enchantments
 1 Moldervine Reclamation
@@ -83,8 +86,10 @@ Enchantments
 1 Bastion of Remembrance
 1 Grave Pact
 1 Dictate of Erebos
+1 Black Market
 1 Insidious Roots
-1 Sanguine Bond
+1 Parallel Lives
+1 Doubling Season
 
 Instants
 1 Village Rites
@@ -96,9 +101,8 @@ Instants
 1 Complete Disregard
 1 Tear Asunder
 1 Snakeskin Veil
+1 Cache Grab
 1 Dark Ritual
-1 Nasty End
-1 Altar's Reap
 
 Sorceries
 1 Rampant Growth
@@ -106,10 +110,6 @@ Sorceries
 1 Deadly Brew
 1 Cultivate
 1 Farseek
-1 Diabolic Tutor
-1 Razaketh's Rite
-1 Brainspoil
-1 Buried Alive
 
 Other
 1 Garruk, Cursed Huntsman

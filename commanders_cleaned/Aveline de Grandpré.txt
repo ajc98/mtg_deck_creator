@@ -1,4 +1,3 @@
-Commander
 1 Aveline de Grandpré
 1 Fabled Passage
 1 Terramorphic Expanse
@@ -40,21 +39,21 @@ Commander
 1 Knight of Malice
 1 Poison-Tip Archer
 1 Dominator Drone
-1 Page, Loose Leaf
+1 Gothmog, Morgul Lieutenant
+1 Jolrael, Mwonvuli Recluse
+1 Ogre Slumlord
+1 Pirate Peddlers
+1 Dimir House Guard
 1 Halo Scarab
+1 Azula, On the Hunt
+1 Canyon Crawler
+1 Page, Loose Leaf
 1 Raucous Audience
 1 Cathodion
-1 Azula, On the Hunt
-1 Dimir House Guard
-1 Canyon Crawler
-1 Shadowborn Apostle
 1 Fynn, the Fangbearer
-1 Saber-Tooth Moose-Lion
 1 Mind Raker
-1 Gothmog, Morgul Lieutenant
-1 Putrid Pals
-1 Venom, Evil Unleashed
-1 Iron-Shield Elf
+1 Shadowborn Apostle
+1 Saber-Tooth Moose-Lion
 1 Expedition Map
 1 Mind Stone
 1 All-Fates Scroll
@@ -66,8 +65,8 @@ Commander
 1 Magnifying Glass
 1 Bender's Waterskin
 1 Hedron Archive
-1 Oblivion Stone
 1 Greed
+1 Greater Good
 1 Necropotence
 1 Fell the Profane // Fell Mire
 1 Energybending
@@ -79,8 +78,8 @@ Commander
 1 Deal Gone Bad
 1 Sold Out
 1 Snakeskin Veil
-1 Midnight Tilling
 1 Cache Grab
+1 Midnight Tilling
 1 Tempt with Discovery
 1 Field Trip
 1 Rampant Growth
@@ -89,8 +88,8 @@ Commander
 1 Decree of Pain
 1 Decode Transmissions
 1 Razaketh's Rite
-1 Buried Alive
 1 Psychic Whorl
+1 Buried Alive
 1 Transgress the Mind
 1 Seeker's Folly
 1 Head Games

@@ -1,4 +1,3 @@
-Commander
 1 Mabel, Heir to Cragflame
 1 Command Tower
 1 Fabled Passage
@@ -42,6 +41,13 @@ Commander
 1 Nettle Guard
 1 Rubble Rouser
 1 Molten Gatekeeper
+1 Knight of Grace
+1 Survey Mechan
+1 Veteran Survivor
+1 Thistledown Players
+1 Warren Warleader
+1 Sun Titan
+1 Eldrazi Ravager
 1 Manifold Mouse
 1 Heartfire Hero
 1 Whiskervale Forerunner
@@ -51,12 +57,9 @@ Commander
 1 Mouse Trapper
 1 Steelburr Champion
 1 Veteran Guardmouse
-1 Thistledown Players
 1 Valley Questcaller
 1 Roughshod Duo
 1 Brave-Kin Duo
-1 Valley Flamecaller
-1 Three Tree Mascot
 1 Sol Ring
 1 Arcane Signet
 1 Patchwork Banner
@@ -70,13 +73,11 @@ Commander
 1 Swiftfoot Boots
 1 Sword of the Squeak
 1 Short Bow
-1 Basilisk Collar
-1 Thought Vessel
 1 Feather of Flight
 1 Banishing Light
 1 Cool but Rude
+1 Sheltered by Ghosts
 1 War Squeak
-1 Echoing Assault
 1 Might of the Meek
 1 Dawn's Truce
 1 Sazacap's Brew
@@ -87,11 +88,9 @@ Commander
 1 Generous Gift
 1 Boros Charm
 1 Crumb and Get It
+1 Teferi's Protection
+1 Divine Resilience
 1 Mabel's Mettle
-1 Valley Rally
-1 Rabid Gnaw
-1 Parting Gust
-1 Chaos Warp
 1 Dewdrop Cure
 1 Playful Shove
 1 Cut a Deal

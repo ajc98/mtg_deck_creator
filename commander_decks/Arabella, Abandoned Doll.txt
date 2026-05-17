@@ -51,13 +51,21 @@ Creatures
 1 Molten Gatekeeper
 1 Agate Instigator
 1 Rubble Rouser
+1 Combat Celebrant
+1 Aurelia, the Warleader
+1 Haazda Vigilante
+1 Eldrazi Ravager
+1 Null Group Biological Assets
 1 Ragged Playmate
 1 Hare Apparent
 1 Kirol, Attentive First-Year
-1 Shepherding Spirits
-1 Angel of the Ruins
-1 Page, Loose Leaf
-1 Bedhead Beastie
+1 Fire Sages
+1 Jeong Jeong, the Deserter
+1 Brazen Collector
+1 Oliphaunt
+1 Fire Nation Cadets
+1 Zuko, Exiled Prince
+1 Rough Rhino Cavalry
 
 Artifacts
 1 Sol Ring
@@ -71,18 +79,13 @@ Artifacts
 1 Idol of Oblivion
 1 Halo Fountain
 1 Swiftfoot Boots
-1 Basilisk Collar
-1 Helm of the Host
 
 Enchantments
 1 Impact Tremors
-1 Reconnaissance
-1 Cool but Rude
 1 Endless Foot Assault
+1 Cool but Rude
+1 Reconnaissance
 1 Firebender Ascension
-1 Ghostly Prison
-1 Sheltered by Ghosts
-1 Felidar Retreat
 
 Instants
 1 Dawn's Truce
@@ -97,7 +100,6 @@ Instants
 1 Teferi's Protection
 1 Rootborn Defenses
 1 Thraben Charm
-1 Disenchant
 
 Sorceries
 1 Tempt with Bunnies
@@ -108,8 +110,6 @@ Sorceries
 1 Hop to It
 1 Dragon Fodder
 1 Martial Coup
-1 Glimpse the Impossible
-1 Goblin Negotiation
 
 Other
 1 Elspeth, Sun's Champion

@@ -50,6 +50,8 @@ Creatures
 1 Zetalpa, Primal Dawn
 1 Rubble Rouser
 1 Molten Gatekeeper
+1 Hare Apparent
+1 Furious Forebear
 1 Swiftblade Vindicator
 1 Shrike Force
 1 Sun Titan
@@ -57,13 +59,8 @@ Creatures
 1 Kinscaer Sentry
 1 Restoration Angel
 1 Aurelia, the Warleader
-1 Page, Loose Leaf
 1 Halo Scarab
 1 Storm-Kiln Artist
-1 Shepherding Spirits
-1 Angel of the Ruins
-1 Crusader of Odric
-1 Knight of Grace
 
 Artifacts
 1 Arcane Signet
@@ -75,15 +72,17 @@ Artifacts
 1 Idol of Oblivion
 1 Found Footage
 1 Swiftfoot Boots
-1 Basilisk Collar
 1 Improvised Arsenal
-1 Glittering Stockpile
-1 All-Fates Scroll
-1 Akroma's Memorial
+1 Basilisk Collar
+1 Magnifying Glass
 
 Enchantments
 1 Case of the Crimson Pulse
 1 Cool but Rude
+1 Builder's Talent
+1 Kinbinding
+1 Aligned Heart
+1 Hoofprints of the Stag
 1 Airbender Ascension
 
 Instants
@@ -97,9 +96,8 @@ Instants
 1 Abrade
 1 Take Out the Trash
 1 Boros Charm
-1 Chaos Warp
 1 Parting Gust
-1 Teferi's Protection
+1 Chaos Warp
 
 Sorceries
 1 Faithless Looting
@@ -109,6 +107,8 @@ Sorceries
 1 Blasphemous Act
 1 Vanquish the Horde
 1 Dusk // Dawn
+1 Tempt with Bunnies
 1 Reconstruct History
 1 Another Round
+1 Martial Coup
 1 Go Ninja Go

@@ -44,15 +44,18 @@ Creatures
 1 Knight of Grace
 1 Kefnet the Mindful
 1 Triskaidekaphile
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Cathodion
 1 Appa, Steadfast Guardian
-1 Aang, the Last Airbender
-1 Gathering Throng
-1 Veteran Survivor
 1 Expendable Lackey
 1 Hare Apparent
+1 Eldrazi Ravager
+1 Waterspout Warden
+1 Appa, Loyal Sky Bison
+1 Meneldor, Swift Savior
+1 Halo Scarab
+1 Page, Loose Leaf
+1 Cathodion
+1 Aang, the Last Airbender
+1 Gathering Throng
 
 Artifacts
 1 Expedition Map
@@ -65,16 +68,20 @@ Artifacts
 1 Found Footage
 1 Spine of Ish Sah
 1 Halo Fountain
+1 Sword of Hearth and Home
 1 Magnifying Glass
 1 Bender's Waterskin
 1 Hedron Archive
 1 Oblivion Stone
+1 Argent Dais
 
 Enchantments
 1 Banishing Light
 1 Aang's Iceberg
-1 Case of the Pilfered Proof
 1 Builder's Talent
+1 Waterbender Ascension
+1 Aligned Heart
+1 Security Bypass
 
 Instants
 1 Frantic Search
@@ -87,11 +94,8 @@ Instants
 1 Titan's Presence
 1 Become Anonymous
 1 Dig Through Time
+1 Auspicious Arrival
 1 Summary Dismissal
-1 Octopus Form
-1 Dawn's Truce
-1 Thirst for Identity
-1 Pull from Tomorrow
 
 Sorceries
 1 Suppression Ray // Orderly Plaza
@@ -102,9 +106,5 @@ Sorceries
 1 Dusk // Dawn
 1 Time Wipe
 1 Damning Verdict
-1 Solve the Equation
-1 Ponder
 1 Tempt with Bunnies
-1 Preordain
-1 Compulsive Research
-1 Teachings of the Archaics
+1 Solve the Equation

@@ -39,14 +39,21 @@ Creatures
 1 Nettle Drone
 1 Dragonhawk, Fate's Tempest
 1 Combat Celebrant
+1 Lavaleaper
 1 Dragon Mage
 1 Etali, Primal Storm
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Bedhead Beastie
-1 Lavaleaper
+1 Eldrazi Ravager
+1 Vile Aggregate
 1 Oliphaunt
 1 Zuko, Exiled Prince
+1 Fire Sages
+1 Jeong Jeong, the Deserter
+1 Brazen Collector
+1 Page, Loose Leaf
+1 Fire Nation Cadets
+1 Rough Rhino Cavalry
+1 Halo Scarab
+1 Bedhead Beastie
 
 Artifacts
 1 Sol Ring
@@ -65,18 +72,12 @@ Artifacts
 1 Fireshrieker
 1 Crucible of Worlds
 1 Twin Blades
-1 Glittering Stockpile
-1 Basilisk Collar
-1 Helm of the Host
-1 All-Fates Scroll
 
 Enchantments
 1 Cool but Rude
 1 Case of the Crimson Pulse
-1 Underworld Breach
-1 Curse of Opulence
 1 Sticky Fingers
-1 Sunbird's Invocation
+1 Underworld Breach
 
 Instants
 1 Thrill of Possibility
@@ -88,7 +89,6 @@ Instants
 1 Lithobraking
 1 Chaos Warp
 1 Bolt Bend
-1 Ghostfire Slice
 
 Sorceries
 1 Faithless Looting

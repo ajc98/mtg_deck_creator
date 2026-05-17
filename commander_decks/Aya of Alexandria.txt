@@ -46,25 +46,23 @@ Creatures
 1 Arabella, Abandoned Doll
 1 Molten Gatekeeper
 1 Sting-Slinger
-1 Senu, Keen-Eyed Protector
 1 Rosie Cotton of South Lane
+1 Mavren Fein, Dusk Apostle
+1 Hare Apparent
+1 Shock Brigade
+1 Odric, Blood-Cursed
+1 Furious Forebear
+1 Senu, Keen-Eyed Protector
 1 Ezio, Brash Novice
 1 Alexios, Deimos of Kosmos
 1 Aurelia, the Warleader
 1 Bre of Clan Stoutarm
 1 Laelia, the Blade Reforged
-1 Rubble Rouser
-1 Page, Loose Leaf
 1 Halo Scarab
 1 Storm-Kiln Artist
+1 Rubble Rouser
+1 Page, Loose Leaf
 1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Cathodion
-1 Shepherding Spirits
-1 Fire Nation Cadets
-1 Soulbright Seeker
 
 Artifacts
 1 Arcane Signet
@@ -81,12 +79,15 @@ Artifacts
 1 Adrestia
 1 Found Footage
 1 Swiftfoot Boots
-1 Caduceus, Staff of Hermes
+1 Cori-Steel Cutter
+1 Magnifying Glass
 
 Enchantments
 1 Origin of the Hidden Ones
 1 Impact Tremors
+1 Book of Mazarbul
 1 Reconnaissance
+1 Builder's Talent
 1 Cool but Rude
 
 Instants
@@ -101,14 +102,13 @@ Instants
 1 Boros Charm
 1 Teferi's Protection
 1 Chaos Warp
-1 Pyrrhic Strike
-1 Duty Beyond Death
 
 Sorceries
 1 Faithless Looting
 1 Processor Assault
 1 Blasphemous Act
 1 Dusk // Dawn
+1 Tempt with Bunnies
 1 Reconstruct History
 
 Other

@@ -1,4 +1,3 @@
-Commander
 1 Frodo, Determined Hero
 1 Fabled Passage
 1 Terramorphic Expanse
@@ -33,8 +32,11 @@ Commander
 1 Mangara, the Diplomat
 1 Helpful Hunter
 1 Survey Mechan
-1 Samwise the Stouthearted
 1 Sun Titan
+1 Eldrazi Ravager
+1 Haazda Vigilante
+1 Meanders Guide
+1 Samwise the Stouthearted
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Cathodion
@@ -44,7 +46,6 @@ Commander
 1 Knight of Grace
 1 Hare Apparent
 1 Gathering Throng
-1 Veteran Survivor
 1 Sol Ring
 1 Arcane Signet
 1 Sword of Hearth and Home
@@ -59,16 +60,15 @@ Commander
 1 Swiftfoot Boots
 1 Caduceus, Staff of Hermes
 1 Halo Fountain
+1 Argent Dais
 1 Fireshrieker
 1 Basilisk Collar
 1 Hero's Blade
 1 Oblivion Stone
 1 Magnifying Glass
-1 Bender's Waterskin
 1 Banishing Light
 1 Ghostly Prison
 1 Charitable Levy
-1 Case of the Pilfered Proof
 1 Dawn's Truce
 1 Path to Exile
 1 Swords to Plowshares
@@ -82,7 +82,6 @@ Commander
 1 Hold at Bay
 1 Ajani's Response
 1 Energybending
-1 Safe Passage
 1 Cut a Deal
 1 Secret Rendezvous
 1 Dismantling Wave

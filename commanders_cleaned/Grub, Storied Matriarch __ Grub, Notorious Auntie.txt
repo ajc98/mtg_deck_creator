@@ -1,4 +1,3 @@
-Commander
 1 Grub, Storied Matriarch // Grub, Notorious Auntie
 1 Fabled Passage
 1 Terramorphic Expanse
@@ -38,25 +37,23 @@ Commander
 1 Iron-Shield Elf
 1 Dominator Drone
 1 Molten Gatekeeper
+1 Sludge Crawler
+1 Culling Drone
+1 Eldrazi Ravager
+1 Shock Brigade
 1 Dimir House Guard
-1 Shadowborn Apostle
+1 June, Bounty Hunter
+1 Cabal Patriarch
+1 Body Dropper
+1 Akki Avalanchers
+1 Heirloom Auntie
+1 Nezumi Graverobber // Nighteyes the Desecrator
+1 Mogg War Marshal
+1 Elder Auntie
 1 Canyon Crawler
+1 Beamsaw Prospector
 1 Halo Scarab
-1 Page, Loose Leaf
 1 Storm-Kiln Artist
-1 Bedhead Beastie
-1 Grim Servant
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Vindictive Warden
-1 Flamecache Gecko
-1 Brazen Collector
-1 Cathodion
-1 Skirk Prospector
-1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Zuko, Exiled Prince
 1 Azula, On the Hunt
 1 Expedition Map
 1 Mind Stone
@@ -68,13 +65,15 @@ Commander
 1 Fountainport Bell
 1 Found Footage
 1 Bilbo's Ring
-1 Wishclaw Talisman
+1 Sword of Hearth and Home
+1 Orochi Hatchery
 1 Magnifying Glass
-1 Bender's Waterskin
 1 Case of the Crimson Pulse
 1 Greed
 1 Boggart Mischief
 1 Cool but Rude
+1 Necropotence
+1 Waste Not
 1 Take Out the Trash
 1 Energybending
 1 Thrill of Possibility
@@ -83,11 +82,11 @@ Commander
 1 Deal Gone Bad
 1 Impossible Inferno
 1 Lithobraking
+1 Consumed by Greed
+1 Unbury
+1 Deadly Dispute
 1 Environmental Sciences
 1 Intimidation Tactics
 1 Grub's Command
 1 Processor Assault
-1 Razaketh's Rite
-1 Buried Alive
-1 Brainspoil
-1 Diabolic Tutor
+1 Gravedig

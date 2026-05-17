@@ -41,19 +41,21 @@ Creatures
 1 Iron-Shield Elf
 1 Crypt Ghast
 1 Gray Merchant of Asphodel
+1 Witch-king, Bringer of Ruin
+1 Bladegriff Prototype
+1 Sauron, the Necromancer
+1 Sludge Crawler
+1 Dominator Drone
 1 Gollum, Obsessed Stalker
 1 Burnished Hart
-1 Page, Loose Leaf
 1 Gorbag of Minas Morgul
+1 Azula, On the Hunt
+1 Page, Loose Leaf
 1 Halo Scarab
 1 Dimir House Guard
 1 Qarsi Revenant
 1 Darkstar Augur
 1 Cathodion
-1 Nighthowler
-1 Gonti, Night Minister
-1 Azula, On the Hunt
-1 Shadowborn Apostle
 
 Artifacts
 1 Sol Ring
@@ -99,8 +101,6 @@ Sorceries
 1 Head Games
 1 Razaketh's Rite
 1 The Black Breath
-1 Mordor Muster
-1 Buried Alive
 
 Other
 1 Liliana of the Dark Realms

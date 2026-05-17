@@ -1,4 +1,3 @@
-Commander
 1 Spinneret and Spiderling
 1 Fabled Passage
 1 Fire Nation Palace
@@ -34,16 +33,21 @@ Commander
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Dragonhawk, Fate's Tempest
-1 Taurean Mauler
-1 Laelia, the Blade Reforged
-1 Sizzling Changeling
 1 Combat Celebrant
+1 Laelia, the Blade Reforged
 1 Etali, Primal Storm
-1 Adaptive Automaton
-1 Burnished Hart
+1 Eldrazi Ravager
+1 Bloodmad Vampire
+1 Taurean Mauler
+1 Sizzling Changeling
+1 Oliphaunt
+1 Zuko, Exiled Prince
+1 Fire Sages
+1 Jeong Jeong, the Deserter
+1 Brazen Collector
+1 Fire Nation Cadets
 1 Halo Scarab
-1 Page, Loose Leaf
-1 Bedhead Beastie
+1 Rough Rhino Cavalry
 1 Sol Ring
 1 Arcane Signet
 1 Goldvein Pick
@@ -54,21 +58,17 @@ Commander
 1 Swiftfoot Boots
 1 Bilbo's Ring
 1 Sword of Hearth and Home
-1 Hero's Blade
 1 Maskwood Nexus
 1 Improvised Arsenal
 1 Stalactite Dagger
-1 Basilisk Collar
-1 Mind Stone
-1 Mirage Mirror
-1 Glittering Stockpile
-1 The Ozolith
-1 All-Fates Scroll
+1 Rolling Hamsphere
+1 Hero's Blade
+1 Helm of the Host
+1 Magnifying Glass
 1 Sticky Fingers
 1 Case of the Crimson Pulse
 1 Cool but Rude
 1 Rain of Riches
-1 Powerbalance
 1 Curse of Opulence
 1 Thrill of Possibility
 1 Big Score
@@ -82,7 +82,6 @@ Commander
 1 Reckless Ransacking
 1 Rabid Gnaw
 1 Chaos Warp
-1 Turn Inside Out
 1 Faithless Looting
 1 Crash Through
 1 Processor Assault

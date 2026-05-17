@@ -35,18 +35,19 @@ Creatures
 1 Survey Mechan
 1 Rubble Rouser
 1 Molten Gatekeeper
+1 Akki Avalanchers
 1 Sunspine Lynx
 1 Towering Viewpoint
 1 Goldhound
 1 Zhao, the Moon Slayer
-1 Skirk Prospector
-1 Burnished Hart
 1 Halo Scarab
+1 Skirk Prospector
+1 Storm-Kiln Artist
+1 Burnished Hart
 1 Page, Loose Leaf
 1 Razorkin Needlehead
 1 Bedhead Beastie
 1 Etali, Primal Storm
-1 Storm-Kiln Artist
 
 Artifacts
 1 Sol Ring
@@ -61,13 +62,13 @@ Artifacts
 1 Swiftfoot Boots
 1 Smoke Bomb
 1 Bilbo's Ring
+1 Helm of the Host
 1 Fireshrieker
 1 Basilisk Collar
-1 Helm of the Host
 1 Glittering Stockpile
 1 Hero's Blade
 1 Hard-Won Jitte
-1 All-Fates Scroll
+1 Magnifying Glass
 
 Enchantments
 1 Sticky Fingers
@@ -77,7 +78,6 @@ Enchantments
 1 Shiny Impetus
 1 Curse of Opulence
 1 Powerbalance
-1 Dragon Mantle
 
 Instants
 1 Thrill of Possibility
@@ -98,5 +98,5 @@ Sorceries
 1 Processor Assault
 1 Playful Shove
 1 Blasphemous Act
-1 Mana Geyser
 1 Glimpse the Impossible
+1 Mana Geyser

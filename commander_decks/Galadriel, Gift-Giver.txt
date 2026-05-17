@@ -38,16 +38,19 @@ Creatures
 1 Reclamation Sage
 1 Survey Mechan
 1 Archetype of Endurance
-1 Academy Manufactor
 1 Gala Greeters
+1 Academy Manufactor
 1 Imperious Perfect
 1 Prosperous Innkeeper
 1 Brandywine Farmer
+1 Evercoat Ursine
+1 Eldrazi Ravager
+1 Toski, Bearer of Secrets
+1 Spinner of Souls
 1 Celeborn the Wise
 1 Glittermonger
-1 Birds of Paradise
 1 Meriadoc Brandybuck
-1 Honored Dreyleader
+1 Halo Scarab
 
 Artifacts
 1 Sol Ring
@@ -56,24 +59,24 @@ Artifacts
 1 Found Footage
 1 Ominous Parcel
 1 Swiftfoot Boots
-1 Emerald Medallion
-1 Thought Vessel
+1 Evolving Door
 1 Sword of Hearth and Home
-1 All-Fates Scroll
-1 Noble's Purse
-1 The Ozolith
-1 Fellwar Stone
-1 Galadhrim Bow
 1 Goldvein Pick
+1 The Ozolith
+1 Emerald Medallion
+1 Noble's Purse
+1 Magnifying Glass
+1 Bootleggers' Stash
 
 Enchantments
 1 Garruk's Uprising
-1 Doubling Season
-1 Unnatural Growth
 1 Gourmand's Talent
+1 Greater Good
+1 Doubling Season
 1 Parallel Lives
+1 Unnatural Growth
 1 Welcome to Sweettooth
-1 Most Wanted
+1 Primeval Bounty
 
 Instants
 1 Return of the Wildspeaker
@@ -85,9 +88,7 @@ Instants
 1 Snakeskin Veil
 1 Galadhrim Ambush
 1 Second Harvest
-1 Biosynthic Burst
 1 Stew the Coneys
-1 Giant Growth
 
 Sorceries
 1 Many Partings
@@ -97,7 +98,6 @@ Sorceries
 1 Explore
 1 Cultivate
 1 Overrun
-1 Grow from the Ashes
 
 Other
 1 Vivien Reid

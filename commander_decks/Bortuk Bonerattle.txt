@@ -51,20 +51,21 @@ Creatures
 1 Zulaport Cutthroat
 1 Poison-Tip Archer
 1 Gray Merchant of Asphodel
+1 Nyx Weaver
+1 Golgari Findbroker
+1 Xu-Ifit, Osteoharmonist
+1 Viscera Seer
+1 Carrion Feeder
+1 Wight of the Reliquary
+1 Dimir House Guard
+1 Spinner of Souls
 1 Dryad of the Ilysian Grove
 1 Spore Frog
-1 Viscera Seer
 1 Haywire Mite
 1 Blood Artist
 1 Frog Butler
 1 Mona Lisa, Science Geek
-1 Topiary Stomper
-1 Dimir House Guard
-1 Slavering Branchsnapper
-1 Carrion Feeder
-1 Page, Loose Leaf
 1 Halo Scarab
-1 Nyx Weaver
 
 Artifacts
 1 Sol Ring
@@ -74,16 +75,14 @@ Artifacts
 1 Found Footage
 1 Swiftfoot Boots
 1 Talisman of Resilience
-1 Mind Stone
-1 All-Fates Scroll
-1 Fellwar Stone
 
 Enchantments
 1 Moldervine Reclamation
 1 Greater Good
 1 Greed
 1 Bastion of Remembrance
-1 March from the Black Gate
+1 Dictate of Erebos
+1 Necropotence
 
 Instants
 1 Village Rites
@@ -96,8 +95,9 @@ Instants
 1 Complete Disregard
 1 Grip of Desolation
 1 Snakeskin Veil
+1 Dose of Dawnglow
+1 Heritage Reclamation
 1 Midnight Tilling
-1 Corpse Churn
 
 Sorceries
 1 Rampant Growth
@@ -106,8 +106,8 @@ Sorceries
 1 Casualties of War
 1 Deadly Brew
 1 Decree of Pain
+1 Life // Death
+1 Recollect
 1 Cultivate
 1 Diabolic Tutor
 1 Buried Alive
-1 Razaketh's Rite
-1 Brainspoil

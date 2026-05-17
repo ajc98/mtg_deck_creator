@@ -1,4 +1,3 @@
-Commander
 1 Katara, Water Tribe's Hope
 1 Command Tower
 1 Irrigated Farmland
@@ -48,19 +47,18 @@ Commander
 1 Earth Kingdom Protectors
 1 Triskaidekaphile
 1 Invasion Reinforcements
-1 Compassionate Healer
-1 Water Tribe Rallier
 1 Suki, Courageous Rescuer
 1 Appa, Steadfast Guardian
 1 Monastery Mentor
+1 Kyoshi Warriors
+1 Mischievous Mystic
+1 Furious Forebear
+1 Compassionate Healer
+1 Water Tribe Rallier
 1 Tetsuko Umezawa, Fugitive
 1 Exalted Sunborn
-1 Mischievous Mystic
 1 Curiosity Crafter
-1 Flexible Waterbender
-1 Adept Watershaper
-1 Loran of the Third Path
-1 Page, Loose Leaf
+1 Halo Scarab
 1 Sol Ring
 1 Arcane Signet
 1 Bender's Waterskin
@@ -74,13 +72,16 @@ Commander
 1 Idol of Oblivion
 1 Swiftfoot Boots
 1 Halo Fountain
-1 White Lotus Tile
+1 Kyoshi Battle Fan
 1 Waterbender Ascension
+1 Path to Redemption
 1 Watery Grasp
 1 Aang's Iceberg
 1 Airbender Ascension
 1 Team Avatar
-1 Path to Redemption
+1 Felidar Retreat
+1 Air Nomad Legacy
+1 Endless Foot Assault
 1 Arcane Denial
 1 Path to Exile
 1 Swords to Plowshares
@@ -92,11 +93,9 @@ Commander
 1 It'll Quench Ya!
 1 An Offer You Can't Refuse
 1 Negate
-1 Frantic Search
-1 Dawn's Truce
 1 Suppression Ray // Orderly Plaza
 1 Waterbending Lesson
 1 Dusk // Dawn
 1 Time Wipe
-1 Ponder
+1 Martial Coup
 1 Elspeth, Sun's Champion

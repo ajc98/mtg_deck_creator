@@ -50,20 +50,23 @@ Creatures
 1 Survey Mechan
 1 Mirkwood Bats
 1 Rubble Rouser
-1 Piper of the Swarm
 1 Ogre Slumlord
-1 Persistent Marshstalker
-1 Totentanz, Swarm Piper
+1 Piper of the Swarm
 1 Tangled Colony
+1 Totentanz, Swarm Piper
+1 Thornplate Intimidator
+1 Insatiable Frugivore
+1 Unburied Earthcarver
+1 Novice Dissector
+1 Carrion Feeder
+1 Pirate Peddlers
+1 Thoughtpicker Witch
+1 Warehouse Tabby
+1 Midnight Reaper
+1 Dour Port-Mage
+1 Persistent Marshstalker
 1 Taurean Mauler
 1 Typhoid Rats
-1 Mindwhisker
-1 Redcap Gutter-Dweller
-1 Tidecaller Mentor
-1 Blightbelly Rat
-1 Gnat Miser
-1 Crypt Rats
-1 Thornplate Intimidator
 
 Artifacts
 1 Arcane Signet
@@ -83,7 +86,8 @@ Artifacts
 
 Enchantments
 1 Impact Tremors
-1 Leyline of Transformation
+1 Grave Pact
+1 Black Market
 
 Instants
 1 Deadly Dispute
@@ -97,8 +101,6 @@ Instants
 1 Counterspell
 1 Dark Ritual
 1 Chaos Warp
-1 Negate
-1 An Offer You Can't Refuse
 
 Sorceries
 1 Splash Portal
@@ -107,7 +109,5 @@ Sorceries
 1 Processor Assault
 1 Blasphemous Act
 1 Culmination of Studies
-1 Swarmyard Massacre
 1 Revenge of the Rats
-1 Bloodline Bidding
-1 Psychic Whorl
+1 Swarmyard Massacre

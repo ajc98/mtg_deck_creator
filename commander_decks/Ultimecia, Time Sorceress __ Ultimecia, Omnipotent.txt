@@ -41,16 +41,20 @@ Creatures
 1 Dawnhand Eulogist
 1 Dominator Drone
 1 Triskaidekaphile
+1 Appendage Amalgam
+1 Sludge Crawler
+1 Adéwalé, Breaker of Chains
+1 Culling Drone
+1 Eldrazi Ravager
 1 Dimir House Guard
+1 Dusk Mangler
+1 Heirloom Auntie
+1 Expendable Lackey
+1 Azula, On the Hunt
+1 Azula, Cunning Usurper
 1 Halo Scarab
 1 Page, Loose Leaf
 1 Cathodion
-1 Azula, On the Hunt
-1 Azula, Cunning Usurper
-1 Appendage Amalgam
-1 Twilight Diviner
-1 Mind Raker
-1 Kefnet the Mindful
 
 Artifacts
 1 Expedition Map
@@ -61,15 +65,16 @@ Artifacts
 1 Fellwar Stone
 1 Fountainport Bell
 1 Found Footage
+1 Whip of Erebos
 1 Wishclaw Talisman
 1 Magnifying Glass
 1 Bender's Waterskin
 1 Dimir Keyrune
-1 Hedron Archive
-1 Oblivion Stone
 
 Enchantments
 1 Shadows of the Past
+1 Stormchaser's Talent
+1 Sothera, the Supervoid
 1 Necropotence
 
 Instants
@@ -85,20 +90,15 @@ Instants
 1 Deal Gone Bad
 1 Darkblast
 1 Become Anonymous
+1 Unbury
 1 Mystical Teachings
-1 Dig Through Time
-1 Memory Deluge
 
 Sorceries
 1 Environmental Sciences
 1 Ancestral Vision
 1 Intimidation Tactics
 1 Tezzeret's Betrayal
+1 March from Velis Vel
 1 Buried Alive
 1 Brainspoil
 1 Razaketh's Rite
-1 Transgress the Mind
-1 Psychic Whorl
-1 Seeker's Folly
-1 March from Velis Vel
-1 Head Games

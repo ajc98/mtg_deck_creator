@@ -1,4 +1,3 @@
-Commander
 1 Bill the Pony
 1 Fabled Passage
 1 Terramorphic Expanse
@@ -28,6 +27,7 @@ Commander
 1 Cryptic Caves
 1 Volatile Fault
 1 Maze's End
+1 High Market
 9 Plains
 1 Solemn Simulacrum
 1 Mentor of the Meek
@@ -36,21 +36,21 @@ Commander
 1 Helpful Hunter
 1 Survey Mechan
 1 Zetalpa, Primal Dawn
+1 Furious Forebear
 1 Rosie Cotton of South Lane
-1 Academy Manufactor
 1 Eastfarthing Farmer
+1 Academy Manufactor
+1 Cat Collector
+1 Lita, Little Orphan Amphibian
+1 Lunarch Veteran // Luminous Phantom
 1 Nyx-Fleece Ram
 1 Rasaad yn Bashir
-1 Cat Collector
 1 Restoration Angel
 1 Sun Titan
 1 Diamond Mare
-1 Lita, Little Orphan Amphibian
-1 Page, Loose Leaf
 1 Halo Scarab
-1 Cathodion
-1 Shepherding Spirits
-1 Angel of the Ruins
+1 Hare Apparent
+1 Page, Loose Leaf
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -66,22 +66,21 @@ Commander
 1 Bumbleflower's Sharepot
 1 Swiftfoot Boots
 1 Halo Fountain
-1 Bark of Doran
 1 Carrot Cake
-1 Kite Shield
+1 Bark of Doran
+1 Magnifying Glass
 1 Ghostly Prison
-1 Airbender Ascension
 1 Monologue Tax
-1 Tenuous Truce
+1 Builder's Talent
 1 Path to Exile
 1 Swords to Plowshares
 1 Generous Gift
 1 Disenchant
 1 Stroke of Midnight
 1 Teferi's Protection
-1 Refuse to Yield
 1 Second Breakfast
 1 Crumb and Get It
+1 Refuse to Yield
 1 Personify
 1 Parting Gust
 1 Environmental Sciences
@@ -89,5 +88,5 @@ Commander
 1 Cut a Deal
 1 Dusk // Dawn
 1 Fumigate
-1 Another Round
+1 Tempt with Bunnies
 1 Elspeth, Sun's Champion

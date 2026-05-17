@@ -1,4 +1,3 @@
-Commander
 1 Sigurd, Jarl of Ravensthorpe
 1 Command Tower
 1 Exotic Orchard
@@ -35,6 +34,7 @@ Commander
 1 Kyoshi Village
 1 Sheltering Landscape
 1 Demolition Field
+1 Adagia, Windswept Bastion
 1 Forest
 1 Plains
 1 Mountain
@@ -43,20 +43,16 @@ Commander
 1 Survey Mechan
 1 Rubble Rouser
 1 Molten Gatekeeper
+1 Hare Apparent
 1 Wildsear, Scouring Maw
 1 Evolution Witness
+1 Halo Scarab
+1 Courier of Comestibles
+1 Storm-Kiln Artist
 1 Selvala, Explorer Returned
 1 Alexios, Deimos of Kosmos
 1 Slavering Branchsnapper
 1 Page, Loose Leaf
-1 Rishkar, Peema Renegade
-1 Halo Scarab
-1 Courier of Comestibles
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Raucous Audience
-1 Muerra, Trash Tactician
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
@@ -65,6 +61,7 @@ Commander
 1 Swiftfoot Boots
 1 Gruul Signet
 1 Boros Signet
+1 Magnifying Glass
 1 Mind Stone
 1 Glittering Stockpile
 1 All-Fates Scroll
@@ -72,6 +69,7 @@ Commander
 1 Origin of the Hidden Ones
 1 Maximum Carnage
 1 Cool but Rude
+1 Greater Good
 1 Reconnaissance
 1 Wild Growth
 1 Dawn's Truce
@@ -87,6 +85,7 @@ Commander
 1 Lithobraking
 1 Boros Charm
 1 Teferi's Protection
+1 Cache Grab
 1 Chaos Warp
 1 Abrade
 1 Farseek
@@ -96,6 +95,6 @@ Commander
 1 Processor Assault
 1 Blasphemous Act
 1 Dusk // Dawn
+1 Tempt with Bunnies
 1 Cultivate
 1 Reconstruct History
-1 Decimate

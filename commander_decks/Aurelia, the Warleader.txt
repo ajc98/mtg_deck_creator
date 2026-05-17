@@ -46,17 +46,24 @@ Creatures
 1 Helpful Hunter
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Lyra Dawnbringer
 1 Combat Celebrant
+1 Sun Titan
+1 Etali, Primal Storm
+1 Tori D'Avenant, Fury Rider
+1 Linden, the Steadfast Queen
+1 Haazda Vigilante
+1 Lyra Dawnbringer
 1 Angel of Vitality
 1 Youthful Valkyrie
 1 Anya, Merciless Angel
 1 Angel of Finality
-1 Sun Titan
-1 Burnished Hart
-1 Swiftblade Vindicator
-1 Linden, the Steadfast Queen
-1 Taurean Mauler
+1 Fire Sages
+1 Jeong Jeong, the Deserter
+1 Brazen Collector
+1 Fire Nation Cadets
+1 Zuko, Exiled Prince
+1 Oliphaunt
+1 Rough Rhino Cavalry
 
 Artifacts
 1 Sol Ring
@@ -73,9 +80,6 @@ Artifacts
 1 Heraldic Banner
 1 Patchwork Banner
 1 Thought Vessel
-1 Chromatic Lantern
-1 Thran Dynamo
-1 Pyromancer's Goggles
 
 Enchantments
 1 Case of the Crimson Pulse
@@ -83,8 +87,6 @@ Enchantments
 1 Cool but Rude
 1 Gratuitous Violence
 1 Angelic Destiny
-1 Twinblade Blessing
-1 Ghostly Prison
 
 Instants
 1 Thrill of Possibility
@@ -100,8 +102,6 @@ Instants
 1 Boros Charm
 1 Teferi's Protection
 1 Chaos Warp
-1 Make a Stand
-1 Divine Resilience
 
 Sorceries
 1 Faithless Looting

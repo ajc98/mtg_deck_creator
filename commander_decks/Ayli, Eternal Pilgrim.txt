@@ -49,22 +49,23 @@ Creatures
 1 Marauding Blight-Priest
 1 Zulaport Cutthroat
 1 Gray Merchant of Asphodel
+1 Viscera Seer
+1 Pirate Peddlers
+1 Dimir House Guard
+1 Syr Vondam, Sunstar Exemplar
+1 Massacre Wurm
+1 Cat Collector
+1 Starscape Cleric
+1 Infestation Sage
+1 Warehouse Tabby
+1 Lunarch Veteran // Luminous Phantom
 1 Blood Artist
 1 Hinterland Sanctifier
 1 Fiendish Panda
 1 Vengeful Bloodwitch
 1 Ajani's Pridemate
-1 Cat Collector
 1 Sun Titan
 1 Angel of Vitality
-1 Vampire Nighthawk
-1 Nullpriest of Oblivion
-1 Starscape Cleric
-1 Infestation Sage
-1 Page, Loose Leaf
-1 Syr Vondam, Sunstar Exemplar
-1 Halo Scarab
-1 Essence Channeler
 
 Artifacts
 1 Sol Ring
@@ -78,17 +79,20 @@ Artifacts
 1 Hedron Archive
 1 Skullclamp
 1 Swiftfoot Boots
-1 Bolas's Citadel
-1 Wishclaw Talisman
+1 Ravenous Amulet
 
 Enchantments
 1 Vampiric Rites
 1 Lunar Convocation
 1 Greed
-1 Sanguine Bond
-1 Exquisite Blood
-1 Necropotence
+1 Hidden Stockpile
+1 Bastion of Remembrance
+1 Grave Pact
+1 Dictate of Erebos
+1 Black Market
 1 Midnight Snack
+1 Felidar Retreat
+1 Sanguine Bond
 
 Instants
 1 Village Rites
@@ -100,16 +104,12 @@ Instants
 1 Stroke of Midnight
 1 Generous Gift
 1 Divine Resilience
-1 Hero's Downfall
 
 Sorceries
 1 Feed the Swarm
 1 Fumigate
 1 Dusk // Dawn
 1 Exsanguinate
-1 Buried Alive
-1 Diabolic Tutor
-1 Razaketh's Rite
 
 Other
 1 Elspeth, Sun's Champion

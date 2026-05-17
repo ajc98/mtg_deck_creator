@@ -49,6 +49,10 @@ Creatures
 1 Selfless Safewright
 1 Poison-Tip Archer
 1 Nadier's Nightblade
+1 Venerated Stormsinger
+1 Thornbow Archer
+1 Sludge Crawler
+1 Dai Li Agents
 1 Imperious Perfect
 1 High Perfect Morcant
 1 Morcant's Loyalist
@@ -57,8 +61,8 @@ Creatures
 1 Golgari Findbroker
 1 Eclipsed Elf
 1 Virulent Emissary
+1 Azula, On the Hunt
 1 Dimir House Guard
-1 Slavering Branchsnapper
 
 Artifacts
 1 Sol Ring
@@ -74,16 +78,14 @@ Artifacts
 1 Emerald Medallion
 1 Mind Stone
 1 Coat of Arms
-1 All-Fates Scroll
 
 Enchantments
 1 Binding the Old Gods
 1 Moldervine Reclamation
 1 Greed
+1 Beastmaster Ascension
 1 Doubling Season
 1 Parallel Lives
-1 Beastmaster Ascension
-1 Morcant's Eyes
 
 Instants
 1 Return of the Wildspeaker
@@ -95,7 +97,6 @@ Instants
 1 Snakeskin Veil
 1 Galadhrim Ambush
 1 Murder
-1 Dark Ritual
 
 Sorceries
 1 Rampant Growth
@@ -110,4 +111,3 @@ Sorceries
 1 Cultivate
 1 Eyeblight Massacre
 1 Diabolic Tutor
-1 Razaketh's Rite

@@ -1,4 +1,3 @@
-Commander
 1 Sun-Spider, Nimble Webber
 1 Command Tower
 1 Irrigated Farmland
@@ -43,13 +42,17 @@ Commander
 1 Survey Mechan
 1 Radiant, Serra Archangel
 1 Triskaidekaphile
+1 Knight of Grace
+1 Plumecreed Escort
+1 Kefnet the Mindful
+1 Veteran Survivor
 1 Silver Sable, Mercenary Leader
+1 Sun Titan
+1 Eldrazi Ravager
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Spider-Man, Web-Slinger
 1 Loyal Warhound
-1 Cathodion
-1 Angel of the Ruins
 1 Sol Ring
 1 Arcane Signet
 1 Azorius Signet
@@ -61,20 +64,16 @@ Commander
 1 Found Footage
 1 Swiftfoot Boots
 1 Halo Fountain
-1 Bender's Waterskin
 1 Goldvein Pick
+1 Bender's Waterskin
 1 Thran Dynamo
 1 Basilisk Collar
-1 Helm of the Host
-1 Sapphire Medallion
 1 Sheltered by Ghosts
 1 Propaganda
 1 Twinblade Blessing
 1 Ghostly Prison
 1 Witness Protection
 1 Utter Insignificance
-1 Airbender Ascension
-1 Tempest Technique
 1 Frantic Search
 1 Arcane Denial
 1 Case the Joint
@@ -87,16 +86,16 @@ Commander
 1 Stroke of Midnight
 1 Whoosh!
 1 Become Anonymous
+1 Teferi's Protection
+1 Slip Out the Back
 1 Counterspell
 1 An Offer You Can't Refuse
 1 Negate
+1 Octopus Form
 1 Parting Gust
-1 Slip Out the Back
-1 Teferi's Protection
 1 Suppression Ray // Orderly Plaza
 1 Ponder
 1 Preordain
 1 Time Wipe
 1 Dusk // Dawn
-1 Solve the Equation
 1 Elspeth, Sun's Champion

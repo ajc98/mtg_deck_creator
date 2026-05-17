@@ -39,14 +39,14 @@ Creatures
 1 Fanatic of Mogis
 1 Inferno Titan
 1 Sunspine Lynx
+1 Halo Scarab
+1 Mogg War Marshal
+1 Storm-Kiln Artist
 1 Burnished Hart
 1 Rubble Rouser
-1 Halo Scarab
 1 Page, Loose Leaf
 1 Lavaleaper
 1 Bedhead Beastie
-1 Mogg War Marshal
-1 Storm-Kiln Artist
 
 Artifacts
 1 Arcane Signet
@@ -62,18 +62,19 @@ Artifacts
 1 Swiftfoot Boots
 1 Bilbo's Ring
 1 Helm of the Host
+1 Melded Moxite
+1 Magnifying Glass
 1 Thought Vessel
 1 Omni-Cheese Pizza
-1 Mirage Mirror
 
 Enchantments
 1 Case of the Crimson Pulse
 1 Outpost Siege
 1 Impact Tremors
+1 Echoing Assault
 1 Gratuitous Violence
 1 Warstorm Surge
 1 Cool but Rude
-1 Echoing Assault
 
 Instants
 1 Big Score
@@ -92,10 +93,9 @@ Sorceries
 1 Processor Assault
 1 Skewer the Critics
 1 Blasphemous Act
-1 Mana Geyser
 1 Electroduplicate
 1 Glimpse the Impossible
+1 Kindle the Inner Flame
+1 Mana Geyser
 1 Dragon Fodder
 1 Burning Curiosity
-1 Kindle the Inner Flame
-1 Plasma Bolt

@@ -41,9 +41,21 @@ Creatures
 1 Boggart Cursecrafter
 1 Dominator Drone
 1 Molten Gatekeeper
+1 Gothmog, Morgul Lieutenant
+1 Mogg War Marshal
+1 Easterling Vanguard
+1 Canyon Crawler
+1 Beamsaw Prospector
+1 Pirate Peddlers
+1 June, Bounty Hunter
+1 Akki Avalanchers
+1 Heirloom Auntie
+1 Massacre Wurm
+1 Midnight Reaper
 1 Halo Scarab
-1 Page, Loose Leaf
 1 Storm-Kiln Artist
+1 Azula, On the Hunt
+1 Page, Loose Leaf
 1 Akki Rockspeaker
 1 Fire Sages
 1 Jeong Jeong, the Deserter
@@ -51,16 +63,7 @@ Creatures
 1 Flamecache Gecko
 1 Brazen Collector
 1 Cathodion
-1 Shadowborn Apostle
 1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Zuko, Exiled Prince
-1 Azula, On the Hunt
-1 Canyon Crawler
-1 Heirloom Auntie
-1 Rough Rhino Cavalry
-1 Mauhúr, Uruk-hai Captain
-1 Bedhead Beastie
 
 Artifacts
 1 Expedition Map
@@ -73,14 +76,13 @@ Artifacts
 1 Fountainport Bell
 1 Found Footage
 1 Bilbo's Ring
-1 Wishclaw Talisman
 1 Magnifying Glass
-1 Bender's Waterskin
 
 Enchantments
 1 Case of the Crimson Pulse
 1 Greed
 1 Cool but Rude
+1 Boggart Mischief
 
 Instants
 1 Take Out the Trash
@@ -100,5 +102,3 @@ Sorceries
 1 Processor Assault
 1 Razaketh's Rite
 1 Buried Alive
-1 Brainspoil
-1 Diabolic Tutor

@@ -43,18 +43,19 @@ Creatures
 1 Iron-Shield Elf
 1 Crypt Ghast
 1 Gray Merchant of Asphodel
+1 Viscera Seer
+1 Dimir House Guard
+1 Bog Glider
+1 June, Bounty Hunter
+1 Massacre Wurm
+1 Heirloom Auntie
+1 Bitterbloom Bearer
+1 Canyon Crawler
+1 Beamsaw Prospector
 1 Blood Artist
 1 K'rrik, Son of Yawgmoth
 1 Zulaport Cutthroat
-1 Page, Loose Leaf
-1 Burnished Hart
-1 Skirge Familiar
 1 Halo Scarab
-1 Cathodion
-1 Desecration Demon
-1 Viscera Seer
-1 Bitterbloom Bearer
-1 Azula, On the Hunt
 
 Artifacts
 1 Sol Ring
@@ -69,19 +70,19 @@ Artifacts
 1 Found Footage
 1 Swiftfoot Boots
 1 Bolas's Citadel
+1 Orochi Hatchery
 1 Whip of Erebos
-1 Wishclaw Talisman
-1 Demon's Horn
 
 Enchantments
 1 Greed
 1 Black Market
-1 Exquisite Blood
 1 Grave Pact
 1 Bastion of Remembrance
+1 Dictate of Erebos
+1 Waste Not
+1 Exquisite Blood
 1 Necropotence
 1 Sanguine Bond
-1 Dictate of Erebos
 
 Instants
 1 Village Rites
@@ -93,7 +94,6 @@ Instants
 1 Grip of Desolation
 1 Dark Ritual
 1 Cabal Ritual
-1 Corrupted Conviction
 
 Sorceries
 1 Diabolic Tutor

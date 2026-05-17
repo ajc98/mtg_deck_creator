@@ -39,13 +39,18 @@ Creatures
 1 Iron-Shield Elf
 1 Dominator Drone
 1 Kami of Jealous Thirst
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Azula, On the Hunt
-1 Cathodion
-1 Mind Raker
-1 Shadowborn Apostle
 1 Sludge Crawler
+1 Skullsnatcher
+1 Eldrazi Ravager
+1 Culling Drone
+1 June, Bounty Hunter
+1 Cabal Patriarch
+1 Heirloom Auntie
+1 Nezumi Graverobber // Nighteyes the Desecrator
+1 Azula, On the Hunt
+1 Halo Scarab
+1 Page, Loose Leaf
+1 Cathodion
 
 Artifacts
 1 Expedition Map
@@ -57,17 +62,16 @@ Artifacts
 1 Fountainport Bell
 1 Found Footage
 1 Bilbo's Ring
+1 Sword of Hearth and Home
+1 Whip of Erebos
 1 Magnifying Glass
 1 Bender's Waterskin
 1 Hedron Archive
-1 Oblivion Stone
-1 Wishclaw Talisman
 
 Enchantments
 1 Greed
 1 Demonic Pact
 1 Necropotence
-1 Mornsong Aria
 
 Instants
 1 Energybending
@@ -77,7 +81,8 @@ Instants
 1 Deal Gone Bad
 1 Wither and Bloom
 1 Sold Out
-1 Cabal Ritual
+1 Consumed by Greed
+1 Unbury
 
 Sorceries
 1 Environmental Sciences
@@ -89,15 +94,10 @@ Sorceries
 1 In Garruk's Wake
 1 Decree of Pain
 1 Decode Transmissions
+1 Stir the Grave
+1 Zombify
+1 Gravedig
 1 Binding Negotiation
 1 Psychic Whorl
 1 Transgress the Mind
 1 Seeker's Folly
-1 Aggressive Negotiations
-1 Head Games
-1 Stargaze
-1 Dread Summons
-1 Stir the Grave
-1 Diabolic Tutor
-1 Pull from the Grave
-1 March of the Returned

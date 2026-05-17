@@ -45,6 +45,10 @@ Creatures
 1 Iron-Shield Elf
 1 Crypt Ghast
 1 Gray Merchant of Asphodel
+1 Demon of Loathing
+1 Sludge Crawler
+1 Bladegriff Prototype
+1 Dominator Drone
 1 Voracious Fell Beast
 1 Blood Artist
 1 Burnished Hart
@@ -52,12 +56,11 @@ Creatures
 1 Dunland Crebain
 1 Gothmog, Morgul Lieutenant
 1 Easterling Vanguard
-1 Demon of Loathing
+1 Azula, On the Hunt
+1 The Rise of Sozin // Fire Lord Sozin
 1 Razaketh, the Foulblooded
 1 Dimir House Guard
 1 Page, Loose Leaf
-1 Halo Scarab
-1 Woe Strider
 
 Artifacts
 1 Sol Ring
@@ -75,8 +78,8 @@ Artifacts
 
 Enchantments
 1 Meathook Massacre II
-1 Black Market
 1 March from the Black Gate
+1 Black Market
 1 Dictate of Erebos
 1 Kaya's Ghostform
 1 Bastion of Remembrance
@@ -100,9 +103,6 @@ Sorceries
 1 Feed the Swarm
 1 Exsanguinate
 1 Diabolic Tutor
-1 Razaketh's Rite
-1 Buried Alive
-1 The Black Breath
 
 Other
 1 Liliana of the Dark Realms

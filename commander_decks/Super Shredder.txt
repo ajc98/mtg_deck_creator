@@ -30,6 +30,7 @@ Lands
 1 Cryptic Caves
 1 Volatile Fault
 1 Arid Archway
+1 High Market
 8 Swamp
 
 Creatures
@@ -43,18 +44,17 @@ Creatures
 1 Crypt Ghast
 1 Zulaport Cutthroat
 1 Gray Merchant of Asphodel
-1 Blood Artist
 1 Bitterbloom Bearer
+1 Marionette Apprentice
 1 Viscera Seer
+1 Carrion Feeder
+1 Blood Artist
 1 Massacre Wurm
 1 Braids, Cabal Minion
-1 Carrion Feeder
-1 Marionette Apprentice
-1 Page, Loose Leaf
 1 Halo Scarab
-1 Umbral Collar Zealot
 1 Dimir House Guard
-1 Cathodion
+1 Azula, On the Hunt
+1 Canyon Crawler
 
 Artifacts
 1 Sol Ring
@@ -76,6 +76,7 @@ Enchantments
 1 Vampiric Rites
 1 The Cloning of Shredder
 1 Bastion of Remembrance
+1 Obsessive Pursuit
 1 Grave Pact
 1 Dictate of Erebos
 1 Black Market
@@ -89,10 +90,11 @@ Instants
 1 Complete Disregard
 1 Saw in Half
 1 Grip of Desolation
+1 Fake Your Own Death
 1 Dark Ritual
+1 Not Dead After All
 1 Cabal Ritual
 1 Undying Malice
-1 Pain 101
 
 Sorceries
 1 Environmental Sciences
@@ -101,8 +103,6 @@ Sorceries
 1 Feed the Swarm
 1 Shredder's Technique
 1 In Garruk's Wake
-1 Razaketh's Rite
-1 Exsanguinate
 
 Other
 1 Liliana of the Dark Realms

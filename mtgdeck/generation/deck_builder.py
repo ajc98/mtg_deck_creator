@@ -10,6 +10,12 @@ from pathlib import Path
 
 import duckdb
 
+from mtgdeck.generation.archetypes import (
+    detect_archetypes,
+    get_archetype_objects,
+    merged_extra_buckets,
+    merged_role_boosts,
+)
 from mtgdeck.rules.commander_rules import CommanderProfile
 from mtgdeck.scoring.card_score import CardScore, ScoreWeights, score_card
 from mtgdeck.scoring.role_classifier import (
@@ -181,29 +187,54 @@ def build_deck(
     """Build a 99-card deck (+ commander = 100) from a scored candidate pool.
 
     Algorithm:
-    1. Fill mandatory role buckets (lands, ramp, draw, removal, wipes, protection, wincons).
-    2. Fill remaining slots with highest-scoring synergy candidates.
-    3. Backfill with basic lands if still short.
-    4. Score every included card for the explanation report.
+    1. Detect commander archetypes and derive dynamic extra buckets + role boosts.
+    2. Fill mandatory role buckets (lands, ramp, draw, removal, wipes, protection, wincons, archetype).
+    3. Fill remaining slots with highest-scoring synergy candidates.
+    4. Backfill with basic lands if still short.
+    5. Score every included card for the explanation report.
     """
     from mtgdeck.data.duckdb_repo import get_card_by_normalized_name, save_generated_deck, save_card_scores
 
     commander_ci = profile.color_identity
     weights      = ScoreWeights()
 
+    # ── Archetype detection ──────────────────────────────────────────────────
+    cmd_card = profile.card
+    cmd_oracle = getattr(cmd_card, "oracle_text", "") or ""
+    cmd_type   = getattr(cmd_card, "type_line", "") or ""
+    detected_arch_names  = detect_archetypes(cmd_oracle, cmd_type)
+    detected_arch_objs   = get_archetype_objects(detected_arch_names)
+    arch_extra_buckets   = merged_extra_buckets(detected_arch_objs)
+    role_boosts          = merged_role_boosts(detected_arch_objs)
+
+    # Convert archetype extra buckets to the same dict format as _BUCKETS
+    arch_bucket_dicts = [
+        {"name": ab.name, "roles": ab.roles, "target": ab.target}
+        for ab in arch_extra_buckets
+    ]
+
+    all_buckets = _BUCKETS + arch_bucket_dicts
+
     used: set[str]          = set()   # card names already placed
     deck_cards: list[dict]  = []
     deck_scores: list[CardScore] = []
-    role_counts: dict[str, int]  = {b["name"]: 0 for b in _BUCKETS}
+    role_counts: dict[str, int]  = {b["name"]: 0 for b in all_buckets}
     role_counts["synergy"] = 0
 
     current_role_counts: dict[str, int] = {}
 
     # ── Phase 1: mandatory buckets ───────────────────────────────────────────
-    for bucket in _BUCKETS:
+    for bucket in all_buckets:
         bname  = bucket["name"]
         broles = bucket["roles"]
-        target = _bucket_target(bname, config)
+        # Use config.num_lands for "land"; bucket's own target for archetype buckets;
+        # otherwise fall back to _bucket_target (which reads _BUCKETS).
+        if bname == "land":
+            target = config.num_lands
+        elif "target" in bucket:
+            target = bucket["target"]
+        else:
+            target = _bucket_target(bname, config)
 
         eligible = [
             c for c in candidates
@@ -256,6 +287,9 @@ def build_deck(
     #   vector-only candidates compete for the same slots.
     # Tier B (Plan B): vector search fills whatever slots remain — important but
     #   secondary; captures thematic cards EDHREC may not cover.
+    # Archetype role boosts are applied to role_need_score for Tier B ranking so
+    #   archetype-relevant cards (sac outlets, death triggers, etc.) bubble up
+    #   even when they score low on EDHREC / vector.
     _EDHREC_GUARANTEE_PCT = 15.0
 
     remaining = 99 - len(deck_cards)
@@ -268,17 +302,22 @@ def build_deck(
         def _edhrec_pct(c) -> float:
             return float((c.edhrec_rec or {}).get("deck_percentage") or 0.0)
 
+        def _boosted_score(c) -> float:
+            cs = score_card(c, current_role_counts, _ROLE_TARGETS, weights)
+            boost = max((role_boosts.get(r, 1.0) for r in c.roles), default=1.0)
+            return cs.final_score * boost
+
         # Tier A: high-EDHREC cards sorted by EDHREC score descending
         tier_a = sorted(
             [c for c in non_land if _edhrec_pct(c) >= _EDHREC_GUARANTEE_PCT],
             key=lambda c: score_card(c, current_role_counts, _ROLE_TARGETS, weights).edhrec_score,
             reverse=True,
         )
-        # Tier B: everything else sorted by full final_score (vector drives this)
+        # Tier B: everything else sorted by boosted final_score
         tier_a_names = {c.name for c in tier_a}
         tier_b = sorted(
             [c for c in non_land if c.name not in tier_a_names],
-            key=lambda c: score_card(c, current_role_counts, _ROLE_TARGETS, weights).final_score,
+            key=_boosted_score,
             reverse=True,
         )
 
@@ -312,6 +351,8 @@ def build_deck(
 
     # ── Phase 4: compute warnings ─────────────────────────────────────────────
     warnings: list[str] = []
+    if detected_arch_names:
+        warnings.append(f"Detected archetypes: {', '.join(detected_arch_names)}.")
     land_count = sum(1 for c in deck_cards if c.get("is_land"))
     ramp_count = role_counts.get("ramp", 0)
     draw_count = role_counts.get("card_draw", 0)

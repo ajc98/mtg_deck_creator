@@ -1,4 +1,3 @@
-Commander
 1 Tasigur, the Golden Fang
 1 Command Tower
 1 Fabled Passage
@@ -47,13 +46,16 @@ Commander
 1 The Rise of Sozin // Fire Lord Sozin
 1 Archetype of Endurance
 1 Dominator Drone
+1 Nyx Weaver
+1 Golgari Findbroker
+1 Skullwinder
+1 Dimir House Guard
+1 Cabal Patriarch
+1 Spinner of Souls
 1 Hazel's Brewmaster
 1 Bloom Tender
 1 Satyr Wayfinder
 1 Ramunap Excavator
-1 Reclamation Sage
-1 Dimir House Guard
-1 Slavering Branchsnapper
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
@@ -61,12 +63,10 @@ Commander
 1 Wishclaw Talisman
 1 Golgari Signet
 1 Mind Stone
-1 All-Fates Scroll
-1 Crucible of Worlds
-1 Ripples of Undeath
+1 Greater Good
 1 Necropotence
+1 Ripples of Undeath
 1 Wild Growth
-1 Binding the Old Gods
 1 Frantic Search
 1 Arcane Denial
 1 Growth Spiral
@@ -86,16 +86,15 @@ Commander
 1 Negate
 1 Cabal Ritual
 1 Strix Serenade
-1 Pongify
-1 Rapid Hybridization
 1 Farseek
 1 Treasure Cruise
 1 Ponder
 1 Preordain
 1 Exsanguinate
+1 Life // Death
+1 Recollect
+1 Treasured Find
 1 Cultivate
 1 Rampant Growth
 1 Buried Alive
 1 Diabolic Tutor
-1 Life // Death
-1 Malevolent Rumble

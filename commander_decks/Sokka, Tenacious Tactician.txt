@@ -46,13 +46,15 @@ Creatures
 1 Molten Gatekeeper
 1 Katara, Water Tribe's Hope
 1 Suki, Courageous Rescuer
+1 Monastery Mentor
+1 Invasion Reinforcements
+1 Kyoshi Warriors
+1 Appa, Steadfast Guardian
+1 Furious Forebear
 1 Veyran, Voice of Duality
 1 Avatar Enthusiasts
 1 Earth Kingdom Protectors
 1 Archmage Emeritus
-1 Monastery Mentor
-1 Invasion Reinforcements
-1 Kyoshi Warriors
 
 Artifacts
 1 Arcane Signet
@@ -65,16 +67,16 @@ Artifacts
 1 Boros Signet
 1 Skullclamp
 1 Swiftfoot Boots
+1 Kyoshi Battle Fan
+1 Idol of Oblivion
 1 White Lotus Tile
 1 Patchwork Banner
 1 Thought Vessel
-1 Mind Stone
 
 Enchantments
 1 Whirlwind of Thought
 1 Impact Tremors
 1 Waterbender Ascension
-1 The Cave of Two Lovers
 
 Instants
 1 Frantic Search
@@ -96,7 +98,6 @@ Instants
 1 Negate
 1 How to Start a Riot
 1 Chaos Warp
-1 Energybending
 
 Sorceries
 1 Ponder
@@ -110,4 +111,3 @@ Sorceries
 1 Culmination of Studies
 1 Expressive Iteration
 1 Waterbending Lesson
-1 Aang's Journey

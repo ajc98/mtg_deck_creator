@@ -46,17 +46,17 @@ Creatures
 1 Guttersnipe
 1 Coruscation Mage
 1 Mysidian Elder
+1 Young Pyromancer
+1 Third Path Iconoclast
+1 Expendable Lackey
 1 Veyran, Voice of Duality
 1 Stormcatch Mentor
 1 Goblin Electromancer
+1 Halo Scarab
 1 Rubble Rouser
 1 Page, Loose Leaf
-1 Young Pyromancer
-1 Halo Scarab
 1 Akki Rockspeaker
 1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
 
 Artifacts
 1 Sol Ring

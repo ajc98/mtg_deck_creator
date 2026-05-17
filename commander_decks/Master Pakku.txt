@@ -37,14 +37,14 @@ Creatures
 1 Wanderwine Distracter
 1 Lier, Disciple of the Drowned
 1 Triskaidekaphile
+1 Shipwreck Dowser
+1 Expendable Lackey
+1 Halo Scarab
 1 Kelpie Guide
 1 Katara, Bending Prodigy
 1 Archmage Emeritus
-1 Page, Loose Leaf
-1 Halo Scarab
 1 Kaho, Minamo Historian
-1 Emrakul's Messenger
-1 Cathodion
+1 Page, Loose Leaf
 1 Unwelcome Sprite
 1 Haughty Djinn
 1 The Unagi of Kyoshi Island
@@ -60,13 +60,14 @@ Artifacts
 1 Gilded Lotus
 1 Ominous Parcel
 1 Swiftfoot Boots
+1 Skullclamp
 1 Sapphire Medallion
 1 Wurmwall Sweeper
 
 Enchantments
+1 Stormchaser's Talent
 1 Waterbender Ascension
 1 Propaganda
-1 Watery Grasp
 
 Instants
 1 Sokka's Haiku
@@ -90,7 +91,6 @@ Instants
 1 Refute
 1 Drown in Dreams
 1 Shore Up
-1 Narset's Reversal
 
 Sorceries
 1 Environmental Sciences

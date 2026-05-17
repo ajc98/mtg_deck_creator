@@ -47,14 +47,16 @@ Creatures
 1 Gray Merchant of Asphodel
 1 Zulaport Cutthroat
 1 Graveshifter
+1 Doomed Necromancer
+1 Dimir House Guard
+1 Ruthless Knave
+1 June, Bounty Hunter
+1 Heirloom Auntie
+1 Halo Scarab
 1 Ravine Raider
 1 Daggerfang Duo
 1 Nadier's Nightblade
 1 Umbral Collar Zealot
-1 Blood Artist
-1 Halo Scarab
-1 Dimir House Guard
-1 Junk Diver
 
 Artifacts
 1 Mind Stone
@@ -65,21 +67,19 @@ Artifacts
 1 Instant Ramen
 1 Soul-Guide Lantern
 1 Spine of Ish Sah
-1 Thought Vessel
-1 Bolas's Citadel
-1 Fellwar Stone
-1 Springleaf Drum
-1 Gilded Lotus
-1 Expedition Map
-1 Malefic Scythe
 1 Spawning Pit
+1 Malefic Scythe
+1 Orochi Hatchery
 
 Enchantments
 1 Obsessive Pursuit
 1 Meathook Massacre II
 1 Bastion of Remembrance
-1 Aspect of Gorgon
-1 Quest for the Necropolis
+1 Grave Pact
+1 Black Market
+1 Dictate of Erebos
+1 Necropotence
+1 Waste Not
 
 Instants
 1 Deadly Dispute
@@ -88,12 +88,11 @@ Instants
 1 Throttle
 1 Essence Extraction
 1 Unlikely Aid
-1 Dark Ritual
-1 Last Gasp
+1 Consumed by Greed
+1 Unbury
 1 Wither and Bloom
-1 Plumb the Forbidden
+1 Bake into a Pie
 1 Fake Your Own Death
-1 Murder
 
 Sorceries
 1 Scrounge for Eternity
@@ -102,4 +101,5 @@ Sorceries
 1 Deadly Precision
 1 Tragic Trajectory
 1 Decree of Pain
-1 Duress
+1 Zombify
+1 Gravedig

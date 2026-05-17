@@ -43,22 +43,24 @@ Creatures
 1 Mentor of the Meek
 1 Inspiring Overseer
 1 Earth Kingdom Protectors
-1 Charming Prince
-1 Appa, Steadfast Guardian
-1 Sun Titan
 1 Invasion Reinforcements
+1 Appa, Steadfast Guardian
+1 Kyoshi Warriors
+1 Lita, Little Orphan Amphibian
+1 Furious Forebear
+1 Charming Prince
+1 Sun Titan
 1 Appa, Loyal Sky Bison
 1 Restoration Angel
 1 Skyclave Apparition
-1 Kyoshi Warriors
 1 Jeong Jeong's Deserters
 1 Avatar Enthusiasts
-1 Lita, Little Orphan Amphibian
 1 Fiend Hunter
 1 Aang, the Last Airbender
-1 Page, Loose Leaf
 1 Halo Scarab
-1 Cathodion
+1 Hare Apparent
+1 Resolute Reinforcements
+1 Page, Loose Leaf
 
 Artifacts
 1 Arcane Signet
@@ -73,17 +75,16 @@ Artifacts
 1 Idol of Oblivion
 1 Halo Fountain
 1 Swiftfoot Boots
-1 White Lotus Tile
-1 Hedron Archive
-1 Springleaf Drum
 1 Kyoshi Battle Fan
+1 Magnifying Glass
 
 Enchantments
 1 Banishing Light
-1 Airbender Ascension
 1 Monologue Tax
+1 Airbender Ascension
 1 Path to Redemption
-1 Aang's Iceberg
+1 Felidar Retreat
+1 Builder's Talent
 
 Instants
 1 Dawn's Truce
@@ -95,15 +96,14 @@ Instants
 1 Make Your Move
 1 Teferi's Protection
 1 Parting Gust
-1 Thraben Charm
-1 Make a Stand
+1 Rootborn Defenses
 
 Sorceries
 1 Cut a Deal
 1 Vanquish the Horde
 1 Dusk // Dawn
-1 Secret Rendezvous
-1 Jolted Awake
+1 Martial Coup
+1 Tempt with Bunnies
 
 Other
 1 Elspeth, Sun's Champion

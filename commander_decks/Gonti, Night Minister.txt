@@ -40,6 +40,11 @@ Creatures
 1 Crypt Ghast
 1 Gray Merchant of Asphodel
 1 Mirkwood Bats
+1 Sludge Crawler
+1 Gorbag of Minas Morgul
+1 Dominator Drone
+1 Eldrazi Ravager
+1 Culling Drone
 1 Gonti, Lord of Luxury
 1 Vault Skirge
 1 Academy Manufactor
@@ -47,14 +52,11 @@ Creatures
 1 Marionette Apprentice
 1 Qarsi Revenant
 1 Bitterbloom Bearer
+1 Azula, On the Hunt
 1 Common Crook
-1 Gorbag of Minas Morgul
-1 Ruthless Knave
 1 Dimir House Guard
 1 Gifted Aetherborn
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Wanted Scoundrels
+1 Ruthless Knave
 
 Artifacts
 1 Sol Ring
@@ -91,7 +93,6 @@ Instants
 1 Dark Ritual
 1 Fake Your Own Death
 1 Cabal Ritual
-1 Not Dead After All
 
 Sorceries
 1 Cruelclaw's Heist
@@ -100,7 +101,6 @@ Sorceries
 1 Exsanguinate
 1 Bubbling Muck
 1 Razaketh's Rite
-1 Buried Alive
 
 Other
 1 Liliana of the Dark Realms

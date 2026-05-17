@@ -41,17 +41,16 @@ Creatures
 1 Survey Mechan
 1 Zetalpa, Primal Dawn
 1 Knight of Grace
+1 Sun Titan
+1 Haazda Vigilante
+1 Eldrazi Ravager
 1 Nyx-Fleece Ram
 1 Ornithopter
-1 Sun Titan
 1 Shrike Force
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Cathodion
 1 Shepherding Spirits
-1 Hare Apparent
-1 Gathering Throng
-1 Haazda Vigilante
 
 Artifacts
 1 Sol Ring
@@ -68,18 +67,20 @@ Artifacts
 1 Vanguard's Shield
 1 Kite Shield
 1 Basilisk Collar
+1 Sword of Hearth and Home
+1 Argent Dais
 1 Oblivion Stone
 1 Magnifying Glass
 1 Bender's Waterskin
-1 Hedron Archive
 
 Enchantments
 1 Angelic Gift
+1 Martial Impetus
+1 Endless Foot Assault
 1 Ghostly Prison
 1 Aligned Heart
 1 Charitable Levy
 1 Felidar Retreat
-1 Team Avatar
 
 Instants
 1 Swords to Plowshares
@@ -93,7 +94,6 @@ Instants
 1 Riot Control
 1 Crib Swap
 1 Make a Stand
-1 Energybending
 
 Sorceries
 1 Cut a Deal

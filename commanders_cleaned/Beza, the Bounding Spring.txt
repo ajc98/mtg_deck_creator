@@ -1,4 +1,3 @@
-Commander
 1 Beza, the Bounding Spring
 1 Fabled Passage
 1 Terramorphic Expanse
@@ -29,6 +28,7 @@ Commander
 1 Ugin's Labyrinth
 1 Cryptic Caves
 1 Maze's End
+1 High Market
 8 Plains
 1 Solemn Simulacrum
 1 Loyal Warhound
@@ -40,17 +40,19 @@ Commander
 1 Mangara, the Diplomat
 1 Survey Mechan
 1 Knight of Grace
+1 Hare Apparent
+1 Eastfarthing Farmer
+1 Furious Forebear
 1 Charming Prince
 1 Restoration Angel
 1 Sun Titan
 1 Skyclave Apparition
 1 Distinguished Conjurer
 1 Circuit Mender
-1 Page, Loose Leaf
 1 Halo Scarab
+1 Page, Loose Leaf
+1 Academy Manufactor
 1 Cathodion
-1 Mentor of the Meek
-1 Shepherding Spirits
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -60,20 +62,17 @@ Commander
 1 Expedition Map
 1 Skullclamp
 1 Halo Fountain
-1 Crucible of Worlds
 1 Spawning Pit
 1 Idol of Oblivion
-1 All-Fates Scroll
 1 Magnifying Glass
-1 Bender's Waterskin
-1 Oblivion Stone
-1 Swiftfoot Boots
-1 Airbender Ascension
-1 Ghostly Prison
+1 Crucible of Worlds
 1 Monologue Tax
 1 Felidar Retreat
 1 Kinbinding
-1 Charitable Levy
+1 Airbender Ascension
+1 Ghostly Prison
+1 Builder's Talent
+1 Aligned Heart
 1 Dawn's Truce
 1 Path to Exile
 1 Swords to Plowshares
@@ -84,11 +83,11 @@ Commander
 1 Teferi's Protection
 1 Perch Protection
 1 Parting Gust
+1 Second Breakfast
 1 Cut a Deal
 1 Secret Rendezvous
 1 Tempt with Bunnies
 1 Vanquish the Horde
 1 Dusk // Dawn
 1 Another Round
-1 Morningtide's Light
 1 Elspeth, Sun's Champion

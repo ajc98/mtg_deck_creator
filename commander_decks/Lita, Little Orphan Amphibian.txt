@@ -44,19 +44,21 @@ Creatures
 1 Academy Manufactor
 1 Rosie Cotton of South Lane
 1 Cat Collector
+1 Eastfarthing Farmer
+1 Appa, Steadfast Guardian
+1 Resolute Reinforcements
+1 Blade Splicer
+1 Luminous Broodmoth
+1 Furious Forebear
+1 Suki, Courageous Rescuer
+1 Lunarch Veteran // Luminous Phantom
 1 Sun Titan
 1 Skyclave Apparition
 1 Ambrosia Whiteheart
-1 Appa, Steadfast Guardian
-1 Resolute Reinforcements
 1 Restoration Angel
-1 Eastfarthing Farmer
-1 Page, Loose Leaf
 1 Halo Scarab
-1 Cathodion
-1 Blade Splicer
-1 Charming Prince
-1 Luminous Broodmoth
+1 Boss's Chauffeur
+1 Hare Apparent
 
 Artifacts
 1 Sol Ring
@@ -71,14 +73,14 @@ Artifacts
 1 Found Footage
 1 Swiftfoot Boots
 1 Halo Fountain
-1 Argent Dais
+1 Helm of the Host
+1 Magnifying Glass
+1 Bumbleflower's Sharepot
 
 Enchantments
 1 Charitable Levy
 1 Felidar Retreat
-1 Airbender Ascension
-1 Ghostly Prison
-1 Angelic Gift
+1 Builder's Talent
 
 Instants
 1 Dawn's Truce
@@ -89,18 +91,16 @@ Instants
 1 Make Your Move
 1 Thraben Charm
 1 Perch Protection
-1 Make a Stand
 1 Rootborn Defenses
 1 Parting Gust
-1 Pyrrhic Strike
-1 Duty Beyond Death
+1 Second Breakfast
 
 Sorceries
 1 Cut a Deal
 1 Dusk // Dawn
 1 Vanquish the Horde
 1 Martial Coup
-1 Another Round
+1 Tempt with Bunnies
 
 Other
 1 Elspeth, Sun's Champion

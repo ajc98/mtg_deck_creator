@@ -44,13 +44,14 @@ Creatures
 1 Laelia, the Blade Reforged
 1 Ty Lee, Artful Acrobat
 1 Etali, Primal Storm
-1 Boar-q-pine
 1 Brazen Collector
+1 Inferno Titan
+1 Boar-q-pine
+1 Oliphaunt
 1 Zhao, the Moon Slayer
 1 Hoarding Dragon
 1 Young Pyromancer
 1 Bedhead Beastie
-1 Rubble Rouser
 
 Artifacts
 1 Sol Ring
@@ -71,7 +72,6 @@ Enchantments
 1 Dragon Mantle
 1 Firebender Ascension
 1 Cool but Rude
-1 Lasting Tarfire
 
 Instants
 1 Thrill of Possibility

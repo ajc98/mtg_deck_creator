@@ -57,12 +57,12 @@ Creatures
 1 Marionette Apprentice
 1 Viscera Seer
 1 Carrion Feeder
+1 Woe Strider
+1 Garna, Bloodfist of Keld
 1 Umbral Collar Zealot
 1 Blood Artist
-1 Woe Strider
 1 Ornithopter
-1 Morbid Opportunist
-1 Shadowborn Apostle
+1 Rubble Rouser
 
 Artifacts
 1 Sol Ring
@@ -72,19 +72,19 @@ Artifacts
 1 Thought Vessel
 1 Skullclamp
 1 Bilbo's Ring
-1 Wishclaw Talisman
+1 Whip of Erebos
 1 Spawning Pit
-1 Glittering Stockpile
+1 Wishclaw Talisman
 
 Enchantments
 1 Impact Tremors
-1 The Sibsig Ceremony
 1 Bastion of Remembrance
 1 Dictate of Erebos
-1 Underworld Breach
-1 Cool but Rude
-1 Grave Pact
 1 Black Market
+1 Underworld Breach
+1 Necropotence
+1 The Sibsig Ceremony
+1 Grave Pact
 
 Instants
 1 Village Rites
@@ -96,12 +96,11 @@ Instants
 1 Saw in Half
 1 Complete Disregard
 1 Take Out the Trash
+1 Kolaghan's Command
+1 Consumed by Greed
+1 Unbury
 1 Chaos Warp
 1 Dark Ritual
-1 Cabal Ritual
-1 Nasty End
-1 Kolaghan's Command
-1 Undying Malice
 
 Sorceries
 1 Faithless Looting
@@ -109,5 +108,6 @@ Sorceries
 1 Feed the Swarm
 1 Processor Assault
 1 Blasphemous Act
+1 Stir the Grave
+1 Gravedig
 1 Diabolic Tutor
-1 Razaketh's Rite

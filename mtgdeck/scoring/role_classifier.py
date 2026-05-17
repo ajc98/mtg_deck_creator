@@ -19,11 +19,18 @@ ROLE_COUNTERSPELL    = "counterspell"
 ROLE_PROTECTION      = "protection"
 ROLE_RECURSION       = "recursion"
 ROLE_GRAVEYARD_HATE  = "graveyard_hate"
-ROLE_SACRIFICE_OUTLET = "sacrifice_outlet"
-ROLE_TOKEN_PRODUCER  = "token_producer"
-ROLE_LIFEGAIN        = "lifegain"
-ROLE_WIN_CONDITION   = "win_condition"
-ROLE_SYNERGY         = "synergy"
+ROLE_SACRIFICE_OUTLET  = "sacrifice_outlet"
+ROLE_DEATH_TRIGGER     = "death_trigger"      # fires when creatures die
+ROLE_TOKEN_PRODUCER    = "token_producer"
+ROLE_TOKEN_DOUBLER     = "token_doubler"       # doubles/multiplies token creation
+ROLE_LEAVES_BATTLEFIELD = "leaves_battlefield" # triggers when permanents leave
+ROLE_EXTRA_COMBAT      = "extra_combat"        # additional attack steps
+ROLE_HASTE_ENABLER     = "haste_enabler"       # grants haste to others
+ROLE_COST_REDUCER      = "cost_reducer"        # reduces spell/creature costs
+ROLE_COMBAT_TRIGGER    = "combat_trigger"      # triggers on attack or combat damage
+ROLE_LIFEGAIN          = "lifegain"
+ROLE_WIN_CONDITION     = "win_condition"
+ROLE_SYNERGY           = "synergy"
 
 # Sets for bucket membership checks
 RAMP_ROLES        = {ROLE_MANA_ROCK, ROLE_MANA_DORK, ROLE_LAND_RAMP}
@@ -33,24 +40,31 @@ LAND_ROLES        = {ROLE_LAND, ROLE_BASIC_LAND}
 
 # Human-readable labels
 ROLE_LABELS: dict[str, str] = {
-    ROLE_BASIC_LAND:       "Basic Land",
-    ROLE_LAND:             "Land",
-    ROLE_MANA_ROCK:        "Mana Rock",
-    ROLE_MANA_DORK:        "Mana Dork",
-    ROLE_LAND_RAMP:        "Land Ramp",
-    ROLE_CARD_DRAW:        "Card Draw",
-    ROLE_TUTOR:            "Tutor",
-    ROLE_REMOVAL:          "Removal",
-    ROLE_BOARD_WIPE:       "Board Wipe",
-    ROLE_COUNTERSPELL:     "Counterspell",
-    ROLE_PROTECTION:       "Protection",
-    ROLE_RECURSION:        "Recursion",
-    ROLE_GRAVEYARD_HATE:   "Graveyard Hate",
-    ROLE_SACRIFICE_OUTLET: "Sacrifice Outlet",
-    ROLE_TOKEN_PRODUCER:   "Token Producer",
-    ROLE_LIFEGAIN:         "Lifegain",
-    ROLE_WIN_CONDITION:    "Win Condition",
-    ROLE_SYNERGY:          "Synergy",
+    ROLE_BASIC_LAND:         "Basic Land",
+    ROLE_LAND:               "Land",
+    ROLE_MANA_ROCK:          "Mana Rock",
+    ROLE_MANA_DORK:          "Mana Dork",
+    ROLE_LAND_RAMP:          "Land Ramp",
+    ROLE_CARD_DRAW:          "Card Draw",
+    ROLE_TUTOR:              "Tutor",
+    ROLE_REMOVAL:            "Removal",
+    ROLE_BOARD_WIPE:         "Board Wipe",
+    ROLE_COUNTERSPELL:       "Counterspell",
+    ROLE_PROTECTION:         "Protection",
+    ROLE_RECURSION:          "Recursion",
+    ROLE_GRAVEYARD_HATE:     "Graveyard Hate",
+    ROLE_SACRIFICE_OUTLET:   "Sacrifice Outlet",
+    ROLE_DEATH_TRIGGER:      "Death Trigger",
+    ROLE_TOKEN_PRODUCER:     "Token Producer",
+    ROLE_TOKEN_DOUBLER:      "Token Doubler",
+    ROLE_LEAVES_BATTLEFIELD: "Leaves Battlefield",
+    ROLE_EXTRA_COMBAT:       "Extra Combat",
+    ROLE_HASTE_ENABLER:      "Haste Enabler",
+    ROLE_COST_REDUCER:       "Cost Reducer",
+    ROLE_COMBAT_TRIGGER:     "Combat Trigger",
+    ROLE_LIFEGAIN:           "Lifegain",
+    ROLE_WIN_CONDITION:      "Win Condition",
+    ROLE_SYNERGY:            "Synergy",
 }
 
 # ── Patterns: (role, regex_string, flags) ────────────────────────────────────
@@ -120,6 +134,37 @@ _PATTERNS: list[tuple[str, str, int]] = [
     (ROLE_WIN_CONDITION, r"you win the game", re.I),
     (ROLE_WIN_CONDITION, r"opponent?s? lose the game", re.I),
     (ROLE_WIN_CONDITION, r"target player loses the game", re.I),
+
+    # Death triggers — fires when a creature dies, gaining value for the controller
+    (ROLE_DEATH_TRIGGER, r"whenever (a |another |one or more )?(creature|permanent).{0,30}dies?,", re.I),
+    (ROLE_DEATH_TRIGGER, r"whenever .{0,30}is put into a graveyard from the battlefield", re.I),
+    (ROLE_DEATH_TRIGGER, r"whenever .{0,20}creature (you control |an opponent controls |)dies?", re.I),
+
+    # Token doublers — "twice as many", "additional token", Parallel Lives / Doubling Season
+    (ROLE_TOKEN_DOUBLER, r"(twice as many|creates? .{0,10}additional|double the number).{0,50}token", re.I),
+    (ROLE_TOKEN_DOUBLER, r"if .{0,30}would (create|put) (a |an |\d+ )?.{0,20}token", re.I),
+
+    # Leaves-battlefield triggers — Super Shredder, Impact Tremors style
+    (ROLE_LEAVES_BATTLEFIELD, r"whenever .{0,30}(permanent|creature|artifact|enchantment|land).{0,20}leaves? the battlefield", re.I),
+    (ROLE_LEAVES_BATTLEFIELD, r"whenever .{0,30}is put into a graveyard from (the battlefield|play)", re.I),
+
+    # Extra combat steps — Aggravated Assault, Moraug, Savage Beating
+    (ROLE_EXTRA_COMBAT, r"additional combat phase", re.I),
+    (ROLE_EXTRA_COMBAT, r"(take|gets?) an? extra (combat|attack)", re.I),
+    (ROLE_EXTRA_COMBAT, r"untap all (creatures|attacking creatures).{0,40}additional combat", re.I),
+
+    # Haste enablers — grant haste to other creatures, not just themselves
+    (ROLE_HASTE_ENABLER, r"(creatures? you control|each creature|other creatures?).{0,40}\bhaste\b", re.I),
+    (ROLE_HASTE_ENABLER, r"(each|all|other) .{0,20}creatures?.{0,30}(have|gain|gains) haste", re.I),
+
+    # Cost reducers — Dragonspeaker Shaman, Urza-style effects
+    (ROLE_COST_REDUCER, r"(dragon|creature|artifact|instant|sorcery).{0,30}(spells?|cards?).{0,30}cost.{0,20}less", re.I),
+    (ROLE_COST_REDUCER, r"reduce (the |that )?cost.{0,40}(spell|mana)", re.I),
+    (ROLE_COST_REDUCER, r"(spells?|creatures?|artifacts?).{0,20}you cast.{0,20}cost.{0,20}(less|\{[0-9]\})", re.I),
+
+    # Combat/attack triggers — Drakuseth, Wulfgar, etc.
+    (ROLE_COMBAT_TRIGGER, r"whenever .{0,30}attacks?,", re.I),
+    (ROLE_COMBAT_TRIGGER, r"whenever .{0,30}deals combat damage to (a player|an opponent|a planeswalker)", re.I),
 ]
 
 # Priority order for primary role selection (first match wins)
@@ -138,7 +183,14 @@ _PRIORITY: list[str] = [
     ROLE_PROTECTION,
     ROLE_WIN_CONDITION,
     ROLE_SACRIFICE_OUTLET,
+    ROLE_DEATH_TRIGGER,
+    ROLE_TOKEN_DOUBLER,
     ROLE_TOKEN_PRODUCER,
+    ROLE_EXTRA_COMBAT,
+    ROLE_HASTE_ENABLER,
+    ROLE_COST_REDUCER,
+    ROLE_COMBAT_TRIGGER,
+    ROLE_LEAVES_BATTLEFIELD,
     ROLE_GRAVEYARD_HATE,
     ROLE_LIFEGAIN,
     ROLE_SYNERGY,
