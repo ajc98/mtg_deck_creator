@@ -1,0 +1,113 @@
+Commander
+1 Tam, Mindful First-Year
+
+Lands
+1 Command Tower
+1 Hinterland Harbor
+1 Fabled Passage
+1 Dreamroot Cascade
+1 Yavimaya Coast
+1 Breeding Pool
+1 Flooded Grove
+1 Waterlogged Grove
+1 Simic Growth Chamber
+1 Terramorphic Expanse
+1 Vineglimmer Snarl
+1 Evolving Wilds
+1 Exotic Orchard
+1 Temple of Mystery
+1 Horizon of Progress
+1 Vibrant Cityscape
+1 Overflowing Basin
+1 Path of Ancestry
+1 Thriving Isle
+1 Thornwood Falls
+1 Planar Nexus
+1 Shifting Woodland
+1 Hidden Nursery
+1 Yavimaya, Cradle of Growth
+1 Cephalid Coliseum
+1 Mosswort Bridge
+1 Windswept Heath
+1 Hidden Cataract
+1 Obscura Storefront
+1 Polluted Delta
+1 Demolition Field
+1 Ash Barrens
+1 Reliquary Tower
+1 Shire Terrace
+1 Maze's End
+1 Forest
+1 Island
+
+Creatures
+1 Bloom Tender
+1 Birds of Paradise
+1 Llanowar Elves
+1 Shinestriker
+1 Wistfulness
+1 Prime Speaker Zegana
+1 Survey Mechan
+1 Reclamation Sage
+1 Koma, World-Eater
+1 Archetype of Endurance
+1 Triskaidekaphile
+1 Glister Bairn
+1 Prismabasher
+1 Wildvine Pummeler
+1 Page, Loose Leaf
+1 Slavering Branchsnapper
+1 Ornithopter of Paradise
+1 Nightshade Dryad
+1 Opaline Unicorn
+1 Raucous Audience
+1 Cathodion
+1 Dryad of the Ilysian Grove
+1 Luminollusk
+
+Artifacts
+1 Sol Ring
+1 Arcane Signet
+1 Simic Keyrune
+1 Puca's Eye
+1 Found Footage
+1 Swiftfoot Boots
+1 Chromatic Lantern
+1 Fellwar Stone
+1 Thought Vessel
+1 Mind Stone
+1 All-Fates Scroll
+1 Heraldic Banner
+1 Magnifying Glass
+1 Bender's Waterskin
+1 Patchwork Banner
+1 Coveted Jewel
+1 Hedron Archive
+
+Enchantments
+1 Prismatic Undercurrents
+1 Shimmerwilds Growth
+
+Instants
+1 Growth Spiral
+1 Planar Genesis
+1 Rime Chill
+1 Frantic Search
+1 Arcane Denial
+1 Beast Within
+1 Rapid Hybridization
+1 Pongify
+1 Display of Dominance
+1 Heritage Reclamation
+1 Counterspell
+1 Negate
+
+Sorceries
+1 Rampant Growth
+1 Farseek
+1 Ponder
+1 Explore
+1 Cultivate
+1 Solve the Equation
+1 Aggressive Biomancy
+1 Preordain

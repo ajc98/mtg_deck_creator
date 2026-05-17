@@ -1,0 +1,115 @@
+Commander
+1 Muerra, Trash Tactician
+
+Lands
+1 Command Tower
+1 Cinder Glade
+1 Fabled Passage
+1 Rootbound Crag
+1 Path of Ancestry
+1 Game Trail
+1 Rockfall Vale
+1 Terramorphic Expanse
+1 Gruul Turf
+1 Evolving Wilds
+1 Sheltered Thicket
+1 Karplusan Forest
+1 Temple of Abandon
+1 Mossfire Valley
+1 Exotic Orchard
+1 Horizon of Progress
+1 Vibrant Cityscape
+1 Copperline Gorge
+1 Omashu City
+1 Wooded Ridgeline
+1 Rugged Highlands
+1 Raging Ravine
+1 Racers' Ring
+1 Gruul Guildgate
+1 Hidden Grotto
+1 Uncharted Haven
+1 Planar Nexus
+1 Thriving Bluff
+1 Oakhollow Village
+1 Rockface Village
+1 Mosswort Bridge
+1 Hidden Nursery
+1 Shifting Woodland
+1 Yavimaya, Cradle of Growth
+1 Demolition Field
+1 Forest
+1 Mountain
+
+Creatures
+1 Wandertale Mentor
+1 Trailtracker Scout
+1 Brazen Collector
+1 Byway Barterer
+1 Bello, Bard of the Brambles
+1 Bark-Knuckle Boxer
+1 Teapot Slinger
+1 Dragonhawk, Fate's Tempest
+1 Rubble Rouser
+1 Molten Gatekeeper
+1 Brambleguard Veteran
+1 Keen-Eyed Curator
+1 Roughshod Duo
+1 Raccoon Rallier
+1 Junkblade Bruiser
+1 Prosperous Bandit
+1 Rust-Shield Rampager
+1 Bakersbane Duo
+1 Tender Wildguide
+1 Mutable Explorer
+1 Birds of Paradise
+1 Llanowar Elves
+1 Taurean Mauler
+1 Thornvault Forager
+1 Courier of Comestibles
+1 Slavering Branchsnapper
+
+Artifacts
+1 Sol Ring
+1 Arcane Signet
+1 Patchwork Banner
+1 Gruul Signet
+1 Talisman of Impulse
+1 Swiftfoot Boots
+1 Mind Stone
+1 Fellwar Stone
+1 Firdoch Core
+1 Thought Vessel
+1 Thran Dynamo
+
+Enchantments
+1 Hoarder's Overflow
+1 Thickest in the Thicket
+1 Garruk's Uprising
+1 Sylvan Scavenging
+1 Gourmand's Talent
+1 Cool but Rude
+
+Instants
+1 Take Out the Trash
+1 Peerless Recycling
+1 Big Score
+1 Return of the Wildspeaker
+1 Beast Within
+1 Abrade
+1 Lithobraking
+1 Chaos Warp
+1 Thrill of Possibility
+
+Sorceries
+1 Rampant Growth
+1 Farseek
+1 Harmonize
+1 Decimate
+1 Wear Down
+1 Playful Shove
+1 Processor Assault
+1 Blasphemous Act
+1 Cultivate
+
+Other
+1 Domri, Anarch of Bolas

@@ -1,0 +1,102 @@
+Commander
+1 Sun-Spider, Nimble Webber
+1 Command Tower
+1 Irrigated Farmland
+1 Prairie Stream
+1 Glacial Fortress
+1 Adarkar Wastes
+1 Fabled Passage
+1 Terramorphic Expanse
+1 Hallowed Fountain
+1 Vibrant Cityscape
+1 Skycloud Expanse
+1 Evolving Wilds
+1 Temple of Enlightenment
+1 Horizon of Progress
+1 Exotic Orchard
+1 Skybridge Towers
+1 Seachrome Coast
+1 Obscura Storefront
+1 Tranquil Cove
+1 Planar Nexus
+1 Path of Ancestry
+1 Suppression Ray // Orderly Plaza
+1 Talon Gates of Madara
+1 Thriving Isle
+1 Cephalid Coliseum
+1 Hidden Cataract
+1 Windswept Heath
+1 The Fair Basilica
+1 Adagia, Windswept Bastion
+1 Archway of Innovation
+1 Lupinflower Village
+1 Desert of the Mindful
+1 Cabaretti Courtyard
+1 Polluted Delta
+1 Demolition Field
+1 Maze's End
+1 Island
+1 Plains
+1 Solemn Simulacrum
+1 Ornithopter of Paradise
+1 Loran of the Third Path
+1 Icewind Elemental
+1 Survey Mechan
+1 Radiant, Serra Archangel
+1 Triskaidekaphile
+1 Page, Loose Leaf
+1 Halo Scarab
+1 Cathodion
+1 Angel of the Ruins
+1 Shepherding Spirits
+1 Dawnwing Marshal
+1 Knight of Grace
+1 Silver Sable, Mercenary Leader
+1 Star Charter
+1 Spider-Slayer, Hatred Honed
+1 Sol Ring
+1 Arcane Signet
+1 Azorius Signet
+1 Talisman of Progress
+1 Mind Stone
+1 Fellwar Stone
+1 Thought Vessel
+1 Sword of Hearth and Home
+1 Found Footage
+1 Swiftfoot Boots
+1 Halo Fountain
+1 Bender's Waterskin
+1 Goldvein Pick
+1 Thran Dynamo
+1 All-Fates Scroll
+1 Oblivion Stone
+1 Magnifying Glass
+1 Sheltered by Ghosts
+1 Propaganda
+1 Twinblade Blessing
+1 Ghostly Prison
+1 Frantic Search
+1 Arcane Denial
+1 Case the Joint
+1 Dawn's Truce
+1 Path to Exile
+1 Swords to Plowshares
+1 Generous Gift
+1 Stroke of Midnight
+1 Whoosh!
+1 Become Anonymous
+1 Counterspell
+1 Consider
+1 Opt
+1 Negate
+1 An Offer You Can't Refuse
+1 Parting Gust
+1 Suppression Ray // Orderly Plaza
+1 Ponder
+1 Preordain
+1 Cut a Deal
+1 Time Wipe
+1 Dusk // Dawn
+1 Solve the Equation
+1 Dismantling Wave
+1 Elspeth, Sun's Champion

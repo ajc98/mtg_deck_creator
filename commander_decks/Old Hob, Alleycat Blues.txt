@@ -1,0 +1,114 @@
+Commander
+1 Old Hob, Alleycat Blues
+
+Lands
+1 Command Tower
+1 Fabled Passage
+1 Clifftop Retreat
+1 Evolving Wilds
+1 Terramorphic Expanse
+1 Battlefield Forge
+1 Exotic Orchard
+1 Vibrant Cityscape
+1 Rugged Prairie
+1 Path of Ancestry
+1 Horizon of Progress
+1 Escape Tunnel
+1 Sunscorched Divide
+1 Temple of Triumph
+1 Thriving Heath
+1 Sun-Blessed Peak
+1 Planar Nexus
+1 Thriving Bluff
+1 Cabaretti Courtyard
+1 Wind-Scarred Crag
+1 Ravaged Highlands
+1 Lorehold Campus
+1 Hidden Grotto
+1 Legion Leadership // Legion Stronghold
+1 Windswept Heath
+1 The Fair Basilica
+1 Obscura Storefront
+1 Castle Ardenvale
+1 Lupinflower Village
+1 Forgotten Cave
+1 Brokers Hideout
+1 Ash Barrens
+1 Demolition Field
+1 Shire Terrace
+1 Mountain
+1 Plains
+
+Creatures
+1 Jennika, Bad Apple Big Sister
+1 Solemn Simulacrum
+1 Null Group Biological Assets
+1 Casey Jones, Vigilante
+1 Molten Gatekeeper
+1 Arabella, Abandoned Doll
+1 Agate Instigator
+1 Raphael, Tough Turtle
+1 Lita, Little Orphan Amphibian
+1 Mutant Town Musicians
+1 Raphael, the Nightwatcher
+1 Rubble Rouser
+1 Leonardo, Big Brother
+1 EPF Point Squad
+1 Ravenous Robots
+1 Page, Loose Leaf
+1 Halo Scarab
+1 Akki Rockspeaker
+1 Fire Sages
+1 Jeong Jeong, the Deserter
+1 Brazen Collector
+1 Cathodion
+1 Storm-Kiln Artist
+1 Mechanized Ninja Cavalry
+1 Fire Nation Cadets
+1 Soulbright Seeker
+1 Zuko, Exiled Prince
+1 Rough Rhino Cavalry
+
+Artifacts
+1 Arcane Signet
+1 Sol Ring
+1 Boros Signet
+1 Chromatic Lantern
+1 Fellwar Stone
+1 Thought Vessel
+1 Mind Stone
+1 Sword of Hearth and Home
+1 Skullclamp
+1 Idol of Oblivion
+1 Mouser Foundry
+1 Swiftfoot Boots
+1 Patchwork Banner
+1 Omni-Cheese Pizza
+
+Enchantments
+1 Cool but Rude
+1 Impact Tremors
+1 Endless Foot Assault
+1 Felidar Retreat
+
+Instants
+1 Legion Leadership // Legion Stronghold
+1 Big Score
+1 Manhole Missile
+1 Dawn's Truce
+1 Path to Exile
+1 Swords to Plowshares
+1 Generous Gift
+1 Stroke of Midnight
+1 Grounded for Life
+1 Boros Charm
+1 Rootborn Defenses
+1 Chaos Warp
+
+Sorceries
+1 Cut a Deal
+1 Faithless Looting
+1 Go Ninja Go
+1 Blasphemous Act
+1 Vanquish the Horde
+1 Dusk // Dawn

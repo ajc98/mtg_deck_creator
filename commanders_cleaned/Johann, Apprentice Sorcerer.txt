@@ -1,0 +1,102 @@
+Commander
+1 Johann, Apprentice Sorcerer
+1 Command Tower
+1 Terramorphic Expanse
+1 Evolving Wilds
+1 Fabled Passage
+1 Sulfur Falls
+1 Temple of Epiphany
+1 Swiftwater Cliffs
+1 Shivan Reef
+1 Horizon of Progress
+1 Vibrant Cityscape
+1 Exotic Orchard
+1 Steam Vents
+1 Cascade Bluffs
+1 Izzet Guildgate
+1 Path of Ancestry
+1 Ferrous Lake
+1 Planar Nexus
+1 Thriving Isle
+1 Prismari Campus
+1 Great Hall of the Biblioplex
+1 Thriving Bluff
+1 Ravaged Highlands
+1 Hidden Grotto
+1 Cephalid Coliseum
+1 Hidden Cataract
+1 Obscura Storefront
+1 Forgotten Cave
+1 Desert of the Mindful
+1 Cabaretti Courtyard
+1 Polluted Delta
+1 Brokers Hideout
+1 Sunken Palace
+1 Ash Barrens
+1 Demolition Field
+1 Shire Terrace
+1 Island
+1 Mountain
+1 Storm-Kiln Artist
+1 Archmage Emeritus
+1 Archmage of Runes
+1 Survey Mechan
+1 Guttersnipe
+1 Coruscation Mage
+1 Thunderdrum Soloist
+1 Sanar, Unfinished Genius // Wild Idea
+1 Goblin Electromancer
+1 Rubble Rouser
+1 Page, Loose Leaf
+1 Halo Scarab
+1 Young Pyromancer
+1 Mocking Sprite
+1 Micromancer
+1 Akki Rockspeaker
+1 Fire Sages
+1 Jeong Jeong, the Deserter
+1 Brazen Collector
+1 Cathodion
+1 Stormcatch Mentor
+1 Soulbright Seeker
+1 Fire Nation Cadets
+1 Zuko, Exiled Prince
+1 Rough Rhino Cavalry
+1 Third Path Iconoclast
+1 Sol Ring
+1 Arcane Signet
+1 Izzet Signet
+1 Mind Stone
+1 Fellwar Stone
+1 Thought Vessel
+1 Bender's Waterskin
+1 Expedition Map
+1 Swiftfoot Boots
+1 Cool but Rude
+1 Frantic Search
+1 Opt
+1 Consider
+1 Thrill of Possibility
+1 Izzet Charm
+1 Arcane Denial
+1 Abrade
+1 Prismari Command
+1 Pongify
+1 Take Out the Trash
+1 Shock
+1 Rapid Hybridization
+1 Lithobraking
+1 Become Anonymous
+1 Curate
+1 Teach by Example
+1 Negate
+1 Counterspell
+1 Refute
+1 Ponder
+1 Preordain
+1 Processor Assault
+1 Blasphemous Act
+1 Boltwave
+1 Solve the Equation
+1 Sanar, Unfinished Genius // Wild Idea
+1 Expressive Iteration

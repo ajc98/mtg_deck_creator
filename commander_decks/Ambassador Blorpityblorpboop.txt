@@ -1,0 +1,113 @@
+Commander
+1 Ambassador Blorpityblorpboop
+
+Lands
+1 Command Tower
+1 Hinterland Harbor
+1 Fabled Passage
+1 Terramorphic Expanse
+1 Dreamroot Cascade
+1 Yavimaya Coast
+1 Simic Growth Chamber
+1 Breeding Pool
+1 Flooded Grove
+1 Temple of Mystery
+1 Evolving Wilds
+1 Waterlogged Grove
+1 Vineglimmer Snarl
+1 Exotic Orchard
+1 Horizon of Progress
+1 Vibrant Cityscape
+1 Overflowing Basin
+1 Thornwood Falls
+1 Path of Ancestry
+1 Simic Guildgate
+1 Planar Nexus
+1 Hidden Nursery
+1 Cephalid Coliseum
+1 Shifting Woodland
+1 Mosswort Bridge
+1 Windswept Heath
+1 Polluted Delta
+1 Yavimaya, Cradle of Growth
+1 Hidden Cataract
+1 Obscura Storefront
+1 Rogue's Passage
+1 Demolition Field
+1 Ash Barrens
+1 Reliquary Tower
+1 Maze's End
+1 Island
+1 Forest
+
+Creatures
+1 Llanowar Elves
+1 Birds of Paradise
+1 Solemn Simulacrum
+1 Dour Port-Mage
+1 Reclamation Sage
+1 Survey Mechan
+1 Archetype of Endurance
+1 Triskaidekaphile
+1 Raucous Audience
+1 Lilysplash Mentor
+1 Page, Loose Leaf
+1 Coiling Oracle
+1 Cathodion
+1 Slavering Branchsnapper
+1 Meneldor, Swift Savior
+1 Environmental Scientist
+1 Saber-Tooth Moose-Lion
+1 Long River Lurker
+1 Cradle Clearcutter
+
+Artifacts
+1 Arcane Signet
+1 Sol Ring
+1 Fellwar Stone
+1 Mind Stone
+1 Found Footage
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Heraldic Banner
+1 All-Fates Scroll
+1 Inherited Envelope
+1 Veloheart Bike
+1 Noble's Purse
+1 Magnifying Glass
+1 Sword of Hearth and Home
+1 Bender's Waterskin
+1 Chromatic Lantern
+1 Oblivion Stone
+1 Coveted Jewel
+1 Patchwork Banner
+1 Hedron Archive
+
+Enchantments
+1 Garruk's Uprising
+
+Instants
+1 Growth Spiral
+1 Arcane Denial
+1 Case the Joint
+1 Frantic Search
+1 Return of the Wildspeaker
+1 Beast Within
+1 Pongify
+1 Rapid Hybridization
+1 Heritage Reclamation
+1 Display of Dominance
+1 Snakeskin Veil
+1 Counterspell
+1 Negate
+1 An Offer You Can't Refuse
+
+Sorceries
+1 Rampant Growth
+1 Farseek
+1 Splash Portal
+1 Explore
+1 Ponder
+1 Cultivate
+1 Solve the Equation
+1 Preordain

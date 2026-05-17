@@ -1,0 +1,113 @@
+Commander
+1 Brigid, Clachan's Heart // Brigid, Doun's Mind
+
+Lands
+1 Fabled Passage
+1 Terramorphic Expanse
+1 Horizon of Progress
+1 Vibrant Cityscape
+1 Botanical Plaza
+1 Suburban Sanctuary
+1 Evolving Wilds
+1 Windswept Heath
+1 Planar Nexus
+1 Kyoshi Village
+1 Command Tower
+1 Escape Tunnel
+1 Sungrass Prairie
+1 Gemstone Mine
+1 Lazotep Quarry
+1 Strength of the Harvest // Haven of the Harvest
+1 Shifting Woodland
+1 Hidden Nursery
+1 The Fair Basilica
+1 Mosswort Bridge
+1 Obscura Storefront
+1 Desert of the Indomitable
+1 Sandstone Bridge
+1 Lair of the Hydra
+1 Oakhollow Village
+1 Demolition Field
+1 Ash Barrens
+1 Shire Terrace
+1 Ugin's Labyrinth
+1 Maze's End
+1 Volatile Fault
+1 Cryptic Caves
+1 Wastes
+3 Forest
+
+Creatures
+1 Selvala, Explorer Returned
+1 Slavering Branchsnapper
+1 Helpful Hunter
+1 Survey Mechan
+1 Eldrazi Ravager
+1 Archetype of Endurance
+1 Knight of Grace
+1 Page, Loose Leaf
+1 Thornvault Forager
+1 Rishkar, Peema Renegade
+1 Halo Scarab
+1 Mutable Explorer
+1 Raucous Audience
+1 Cathodion
+1 Courier of Comestibles
+1 Angel of the Ruins
+1 Shepherding Spirits
+1 Gathering Throng
+1 Saber-Tooth Moose-Lion
+1 Hare Apparent
+1 Silhana Ledgewalker
+1 Spinner of Souls
+1 Jolrael, Mwonvuli Recluse
+1 Loot, Exuberant Explorer
+
+Artifacts
+1 Expedition Map
+1 Mind Stone
+1 All-Fates Scroll
+1 Coveted Jewel
+1 Ominous Parcel
+1 Found Footage
+1 Halo Fountain
+1 Fellwar Stone
+1 Magnifying Glass
+1 Bender's Waterskin
+1 Oblivion Stone
+1 Hedron Archive
+
+Enchantments
+1 Case of the Pilfered Proof
+1 Banishing Light
+1 Clachan Festival
+1 Kinbinding
+1 Builder's Talent
+
+Instants
+1 Energybending
+1 Heritage Reclamation
+1 Path to Exile
+1 Titan's Presence
+1 Personify
+1 Artisan's Sorrow
+1 Snakeskin Veil
+1 Midnight Tilling
+1 Cache Grab
+
+Sorceries
+1 Tempt with Discovery
+1 Field Trip
+1 Open the Gates
+1 Cut a Deal
+1 Dismantling Wave
+1 Tempt with Bunnies
+1 Wear Down
+1 Dusk // Dawn
+1 Damning Verdict
+1 Brigid's Command
+1 Say Its Name
+1 Cultivate
+
+Other
+1 Vivien Reid

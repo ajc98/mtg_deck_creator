@@ -1,0 +1,113 @@
+Commander
+1 Zidane, Tantalus Thief
+
+Lands
+1 Command Tower
+1 Clifftop Retreat
+1 Battlefield Forge
+1 Fabled Passage
+1 Rugged Prairie
+1 Terramorphic Expanse
+1 Evolving Wilds
+1 Exotic Orchard
+1 Temple of Triumph
+1 Horizon of Progress
+1 Vibrant Cityscape
+1 Sunscorched Divide
+1 Sun-Blessed Peak
+1 Planar Nexus
+1 Wind-Scarred Crag
+1 Path of Ancestry
+1 Cabaretti Courtyard
+1 Boros Guildgate
+1 Ravaged Highlands
+1 Thriving Bluff
+1 Lorehold Campus
+1 Hidden Grotto
+1 Windswept Heath
+1 The Fair Basilica
+1 Obscura Storefront
+1 Lupinflower Village
+1 Forgotten Cave
+1 Brokers Hideout
+1 Demolition Field
+1 Ash Barrens
+1 Rogue's Passage
+1 Shire Terrace
+1 High Market
+1 Reliquary Tower
+1 Maze's End
+1 Mountain
+1 Plains
+
+Creatures
+1 Solemn Simulacrum
+1 Loran of the Third Path
+1 Helpful Hunter
+1 Knight of Grace
+1 Rubble Rouser
+1 Molten Gatekeeper
+1 Alexios, Deimos of Kosmos
+1 Magda, the Hoardmaster
+1 Restoration Angel
+1 Page, Loose Leaf
+1 Halo Scarab
+1 Storm-Kiln Artist
+1 Akki Rockspeaker
+1 Fire Sages
+1 Jeong Jeong, the Deserter
+1 Brazen Collector
+1 Cathodion
+1 Academy Manufactor
+1 Fire Nation Cadets
+1 Soulbright Seeker
+1 Zuko, Exiled Prince
+1 Rough Rhino Cavalry
+1 Zog, Triceraton Castaway
+1 Alena, Kessig Trapper
+
+Artifacts
+1 Sol Ring
+1 Arcane Signet
+1 Boros Signet
+1 Coveted Jewel
+1 Mind Stone
+1 Fellwar Stone
+1 Sword of Hearth and Home
+1 Thought Vessel
+1 Expedition Map
+1 Found Footage
+1 Swiftfoot Boots
+
+Enchantments
+1 Case of the Crimson Pulse
+1 Cool but Rude
+1 Monologue Tax
+1 Alchemist's Talent
+1 Rain of Riches
+1 Ghostly Prison
+
+Instants
+1 Big Score
+1 Thrill of Possibility
+1 Dawn's Truce
+1 Swords to Plowshares
+1 Path to Exile
+1 Generous Gift
+1 Stroke of Midnight
+1 Personify
+1 Lithobraking
+1 Boros Charm
+1 Chaos Warp
+1 Parting Gust
+
+Sorceries
+1 Cut a Deal
+1 Secret Rendezvous
+1 Faithless Looting
+1 Go Ninja Go
+1 Processor Assault
+1 Blasphemous Act
+1 Dusk // Dawn
+1 Act of Treason
+1 Harmless Offering

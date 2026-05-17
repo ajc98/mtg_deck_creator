@@ -1,0 +1,112 @@
+Commander
+1 The Balrog of Moria
+
+Lands
+1 Command Tower
+1 Terramorphic Expanse
+1 Fabled Passage
+1 Evolving Wilds
+1 Blood Crypt
+1 Horizon of Progress
+1 Vibrant Cityscape
+1 Tramway Station
+1 Exotic Orchard
+1 Temple of Malice
+1 Planar Nexus
+1 Path of Ancestry
+1 Ravaged Highlands
+1 Hidden Grotto
+1 Bloodfell Caves
+1 Boiling Rock Prison
+1 Bojuka Bog
+1 Barren Moor
+1 Urborg, Tomb of Yawgmoth
+1 Polluted Mire
+1 Forgotten Cave
+1 Obscura Storefront
+1 Mortuary Mire
+1 Polluted Delta
+1 Cabaretti Courtyard
+1 Ash Barrens
+1 Demolition Field
+1 Shire Terrace
+1 Rogue's Passage
+1 Volatile Fault
+1 Cryptic Caves
+1 Arid Archway
+1 High Market
+2 Swamp
+1 Mountain
+
+Creatures
+1 Oliphaunt
+1 Solemn Simulacrum
+1 Survey Mechan
+1 The Balrog, Durin's Bane
+1 The Rise of Sozin // Fire Lord Sozin
+1 Knight of Malice
+1 Iron-Shield Elf
+1 Kardur, Doomscourge
+1 Mirkwood Bats
+1 Sauron, the Lidless Eye
+1 Boggart Cursecrafter
+1 Zog, Triceraton Castaway
+1 The Balrog, Flame of Udûn
+1 Halo Scarab
+1 Rubble Rouser
+1 Dimir House Guard
+1 Ruthless Knave
+1 Page, Loose Leaf
+1 Flamekin Gildweaver
+1 Shadowborn Apostle
+1 Akki Rockspeaker
+1 Fire Sages
+1 Jeong Jeong, the Deserter
+1 Vindictive Warden
+1 Flamecache Gecko
+1 Brazen Collector
+1 Cathodion
+1 Storm-Kiln Artist
+1 Fire Nation Cadets
+1 Soulbright Seeker
+
+Artifacts
+1 Sol Ring
+1 Arcane Signet
+1 Mind Stone
+1 Fellwar Stone
+1 Thran Dynamo
+1 Thought Vessel
+1 Expedition Map
+1 Hedron Archive
+1 Found Footage
+1 Swiftfoot Boots
+1 Wishclaw Talisman
+
+Enchantments
+1 Greed
+1 Case of the Crimson Pulse
+1 Cool but Rude
+
+Instants
+1 Thrill of Possibility
+1 Big Score
+1 Deadly Dispute
+1 Take Out the Trash
+1 Abrade
+1 Complete Disregard
+1 Cast into the Fire
+1 Lithobraking
+1 Chaos Warp
+
+Sorceries
+1 Faithless Looting
+1 Decree of Pain
+1 Feed the Swarm
+1 Lash of the Balrog
+1 Processor Assault
+1 Blasphemous Act
+1 Buried Alive
+1 Diabolic Tutor
+1 Swarming of Moria
+1 Razaketh's Rite

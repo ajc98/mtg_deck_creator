@@ -1,0 +1,115 @@
+Commander
+1 Legolas, Counter of Kills
+
+Lands
+1 Command Tower
+1 Fabled Passage
+1 Hinterland Harbor
+1 Terramorphic Expanse
+1 Temple of Mystery
+1 Thornwood Falls
+1 Path of Ancestry
+1 Evolving Wilds
+1 Vineglimmer Snarl
+1 Waterlogged Grove
+1 Horizon of Progress
+1 Flooded Grove
+1 Vibrant Cityscape
+1 Simic Growth Chamber
+1 Exotic Orchard
+1 Dreamroot Cascade
+1 Quandrix Campus
+1 Breeding Pool
+1 Yavimaya Coast
+1 Simic Guildgate
+1 Thriving Grove
+1 Lush Oasis
+1 Thriving Isle
+1 Overflowing Basin
+1 Eclipsed Realms
+1 Guadosalam, Farplane Gateway
+1 Planar Nexus
+1 Hidden Nursery
+1 Cephalid Coliseum
+1 Shifting Woodland
+1 Tranquil Thicket
+1 Hidden Cataract
+1 Windswept Heath
+1 Yavimaya, Cradle of Growth
+1 Ash Barrens
+1 Shire Terrace
+1 Demolition Field
+1 Maze's End
+1 Forest
+1 Island
+
+Creatures
+1 Elvish Archdruid
+1 Llanowar Elves
+1 Survey Mechan
+1 Reclamation Sage
+1 Archetype of Endurance
+1 Triskaidekaphile
+1 Wose Pathfinder
+1 Rishkar, Peema Renegade
+1 Celeborn the Wise
+1 Galadriel, Gift-Giver
+1 Birds of Paradise
+1 Glorfindel, Dauntless Rescuer
+1 Page, Loose Leaf
+1 Poison Dart Frog
+1 Raucous Audience
+1 Cathodion
+1 Slavering Branchsnapper
+1 Three Tree Scribe
+1 Imperious Perfect
+
+Artifacts
+1 Sol Ring
+1 Arcane Signet
+1 Found Footage
+1 Ominous Parcel
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Mind Stone
+1 All-Fates Scroll
+1 Fellwar Stone
+1 Magnifying Glass
+1 Bender's Waterskin
+1 Coveted Jewel
+1 Hedron Archive
+1 Galadhrim Bow
+
+Enchantments
+1 Terrasymbiosis
+1 Simic Ascendancy
+
+Instants
+1 Growth Spiral
+1 Opt
+1 Case the Joint
+1 Frantic Search
+1 Energybending
+1 Cerebral Download
+1 Beast Within
+1 Rapid Hybridization
+1 Pongify
+1 Heritage Reclamation
+1 Snakeskin Veil
+1 Gift of the Viper
+1 Biosynthic Burst
+1 Counterspell
+1 Galadhrim Ambush
+1 Negate
+
+Sorceries
+1 Rampant Growth
+1 Farseek
+1 Preordain
+1 Explore
+1 Cultivate
+1 Solve the Equation
+1 Many Partings
+
+Other
+1 Oko, Lorwyn Liege // Oko, Shadowmoor Scion
