@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import re
 import uuid
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
@@ -84,6 +85,68 @@ def _role_sort_key(candidate, bucket_roles: set[str]) -> float:
     return edhrec + candidate.vector_score * 0.5
 
 
+_FETCH_TYPE_RE = re.compile(
+    r"search your library for (?:a |an )?(.+?)card",
+    re.IGNORECASE,
+)
+_FETCH_TYPE_TO_COLOR = {
+    "Plains": "W", "Island": "U", "Swamp": "B", "Mountain": "R", "Forest": "G",
+}
+
+
+def _infer_fetch_colors(oracle_text: str) -> set[str]:
+    """For NULL produced_mana fetchlands, derive fetchable colors from oracle text."""
+    if not oracle_text:
+        return set()
+    m = _FETCH_TYPE_RE.search(oracle_text)
+    if not m:
+        return set()
+    fragment = m.group(1)
+    if "basic land" in fragment.lower():
+        return {"W", "U", "B", "R", "G"}
+    return {color for ltype, color in _FETCH_TYPE_TO_COLOR.items() if ltype.lower() in fragment.lower()}
+
+
+def _land_produced_mana(row: dict) -> set[str]:
+    raw = row.get("produced_mana")
+    if raw is None:
+        # fetchland — infer from oracle text
+        return _infer_fetch_colors(row.get("oracle_text") or "")
+    try:
+        return set(json.loads(raw) if isinstance(raw, str) else (raw or []))
+    except Exception:
+        return set()
+
+
+def _land_is_useful(row: dict, commander_ci: list[str]) -> bool:
+    """Exclude lands that only produce off-color mana (e.g. Windswept Heath for mono-B)."""
+    produced = _land_produced_mana(row)
+    if not produced:
+        return True  # no mana info at all → assume utility (Urborg-style)
+    ci_set = set(commander_ci)
+    if produced & ci_set:
+        return True  # produces at least one commander colour
+    if produced <= {"C"}:
+        return True  # purely colorless utility (Rogue's Passage, Blast Zone, etc.)
+    return False  # produces only off-color mana — skip
+
+
+def _land_sort_key(candidate, commander_ci: list[str]) -> tuple:
+    """Sort lands: commander-colour producers first, then by EDHREC+vector."""
+    row = candidate.card_row
+    produced = _land_produced_mana(row)
+    ci_set = set(commander_ci)
+    if row.get("is_basic_land"):
+        produced = ci_set or produced
+    colored_match = len(produced & ci_set)
+
+    rec = candidate.edhrec_rec
+    edhrec = float(rec.get("deck_percentage") or 0) / 100.0 if rec else 0.0
+    secondary = edhrec + candidate.vector_score * 0.5
+
+    return (colored_match, secondary)
+
+
 def _basic_land_name(color_identity: list[str]) -> str:
     if not color_identity:
         return "Wastes"
@@ -144,9 +207,19 @@ def build_deck(
 
         eligible = [
             c for c in candidates
-            if any(r in broles for r in c.roles) and c.name not in used
+            if any(r in broles for r in c.roles)
+            and c.name not in used
+            and (not c.card_row.get("is_land") or _land_is_useful(c.card_row, commander_ci))
         ]
-        eligible.sort(key=lambda c: _role_sort_key(c, broles), reverse=True)
+        if bname == "land":
+            eligible.sort(key=lambda c: _land_sort_key(c, commander_ci), reverse=True)
+            # Cap colorless-only utility lands; shortfall is filled with basic lands in Phase 3
+            _MAX_COLORLESS = 8
+            color_lands = [c for c in eligible if _land_sort_key(c, commander_ci)[0] >= 1]
+            colorless_lands = [c for c in eligible if _land_sort_key(c, commander_ci)[0] == 0][:_MAX_COLORLESS]
+            eligible = color_lands + colorless_lands
+        else:
+            eligible.sort(key=lambda c: _role_sort_key(c, broles), reverse=True)
 
         for candidate in eligible[:target]:
             cs = score_card(candidate, current_role_counts, _ROLE_TARGETS, weights)
@@ -157,10 +230,35 @@ def build_deck(
             for r in candidate.roles:
                 current_role_counts[r] = current_role_counts.get(r, 0) + 1
 
+        # Immediately backfill land shortfall with basics so Phase 2 doesn't steal land slots
+        if bname == "land":
+            land_shortfall = target - role_counts["land"]
+            for _ in range(land_shortfall):
+                basic_name = _basic_land_name(commander_ci)
+                basic_row  = get_card_by_normalized_name(conn, basic_name.lower())
+                if basic_row is None:
+                    basic_row = {
+                        "name": basic_name,
+                        "normalized_name": basic_name.lower(),
+                        "type_line": f"Basic Land — {basic_name}",
+                        "oracle_text": "",
+                        "cmc": 0.0,
+                        "color_identity": "[]",
+                        "is_land": True,
+                        "is_basic_land": True,
+                    }
+                deck_cards.append(basic_row)
+                role_counts["land"] += 1
+
     # ── Phase 2: synergy fill ────────────────────────────────────────────────
     remaining = 99 - len(deck_cards)
     if remaining > 0:
-        synergy_pool = [c for c in candidates if c.name not in used]
+        # Exclude lands entirely — off-color/useless lands would otherwise sneak in here;
+        # basic land backfill (Phase 3) handles any land shortfall instead.
+        synergy_pool = [
+            c for c in candidates
+            if c.name not in used and not any(r in LAND_ROLES for r in c.roles)
+        ]
         synergy_pool.sort(
             key=lambda c: score_card(c, current_role_counts, _ROLE_TARGETS, weights).final_score,
             reverse=True,
