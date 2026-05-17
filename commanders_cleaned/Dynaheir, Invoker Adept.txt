@@ -42,24 +42,14 @@ Commander
 1 Silver Myr
 1 Triskaidekaphile
 1 Arcanis the Omnipotent
+1 Spectral Sailor
 1 Knight of Grace
 1 Rubble Rouser
-1 Iron Myr
 1 Kelpie Guide
+1 Iron Myr
 1 Shepherding Spirits
 1 Angel of the Ruins
-1 Page, Loose Leaf
 1 Bedhead Beastie
-1 Rapid Augmenter
-1 Halo Scarab
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Cathodion
-1 Storm-Kiln Artist
-1 Fire Nation Cadets
-1 Soulbright Seeker
 1 Arcane Signet
 1 Sol Ring
 1 Azorius Signet
@@ -69,28 +59,38 @@ Commander
 1 Fellwar Stone
 1 Mind Stone
 1 All-Fates Scroll
-1 Found Footage
 1 Swiftfoot Boots
 1 Halo Fountain
-1 Oblivion Stone
 1 Thran Dynamo
 1 Boom Box
-1 Case of the Crimson Pulse
+1 Oblivion Stone
+1 Thought Vessel
+1 Gilded Lotus
+1 Sewer-veillance Cam
+1 Chromatic Lantern
 1 Impact Tremors
 1 Cool but Rude
+1 Propaganda
+1 Ghostly Prison
 1 Frantic Search
 1 Arcane Denial
-1 Case the Joint
+1 Izzet Charm
+1 Thrill of Possibility
 1 Swords to Plowshares
 1 Path to Exile
 1 Generous Gift
 1 Stroke of Midnight
-1 Izzet Charm
+1 Prismari Command
 1 Boros Charm
 1 Chaos Warp
 1 Counterspell
-1 Thrill of Possibility
 1 Negate
+1 Rootborn Defenses
+1 An Offer You Can't Refuse
+1 Disenchant
+1 Abrade
+1 Teferi's Protection
+1 Perplexing Test
 1 Suppression Ray // Orderly Plaza
 1 Faithless Looting
 1 Processor Assault
@@ -98,5 +98,5 @@ Commander
 1 Dusk // Dawn
 1 Time Wipe
 1 Culmination of Studies
-1 Solve the Equation
 1 Ponder
+1 Solve the Equation

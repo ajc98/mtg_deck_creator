@@ -43,40 +43,43 @@ Creatures
 1 Crypt Ghast
 1 Gray Merchant of Asphodel
 1 Burnished Hart
+1 Nighthowler
+1 Vampire Nighthawk
+1 Massacre Wurm
+1 Desecration Demon
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Desecration Demon
-1 Cathodion
-1 Nighthowler
 1 Dimir House Guard
+1 Cathodion
+1 Grim Guardian
 1 Azula, On the Hunt
 1 Shadowborn Apostle
-1 The Rise of Sozin // Fire Lord Sozin
-1 Vampire Nighthawk
-1 Vile Entomber
-1 Canyon Crawler
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Hedron Archive
-1 Expedition Map
 1 Thought Vessel
+1 Expedition Map
 1 Fellwar Stone
 1 Heraldic Banner
 1 Bilbo's Ring
 1 Found Footage
 1 Swiftfoot Boots
 1 Fireshrieker
-1 Wishclaw Talisman
 1 Thran Dynamo
 1 Gilded Lotus
-1 All-Fates Scroll
+1 Basilisk Collar
+1 Hero's Blade
 
 Enchantments
 1 Greed
 1 Derelict Attic // Widow's Walk
+1 Black Market
+1 Kaya's Ghostform
+1 Stab Wound
+1 Unhallowed Pact
 
 Instants
 1 Murder
@@ -84,10 +87,9 @@ Instants
 1 Hero's Downfall
 1 Complete Disregard
 1 Grip of Desolation
-1 Deal Gone Bad
 1 Not Dead After All
 1 Dark Ritual
-1 Deadly Dispute
+1 Tendrils of Corruption
 
 Sorceries
 1 Diabolic Tutor
@@ -95,12 +97,10 @@ Sorceries
 1 Feed the Swarm
 1 In Garruk's Wake
 1 Exsanguinate
-1 Buried Alive
+1 Bubbling Muck
 1 Razaketh's Rite
-1 Brainspoil
-1 Psychic Whorl
-1 Transgress the Mind
-1 Seeker's Folly
+1 Buried Alive
 
 Other
 1 Liliana of the Dark Realms
+1 Ob Nixilis Reignited

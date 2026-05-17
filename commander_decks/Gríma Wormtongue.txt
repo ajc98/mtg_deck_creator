@@ -51,6 +51,7 @@ Creatures
 1 Mind Raker
 1 Infectious Host
 1 Easterling Vanguard
+1 Gothmog, Morgul Lieutenant
 
 Artifacts
 1 Expedition Map
@@ -99,7 +100,6 @@ Sorceries
 1 Transgress the Mind
 1 Seeker's Folly
 1 Head Games
-1 Binding Negotiation
 
 Other
 1 Ob Nixilis Reignited

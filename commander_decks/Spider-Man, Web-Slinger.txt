@@ -42,24 +42,22 @@ Creatures
 1 Inspiring Overseer
 1 Mentor of the Meek
 1 Loran of the Third Path
-1 Survey Mechan
 1 Knight of Grace
+1 Ambrosia Whiteheart
+1 Hinterland Sanctifier
+1 Daily Bugle Reporters
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Cathodion
-1 Shepherding Spirits
-1 April O'Neil, Kunoichi Trainee
-1 Ambrosia Whiteheart
-1 Leonardo, Big Brother
-1 Angel of the Ruins
-1 Hinterland Sanctifier
-1 Mouse Trapper
-1 Daily Bugle Reporters
-1 Flock Impostor
-1 Hare Apparent
 1 Lita, Little Orphan Amphibian
 1 Silver Sable, Mercenary Leader
-1 Gathering Throng
+1 April O'Neil, Kunoichi Trainee
+1 Leonardo, Big Brother
+1 Compassionate Healer
+1 Water Tribe Rallier
+1 Cathodion
+1 Ornithopter
+1 Flock Impostor
+1 Shepherding Spirits
 
 Artifacts
 1 Sol Ring
@@ -69,21 +67,25 @@ Artifacts
 1 Thought Vessel
 1 Fellwar Stone
 1 Bender's Waterskin
-1 Expedition Map
+1 White Auracite
 1 Bagel and Schmear
 1 Found Footage
 1 Swiftfoot Boots
 1 Halo Fountain
-1 White Auracite
-1 Oblivion Stone
-1 All-Fates Scroll
+1 Kyoshi Battle Fan
+1 Hero's Blade
+1 Stalactite Dagger
+1 Dúnedain Blade
 
 Enchantments
 1 Banishing Light
-1 Charitable Levy
-1 Rest in Peace
 1 Ghostly Prison
 1 Endless Foot Assault
+1 Airbender Ascension
+1 Rest in Peace
+1 Angelic Gift
+1 Path to Redemption
+1 Monologue Tax
 
 Instants
 1 Dawn's Truce
@@ -92,16 +94,14 @@ Instants
 1 Generous Gift
 1 Grounded for Life
 1 Stroke of Midnight
-1 Teferi's Protection
 1 Make Your Move
+1 Teferi's Protection
 1 Hamato Guardian Stance
-1 Energybending
+1 Crib Swap
 
 Sorceries
 1 Cut a Deal
-1 Dismantling Wave
+1 Secret Rendezvous
 1 Dusk // Dawn
 1 Vanquish the Horde
-1 Damning Verdict
-1 Secret Rendezvous
-1 Tempt with Bunnies
+1 Winnowing

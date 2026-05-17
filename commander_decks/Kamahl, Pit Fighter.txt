@@ -31,34 +31,30 @@ Creatures
 1 Solemn Simulacrum
 1 Iron Myr
 1 Survey Mechan
-1 Fanatical Firebrand
 1 Drakuseth, Maw of Flames
-1 Rubble Rouser
 1 Guttersnipe
+1 Rubble Rouser
+1 Inferno Titan
+1 Fanatic of Mogis
+1 Burnished Hart
 1 Halo Scarab
 1 Page, Loose Leaf
 1 Bedhead Beastie
+1 Lavaleaper
 1 Storm-Kiln Artist
-1 Burnished Hart
-1 Hoarding Dragon
+1 Sunspine Lynx
+1 Alena, Kessig Trapper
+1 Oliphaunt
+1 Zuko, Exiled Prince
 1 Akki Rockspeaker
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
-1 Cathodion
-1 Zuko, Exiled Prince
-1 Alena, Kessig Trapper
-1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Oliphaunt
-1 Slith Firewalker
-1 Rough Rhino Cavalry
-1 Inferno Titan
 
 Artifacts
 1 Sol Ring
-1 Mind Stone
 1 Arcane Signet
+1 Mind Stone
 1 Thran Dynamo
 1 Fellwar Stone
 1 Gilded Lotus
@@ -70,6 +66,7 @@ Artifacts
 1 Sword of Hearth and Home
 1 Basilisk Collar
 1 Thought Vessel
+1 Helm of the Host
 
 Enchantments
 1 Case of the Crimson Pulse
@@ -77,20 +74,22 @@ Enchantments
 1 Impact Tremors
 1 Gratuitous Violence
 1 Cool but Rude
-1 Fervor
+1 Underworld Breach
 
 Instants
 1 Thrill of Possibility
 1 Big Score
+1 Starstorm
 1 Take Out the Trash
 1 Energybending
-1 Starstorm
 1 Abrade
 1 Shock
 1 Lightning Strike
+1 Magma Jet
 1 Lithobraking
 1 Chaos Warp
 1 Bolt Bend
+1 Ghostfire Slice
 
 Sorceries
 1 Faithless Looting
@@ -99,3 +98,4 @@ Sorceries
 1 Blasphemous Act
 1 Boltwave
 1 Mana Geyser
+1 Lava Axe

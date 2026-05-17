@@ -35,7 +35,6 @@ Commander
 1 Desert of the Indomitable
 1 Demolition Field
 1 Ash Barrens
-1 Shire Terrace
 1 Forest
 1 Mountain
 1 Savage Ventmaw
@@ -52,50 +51,51 @@ Commander
 1 Apex Devastator
 1 Bloodbraid Challenger
 1 Goreclaw, Terror of Qal Sisma
+1 Rampaging Baloths
+1 Terastodon
+1 Steel Hellkite
+1 Ghalta, Primal Hunger
+1 Raph & Mikey, Troublemakers
+1 End-Raze Forerunners
+1 Avenger of Zendikar
+1 Slavering Branchsnapper
+1 Inferno Titan
 1 Thornvault Forager
 1 Courier of Comestibles
-1 Page, Loose Leaf
-1 Rampaging Baloths
-1 Slavering Branchsnapper
-1 Halo Scarab
-1 Terastodon
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
 1 Sol Ring
 1 Arcane Signet
-1 Expedition Map
-1 Mind Stone
-1 Found Footage
 1 Thran Dynamo
-1 Gruul Signet
 1 Hedron Archive
+1 Found Footage
+1 Gruul Signet
+1 Mind Stone
 1 Glittering Stockpile
 1 All-Fates Scroll
-1 Fellwar Stone
-1 Magnifying Glass
-1 Bender's Waterskin
 1 Garruk's Uprising
 1 Greater Good
 1 Case of the Crimson Pulse
 1 Cool but Rude
 1 Encroaching Dragonstorm
 1 Sunbird's Invocation
+1 Warstorm Surge
 1 Prismatic Undercurrents
+1 Bitter Work
 1 Return of the Wildspeaker
 1 Big Score
 1 Take Out the Trash
-1 Energybending
 1 Beast Within
+1 Abrade
 1 Heritage Reclamation
-1 Impossible Inferno
 1 Lithobraking
 1 Snakeskin Veil
+1 Chaos Warp
 1 Tempt with Discovery
 1 Rampant Growth
+1 Farseek
 1 Harmonize
-1 Processor Assault
+1 Shamanic Revelation
 1 Decimate
+1 Processor Assault
 1 Blasphemous Act
 1 Circuitous Route
 1 Cultivate

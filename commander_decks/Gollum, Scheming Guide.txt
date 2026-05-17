@@ -32,27 +32,28 @@ Lands
 
 Creatures
 1 Solemn Simulacrum
-1 Page, Loose Leaf
 1 Dread Presence
 1 Survey Mechan
-1 Asmodeus the Archfiend
 1 Accursed Marauder
 1 Plaguecrafter
+1 The Rise of Sozin // Fire Lord Sozin
 1 Knight of Malice
 1 Iron-Shield Elf
 1 Crypt Ghast
 1 Gray Merchant of Asphodel
 1 Gollum, Obsessed Stalker
+1 Burnished Hart
+1 Page, Loose Leaf
 1 Gorbag of Minas Morgul
 1 Halo Scarab
 1 Dimir House Guard
-1 Burnished Hart
+1 Qarsi Revenant
+1 Darkstar Augur
 1 Cathodion
-1 Shadowborn Apostle
+1 Nighthowler
+1 Gonti, Night Minister
 1 Azula, On the Hunt
-1 The Rise of Sozin // Fire Lord Sozin
-1 Vile Entomber
-1 Canyon Crawler
+1 Shadowborn Apostle
 
 Artifacts
 1 Sol Ring
@@ -61,46 +62,45 @@ Artifacts
 1 Thought Vessel
 1 Fellwar Stone
 1 Sword of Hearth and Home
-1 Expedition Map
-1 Bilbo's Ring
-1 Found Footage
-1 Swiftfoot Boots
-1 Wishclaw Talisman
 1 Inherited Envelope
 1 Goldvein Pick
-1 Heraldic Banner
+1 Bilbo's Ring
+1 Found Footage
+1 Wishclaw Talisman
+1 Swiftfoot Boots
 1 Fireshrieker
-1 All-Fates Scroll
 1 Basilisk Collar
-1 Magnifying Glass
-1 Bender's Waterskin
+1 Heraldic Banner
 
 Enchantments
 1 Greed
 1 Kaya's Ghostform
 
 Instants
-1 Energybending
-1 Deadly Dispute
 1 Nasty End
+1 Deadly Dispute
+1 Murder
 1 Complete Disregard
+1 Doom Blade
 1 Grip of Desolation
 1 Deal Gone Bad
-1 Murder
-1 Darkblast
 1 Not Dead After All
 1 Dark Ritual
+1 Howl from Beyond
+1 Undying Malice
 
 Sorceries
 1 Diabolic Tutor
+1 Decree of Pain
 1 Feed the Swarm
 1 Claim the Precious
-1 Decree of Pain
 1 Exsanguinate
-1 Buried Alive
+1 Bubbling Muck
 1 Head Games
 1 Razaketh's Rite
-1 Brainspoil
+1 The Black Breath
+1 Mordor Muster
+1 Buried Alive
 
 Other
 1 Liliana of the Dark Realms

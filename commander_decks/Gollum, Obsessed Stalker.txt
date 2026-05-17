@@ -43,19 +43,18 @@ Creatures
 1 Gray Merchant of Asphodel
 1 Crypt Ghast
 1 Vampire Nighthawk
-1 Marauding Blight-Priest
 1 Shard of the Nightbringer
-1 Dimir House Guard
+1 K'rrik, Son of Yawgmoth
+1 Marauding Blight-Priest
 1 Qarsi Revenant
 1 Gifted Aetherborn
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Shadowborn Apostle
-1 K'rrik, Son of Yawgmoth
-1 Cathodion
-1 Starscape Cleric
 1 Tavern Swindler
-1 Azula, On the Hunt
+1 Blood Artist
+1 Diamond Mare
+1 Starscape Cleric
+1 Tivash, Gloom Summoner
+1 Deathgreeter
+1 Tymaret, Chosen from Death
 
 Artifacts
 1 Sol Ring
@@ -65,29 +64,30 @@ Artifacts
 1 Fellwar Stone
 1 Thought Vessel
 1 All-Fates Scroll
-1 Coveted Jewel
 1 Bilbo's Ring
 1 Found Footage
 1 Ominous Parcel
 1 Swiftfoot Boots
 1 Demon's Horn
 1 Staff of the Death Magus
-1 Wishclaw Talisman
+1 Bolas's Citadel
+1 Whip of Erebos
 
 Enchantments
 1 Greed
 1 Sanguine Bond
-1 Necropotence
 1 Exquisite Blood
+1 Kaya's Ghostform
+1 Necropotence
 
 Instants
-1 Energybending
 1 Deadly Dispute
+1 Energybending
 1 Complete Disregard
+1 Saw in Half
 1 Grip of Desolation
 1 Deal Gone Bad
 1 Darkblast
-1 Saw in Half
 1 Tendrils of Corruption
 1 Dark Ritual
 1 Cabal Ritual
@@ -99,9 +99,9 @@ Sorceries
 1 Decree of Pain
 1 Exsanguinate
 1 Blood Tithe
-1 Buried Alive
-1 Razaketh's Rite
-1 Brainspoil
+1 Corrupt
+1 Consume Spirit
+1 Bubbling Muck
 
 Other
 1 Liliana of the Dark Realms

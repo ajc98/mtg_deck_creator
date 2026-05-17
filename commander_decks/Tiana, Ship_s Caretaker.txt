@@ -42,72 +42,72 @@ Lands
 Creatures
 1 Solemn Simulacrum
 1 Helpful Hunter
-1 Survey Mechan
-1 Knight of Grace
 1 Dragonhawk, Fate's Tempest
 1 Rubble Rouser
 1 Molten Gatekeeper
+1 Sun Titan
+1 Hoarding Dragon
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Hoarding Dragon
 1 Storm-Kiln Artist
+1 Swiftblade Vindicator
 1 Akki Rockspeaker
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
 1 Cathodion
-1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Zuko, Exiled Prince
-1 Rough Rhino Cavalry
 1 Shepherding Spirits
-1 Angel of the Ruins
-1 Alena, Kessig Trapper
-1 Exosuit Savior
-1 Bedhead Beastie
-1 Oliphaunt
+1 Fire Nation Cadets
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Boros Signet
 1 Mind Stone
-1 Fellwar Stone
 1 Thought Vessel
+1 Fellwar Stone
 1 Expedition Map
 1 Glittering Stockpile
-1 All-Fates Scroll
+1 Goldvein Pick
 1 Found Footage
 1 Swiftfoot Boots
-1 Goldvein Pick
+1 Hero's Blade
+1 Basilisk Collar
 1 Caduceus, Staff of Hermes
 
 Enchantments
 1 Dragon Mantle
 1 Angelic Gift
 1 Sticky Fingers
+1 Tenuous Truce
+1 Chosen by Heliod
 1 Case of the Crimson Pulse
 1 Sheltered by Ghosts
 1 Cool but Rude
 1 Shiny Impetus
 1 Curse of Opulence
+1 Bound by Moonsilver
+1 Dog Umbra
+1 Feather of Flight
+1 Martial Impetus
 
 Instants
 1 Thrill of Possibility
-1 Take Out the Trash
 1 Swords to Plowshares
 1 Path to Exile
 1 Generous Gift
 1 Disenchant
-1 Impossible Inferno
+1 Take Out the Trash
 1 Lithobraking
 1 Boros Charm
+1 Teferi's Protection
 1 Chaos Warp
+1 Valorous Stance
+1 Abrade
 
 Sorceries
-1 Cut a Deal
+1 Secret Rendezvous
 1 Processor Assault
 1 Blasphemous Act
 1 Dusk // Dawn
-1 Secret Rendezvous
 1 Faithless Looting

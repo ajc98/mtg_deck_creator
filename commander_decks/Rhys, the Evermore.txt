@@ -39,23 +39,23 @@ Creatures
 1 Loran of the Third Path
 1 Spirited Companion
 1 Inspiring Overseer
-1 Helpful Hunter
 1 Mangara, the Diplomat
+1 Helpful Hunter
+1 Mentor of the Meek
 1 Survey Mechan
 1 Luminous Broodmoth
+1 Sun Titan
+1 Charming Prince
+1 Restoration Angel
+1 Fiend Hunter
+1 Skyclave Apparition
+1 Appa, Steadfast Guardian
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Restoration Angel
-1 Sun Titan
-1 Fiend Hunter
-1 Charming Prince
 1 Cathodion
-1 Skyclave Apparition
 1 Shepherding Spirits
 1 Angel of the Ruins
 1 Knight of Grace
-1 Appa, Steadfast Guardian
-1 Hare Apparent
 
 Artifacts
 1 Sol Ring
@@ -65,23 +65,25 @@ Artifacts
 1 Fellwar Stone
 1 Sword of Hearth and Home
 1 Thought Vessel
-1 All-Fates Scroll
+1 Thran Dynamo
 1 Skullclamp
-1 Found Footage
 1 Swiftfoot Boots
 1 Halo Fountain
 1 Heraldic Banner
-1 Thran Dynamo
-1 Oblivion Stone
-1 Magnifying Glass
-1 Bender's Waterskin
 1 Spawning Pit
+1 Mirage Mirror
+1 All-Fates Scroll
+1 Oblivion Stone
+1 Found Footage
 
 Enchantments
 1 Stasis Snare
-1 Charitable Levy
 1 Airbender Ascension
+1 Ghostly Prison
 1 Rest in Peace
+1 Monologue Tax
+1 Felidar Retreat
+1 Charitable Levy
 
 Instants
 1 Dawn's Truce
@@ -90,17 +92,15 @@ Instants
 1 Personify
 1 Generous Gift
 1 Stroke of Midnight
-1 Duty Beyond Death
 1 Teferi's Protection
+1 Duty Beyond Death
 1 Parting Gust
 
 Sorceries
 1 Cut a Deal
 1 Secret Rendezvous
 1 Dusk // Dawn
-1 Damning Verdict
 1 Winnowing
+1 Damning Verdict
 1 Morningtide's Light
 1 Another Round
-1 Dismantling Wave
-1 Tempt with Bunnies

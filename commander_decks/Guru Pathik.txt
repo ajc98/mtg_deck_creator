@@ -44,41 +44,40 @@ Lands
 Creatures
 1 Hermitic Herbalist
 1 The Lion-Turtle
+1 Katara, Bending Prodigy
 1 Survey Mechan
 1 Archetype of Endurance
 1 Triskaidekaphile
 1 Master Pakku
-1 Raucous Audience
-1 Birds of Paradise
-1 Rishkar, Peema Renegade
-1 Page, Loose Leaf
 1 Walltop Sentries
-1 Cathodion
-1 Slavering Branchsnapper
+1 First-Time Flyer
+1 Badgermole
 1 Forgotten Ancient
 1 Platypus-Bear
+1 Raucous Audience
+1 Birds of Paradise
+1 Michelangelo, Game Master
 1 Evolution Witness
-1 First-Time Flyer
-1 Satyr Grovedancer
-1 Spinner of Souls
-1 Saber-Tooth Moose-Lion
-1 Katara, Bending Prodigy
+1 Turtle-Duck
+1 The Earth King
+1 Slavering Branchsnapper
+1 Rishkar, Peema Renegade
+1 Page, Loose Leaf
+1 Foggy Swamp Vinebender
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Thought Vessel
 1 Bender's Waterskin
-1 Found Footage
 1 Mind Stone
-1 All-Fates Scroll
-1 Fellwar Stone
-1 Magnifying Glass
-1 Oblivion Stone
+1 The Ozolith
 
 Enchantments
 1 Simic Ascendancy
 1 Ballad of the Black Flag
+1 Honest Work
+1 Noggle the Mind
 
 Instants
 1 Growth Spiral
@@ -87,7 +86,7 @@ Instants
 1 Lost Days
 1 Energybending
 1 Frantic Search
-1 Case the Joint
+1 Arcane Denial
 1 Origin of Metalbending
 1 Beast Within
 1 Pongify
@@ -96,8 +95,8 @@ Instants
 1 Snakeskin Veil
 1 Cycle of Renewal
 1 It'll Quench Ya!
-1 Arcane Denial
 1 Counterspell
+1 Repulsive Mutation
 
 Sorceries
 1 Aang's Journey
@@ -106,10 +105,11 @@ Sorceries
 1 Waterbending Lesson
 1 Teachings of the Archaics
 1 Earthbending Lesson
-1 Cultivate
 1 Rockalanche
-1 Solve the Equation
 1 Fractal Summoning
+1 Cultivate
+1 Farseek
+1 Solve the Equation
 
 Other
 1 Oko, Lorwyn Liege // Oko, Shadowmoor Scion

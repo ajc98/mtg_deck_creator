@@ -38,29 +38,25 @@ Creatures
 1 Tireless Provisioner
 1 Sakura-Tribe Elder
 1 Ulvenwald Hydra
-1 Topiary Stomper
 1 Llanowar Elves
+1 Topiary Stomper
 1 Survey Mechan
-1 Jolrael, Mwonvuli Recluse
-1 Anthropede
-1 Loot, Exuberant Explorer
 1 Azusa, Lost but Seeking
-1 Scute Swarm
-1 Springbloom Druid
-1 Ramunap Excavator
-1 Page, Loose Leaf
 1 Rampaging Baloths
-1 Thornvault Forager
-1 Courier of Comestibles
-1 Halo Scarab
+1 Scute Swarm
 1 Avenger of Zendikar
-1 Slavering Branchsnapper
+1 Ramunap Excavator
+1 Loot, Exuberant Explorer
 1 Lotus Cobra
 1 Mossborn Hydra
-1 Raucous Audience
-1 Cathodion
+1 Springbloom Druid
+1 Dryad of the Ilysian Grove
 1 Satyr Wayfinder
-1 Saber-Tooth Moose-Lion
+1 Springheart Nantuko
+1 Page, Loose Leaf
+1 Slavering Branchsnapper
+1 The Earth King
+1 Thornvault Forager
 
 Artifacts
 1 Sol Ring
@@ -68,22 +64,24 @@ Artifacts
 1 Found Footage
 1 Ominous Parcel
 1 Swiftfoot Boots
+1 Emerald Medallion
 1 Mind Stone
+1 Expedition Map
 1 All-Fates Scroll
+1 Crucible of Worlds
 1 Fellwar Stone
 1 Magnifying Glass
 1 Bender's Waterskin
-1 Evolving Door
-1 Expedition Map
 1 Coveted Jewel
-1 Hedron Archive
-1 Oblivion Stone
-1 Emerald Medallion
 
 Enchantments
 1 Garruk's Uprising
 1 Greater Good
+1 Hunter's Talent
 1 Sapling Nursery
+1 Unnatural Growth
+1 Rites of Flourishing
+1 Retreat to Kazandu
 
 Instants
 1 Return of the Wildspeaker
@@ -95,7 +93,6 @@ Instants
 1 Artisan's Sorrow
 1 Snakeskin Veil
 1 Cycle of Renewal
-1 Midnight Tilling
 
 Sorceries
 1 Rampant Growth
@@ -103,8 +100,11 @@ Sorceries
 1 Tempt with Discovery
 1 Explore
 1 Harmonize
+1 Spry and Mighty
 1 Cultivate
 1 Tend the Sprigs
+1 Kapow!
+1 Rockalanche
 
 Other
 1 Vivien Reid

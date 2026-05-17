@@ -46,20 +46,14 @@ Commander
 1 Reclamation Sage
 1 Archetype of Endurance
 1 Wirewood Symbiote
+1 Badgermole Cub
+1 Slavering Branchsnapper
+1 Sun Titan
 1 Thornvault Forager
 1 Page, Loose Leaf
 1 Courier of Comestibles
-1 Slavering Branchsnapper
-1 Overgrown Zealot
 1 Angel of the Ruins
-1 Halo Scarab
 1 Shepherding Spirits
-1 Badgermole Cub
-1 Generous Ent
-1 Saber-Tooth Moose-Lion
-1 Knight of Grace
-1 Raucous Audience
-1 Cathodion
 1 Sol Ring
 1 Arcane Signet
 1 Thought Vessel
@@ -70,13 +64,15 @@ Commander
 1 All-Fates Scroll
 1 Fellwar Stone
 1 Magnifying Glass
-1 Bender's Waterskin
 1 Hedron Archive
+1 Bender's Waterskin
 1 Coveted Jewel
-1 Oblivion Stone
+1 Ghirapur Orrery
 1 Wild Growth
 1 Rites of Flourishing
 1 Ghostly Prison
+1 Garruk's Uprising
+1 Tenuous Truce
 1 Dawn's Truce
 1 Swords to Plowshares
 1 Path to Exile
@@ -85,17 +81,21 @@ Commander
 1 Emerald Charm
 1 Stroke of Midnight
 1 Teferi's Protection
-1 Midnight Tilling
+1 Gift of the Viper
+1 High Stride
+1 Biosynthic Burst
+1 Riot Control
 1 Tempt with Discovery
 1 Rampant Growth
-1 Sylvan Scrying
+1 Farseek
 1 Cut a Deal
 1 Harmonize
-1 Explore
 1 Secret Rendezvous
+1 Explore
 1 Tempt with Bunnies
-1 Dismantling Wave
+1 Shamanic Revelation
 1 Dusk // Dawn
 1 Fumigate
 1 Damning Verdict
 1 Cultivate
+1 Promise of Loyalty

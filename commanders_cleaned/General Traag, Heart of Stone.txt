@@ -34,26 +34,22 @@ Commander
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Nettle Drone
+1 Aetherjacket
+1 Frogmyr Enforcer
+1 Junk Diver
+1 Satyr Rambler
 1 Halo Scarab
 1 Page, Loose Leaf
-1 Aetherjacket
-1 Cathodion
-1 Junk Diver
 1 Flamekin Gildweaver
+1 Cathodion
 1 Storm-Kiln Artist
+1 Zuko, Exiled Prince
 1 Akki Rockspeaker
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
-1 Zuko, Exiled Prince
-1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Frogmyr Enforcer
 1 Alena, Kessig Trapper
-1 Rough Rhino Cavalry
 1 Bedhead Beastie
-1 Satyr Rambler
-1 Hoarding Dragon
 1 Sol Ring
 1 Mind Stone
 1 Coveted Jewel
@@ -72,9 +68,12 @@ Commander
 1 Sword of Hearth and Home
 1 Oblivion Stone
 1 Gathering Stone
-1 Boom Box
+1 Hard-Won Jitte
+1 Maskwood Nexus
+1 Basilisk Collar
 1 Case of the Crimson Pulse
 1 Cool but Rude
+1 Rain of Riches
 1 Firebender Ascension
 1 Fervor
 1 Big Score
@@ -86,6 +85,7 @@ Commander
 1 Jennika's Technique
 1 Lithobraking
 1 Chaos Warp
+1 Boulderfall
 1 Stone Rain
 1 Bot Bashing Time
-1 Processor Assault
+1 Portent of Betrayal

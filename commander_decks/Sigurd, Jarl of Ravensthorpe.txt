@@ -37,7 +37,6 @@ Lands
 1 Kyoshi Village
 1 Sheltering Landscape
 1 Demolition Field
-1 Ash Barrens
 1 Forest
 1 Plains
 1 Mountain
@@ -46,13 +45,14 @@ Creatures
 1 Birds of Paradise
 1 Helpful Hunter
 1 Survey Mechan
-1 Archetype of Endurance
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Selvala, Explorer Returned
 1 Wildsear, Scouring Maw
-1 Page, Loose Leaf
 1 Evolution Witness
+1 Selvala, Explorer Returned
+1 Alexios, Deimos of Kosmos
+1 Slavering Branchsnapper
+1 Page, Loose Leaf
 1 Rishkar, Peema Renegade
 1 Halo Scarab
 1 Courier of Comestibles
@@ -61,31 +61,27 @@ Creatures
 1 Jeong Jeong, the Deserter
 1 Raucous Audience
 1 Muerra, Trash Tactician
-1 Brazen Collector
-1 Cathodion
-1 Slavering Branchsnapper
-1 Fire Nation Cadets
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
+1 Talisman of Impulse
 1 Found Footage
 1 Swiftfoot Boots
-1 Talisman of Impulse
 1 Gruul Signet
 1 Boros Signet
 1 Mind Stone
 1 Glittering Stockpile
 1 All-Fates Scroll
-1 Magnifying Glass
-1 Bender's Waterskin
 
 Enchantments
 1 Case of the Crimson Pulse
 1 Origin of the Hidden Ones
 1 Maximum Carnage
 1 Cool but Rude
+1 Reconnaissance
+1 Wild Growth
 
 Instants
 1 Dawn's Truce
@@ -93,13 +89,16 @@ Instants
 1 Energybending
 1 Heritage Reclamation
 1 Thrill of Possibility
-1 Path to Exile
 1 Swords to Plowshares
+1 Path to Exile
 1 Beast Within
 1 Generous Gift
 1 Stroke of Midnight
 1 Lithobraking
 1 Boros Charm
+1 Teferi's Protection
+1 Chaos Warp
+1 Abrade
 
 Sorceries
 1 Farseek
@@ -111,3 +110,4 @@ Sorceries
 1 Dusk // Dawn
 1 Cultivate
 1 Reconstruct History
+1 Decimate

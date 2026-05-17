@@ -36,26 +36,25 @@ Creatures
 1 Solemn Simulacrum
 1 Dread Presence
 1 Psychosis Crawler
-1 Dimir House Guard
-1 Survey Mechan
 1 Grim Servant
+1 Rune-Scarred Demon
+1 Doomsday Excruciator
+1 Survey Mechan
 1 The Rise of Sozin // Fire Lord Sozin
 1 Knight of Malice
 1 Iron-Shield Elf
 1 Gray Merchant of Asphodel
 1 Crypt Ghast
-1 Rune-Scarred Demon
-1 Burnished Hart
 1 K'rrik, Son of Yawgmoth
-1 Razaketh, the Foulblooded
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Cathodion
-1 Azula, On the Hunt
-1 Shadowborn Apostle
+1 Burnished Hart
 1 Blood Artist
 1 Vampire Nighthawk
-1 Bonebind Orator
+1 Viscera Seer
+1 Shard of the Nightbringer
+1 Dimir House Guard
+1 Razaketh, the Foulblooded
+1 Woe Strider
+1 Chainer, Dementia Master
 
 Artifacts
 1 Sol Ring
@@ -65,43 +64,44 @@ Artifacts
 1 Fellwar Stone
 1 Expedition Map
 1 Gilded Lotus
-1 Found Footage
 1 Swiftfoot Boots
 1 Bolas's Citadel
-1 Wishclaw Talisman
-1 Thran Dynamo
-1 All-Fates Scroll
 1 Staff of the Death Magus
 1 Demon's Horn
+1 Whip of Erebos
+1 Wishclaw Talisman
+1 Thran Dynamo
 
 Enchantments
 1 Greed
-1 Necropotence
 1 Exquisite Blood
+1 Sanguine Bond
+1 Black Market
+1 Necropotence
 
 Instants
 1 Village Rites
 1 Deadly Dispute
+1 Corrupted Conviction
 1 Complete Disregard
-1 Grip of Desolation
-1 Deal Gone Bad
-1 Darkblast
 1 Murder
 1 Doom Blade
+1 Hero's Downfall
+1 Grip of Desolation
 1 Dark Ritual
-1 Cabal Ritual
 1 Tendrils of Corruption
+1 Cabal Ritual
 
 Sorceries
 1 Diabolic Tutor
 1 Feed the Swarm
-1 Decree of Pain
 1 In Garruk's Wake
+1 Decree of Pain
 1 Exsanguinate
-1 Buried Alive
 1 Bubbling Muck
-1 Razaketh's Rite
-1 Binding Negotiation
+1 Corrupt
+1 Buried Alive
+1 Zombify
 
 Other
 1 Liliana of the Dark Realms

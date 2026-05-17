@@ -34,20 +34,18 @@ Commander
 1 Helpful Hunter
 1 Mangara, the Diplomat
 1 Spirited Companion
-1 Survey Mechan
+1 Mentor of the Meek
+1 Loran of the Third Path
 1 Westfold Rider
 1 Zack Fair
-1 Ornithopter of Paradise
+1 Sun Titan
 1 Senu, Keen-Eyed Protector
+1 Ornithopter of Paradise
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Cathodion
 1 Shepherding Spirits
-1 Angel of the Ruins
-1 Knight of Grace
-1 Sun Titan
-1 Hare Apparent
-1 Aerie Auxiliary
+1 Circuit Mender
 1 Sol Ring
 1 White Auracite
 1 Goldvein Pick
@@ -61,35 +59,37 @@ Commander
 1 Caduceus, Staff of Hermes
 1 Swiftfoot Boots
 1 Halo Fountain
+1 Basilisk Collar
+1 Dúnedain Blade
 1 Omni-Cheese Pizza
 1 Heraldic Banner
 1 Thought Vessel
-1 Basilisk Collar
 1 Ring of the Lucii
-1 Oblivion Stone
-1 All-Fates Scroll
-1 Dúnedain Blade
-1 Fellwar Stone
 1 Angelic Gift
 1 Banishing Light
 1 Arrest
-1 Charitable Levy
 1 Ghostly Prison
+1 Caught in the Brights
+1 Bound by Moonsilver
+1 Path to Redemption
+1 Spiral into Solitude
+1 Endless Foot Assault
+1 Angelic Destiny
+1 Armament of Nyx
 1 Dawn's Truce
 1 Path to Exile
 1 Swords to Plowshares
 1 Generous Gift
 1 Make Your Move
-1 Smite the Monstrous
+1 Valorous Stance
+1 Protective Response
 1 Turtles Forever
-1 Teferi's Protection
-1 Energybending
+1 Jump Scare
+1 Grounded for Life
+1 Parting Gust
 1 Dismantling Wave
-1 Cut a Deal
-1 Tempt with Bunnies
-1 Dusk // Dawn
-1 Damning Verdict
-1 Fumigate
 1 Jolted Awake
+1 Damning Verdict
+1 Dusk // Dawn
+1 Fumigate
 1 Morningtide's Light
-1 Scout for Survivors

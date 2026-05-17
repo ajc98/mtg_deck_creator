@@ -36,26 +36,25 @@ Creatures
 1 Solemn Simulacrum
 1 Mentor of the Meek
 1 Spirited Companion
+1 Loran of the Third Path
 1 Helpful Hunter
 1 Survey Mechan
 1 Zetalpa, Primal Dawn
-1 Knight of Grace
 1 Rosie Cotton of South Lane
-1 Eastfarthing Farmer
 1 Academy Manufactor
+1 Eastfarthing Farmer
 1 Nyx-Fleece Ram
 1 Rasaad yn Bashir
 1 Cat Collector
+1 Restoration Angel
+1 Sun Titan
+1 Diamond Mare
+1 Lita, Little Orphan Amphibian
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Cathodion
-1 Restoration Angel
 1 Shepherding Spirits
 1 Angel of the Ruins
-1 Lita, Little Orphan Amphibian
-1 Diamond Mare
-1 Hare Apparent
-1 Gathering Throng
 
 Artifacts
 1 Sol Ring
@@ -68,17 +67,20 @@ Artifacts
 1 Coveted Jewel
 1 Instant Ramen
 1 Bagel and Schmear
+1 Idol of Oblivion
 1 Found Footage
 1 Bumbleflower's Sharepot
 1 Swiftfoot Boots
 1 Halo Fountain
-1 Carrot Cake
 1 Bark of Doran
-1 Oblivion Stone
+1 Carrot Cake
+1 Kite Shield
 
 Enchantments
-1 Charitable Levy
 1 Ghostly Prison
+1 Airbender Ascension
+1 Monologue Tax
+1 Tenuous Truce
 
 Instants
 1 Path to Exile
@@ -86,20 +88,20 @@ Instants
 1 Generous Gift
 1 Disenchant
 1 Stroke of Midnight
-1 Personify
-1 Second Breakfast
-1 Refuse to Yield
-1 Crumb and Get It
 1 Teferi's Protection
-1 Energybending
+1 Refuse to Yield
+1 Second Breakfast
+1 Crumb and Get It
+1 Personify
+1 Parting Gust
 
 Sorceries
 1 Environmental Sciences
-1 Cut a Deal
 1 Secret Rendezvous
-1 Dismantling Wave
+1 Cut a Deal
 1 Dusk // Dawn
 1 Fumigate
-1 Damning Verdict
 1 Another Round
-1 Tempt with Bunnies
+
+Other
+1 Elspeth, Sun's Champion

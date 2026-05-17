@@ -45,21 +45,19 @@ Creatures
 1 Katara, Bending Prodigy
 1 The Unagi of Kyoshi Island
 1 Forecasting Fortune Teller
-1 Survey Mechan
-1 Cabal Patriarch
 1 The Rise of Sozin // Fire Lord Sozin
 1 Gray Merchant of Asphodel
 1 Dominator Drone
 1 Triskaidekaphile
-1 Dimir House Guard
-1 Lo and Li, Royal Advisors
 1 Consuming Aberration
-1 Halo Scarab
-1 Page, Loose Leaf
-1 Canyon Crawler
-1 Cathodion
-1 Azula, On the Hunt
+1 Lo and Li, Royal Advisors
 1 Meneldor, Swift Savior
+1 Dimir House Guard
+1 Master Pakku
+1 Gonti, Night Minister
+1 Canyon Crawler
+1 Academy Manufactor
+1 June, Bounty Hunter
 
 Artifacts
 1 Arcane Signet
@@ -71,43 +69,45 @@ Artifacts
 1 Expedition Map
 1 All-Fates Scroll
 1 Swiftfoot Boots
-1 Wishclaw Talisman
 1 Sapphire Medallion
-1 Found Footage
+1 Wishclaw Talisman
 
 Enchantments
 1 Waterbender Ascension
 1 Obsessive Pursuit
+1 Watery Grasp
+1 Propaganda
 
 Instants
 1 Frantic Search
 1 Arcane Denial
 1 Deadly Dispute
-1 Complete Disregard
-1 Grip of Desolation
 1 Heartless Act
-1 Recoil
+1 Complete Disregard
+1 Saw in Half
+1 Sold Out
 1 Octopus Form
 1 Become Anonymous
 1 Not Dead After All
 1 Counterspell
-1 Cabal Ritual
 1 Dark Ritual
 1 An Offer You Can't Refuse
 1 It'll Quench Ya!
 1 Negate
-1 Consider
+1 Cabal Ritual
+1 Azula Always Lies
+1 Aetherize
 
 Sorceries
 1 Waterbending Lesson
 1 Splash Portal
 1 Feed the Swarm
+1 Epic Downfall
+1 Deadly Precision
 1 Foggy Swamp Visions
 1 Ruinous Waterbending
+1 Ponder
 1 Buried Alive
+1 Dai Li Indoctrination
 1 Brainspoil
 1 Razaketh's Rite
-1 Dai Li Indoctrination
-1 Ponder
-1 Binding Negotiation
-1 Transgress the Mind

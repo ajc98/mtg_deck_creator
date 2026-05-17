@@ -41,15 +41,15 @@ Creatures
 1 The Unagi of Kyoshi Island
 1 Psychosis Crawler
 1 Forecasting Fortune Teller
-1 Geyser Leaper
 1 Survey Mechan
+1 Kappa Cannoneer
 1 Triskaidekaphile
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Cathodion
+1 Knowledge Seeker
+1 Geyser Leaper
 1 Flexible Waterbender
 1 Master Pakku
-1 Knowledge Seeker
+1 Page, Loose Leaf
+1 Halo Scarab
 1 Otter-Penguin
 
 Artifacts
@@ -61,25 +61,25 @@ Artifacts
 1 Fellwar Stone
 1 Springleaf Drum
 1 Bumbleflower's Sharepot
-1 Ominous Parcel
 1 Meteor Sword
+1 Ominous Parcel
 1 Swiftfoot Boots
 1 Sapphire Medallion
+1 Spellbook
 1 Noble's Purse
 1 Heraldic Banner
-1 Invasion Submersible
-1 Spellbook
 1 Thran Dynamo
-1 All-Fates Scroll
-1 Cryogen Relic
-1 Oblivion Stone
-1 Found Footage
+1 Invasion Submersible
+1 Kyoshi Battle Fan
+1 Idol of Oblivion
+1 Tormod's Crypt
 
 Enchantments
 1 Waterbender Ascension
-1 Watery Grasp
 1 Wizard Class
+1 Watery Grasp
 1 Propaganda
+1 Honest Work
 
 Instants
 1 Arcane Denial
@@ -88,18 +88,18 @@ Instants
 1 Pongify
 1 Zuko's Exile
 1 Octopus Form
-1 Become Anonymous
 1 Counterspell
-1 Consider
-1 Opt
 1 An Offer You Can't Refuse
 1 Negate
 1 It'll Quench Ya!
 1 Aetherize
-1 Disdainful Stroke
+1 Opt
+1 Consider
+1 Sokka's Haiku
+1 Wild Unraveling
 
 Sorceries
 1 Waterbending Lesson
-1 Solve the Equation
 1 Ponder
+1 Solve the Equation
 1 Preordain

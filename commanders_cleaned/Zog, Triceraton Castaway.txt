@@ -34,19 +34,20 @@ Commander
 1 Darksteel Colossus
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Halo Scarab
 1 Etali, Primal Storm
+1 Halo Scarab
 1 Page, Loose Leaf
 1 Storm-Kiln Artist
+1 Zuko, Exiled Prince
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
 1 Cathodion
-1 Zuko, Exiled Prince
+1 Alena, Kessig Trapper
 1 Fire Nation Cadets
 1 Soulbright Seeker
-1 Alena, Kessig Trapper
 1 Rough Rhino Cavalry
+1 Hoarding Dragon
 1 Glittering Stockpile
 1 Sol Ring
 1 Heraldic Banner
@@ -86,4 +87,3 @@ Commander
 1 Act of Treason
 1 Mana Geyser
 1 Wheel of Potential
-1 Environmental Sciences

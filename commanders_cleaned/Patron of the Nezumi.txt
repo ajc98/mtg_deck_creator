@@ -39,54 +39,54 @@ Commander
 1 Iron-Shield Elf
 1 Gray Merchant of Asphodel
 1 Crypt Ghast
-1 Nezumi Bone-Reader
 1 Crypt Rats
+1 Okiba-Gang Shinobi
+1 Ogre Slumlord
+1 Piper of the Swarm
+1 Gnat Miser
+1 Nezumi Bone-Reader
+1 Typhoid Rats
+1 Persistent Marshstalker
+1 Thornplate Intimidator
+1 Tangled Colony
+1 Massacre Wurm
+1 Skullsnatcher
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Piper of the Swarm
-1 Ogre Slumlord
-1 Okiba-Gang Shinobi
-1 Persistent Marshstalker
-1 Cathodion
 1 Dimir House Guard
-1 Gnat Miser
-1 Skullsnatcher
-1 Azula, On the Hunt
-1 Typhoid Rats
-1 Shadowborn Apostle
-1 The Rise of Sozin // Fire Lord Sozin
-1 Vile Entomber
-1 Canyon Crawler
+1 Nezumi Cutthroat
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Fellwar Stone
 1 Thought Vessel
 1 Heraldic Banner
-1 Expedition Map
 1 Patchwork Banner
+1 Expedition Map
 1 Skullclamp
 1 Found Footage
 1 Swiftfoot Boots
 1 Bolas's Citadel
-1 Wishclaw Talisman
 1 Hall of Triumph
 1 Waste Not
 1 Greed
+1 Black Market
+1 Grave Pact
 1 Necropotence
 1 Village Rites
 1 Deadly Dispute
-1 Complete Disregard
 1 Doom Blade
-1 Grip of Desolation
 1 Murder
+1 Complete Disregard
+1 Grip of Desolation
 1 Dark Ritual
 1 Cabal Ritual
 1 Diabolic Tutor
 1 Feed the Swarm
 1 In Garruk's Wake
 1 Exsanguinate
-1 Buried Alive
-1 Razaketh's Rite
-1 Brainspoil
+1 Swarmyard Massacre
+1 Dread Summons
+1 Revenge of the Rats
+1 Duress
 1 Liliana of the Dark Realms

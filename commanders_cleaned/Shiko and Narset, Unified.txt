@@ -42,32 +42,32 @@ Commander
 1 Archmage Emeritus
 1 Voracious Bibliophile
 1 Lier, Disciple of the Drowned
-1 Knight of Grace
 1 Guttersnipe
 1 Vivi Ornitier
+1 Coruscation Mage
 1 Rubble Rouser
 1 Veyran, Voice of Duality
 1 Monastery Mentor
-1 Emrakul's Messenger
 1 Goblin Electromancer
+1 Caldera Pyremaw
 1 Third Path Iconoclast
 1 Haughty Djinn
-1 Manaform Hellkite
-1 Caldera Pyremaw
 1 Elsha, Threefold Master
 1 Young Pyromancer
+1 Manaform Hellkite
 1 Arcane Signet
 1 Sol Ring
-1 Fellwar Stone
 1 Talisman of Progress
 1 Izzet Signet
+1 Fellwar Stone
 1 Azorius Signet
 1 Boros Signet
+1 Swiftfoot Boots
 1 Adaptive Training Post
 1 Whirlwind of Thought
 1 Aligned Heart
-1 Cool but Rude
 1 Ghostly Prison
+1 Curse of Opulence
 1 Frantic Search
 1 Opt
 1 Consider
@@ -78,25 +78,25 @@ Commander
 1 Path to Exile
 1 Sublime Epiphany
 1 Transforming Flourish
+1 Generous Gift
 1 Boros Charm
 1 Narset's Reversal
 1 Electrodominance
 1 Big Score
+1 Expansion // Explosion
 1 Suppression Ray // Orderly Plaza
 1 Ponder
 1 Preordain
 1 Dismantling Wave
-1 Processor Assault
 1 Time Wipe
 1 Vanquish the Horde
 1 Blasphemous Act
-1 Culmination of Studies
 1 Expressive Iteration
-1 Compulsive Research
 1 Baral's Expertise
+1 Mana Geyser
 1 Will of the Jeskai
 1 Faithless Looting
-1 Mana Geyser
-1 Curse of the Swine
+1 Compulsive Research
 1 Deep Analysis
-1 Solve the Equation
+1 Rite of Replication
+1 Curse of the Swine

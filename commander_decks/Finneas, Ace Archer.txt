@@ -37,7 +37,6 @@ Lands
 1 Castle Ardenvale
 1 Desert of the Indomitable
 1 Demolition Field
-1 Ash Barrens
 1 Maze's End
 1 Plains
 1 Forest
@@ -47,57 +46,58 @@ Creatures
 1 Birds of Paradise
 1 Jacked Rabbit
 1 Harvestrite Host
-1 Survey Mechan
-1 Archetype of Endurance
-1 Hare Apparent
 1 Burrowguard Mentor
 1 Valley Questcaller
-1 Three Tree Rootweaver
 1 Warren Warleader
-1 Rishkar, Peema Renegade
-1 Llanowar Elves
-1 Rabaroo Troop
-1 Avacyn's Pilgrim
-1 Treeguard Duo
-1 Warren Elder
-1 Selvala, Explorer Returned
-1 Pawpatch Recruit
-1 Seasoned Warrenguard
+1 Hare Apparent
 1 Hinterland Sanctifier
+1 Pawpatch Recruit
 1 Head of the Homestead
+1 Treeguard Duo
 1 Intrepid Rabbit
 1 Hazardroot Herbalist
+1 Seasoned Warrenguard
+1 Druid of the Spade
+1 Warren Elder
+1 Brave-Kin Duo
+1 Three Tree Rootweaver
+1 Rishkar, Peema Renegade
+1 Llanowar Elves
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Patchwork Banner
+1 Heaped Harvest
 1 Chronicle of Victory
 1 Skullclamp
+1 Idol of Oblivion
 1 Swiftfoot Boots
 1 Halo Fountain
-1 Thought Vessel
-1 Mind Stone
 1 Carrot Cake
-1 All-Fates Scroll
-1 Fellwar Stone
+1 Thought Vessel
 
 Enchantments
 1 Stocking the Pantry
 1 Doubling Season
+1 Beastmaster Ascension
+1 Parallel Lives
+1 Felidar Retreat
 
 Instants
 1 Dawn's Truce
 1 Pawpatch Formation
-1 Path to Exile
 1 Swords to Plowshares
+1 Path to Exile
 1 Generous Gift
 1 Beast Within
 1 Repel Calamity
-1 Heritage Reclamation
+1 Stroke of Midnight
 1 Rootborn Defenses
-1 Rabbit Response
+1 Teferi's Protection
 1 Second Harvest
+1 Rabbit Response
+1 Parting Gust
 
 Sorceries
 1 Rampant Growth
@@ -108,8 +108,8 @@ Sorceries
 1 Wear Down
 1 Dusk // Dawn
 1 Damning Verdict
-1 Cultivate
 1 Hop to It
+1 Cultivate
 
 Other
 1 Elspeth, Sun's Champion

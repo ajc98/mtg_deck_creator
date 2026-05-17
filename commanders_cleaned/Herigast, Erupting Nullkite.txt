@@ -40,15 +40,13 @@ Commander
 1 Emrakul, the World Anew
 1 Rubble Rouser
 1 Molten Gatekeeper
+1 Frogmyr Enforcer
 1 Page, Loose Leaf
 1 Hoarding Dragon
-1 Frogmyr Enforcer
-1 Halo Scarab
 1 Bedhead Beastie
+1 Halo Scarab
 1 Oliphaunt
 1 Storm-Kiln Artist
-1 Zuko, Exiled Prince
-1 Akki Rockspeaker
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -66,28 +64,30 @@ Commander
 1 All-Fates Scroll
 1 Magnifying Glass
 1 Bender's Waterskin
-1 Oblivion Stone
+1 Coveted Jewel
 1 Case of the Crimson Pulse
 1 Cool but Rude
 1 Echoes of Eternity
 1 Sunbird's Invocation
 1 Warstorm Surge
+1 Underworld Breach
 1 Big Score
 1 Thrill of Possibility
 1 Take Out the Trash
 1 Abrade
-1 Transforming Flourish
 1 Warping Wail
 1 Titan's Presence
+1 Transforming Flourish
 1 Lithobraking
 1 Chaos Warp
 1 Bolt Bend
+1 Ghostfire Slice
 1 Energybending
 1 Faithless Looting
 1 Crash Through
 1 Processor Assault
 1 Blasphemous Act
 1 Glimpse the Impossible
-1 Act of Treason
 1 Mana Geyser
+1 Act of Treason
 1 Electroduplicate

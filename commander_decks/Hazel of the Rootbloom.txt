@@ -43,8 +43,8 @@ Lands
 Creatures
 1 Tireless Provisioner
 1 Gilded Goose
-1 Thornvault Forager
 1 Prosperous Innkeeper
+1 Thornvault Forager
 1 Toski, Bearer of Secrets
 1 The Odd Acorn Gang
 1 Ravenous Squirrel
@@ -52,33 +52,34 @@ Creatures
 1 Plaguecrafter
 1 The Rise of Sozin // Fire Lord Sozin
 1 Archetype of Endurance
-1 Survey Mechan
 1 Nadier's Nightblade
 1 Zulaport Cutthroat
 1 Mirkwood Bats
 1 Chatterfang, Squirrel General
+1 Deep Forest Hermit
+1 Hazel's Brewmaster
 1 Scurry of Squirrels
 1 Academy Manufactor
 1 Honored Dreyleader
-1 Hazel's Brewmaster
 1 Camellia, the Seedmiser
 1 Squirrel Sovereign
-1 Deep Forest Hermit
+1 Beledros Witherbloom
 1 Peregrin Took
 1 Morbid Opportunist
-1 Beledros Witherbloom
-1 Birds of Paradise
 1 Poison-Tip Archer
+1 Arasta of the Endless Web
+1 End-Raze Forerunners
 
 Artifacts
-1 Arcane Signet
 1 Sol Ring
+1 Arcane Signet
 1 Talisman of Resilience
 1 Golgari Signet
+1 Patchwork Banner
 1 Skullclamp
 1 Idol of Oblivion
+1 Swiftfoot Boots
 1 Chitterspitter
-1 Patchwork Banner
 1 Maskwood Nexus
 1 Sword of the Squeak
 
@@ -86,8 +87,9 @@ Enchantments
 1 Binding the Old Gods
 1 Moldervine Reclamation
 1 Bastion of Remembrance
-1 Squirrel Nest
 1 Beastmaster Ascension
+1 Squirrel Nest
+1 Gourmand's Talent
 
 Instants
 1 Deadly Dispute
@@ -97,19 +99,17 @@ Instants
 1 Windgrace's Judgment
 1 Snakeskin Veil
 1 Second Harvest
-1 Cache Grab
 1 Plumb the Forbidden
+1 Cache Grab
 
 Sorceries
-1 Rampant Growth
 1 Shamanic Revelation
 1 Maelstrom Pulse
 1 Casualties of War
 1 Decree of Pain
-1 Rootcast Apprenticeship
 1 Swarmyard Massacre
+1 Rootcast Apprenticeship
 1 Chatterstorm
-1 Cultivate
 
 Other
 1 Garruk, Cursed Huntsman

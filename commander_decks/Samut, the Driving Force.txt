@@ -46,33 +46,27 @@ Creatures
 1 Llanowar Elves
 1 Toski, Bearer of Secrets
 1 Goblin Surveyor
-1 Archetype of Endurance
+1 Guardian Sunmare
 1 Agate Instigator
 1 Rubble Rouser
 1 Molten Gatekeeper
+1 Lagorin, Soul of Alacria
 1 Avacyn's Pilgrim
 1 Walking Sarcophagus
 1 Selvala, Explorer Returned
-1 Courier of Comestibles
 1 Slavering Branchsnapper
-1 Page, Loose Leaf
+1 Courier of Comestibles
 1 Angel of the Ruins
-1 Shepherding Spirits
-1 Halo Scarab
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Raucous Audience
-1 Muerra, Trash Tactician
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Veloheart Bike
-1 Fellwar Stone
 1 Cultivator's Caravan
-1 Found Footage
+1 Fellwar Stone
+1 Skullclamp
 1 Mind Stone
+1 Found Footage
 1 Swiftfoot Boots
 1 Talisman of Impulse
 1 Boros Signet
@@ -81,35 +75,41 @@ Artifacts
 1 Thought Vessel
 1 Thran Dynamo
 1 Gilded Lotus
-1 Glittering Stockpile
-1 All-Fates Scroll
+1 Esika's Chariot
+1 Rolling Hamsphere
+1 Idol of Oblivion
 
 Enchantments
 1 Garruk's Uprising
-1 Case of the Crimson Pulse
 1 Impact Tremors
 1 Cool but Rude
+1 Beastmaster Ascension
+1 Endless Foot Assault
 
 Instants
 1 Return of the Wildspeaker
 1 Dawn's Truce
-1 Take Out the Trash
 1 Swords to Plowshares
 1 Path to Exile
 1 Beast Within
 1 Generous Gift
 1 Stroke of Midnight
 1 Boros Charm
+1 Chaos Warp
 1 Run Over
+1 Teferi's Protection
+1 Broken Wings
 
 Sorceries
 1 Farseek
 1 Rampant Growth
 1 Shamanic Revelation
+1 Harmonize
 1 Processor Assault
 1 Blasphemous Act
 1 Dusk // Dawn
 1 Cultivate
+1 Martial Coup
 
 Other
 1 Elspeth, Sun's Champion

@@ -50,13 +50,15 @@ Creatures
 1 Cathodion
 1 Azula, On the Hunt
 1 Dimir House Guard
+1 Canyon Crawler
 1 Shadowborn Apostle
 1 Fynn, the Fangbearer
-1 Canyon Crawler
-1 Mind Raker
 1 Saber-Tooth Moose-Lion
-1 Iron-Shield Elf
+1 Mind Raker
 1 Gothmog, Morgul Lieutenant
+1 Putrid Pals
+1 Venom, Evil Unleashed
+1 Iron-Shield Elf
 
 Artifacts
 1 Expedition Map
@@ -89,7 +91,6 @@ Instants
 1 Snakeskin Veil
 1 Midnight Tilling
 1 Cache Grab
-1 Pain 101
 
 Sorceries
 1 Tempt with Discovery
@@ -99,13 +100,12 @@ Sorceries
 1 Brainspoil
 1 Decree of Pain
 1 Decode Transmissions
-1 Buried Alive
 1 Razaketh's Rite
+1 Buried Alive
 1 Psychic Whorl
 1 Transgress the Mind
 1 Seeker's Folly
 1 Head Games
-1 Cultivate
 
 Other
 1 Vivien Reid

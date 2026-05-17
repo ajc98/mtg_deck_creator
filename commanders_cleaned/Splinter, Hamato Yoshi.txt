@@ -36,20 +36,17 @@ Commander
 1 Knight of Malice
 1 Iron-Shield Elf
 1 Dominator Drone
-1 Skullsnatcher
 1 Super Shredder
 1 Okiba-Gang Shinobi
+1 Skullsnatcher
 1 Shredder, Unrelenting
+1 Graveshifter
+1 Vault Skirge
+1 Maha, Its Feathers Night
+1 Qarsi Revenant
+1 Piper of the Swarm
 1 Dimir House Guard
 1 Page, Loose Leaf
-1 Halo Scarab
-1 Shadowborn Apostle
-1 Cathodion
-1 Graveshifter
-1 Azula, On the Hunt
-1 Vile Entomber
-1 Canyon Crawler
-1 Piper of the Swarm
 1 Sol Ring
 1 Patchwork Banner
 1 Arcane Signet
@@ -65,17 +62,22 @@ Commander
 1 Bolas's Citadel
 1 Maskwood Nexus
 1 Helm of the Host
-1 Gathering Stone
 1 Whip of Erebos
+1 Gathering Stone
 1 Greed
 1 Bastion of Remembrance
 1 Exquisite Blood
+1 Kaya's Ghostform
+1 Sanguine Bond
 1 Deadly Dispute
 1 Village Rites
 1 Murder
 1 Overkill
 1 Doom Blade
 1 Dark Ritual
+1 Zuko's Conviction
+1 Saw in Half
+1 Undying Malice
 1 Environmental Sciences
 1 Decode Transmissions
 1 Hymn of the Faller
@@ -85,9 +87,7 @@ Commander
 1 In Garruk's Wake
 1 Decree of Pain
 1 Exsanguinate
-1 Buried Alive
-1 Razaketh's Rite
-1 Brainspoil
-1 Diabolic Tutor
-1 Temporal Intervention
 1 Bloodline Bidding
+1 Temporal Intervention
+1 Razaketh's Rite
+1 Buried Alive

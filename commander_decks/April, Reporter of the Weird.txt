@@ -46,9 +46,11 @@ Creatures
 1 Twenty-Toed Toad
 1 Page, Loose Leaf
 1 Halo Scarab
+1 Glamer Gifter
+1 Donatello, Gadget Master
+1 Mischievous Mystic
+1 Clinquant Skymage
 1 Emrakul's Messenger
-1 Cathodion
-1 Fog Bank
 
 Artifacts
 1 Sol Ring
@@ -57,26 +59,25 @@ Artifacts
 1 Mind Stone
 1 Fellwar Stone
 1 Bender's Waterskin
-1 Sword of Hearth and Home
 1 Thran Dynamo
+1 Sword of Hearth and Home
 1 Ominous Parcel
 1 Swiftfoot Boots
 1 Fireshrieker
 1 Basilisk Collar
-1 Hedron Archive
-1 Springleaf Drum
-1 Gilded Lotus
-1 All-Fates Scroll
 1 Hero's Blade
-1 Oblivion Stone
-1 Found Footage
 1 Sapphire Medallion
+1 Springleaf Drum
+1 Hedron Archive
+1 Gilded Lotus
+1 Atomic Microsizer
 
 Enchantments
 1 Wizard Class
 1 Propaganda
 1 Security Bypass
 1 Witness Protection
+1 Waterbender Ascension
 
 Instants
 1 Arcane Denial
@@ -89,20 +90,19 @@ Instants
 1 Slip Out the Back
 1 Shore Up
 1 Counterspell
-1 Negate
 1 An Offer You Can't Refuse
-1 Octopus Form
+1 Negate
 1 Aetherize
+1 Octopus Form
+1 Ooze Spill
+1 Long River's Pull
 1 Run Away Together
 1 Consider
-1 Pull from Tomorrow
-1 Think Twice
-1 Divert Disaster
-1 Ooze Spill
+1 It'll Quench Ya!
+1 Strix Serenade
 
 Sorceries
 1 Preordain
 1 Ponder
 1 Splash Portal
 1 Solve the Equation
-1 Chart a Course

@@ -42,24 +42,17 @@ Commander
 1 Guttersnipe
 1 Coruscation Mage
 1 Mysidian Elder
-1 Rubble Rouser
 1 Veyran, Voice of Duality
+1 Stormcatch Mentor
+1 Goblin Electromancer
+1 Rubble Rouser
 1 Page, Loose Leaf
+1 Young Pyromancer
 1 Halo Scarab
 1 Akki Rockspeaker
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
-1 Cathodion
-1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Zuko, Exiled Prince
-1 Rough Rhino Cavalry
-1 Bedhead Beastie
-1 Stormcatch Mentor
-1 Oliphaunt
-1 Goblin Electromancer
-1 Captain Vargus Wrath
 1 Sol Ring
 1 Arcane Signet
 1 Izzet Signet
@@ -70,9 +63,11 @@ Commander
 1 Expedition Map
 1 Glittering Stockpile
 1 Swiftfoot Boots
-1 Cool but Rude
+1 Sapphire Medallion
 1 Underworld Breach
-1 Case of the Crimson Pulse
+1 Propaganda
+1 Cool but Rude
+1 Wizard Class
 1 Frantic Search
 1 Opt
 1 Consider
@@ -82,7 +77,7 @@ Commander
 1 Abrade
 1 Rapid Hybridization
 1 Izzet Charm
-1 Take Out the Trash
+1 Prismari Command
 1 Lithobraking
 1 Slip Out the Back
 1 Shore Up
@@ -90,6 +85,7 @@ Commander
 1 Counterspell
 1 Negate
 1 Chaos Warp
+1 Narset's Reversal
 1 Ponder
 1 Preordain
 1 Faithless Looting
@@ -97,5 +93,9 @@ Commander
 1 Processor Assault
 1 Blasphemous Act
 1 Boltwave
-1 Solve the Equation
 1 Expressive Iteration
+1 Solve the Equation
+1 Mana Geyser
+1 Finale of Revelation
+1 Jaya's Immolating Inferno
+1 Ral, Crackling Wit

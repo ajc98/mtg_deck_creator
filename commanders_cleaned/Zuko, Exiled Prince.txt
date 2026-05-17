@@ -27,44 +27,43 @@ Commander
 1 Ugin's Labyrinth
 11 Mountain
 1 Fire Sages
-1 Fire Nation Cadets
 1 Rough Rhino Cavalry
+1 Fire Nation Cadets
 1 Storm-Kiln Artist
 1 Jeong Jeong, the Deserter
 1 Yuyan Archers
+1 Fire Nation Raider
 1 Survey Mechan
 1 Guttersnipe
-1 Dragonhawk, Fate's Tempest
 1 Coruscation Mage
-1 Hoarding Dragon
-1 Brazen Collector
-1 Zhao, the Moon Slayer
+1 Dragonhawk, Fate's Tempest
 1 Laelia, the Blade Reforged
 1 Ty Lee, Artful Acrobat
-1 Rubble Rouser
+1 Etali, Primal Storm
+1 Boar-q-pine
+1 Brazen Collector
+1 Zhao, the Moon Slayer
+1 Hoarding Dragon
+1 Young Pyromancer
 1 Bedhead Beastie
-1 Halo Scarab
-1 Oliphaunt
-1 Page, Loose Leaf
+1 Rubble Rouser
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Fellwar Stone
 1 Bender's Waterskin
-1 Found Footage
+1 Fire Nation Warship
 1 Swiftfoot Boots
 1 Bilbo's Ring
-1 Sword of Hearth and Home
+1 Twin Blades
 1 Glittering Stockpile
 1 Thought Vessel
 1 Thran Dynamo
 1 Gilded Lotus
-1 All-Fates Scroll
-1 Twin Blades
-1 Magnifying Glass
-1 Case of the Crimson Pulse
+1 Dragon Mantle
 1 Firebender Ascension
 1 Cool but Rude
+1 Lasting Tarfire
 1 Thrill of Possibility
 1 Big Score
 1 Cunning Maneuver
@@ -73,7 +72,7 @@ Commander
 1 Lightning Strike
 1 Firebending Lesson
 1 Siege Smash
-1 Take Out the Trash
+1 Shock
 1 Lithobraking
 1 Chaos Warp
 1 Solstice Revelations
@@ -84,8 +83,9 @@ Commander
 1 Faithless Looting
 1 Price of Freedom
 1 Iroh's Demonstration
-1 Processor Assault
+1 Zuko's Offense
 1 Blasphemous Act
 1 Boltwave
-1 Burning Curiosity
 1 Mana Geyser
+1 Burning Curiosity
+1 Jaya's Immolating Inferno

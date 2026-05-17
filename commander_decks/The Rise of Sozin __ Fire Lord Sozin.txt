@@ -41,11 +41,11 @@ Creatures
 1 Kami of Jealous Thirst
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Cathodion
 1 Azula, On the Hunt
+1 Cathodion
 1 Mind Raker
 1 Shadowborn Apostle
-1 Vile Entomber
+1 Sludge Crawler
 
 Artifacts
 1 Expedition Map
@@ -60,8 +60,8 @@ Artifacts
 1 Magnifying Glass
 1 Bender's Waterskin
 1 Hedron Archive
-1 Wishclaw Talisman
 1 Oblivion Stone
+1 Wishclaw Talisman
 
 Enchantments
 1 Greed
@@ -94,10 +94,10 @@ Sorceries
 1 Transgress the Mind
 1 Seeker's Folly
 1 Aggressive Negotiations
+1 Head Games
 1 Stargaze
 1 Dread Summons
-1 Pull from the Grave
-1 Head Games
-1 Diabolic Tutor
 1 Stir the Grave
+1 Diabolic Tutor
+1 Pull from the Grave
 1 March of the Returned

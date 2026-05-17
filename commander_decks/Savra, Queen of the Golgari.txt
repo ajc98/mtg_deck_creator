@@ -55,19 +55,17 @@ Creatures
 1 Zulaport Cutthroat
 1 Poison-Tip Archer
 1 Mirkwood Bats
-1 Blood Artist
 1 Viscera Seer
+1 Blood Artist
 1 Beledros Witherbloom
 1 Carrion Feeder
+1 Umbral Collar Zealot
+1 Infestation Sage
+1 Chatterfang, Squirrel General
+1 Woe Strider
 1 Dimir House Guard
 1 Slavering Branchsnapper
-1 Shadowborn Apostle
 1 Canyon Crawler
-1 Umbral Collar Zealot
-1 Gorbag of Minas Morgul
-1 Page, Loose Leaf
-1 Saber-Tooth Moose-Lion
-1 Halo Scarab
 
 Artifacts
 1 Sol Ring
@@ -75,41 +73,43 @@ Artifacts
 1 Golgari Signet
 1 Talisman of Resilience
 1 Skullclamp
-1 Found Footage
 1 Swiftfoot Boots
 1 Mind Stone
 1 All-Fates Scroll
-1 Fellwar Stone
-1 Magnifying Glass
-1 Bender's Waterskin
 
 Enchantments
 1 Moldervine Reclamation
 1 Vampiric Rites
 1 Bastion of Remembrance
 1 Grave Pact
+1 Dictate of Erebos
 1 Insidious Roots
+1 Sanguine Bond
 
 Instants
 1 Village Rites
 1 Deadly Dispute
-1 Plumb the Forbidden
 1 Corrupted Conviction
+1 Plumb the Forbidden
 1 Putrefy
 1 Beast Within
 1 Complete Disregard
-1 Grip of Desolation
+1 Tear Asunder
 1 Snakeskin Veil
+1 Dark Ritual
+1 Nasty End
+1 Altar's Reap
 
 Sorceries
 1 Rampant Growth
+1 Eaten Alive
 1 Deadly Brew
-1 Diabolic Tutor
 1 Cultivate
-1 Buried Alive
+1 Farseek
+1 Diabolic Tutor
 1 Razaketh's Rite
 1 Brainspoil
-1 Psychic Whorl
+1 Buried Alive
 
 Other
 1 Garruk, Cursed Huntsman

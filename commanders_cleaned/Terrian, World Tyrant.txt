@@ -28,63 +28,63 @@ Commander
 1 Llanowar Elves
 1 Sakura-Tribe Elder
 1 Topiary Stomper
+1 Birds of Paradise
 1 Garruk's Packleader
 1 Acidic Slime
 1 Reclamation Sage
 1 Survey Mechan
-1 Archetype of Endurance
-1 Birds of Paradise
+1 Gigantosaurus
+1 Quakestrider Ceratops
+1 Ghalta, Primal Hunger
+1 Goreclaw, Terror of Qal Sisma
+1 Biowaste Blob
 1 Raucous Audience
 1 Orochi Sustainer
 1 Page, Loose Leaf
-1 Thornvault Forager
-1 Halo Scarab
-1 Gigantosaurus
-1 Cathodion
-1 Courier of Comestibles
-1 Slavering Branchsnapper
-1 Quakestrider Ceratops
-1 Goreclaw, Terror of Qal Sisma
-1 Ghalta, Primal Hunger
 1 Environmental Scientist
-1 Saber-Tooth Moose-Lion
-1 Biowaste Blob
+1 Slavering Branchsnapper
+1 Thornvault Forager
+1 The Earth King
+1 Courier of Comestibles
+1 Halo Scarab
+1 Cathodion
 1 Sol Ring
 1 Arcane Signet
-1 Mind Stone
 1 Thought Vessel
-1 Found Footage
-1 Ominous Parcel
+1 Mind Stone
 1 Swiftfoot Boots
+1 Emerald Medallion
 1 Heraldic Banner
 1 All-Fates Scroll
+1 Fireshrieker
 1 Evolving Door
-1 Emerald Medallion
 1 Fellwar Stone
+1 Basilisk Collar
 1 Magnifying Glass
-1 Bender's Waterskin
-1 Oblivion Stone
-1 Thran Dynamo
-1 Coveted Jewel
-1 Hedron Archive
 1 Garruk's Uprising
-1 Greater Good
 1 Thickest in the Thicket
 1 Hunter's Talent
+1 Greater Good
 1 Unnatural Growth
 1 Wild Growth
+1 Lion Umbra
+1 Beastmaster Ascension
 1 Return of the Wildspeaker
 1 Heritage Reclamation
 1 Beast Within
 1 Origin of Metalbending
 1 Naturalize
+1 Broken Wings
 1 Snakeskin Veil
-1 Bite Down
-1 Midnight Tilling
 1 Gaea's Gift
+1 Bite Down
+1 Biosynthic Burst
+1 Gift of the Viper
+1 Charge Through
 1 Rampant Growth
 1 Bushwhack
-1 Tempt with Discovery
-1 Explore
 1 Harmonize
+1 Explore
+1 Shamanic Revelation
 1 Cultivate
+1 Overrun

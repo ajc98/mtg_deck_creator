@@ -44,21 +44,19 @@ Creatures
 1 Venerated Stormsinger
 1 Zulaport Cutthroat
 1 Weirding Shaman
-1 Mordor Trebuchet
 1 Warg Rider
-1 Boggart Prankster
-1 Goblin Turncoat
-1 Dimir House Guard
+1 Mordor Trebuchet
 1 Heirloom Auntie
-1 Shadowborn Apostle
-1 Common Crook
 1 Graveshifter
-1 Page, Loose Leaf
+1 Boggart Prankster
 1 Champion of the Weird
-1 Vile Entomber
-1 Halo Scarab
-1 Canyon Crawler
 1 Bile-Vial Boggart
+1 Goblin Turncoat
+1 Gothmog, Morgul Lieutenant
+1 Gutsplitter Gang
+1 Blood Artist
+1 Dimir House Guard
+1 Dunland Crebain
 
 Artifacts
 1 Sol Ring
@@ -68,13 +66,12 @@ Artifacts
 1 Thought Vessel
 1 Fellwar Stone
 1 Patchwork Banner
-1 Expedition Map
+1 Firdoch Core
 1 Skullclamp
 1 Chronicle of Victory
 1 Found Footage
 1 Swiftfoot Boots
-1 Wishclaw Talisman
-1 Firdoch Core
+1 Gathering Stone
 
 Enchantments
 1 Greed
@@ -82,16 +79,20 @@ Enchantments
 1 Bastion of Remembrance
 1 March from the Black Gate
 1 Grave Pact
+1 Black Market
+1 Dictate of Erebos
 
 Instants
 1 Deadly Dispute
 1 Village Rites
 1 Corrupted Conviction
-1 Complete Disregard
 1 Doom Blade
+1 Murder
+1 Complete Disregard
 1 Grip of Desolation
-1 Deal Gone Bad
 1 Unbury
+1 Dark Ritual
+1 Undying Malice
 1 Fake Your Own Death
 
 Sorceries
@@ -100,7 +101,6 @@ Sorceries
 1 Shredder's Technique
 1 Decree of Pain
 1 In Garruk's Wake
-1 Buried Alive
+1 Bloodline Bidding
 1 Razaketh's Rite
-1 Brainspoil
-1 Diabolic Tutor
+1 Buried Alive

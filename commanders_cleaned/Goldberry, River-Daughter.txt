@@ -33,21 +33,20 @@ Commander
 1 Chasm Skulker
 1 Twenty-Toed Toad
 1 Loch Mare
+1 Arcanis the Omnipotent
 1 Survey Mechan
 1 Triskaidekaphile
 1 Kelpie Guide
+1 Aven Courier
 1 Page, Loose Leaf
 1 Halo Scarab
+1 Glen Elendra Guardian
 1 Silver Myr
 1 Emrakul's Messenger
 1 Cathodion
-1 Aven Courier
-1 Glen Elendra Guardian
 1 Flitterwing Nuisance
 1 Undercover Operative
 1 Textbook Tabulator
-1 Kefnet the Mindful
-1 Arcanis the Omnipotent
 1 Sol Ring
 1 Arcane Signet
 1 Thought Vessel
@@ -59,19 +58,18 @@ Commander
 1 Ominous Parcel
 1 Found Footage
 1 Swiftfoot Boots
-1 Sapphire Medallion
 1 The Ozolith
-1 Oblivion Stone
+1 Sapphire Medallion
+1 Adaptive Training Post
 1 Orochi Hatchery
+1 Oblivion Stone
 1 Magnifying Glass
 1 Bender's Waterskin
-1 Adaptive Training Post
 1 Wizard Class
-1 Ballad of the Black Flag
 1 Propaganda
+1 Ballad of the Black Flag
 1 Arcane Denial
 1 Frantic Search
-1 Case the Joint
 1 Pongify
 1 Rapid Hybridization
 1 Titan's Presence
@@ -79,13 +77,15 @@ Commander
 1 Slip Out the Back
 1 Shore Up
 1 Counterspell
-1 Negate
 1 An Offer You Can't Refuse
-1 Opt
-1 Energybending
+1 Negate
 1 Aetherize
-1 Curate
+1 Opt
+1 Case the Joint
+1 Energybending
 1 Become Anonymous
+1 Curate
+1 Dig Through Time
 1 Environmental Sciences
 1 Ponder
 1 Preordain

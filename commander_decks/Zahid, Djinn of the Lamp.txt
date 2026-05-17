@@ -38,16 +38,16 @@ Creatures
 1 Ornithopter of Paradise
 1 Silver Myr
 1 Survey Mechan
+1 Kappa Cannoneer
 1 Triskaidekaphile
 1 Tempest Djinn
-1 Guidelight Optimizer
 1 Burnished Hart
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Emrakul's Messenger
 1 Haughty Djinn
+1 Guidelight Optimizer
+1 Junk Diver
+1 Emissary Escort
 1 Highspire Bell-Ringer
-1 Cathodion
+1 Ornithopter
 
 Artifacts
 1 Sol Ring
@@ -57,50 +57,50 @@ Artifacts
 1 Fellwar Stone
 1 Expedition Map
 1 Goldvein Pick
-1 Found Footage
 1 Sewer-veillance Cam
+1 Bident of Thassa
 1 Ominous Parcel
 1 Swiftfoot Boots
 1 Fireshrieker
 1 Hero's Blade
-1 Heraldic Banner
-1 Hedron Archive
-1 Patchwork Banner
-1 Thran Dynamo
-1 Gilded Lotus
-1 All-Fates Scroll
 1 Sapphire Medallion
-1 Magnifying Glass
-1 Bender's Waterskin
+1 Heraldic Banner
+1 Thran Dynamo
+1 Patchwork Banner
+1 Hedron Archive
+1 Gilded Lotus
+1 Basilisk Collar
+1 Bespoke Bō
 
 Enchantments
 1 Propaganda
+1 Witness Protection
 
 Instants
 1 Arcane Denial
 1 Opt
 1 Frantic Search
-1 Case the Joint
 1 Rapid Hybridization
 1 Pongify
 1 Into the Roil
 1 Titan's Presence
 1 Evacuation
 1 Slip Out the Back
-1 Become Anonymous
 1 Counterspell
-1 Negate
 1 Aetherize
+1 Negate
+1 An Offer You Can't Refuse
 1 Run Away Together
 1 Disdainful Stroke
-1 An Offer You Can't Refuse
+1 Long River's Pull
 
 Sorceries
 1 Reverse Engineer
 1 Ponder
 1 Preordain
+1 Chart a Course
 1 Treasure Cruise
 1 Splash Portal
-1 Solve the Equation
+1 Curse of the Swine
 1 Divination
-1 Chart a Course
+1 Solve the Equation

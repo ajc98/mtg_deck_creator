@@ -38,28 +38,24 @@ Creatures
 1 Loran of the Third Path
 1 Mentor of the Meek
 1 Inspiring Overseer
-1 Helpful Hunter
+1 Mangara, the Diplomat
 1 Westfold Rider
-1 Survey Mechan
 1 Selfless Spirit
 1 Knight of Grace
-1 Veteran Survivor
-1 Restoration Angel
-1 Page, Loose Leaf
-1 Halo Scarab
 1 Sun Titan
-1 Cathodion
-1 Burnished Hart
-1 Ambrosia Whiteheart
 1 Emeria Shepherd
+1 Restoration Angel
 1 Charming Prince
 1 Skyclave Apparition
-1 Shepherding Spirits
-1 Rhys, the Evermore
 1 Curious Farm Animals
 1 Luminous Broodmoth
-1 Hare Apparent
+1 Burnished Hart
+1 Page, Loose Leaf
+1 Ambrosia Whiteheart
+1 Halo Scarab
 1 Rosie Cotton of South Lane
+1 Cathodion
+1 Shepherding Spirits
 
 Artifacts
 1 Sol Ring
@@ -70,22 +66,21 @@ Artifacts
 1 Fellwar Stone
 1 Thought Vessel
 1 Skullclamp
-1 Found Footage
+1 Soul-Guide Lantern
+1 Bilbo's Ring
 1 Halo Fountain
+1 Tormod's Crypt
 1 Inherited Envelope
 1 Hedron Archive
 1 Springleaf Drum
+1 Crucible of Worlds
 1 All-Fates Scroll
-1 Bilbo's Ring
-1 Magnifying Glass
-1 Bender's Waterskin
-1 Oblivion Stone
-1 Soul-Guide Lantern
 
 Enchantments
 1 Banishing Light
-1 Charitable Levy
 1 Felidar Retreat
+1 Airbender Ascension
+1 Ghostly Prison
 
 Instants
 1 Dawn's Truce
@@ -93,14 +88,19 @@ Instants
 1 Swords to Plowshares
 1 Generous Gift
 1 Stroke of Midnight
+1 Disenchant
+1 Thraben Charm
+1 Parting Gust
+1 You Cannot Pass!
+1 Teferi's Protection
 
 Sorceries
 1 Cut a Deal
 1 Secret Rendezvous
-1 Dusk // Dawn
 1 Vanquish the Horde
+1 Dusk // Dawn
 1 Another Round
-1 Dismantling Wave
+1 Martial Coup
 
 Other
 1 Elspeth, Sun's Champion

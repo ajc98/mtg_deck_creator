@@ -44,6 +44,7 @@ Creatures
 1 Page, Loose Leaf
 1 Shadowborn Apostle
 1 Storm-Kiln Artist
+1 Canyon Crawler
 1 Akki Rockspeaker
 1 Fire Sages
 1 Jeong Jeong, the Deserter
@@ -54,11 +55,10 @@ Creatures
 1 Vile Entomber
 1 Fire Nation Cadets
 1 Soulbright Seeker
+1 Bedhead Beastie
 1 Zuko, Exiled Prince
 1 Azula, On the Hunt
-1 Canyon Crawler
 1 Rough Rhino Cavalry
-1 Oliphaunt
 
 Artifacts
 1 Expedition Map
@@ -100,5 +100,5 @@ Sorceries
 1 Processor Assault
 1 Buried Alive
 1 Razaketh's Rite
-1 Diabolic Tutor
 1 Brainspoil
+1 Diabolic Tutor

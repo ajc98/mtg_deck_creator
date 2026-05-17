@@ -39,49 +39,47 @@ Creatures
 1 Mangara, the Diplomat
 1 Mentor of the Meek
 1 Survey Mechan
-1 Knight of Grace
+1 Museum Nightwatch
+1 Serra Angel
+1 Sun Titan
+1 Hinterland Sanctifier
+1 Metastatic Evangel
+1 Healer's Hawk
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Cathodion
-1 Serra Angel
 1 Shepherding Spirits
 1 Angel of the Ruins
-1 Metastatic Evangel
-1 Cavalry Pegasus
-1 Hinterland Sanctifier
-1 Sun Titan
-1 Dawnwing Marshal
-1 Tributary Vaulter
-1 Hare Apparent
-1 Exosuit Savior
-1 Healer's Hawk
-1 Gathering Throng
-1 Jackdaw Savior
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Fellwar Stone
-1 Sword of Hearth and Home
-1 Expedition Map
 1 Patchwork Banner
+1 Sword of Hearth and Home
 1 Traveler's Amulet
-1 All-Fates Scroll
+1 Expedition Map
+1 Thought Vessel
 1 Skullclamp
 1 Found Footage
-1 Ominous Parcel
 1 Swiftfoot Boots
 1 Halo Fountain
 1 Fireshrieker
 1 Heraldic Banner
-1 Thought Vessel
 1 Gilded Lotus
-1 Oblivion Stone
-1 Magnifying Glass
-1 Bender's Waterskin
+1 Short Bow
+1 Quick-Draw Katana
+1 Dúnedain Blade
+1 Soul-Guide Lantern
+1 All-Fates Scroll
 
 Enchantments
+1 Sheltered by Ghosts
+1 Armament of Nyx
+1 Felidar Retreat
+1 Font of Vigor
+1 Conviction
 1 Charitable Levy
 
 Instants
@@ -93,13 +91,17 @@ Instants
 1 Make Your Move
 1 Disenchant
 1 Teferi's Protection
-1 Energybending
+1 Mabel's Mettle
+1 Valorous Stance
+1 Perch Protection
 
 Sorceries
 1 Cut a Deal
+1 Secret Rendezvous
 1 Dismantling Wave
-1 Tempt with Bunnies
 1 Dusk // Dawn
 1 Fumigate
-1 Damning Verdict
-1 Secret Rendezvous
+1 Vanquish the Horde
+
+Other
+1 Ajani, Caller of the Pride

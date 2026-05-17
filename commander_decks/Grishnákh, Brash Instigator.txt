@@ -38,23 +38,23 @@ Creatures
 1 Halo Scarab
 1 Page, Loose Leaf
 1 Storm-Kiln Artist
+1 Zuko, Exiled Prince
 1 Akki Rockspeaker
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
 1 Cathodion
-1 Zuko, Exiled Prince
+1 Alena, Kessig Trapper
+1 Bedhead Beastie
 1 Fire Nation Cadets
 1 Soulbright Seeker
-1 Alena, Kessig Trapper
 1 Rough Rhino Cavalry
-1 Bedhead Beastie
-1 Hoarding Dragon
 1 Oliphaunt
+1 Hoarding Dragon
 1 Combat Celebrant
 1 Casey Jones, Vigilante
 1 Devilish Valet
-1 Yuyan Archers
+1 Treasure Keeper
 
 Artifacts
 1 Expedition Map

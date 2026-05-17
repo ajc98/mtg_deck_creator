@@ -41,66 +41,66 @@ Creatures
 1 Basilica Stalker
 1 Crypt Ghast
 1 Gray Merchant of Asphodel
-1 Dominator Drone
 1 Bane of the Living
+1 Adaptive Automaton
+1 Dimir House Guard
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Dimir House Guard
-1 Cathodion
+1 Marang River Skeleton
 1 Shadowborn Apostle
-1 Azula, On the Hunt
-1 Adaptive Automaton
-1 The Rise of Sozin // Fire Lord Sozin
-1 Vile Entomber
+1 Cathodion
 1 Canyon Crawler
-1 Knight of Malice
-1 Iron-Shield Elf
+1 Azula, On the Hunt
+1 Vile Entomber
 
 Artifacts
 1 Sol Ring
-1 Mind Stone
 1 Arcane Signet
+1 Mind Stone
 1 Patchwork Banner
 1 Thought Vessel
 1 Fellwar Stone
-1 Expedition Map
 1 Heraldic Banner
+1 Expedition Map
+1 Thran Dynamo
 1 Adrestia
 1 Found Footage
 1 Swiftfoot Boots
 1 Smoke Bomb
-1 Maskwood Nexus
-1 Wishclaw Talisman
 1 Conductive Machete
 1 Dissection Tools
-1 Thran Dynamo
-1 All-Fates Scroll
+1 Maskwood Nexus
+1 Wishclaw Talisman
+1 Coat of Arms
 
 Enchantments
 1 Greed
 1 The Revelations of Ezio
+1 Bastion of Remembrance
 1 Necropotence
 
 Instants
-1 Energybending
 1 Village Rites
+1 Corrupted Conviction
+1 Energybending
 1 Murder
 1 Complete Disregard
 1 Grip of Desolation
 1 Deal Gone Bad
 1 Not Dead After All
 1 Dark Ritual
+1 Fake Your Own Death
+1 Undying Malice
 
 Sorceries
-1 Environmental Sciences
 1 Diabolic Tutor
-1 Intimidation Tactics
 1 Feed the Swarm
 1 Shredder's Technique
 1 In Garruk's Wake
 1 Decree of Pain
-1 Buried Alive
 1 Razaketh's Rite
+1 Buried Alive
 1 Brainspoil
-1 Psychic Whorl
 1 Swarm Surge
+1 Fell
+1 Bloodline Bidding

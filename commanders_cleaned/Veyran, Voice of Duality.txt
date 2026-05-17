@@ -46,56 +46,56 @@ Commander
 1 Vivi Ornitier
 1 Thunderdrum Soloist
 1 Young Pyromancer
+1 Goblin Electromancer
+1 Third Path Iconoclast
+1 Stormcatch Mentor
+1 Archmage of Runes
+1 Molten-Core Maestro
 1 Rubble Rouser
 1 Page, Loose Leaf
-1 Goblin Electromancer
-1 Halo Scarab
-1 Stormcatch Mentor
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Cathodion
-1 Molten-Core Maestro
-1 Third Path Iconoclast
-1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Zuko, Exiled Prince
+1 Haughty Djinn
 1 Sol Ring
 1 Arcane Signet
 1 Izzet Signet
 1 Thought Vessel
-1 Mind Stone
 1 Fellwar Stone
+1 Mind Stone
 1 Pyromancer's Goggles
 1 Expedition Map
 1 Swiftfoot Boots
+1 Underworld Breach
 1 Cool but Rude
-1 Frantic Search
 1 Opt
+1 Frantic Search
 1 Consider
 1 Arcane Denial
 1 Prismari Command
 1 Pongify
 1 Rapid Hybridization
-1 Izzet Charm
 1 Abrade
+1 Izzet Charm
 1 Take Out the Trash
 1 Lithobraking
 1 Become Anonymous
 1 Counterspell
 1 Chaos Warp
 1 Narset's Reversal
-1 Thrill of Possibility
 1 Negate
-1 Dig Through Time
 1 An Offer You Can't Refuse
+1 Dig Through Time
+1 Thrill of Possibility
+1 Expansion // Explosion
+1 Big Score
+1 Think Twice
 1 Ponder
 1 Preordain
 1 Faithless Looting
 1 Crash Through
 1 Processor Assault
 1 Blasphemous Act
-1 Solve the Equation
 1 Expressive Iteration
 1 Mana Geyser
+1 Treasure Cruise
+1 Solve the Equation
+1 Boltwave
+1 Ral, Crackling Wit

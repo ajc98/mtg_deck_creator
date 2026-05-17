@@ -49,53 +49,53 @@ Commander
 1 Selfless Spirit
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Ornithopter of Paradise
-1 Page, Loose Leaf
 1 Sun Titan
-1 Halo Scarab
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Cathodion
-1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Zuko, Exiled Prince
-1 Storm-Kiln Artist
+1 Restoration Angel
 1 Skyclave Apparition
 1 Loyal Warhound
 1 Manifold Mouse
-1 Rough Rhino Cavalry
-1 Shepherding Spirits
 1 Mabel, Heir to Cragflame
-1 Restoration Angel
 1 Combat Celebrant
+1 Luminous Broodmoth
+1 Aurelia, the Warleader
+1 Ornithopter of Paradise
+1 Inspiring Overseer
+1 Pollywog Prodigy
+1 Inferno Titan
+1 Page, Loose Leaf
+1 Steelburr Champion
 1 Arcane Signet
 1 Sol Ring
-1 Fellwar Stone
 1 Azorius Signet
+1 Fellwar Stone
 1 Talisman of Progress
 1 Boros Signet
 1 Izzet Signet
 1 Mind Stone
+1 Bident of Thassa
 1 Swiftfoot Boots
+1 Helm of the Host
 1 Thought Vessel
+1 Patchwork Banner
 1 Impact Tremors
-1 Cool but Rude
 1 Reconnaissance
+1 Echoing Assault
 1 Dawn's Truce
 1 Path to Exile
 1 Swords to Plowshares
 1 Generous Gift
-1 Take Out the Trash
 1 Rapid Hybridization
+1 Stroke of Midnight
 1 Boros Charm
 1 Counterspell
+1 Parting Gust
+1 Chaos Warp
+1 An Offer You Can't Refuse
+1 Negate
 1 Ponder
-1 Cut a Deal
 1 Processor Assault
 1 Blasphemous Act
 1 Time Wipe
 1 Culmination of Studies
-1 Solve the Equation
+1 Cut a Deal
 1 Elspeth, Sun's Champion

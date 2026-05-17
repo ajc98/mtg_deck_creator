@@ -36,20 +36,15 @@ Creatures
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Ball Lightning
-1 Brazen Collector
 1 Burnished Hart
-1 Halo Scarab
-1 Page, Loose Leaf
-1 Storm-Kiln Artist
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Cathodion
-1 Zuko, Exiled Prince
-1 Bedhead Beastie
-1 Fire Nation Cadets
-1 Soulbright Seeker
 1 Etali, Primal Storm
+1 Dragon Mage
+1 Dragonmaster Outcast
+1 Brazen Collector
+1 Spikeshot Goblin
+1 Halo Scarab
+1 Heartfire Hero
+1 Page, Loose Leaf
 
 Artifacts
 1 Arcane Signet
@@ -58,8 +53,8 @@ Artifacts
 1 Fellwar Stone
 1 Glittering Stockpile
 1 Hedron Archive
-1 Expedition Map
 1 Traveler's Amulet
+1 Expedition Map
 1 Skullclamp
 1 Found Footage
 1 Swiftfoot Boots
@@ -69,13 +64,18 @@ Artifacts
 1 Thran Dynamo
 1 Gilded Lotus
 1 Pyromancer's Goggles
-1 All-Fates Scroll
+1 Shuko
+1 Sigil of Distinction
 
 Enchantments
 1 Case of the Crimson Pulse
+1 Dragon Mantle
 1 Impact Tremors
 1 Cool but Rude
 1 Warstorm Surge
+1 Sunbird's Invocation
+1 Underworld Breach
+1 Berserkers' Onslaught
 
 Instants
 1 Thrill of Possibility
@@ -89,13 +89,13 @@ Instants
 1 Impossible Inferno
 1 Lithobraking
 1 Chaos Warp
-1 Electrodominance
 1 Bolt Bend
-1 Sure Strike
+1 Electrodominance
 
 Sorceries
 1 Faithless Looting
-1 Playful Shove
 1 Processor Assault
 1 Blasphemous Act
 1 Mana Geyser
+1 Jaya's Immolating Inferno
+1 Electroduplicate

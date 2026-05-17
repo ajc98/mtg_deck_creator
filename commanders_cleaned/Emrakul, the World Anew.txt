@@ -11,18 +11,19 @@ Commander
 1 Volatile Fault
 29 Wastes
 1 Solemn Simulacrum
+1 Ornithopter of Paradise
 1 Eldrazi Ravager
 1 Survey Mechan
 1 Meteor Golem
 1 Bladegriff Prototype
-1 Ornithopter of Paradise
+1 Burnished Hart
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Cathodion
-1 Burnished Hart
 1 Aetherjacket
 1 Changeling Wayfinder
 1 Treasure Keeper
+1 Steel Hellkite
 1 Spider-Slayer, Hatred Honed
 1 Wild-Field Scarecrow
 1 Sol Ring
@@ -43,27 +44,26 @@ Commander
 1 Swiftfoot Boots
 1 Akroma's Memorial
 1 Sword of Hearth and Home
+1 Mirage Mirror
+1 Fireshrieker
 1 Oblivion Stone
 1 Arcane Signet
-1 Mirage Mirror
 1 Ring of the Lucii
 1 Hall of Triumph
-1 All-Fates Scroll
-1 Fireshrieker
 1 Fountainport Bell
 1 Traveler's Amulet
+1 All-Fates Scroll
 1 Magnifying Glass
 1 Bender's Waterskin
-1 Inherited Envelope
-1 Goldvein Pick
-1 Daredevil Dragster
 1 Heirloom Epic
-1 Sapphire Medallion
-1 Puca's Eye
-1 Vanguard's Shield
-1 Mazemind Tome
+1 Daredevil Dragster
+1 Inherited Envelope
 1 Gathering Stone
-1 Pendulum of Patterns
+1 Goldvein Pick
+1 Sapphire Medallion
+1 Seer's Sundial
+1 Soul-Guide Lantern
+1 Puca's Eye
 1 Echoes of Eternity
 1 Zuko's Exile
 1 Energybending

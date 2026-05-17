@@ -56,17 +56,13 @@ Creatures
 1 Gray Merchant of Asphodel
 1 Marionette Apprentice
 1 Viscera Seer
-1 Umbral Collar Zealot
 1 Carrion Feeder
+1 Umbral Collar Zealot
 1 Blood Artist
-1 Shadowborn Apostle
-1 Rubble Rouser
-1 Halo Scarab
-1 Page, Loose Leaf
-1 Canyon Crawler
 1 Woe Strider
-1 Oliphaunt
-1 Bedhead Beastie
+1 Ornithopter
+1 Morbid Opportunist
+1 Shadowborn Apostle
 
 Artifacts
 1 Sol Ring
@@ -77,30 +73,35 @@ Artifacts
 1 Skullclamp
 1 Bilbo's Ring
 1 Wishclaw Talisman
+1 Spawning Pit
 1 Glittering Stockpile
-1 All-Fates Scroll
-1 Magnifying Glass
-1 Bender's Waterskin
 
 Enchantments
 1 Impact Tremors
-1 Cool but Rude
 1 The Sibsig Ceremony
-1 Case of the Crimson Pulse
+1 Bastion of Remembrance
 1 Dictate of Erebos
+1 Underworld Breach
+1 Cool but Rude
+1 Grave Pact
+1 Black Market
 
 Instants
 1 Village Rites
 1 Deadly Dispute
-1 Thrill of Possibility
 1 Plumb the Forbidden
+1 Thrill of Possibility
 1 Corrupted Conviction
 1 Abrade
+1 Saw in Half
 1 Complete Disregard
 1 Take Out the Trash
-1 Grip of Desolation
-1 Cabal Ritual
 1 Chaos Warp
+1 Dark Ritual
+1 Cabal Ritual
+1 Nasty End
+1 Kolaghan's Command
+1 Undying Malice
 
 Sorceries
 1 Faithless Looting
@@ -110,4 +111,3 @@ Sorceries
 1 Blasphemous Act
 1 Diabolic Tutor
 1 Razaketh's Rite
-1 Brainspoil

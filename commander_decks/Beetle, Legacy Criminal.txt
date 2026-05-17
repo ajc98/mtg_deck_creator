@@ -38,18 +38,17 @@ Creatures
 1 Whirlwind Adept
 1 Kefnet the Mindful
 1 Triskaidekaphile
+1 Fugitive Droid
 1 Agent of Kotis
+1 Donatello, Gadget Master
 1 Page, Loose Leaf
+1 Towering Viewpoint
 1 Halo Scarab
+1 Kitsa, Otterball Elite
 1 Emrakul's Messenger
 1 Cathodion
-1 Fugitive Droid
-1 Donatello, Gadget Master
 1 Flying Octobot
 1 Faerie Vandal
-1 First-Time Flyer
-1 Towering Viewpoint
-1 Kitsa, Otterball Elite
 
 Artifacts
 1 Sol Ring
@@ -63,12 +62,12 @@ Artifacts
 1 Ominous Parcel
 1 Sewer-veillance Cam
 1 Spine of Ish Sah
-1 Tormod's Crypt
 1 Pinnacle Kill-Ship
-1 Oblivion Stone
-1 Fellwar Stone
-1 Found Footage
+1 Tormod's Crypt
 1 Mirage Mirror
+1 Sapphire Medallion
+1 Found Footage
+1 Oblivion Stone
 
 Enchantments
 1 Gossip's Talent
@@ -84,20 +83,21 @@ Instants
 1 Fleeting Distraction
 1 Become Anonymous
 1 Counterspell
-1 Disdainful Stroke
-1 Majestic Metamorphosis
 1 Phantom Interference
-1 Consider
+1 Disdainful Stroke
+1 Aetherize
 1 Negate
 1 An Offer You Can't Refuse
-1 Aetherize
-1 Energybending
+1 Majestic Metamorphosis
+1 Consider
+1 Case the Joint
 
 Sorceries
 1 Preordain
 1 Treasure Cruise
 1 Ponder
 1 Splash Portal
-1 Solve the Equation
-1 Chart a Course
 1 Otterball Antics
+1 Chart a Course
+1 Deep Analysis
+1 Solve the Equation

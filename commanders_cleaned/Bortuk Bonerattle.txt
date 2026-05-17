@@ -37,29 +37,30 @@ Commander
 1 Forest
 1 Swamp
 1 Sakura-Tribe Elder
-1 Satyr Wayfinder
 1 Llanowar Elves
+1 Satyr Wayfinder
+1 Golgari Grave-Troll
 1 Asmodeus the Archfiend
-1 Survey Mechan
 1 Reclamation Sage
 1 Plaguecrafter
 1 Archetype of Endurance
 1 Zulaport Cutthroat
 1 Poison-Tip Archer
 1 Gray Merchant of Asphodel
+1 Dryad of the Ilysian Grove
+1 Spore Frog
+1 Viscera Seer
+1 Haywire Mite
+1 Blood Artist
 1 Frog Butler
 1 Mona Lisa, Science Geek
-1 Dryad of the Ilysian Grove
-1 Page, Loose Leaf
+1 Topiary Stomper
 1 Dimir House Guard
-1 Halo Scarab
-1 Raucous Audience
-1 Cathodion
 1 Slavering Branchsnapper
-1 Shadowborn Apostle
-1 Spore Frog
-1 Azula, On the Hunt
-1 Canyon Crawler
+1 Carrion Feeder
+1 Page, Loose Leaf
+1 Halo Scarab
+1 Nyx Weaver
 1 Sol Ring
 1 Arcane Signet
 1 Golgari Signet
@@ -70,16 +71,15 @@ Commander
 1 Mind Stone
 1 All-Fates Scroll
 1 Fellwar Stone
-1 Magnifying Glass
-1 Bender's Waterskin
 1 Moldervine Reclamation
-1 Greed
 1 Greater Good
+1 Greed
 1 Bastion of Remembrance
-1 Energybending
+1 March from the Black Gate
 1 Village Rites
-1 Deadly Dispute
+1 Energybending
 1 Corrupted Conviction
+1 Deadly Dispute
 1 Beast Within
 1 Putrefy
 1 Murder
@@ -90,12 +90,12 @@ Commander
 1 Corpse Churn
 1 Rampant Growth
 1 Farseek
-1 Tempt with Discovery
+1 Bushwhack
 1 Casualties of War
 1 Deadly Brew
 1 Decree of Pain
-1 Buried Alive
-1 Diabolic Tutor
 1 Cultivate
+1 Diabolic Tutor
+1 Buried Alive
 1 Razaketh's Rite
 1 Brainspoil

@@ -40,21 +40,21 @@ Commander
 1 Roshan, Hidden Magister
 1 Survey Mechan
 1 The Rise of Sozin // Fire Lord Sozin
-1 Knight of Malice
 1 Dominator Drone
 1 Dawnhand Eulogist
 1 Triskaidekaphile
 1 Adéwalé, Breaker of Chains
-1 Dimir House Guard
-1 Halo Scarab
-1 Page, Loose Leaf
-1 Cathodion
-1 Canyon Crawler
-1 Azula, On the Hunt
-1 Azula, Cunning Usurper
-1 Razaketh, the Foulblooded
 1 Agate-Blade Assassin
 1 Hullcarver
+1 Dimir House Guard
+1 Towering Viewpoint
+1 Canyon Crawler
+1 Raffine's Silencer
+1 Halo Scarab
+1 Page, Loose Leaf
+1 Iridescent Vinelasher
+1 Cathodion
+1 Razaketh, the Foulblooded
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -67,14 +67,15 @@ Commander
 1 Assassin Gauntlet
 1 Adrestia
 1 Bident of Thassa
-1 Found Footage
 1 Smoke Bomb
+1 Swiftfoot Boots
 1 Wishclaw Talisman
+1 Maskwood Nexus
+1 Crucible of Worlds
 1 The Revelations of Ezio
 1 Propaganda
+1 Waterbender Ascension
 1 Ballad of the Black Flag
-1 Gossip's Talent
-1 Necropotence
 1 Consider
 1 Arcane Denial
 1 Curate
@@ -85,17 +86,16 @@ Commander
 1 Become Anonymous
 1 Counterspell
 1 Negate
-1 Frantic Search
+1 Dark Ritual
+1 Don't Make a Sound
+1 An Offer You Can't Refuse
 1 Refute
 1 Opt
-1 Energybending
 1 Eagle Vision
 1 Ponder
+1 Diresight
 1 Feed the Swarm
 1 Diabolic Tutor
 1 Buried Alive
 1 Brainspoil
 1 Razaketh's Rite
-1 Diresight
-1 Psychic Whorl
-1 Transgress the Mind

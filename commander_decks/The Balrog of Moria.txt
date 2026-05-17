@@ -41,7 +41,9 @@ Lands
 Creatures
 1 Oliphaunt
 1 Solemn Simulacrum
+1 Zog, Triceraton Castaway
 1 Survey Mechan
+1 Morbid Opportunist
 1 The Balrog, Durin's Bane
 1 The Rise of Sozin // Fire Lord Sozin
 1 Knight of Malice
@@ -50,25 +52,17 @@ Creatures
 1 Mirkwood Bats
 1 Sauron, the Lidless Eye
 1 Boggart Cursecrafter
-1 Zog, Triceraton Castaway
 1 The Balrog, Flame of Udûn
+1 Voracious Fell Beast
+1 Inferno Titan
 1 Halo Scarab
 1 Rubble Rouser
 1 Dimir House Guard
+1 Burnished Hart
+1 Mauhúr, Uruk-hai Captain
+1 Flamekin Gildweaver
 1 Ruthless Knave
 1 Page, Loose Leaf
-1 Flamekin Gildweaver
-1 Shadowborn Apostle
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Vindictive Warden
-1 Flamecache Gecko
-1 Brazen Collector
-1 Cathodion
-1 Storm-Kiln Artist
-1 Fire Nation Cadets
-1 Soulbright Seeker
 
 Artifacts
 1 Sol Ring
@@ -78,26 +72,32 @@ Artifacts
 1 Thran Dynamo
 1 Thought Vessel
 1 Expedition Map
-1 Hedron Archive
 1 Found Footage
 1 Swiftfoot Boots
-1 Wishclaw Talisman
+1 Firdoch Core
+1 Chromatic Lantern
+1 Hedron Archive
 
 Enchantments
 1 Greed
 1 Case of the Crimson Pulse
-1 Cool but Rude
+1 Warstorm Surge
+1 Shiny Impetus
+1 Ripples of Undeath
+1 Kaya's Ghostform
+1 Fires of Mount Doom
 
 Instants
 1 Thrill of Possibility
 1 Big Score
 1 Deadly Dispute
-1 Take Out the Trash
 1 Abrade
-1 Complete Disregard
 1 Cast into the Fire
+1 Kolaghan's Command
 1 Lithobraking
 1 Chaos Warp
+1 Dark Ritual
+1 Cabal Ritual
 
 Sorceries
 1 Faithless Looting

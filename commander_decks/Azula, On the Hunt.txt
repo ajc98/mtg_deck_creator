@@ -47,18 +47,16 @@ Creatures
 1 Nadier's Nightblade
 1 Academy Manufactor
 1 Fire Navy Trebuchet
+1 Pirate Peddlers
+1 Umbral Collar Zealot
+1 Lightless Evangel
+1 Merchant of Many Hats
+1 Moonstone Eulogist
+1 Gray Merchant of Asphodel
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Pirate Peddlers
-1 Cathodion
 1 Dimir House Guard
-1 Shadowborn Apostle
-1 The Rise of Sozin // Fire Lord Sozin
-1 Merchant of Many Hats
-1 Umbral Collar Zealot
 1 Burnished Hart
-1 Vile Entomber
-1 Lightless Evangel
 
 Artifacts
 1 Sol Ring
@@ -68,42 +66,44 @@ Artifacts
 1 Thought Vessel
 1 Fellwar Stone
 1 Magnifying Glass
-1 Expedition Map
 1 Fire Nation Warship
 1 Swiftfoot Boots
 1 Bolas's Citadel
-1 Wishclaw Talisman
+1 Idol of Oblivion
 
 Enchantments
 1 Obsessive Pursuit
+1 Exquisite Blood
+1 Bastion of Remembrance
 
 Instants
 1 Fell the Profane // Fell Mire
-1 Sold Out
 1 Deadly Dispute
+1 Sold Out
 1 Eviscerator's Insight
 1 Zuko's Exile
 1 Azula Always Lies
 1 Heartless Act
 1 Murder
-1 Complete Disregard
+1 Doom Blade
 1 Zuko's Conviction
 1 Dark Ritual
 1 Cabal Ritual
 1 Fake Your Own Death
 
 Sorceries
+1 Aang's Journey
 1 Deadly Precision
 1 Feed the Swarm
 1 Epic Downfall
 1 In Garruk's Wake
 1 Decree of Pain
 1 Diabolic Tutor
-1 Buried Alive
-1 Razaketh's Rite
-1 Brainspoil
-1 Diresight
 1 Exsanguinate
+1 Ruinous Waterbending
+1 Dai Li Indoctrination
+1 Diresight
+1 Razaketh's Rite
 
 Other
 1 Liliana of the Dark Realms

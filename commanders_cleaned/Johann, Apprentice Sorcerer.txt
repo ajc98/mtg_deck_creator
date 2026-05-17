@@ -40,29 +40,20 @@ Commander
 1 Storm-Kiln Artist
 1 Archmage Emeritus
 1 Archmage of Runes
+1 Tolarian Terror
 1 Survey Mechan
 1 Guttersnipe
 1 Coruscation Mage
 1 Thunderdrum Soloist
-1 Sanar, Unfinished Genius // Wild Idea
 1 Goblin Electromancer
-1 Rubble Rouser
-1 Page, Loose Leaf
-1 Halo Scarab
 1 Young Pyromancer
 1 Mocking Sprite
-1 Micromancer
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Cathodion
 1 Stormcatch Mentor
-1 Soulbright Seeker
-1 Fire Nation Cadets
-1 Zuko, Exiled Prince
-1 Rough Rhino Cavalry
 1 Third Path Iconoclast
+1 Sanar, Unfinished Genius // Wild Idea
+1 Rubble Rouser
+1 Tempest Angler
+1 Haughty Djinn
 1 Sol Ring
 1 Arcane Signet
 1 Izzet Signet
@@ -72,9 +63,10 @@ Commander
 1 Bender's Waterskin
 1 Expedition Map
 1 Swiftfoot Boots
+1 Powerbalance
 1 Cool but Rude
-1 Frantic Search
 1 Opt
+1 Frantic Search
 1 Consider
 1 Thrill of Possibility
 1 Izzet Charm
@@ -82,21 +74,29 @@ Commander
 1 Abrade
 1 Prismari Command
 1 Pongify
-1 Take Out the Trash
 1 Shock
 1 Rapid Hybridization
+1 Lightning Strike
 1 Lithobraking
-1 Become Anonymous
-1 Curate
-1 Teach by Example
 1 Negate
 1 Counterspell
+1 Chaos Warp
+1 Aetherize
+1 Big Score
+1 An Offer You Can't Refuse
+1 Curate
+1 Teach by Example
+1 Dig Through Time
 1 Refute
+1 Don't Make a Sound
 1 Ponder
 1 Preordain
 1 Processor Assault
 1 Blasphemous Act
 1 Boltwave
+1 Expressive Iteration
+1 Faithless Looting
+1 Treasure Cruise
 1 Solve the Equation
 1 Sanar, Unfinished Genius // Wild Idea
-1 Expressive Iteration
+1 Divination

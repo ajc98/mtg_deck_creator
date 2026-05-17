@@ -43,9 +43,9 @@ Creatures
 1 Iron-Shield Elf
 1 Dominator Drone
 1 Triskaidekaphile
+1 Dimir House Guard
 1 Halo Scarab
 1 Page, Loose Leaf
-1 Dimir House Guard
 1 Cathodion
 1 Grim Servant
 1 Azula, On the Hunt
@@ -53,8 +53,8 @@ Creatures
 1 Mind Raker
 1 Witch-king, Bringer of Ruin
 1 Sludge Crawler
-1 Adéwalé, Breaker of Chains
-1 Nezumi Graverobber // Nighteyes the Desecrator
+1 Lo and Li, Royal Advisors
+1 Expendable Lackey
 
 Artifacts
 1 Expedition Map
@@ -86,9 +86,9 @@ Instants
 1 Deal Gone Bad
 1 Darkblast
 1 Become Anonymous
+1 Dig Through Time
 1 Cabal Ritual
-1 Corpse Churn
-1 Tainted Indulgence
+1 Octopus Form
 
 Sorceries
 1 Environmental Sciences
@@ -100,5 +100,5 @@ Sorceries
 1 Transgress the Mind
 1 Psychic Whorl
 1 Seeker's Folly
-1 Binding Negotiation
 1 Head Games
+1 Ponder

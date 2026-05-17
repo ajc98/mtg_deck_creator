@@ -27,65 +27,65 @@ Commander
 1 Arid Archway
 1 Maze's End
 11 Island
-1 Solemn Simulacrum
 1 Silver Myr
+1 Solemn Simulacrum
 1 Ornithopter of Paradise
 1 Archmage Emeritus
 1 Survey Mechan
 1 Triskaidekaphile
+1 Kelpie Guide
+1 Burnished Hart
+1 Micromancer
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Micromancer
 1 Emrakul's Messenger
 1 Cathodion
-1 Burnished Hart
-1 Kelpie Guide
+1 Shipwreck Dowser
+1 Archmage of Runes
+1 Arcanis the Omnipotent
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Thought Vessel
 1 Fellwar Stone
 1 Thran Dynamo
-1 Expedition Map
-1 Found Footage
+1 Gilded Lotus
 1 Ominous Parcel
 1 Swiftfoot Boots
-1 Bender's Waterskin
-1 Hedron Archive
-1 Gilded Lotus
-1 All-Fates Scroll
 1 Sapphire Medallion
-1 Magnifying Glass
+1 Bender's Waterskin
+1 Expedition Map
+1 Hedron Archive
+1 Found Footage
+1 All-Fates Scroll
 1 Oblivion Stone
-1 Coveted Jewel
 1 Propaganda
 1 Frantic Search
 1 Arcane Denial
 1 Opt
 1 Consider
-1 Case the Joint
+1 Sublime Epiphany
 1 Pongify
 1 Rapid Hybridization
-1 Sublime Epiphany
 1 Titan's Presence
+1 Fleeting Distraction
 1 Evacuation
 1 Shore Up
 1 Octopus Form
 1 Counterspell
+1 Aetherize
 1 An Offer You Can't Refuse
 1 Negate
-1 Aetherize
 1 Narset's Reversal
+1 Strix Serenade
+1 Mirrorform
+1 Case the Joint
 1 Anticipate
 1 Energybending
 1 Curate
-1 Drown in Dreams
-1 Become Anonymous
-1 Pull from Tomorrow
-1 Strix Serenade
 1 Ponder
 1 Solve the Equation
 1 Preordain
-1 Splash Portal
 1 Treasure Cruise
+1 Splash Portal
 1 Curse of the Swine

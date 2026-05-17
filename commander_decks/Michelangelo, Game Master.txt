@@ -39,38 +39,38 @@ Creatures
 1 Great Forest Druid
 1 Peregrin Took
 1 Grothama, All-Devouring
-1 Michelangelo, Mutant BFF
 1 Ragamuffin Raptor
-1 Thornvault Forager
-1 Courier of Comestibles
-1 Chomping Changeling
-1 Slavering Branchsnapper
-1 Page, Loose Leaf
 1 Hazard of the Dunes
+1 Michelangelo, Mutant BFF
+1 Chomping Changeling
 1 Evolution Witness
-1 Halo Scarab
-1 Saber-Tooth Moose-Lion
-1 Three Tree Scribe
+1 Slavering Branchsnapper
+1 Thornvault Forager
 
 Artifacts
 1 Sol Ring
 1 Omni-Cheese Pizza
-1 Found Footage
 1 Soul-Guide Lantern
 1 Idol of Oblivion
+1 Found Footage
+1 Bootleggers' Stash
 1 Solar Transformer
 1 Veloheart Bike
 1 Arcane Signet
 1 Mind Stone
 1 All-Fates Scroll
+1 Heaped Harvest
 1 Fellwar Stone
+1 Turtle Blimp
 1 Magnifying Glass
 1 Bender's Waterskin
-1 Evolving Door
-1 Coveted Jewel
-1 Hedron Archive
-1 Heaped Harvest
-1 Oblivion Stone
+
+Enchantments
+1 Gilt-Leaf's Embrace
+1 Shimmerwilds Growth
+1 Gourmand's Talent
+1 Eusocial Engineering
+1 Wild Growth
 
 Instants
 1 Heritage Reclamation
@@ -79,12 +79,14 @@ Instants
 1 Naturalize
 1 Seedship Impact
 1 Beast Within
-1 Snakeskin Veil
 1 Saved by the Shell
+1 Snakeskin Veil
 1 Biosynthic Burst
-1 Midnight Tilling
 1 Tenderize
+1 Midnight Tilling
 1 Run Over
+1 Giant Growth
+1 Strength of Cedars
 
 Sorceries
 1 Bushwhack
@@ -96,8 +98,8 @@ Sorceries
 1 Plow Through
 1 Mutant Chain Reaction
 1 Cowabunga!
-1 Cultivate
 1 Michelangelo's Technique
+1 Cultivate
 
 Other
 1 Vivien Reid

@@ -30,61 +30,61 @@ Commander
 1 Llanowar Elves
 1 Frog Butler
 1 Toski, Bearer of Secrets
-1 Survey Mechan
-1 Jolrael, Mwonvuli Recluse
 1 Acidic Slime
-1 Narnam Renegade
+1 Survey Mechan
 1 Thornweald Archer
+1 Narnam Renegade
 1 Virulent Emissary
-1 Blooming Stinger
 1 Skullwinder
 1 Bloodroot Apothecary
+1 Blooming Stinger
+1 Slavering Branchsnapper
 1 Thornvault Forager
 1 Courier of Comestibles
-1 Slavering Branchsnapper
 1 Page, Loose Leaf
-1 Halo Scarab
-1 Venom Connoisseur
 1 Saber-Tooth Moose-Lion
-1 Virulent Silencer
-1 Raucous Audience
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Found Footage
 1 Ominous Parcel
 1 Swiftfoot Boots
+1 Emerald Medallion
 1 Heraldic Banner
+1 Basilisk Collar
+1 Fireshrieker
 1 All-Fates Scroll
 1 Fellwar Stone
-1 Evolving Door
 1 Magnifying Glass
+1 Evolving Door
 1 Bender's Waterskin
-1 Basilisk Collar
-1 Emerald Medallion
 1 Coveted Jewel
 1 Hedron Archive
 1 Oblivion Stone
 1 Garruk's Uprising
+1 Hunter's Talent
 1 Wild Growth
+1 Beastmaster Ascension
 1 Heritage Reclamation
-1 Energybending
+1 Charge Through
+1 Return of the Wildspeaker
 1 Beast Within
 1 Naturalize
 1 Titan's Presence
 1 Artisan's Sorrow
 1 Snakeskin Veil
-1 Blossoming Defense
-1 Gift of the Viper
-1 Bite Down
-1 Midnight Tilling
-1 Biosynthic Burst
 1 Gaea's Gift
+1 Bite Down
+1 Gift of the Viper
+1 Blossoming Defense
+1 Biosynthic Burst
+1 Ranger's Guile
 1 Rampant Growth
-1 Tempt with Discovery
 1 Bushwhack
+1 Tempt with Discovery
 1 Harmonize
 1 Explore
 1 Shamanic Revelation
 1 Cultivate
-1 Vivien Reid
+1 Overrun
+1 Horrific Assault

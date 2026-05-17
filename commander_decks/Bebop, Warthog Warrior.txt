@@ -47,19 +47,19 @@ Creatures
 1 Gray Merchant of Asphodel
 1 Dream Beavers
 1 Dominator Drone
-1 Adaptive Automaton
-1 Super Shredder
-1 Graveshifter
-1 Dimir House Guard
 1 Rooftop Percher
+1 Graveshifter
+1 Adaptive Automaton
 1 Shredder, Unrelenting
+1 Super Shredder
 1 Maha, Its Feathers Night
-1 Shadowborn Apostle
 1 Massacre Wurm
+1 Dimir House Guard
+1 Shadowborn Apostle
+1 Canyon Crawler
 1 Bog Glider
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Grim Servant
 
 Artifacts
 1 Mind Stone
@@ -71,10 +71,10 @@ Artifacts
 1 Chronicle of Victory
 1 Found Footage
 1 Swiftfoot Boots
-1 Gathering Stone
 1 Stalactite Dagger
-1 Basilisk Collar
+1 Gathering Stone
 1 Maskwood Nexus
+1 Basilisk Collar
 1 Whip of Erebos
 1 Wishclaw Talisman
 
@@ -99,8 +99,8 @@ Sorceries
 1 Decree of Pain
 1 In Garruk's Wake
 1 Decode Transmissions
-1 Buried Alive
 1 Razaketh's Rite
+1 Buried Alive
 1 Brainspoil
 1 Diabolic Tutor
 

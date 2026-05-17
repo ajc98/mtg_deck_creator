@@ -48,9 +48,10 @@ Creatures
 1 Azula, On the Hunt
 1 Vile Entomber
 1 Shadowborn Apostle
-1 Doomed Necromancer
 1 Mind Raker
 1 Suspicious Shambler
+1 Doomed Necromancer
+1 Gravewaker
 1 Nezumi Bone-Reader
 1 Skullsnatcher
 
@@ -74,7 +75,6 @@ Enchantments
 1 Greed
 1 Corpseweft
 1 Necropotence
-1 Mornsong Aria
 
 Instants
 1 Energybending
@@ -98,7 +98,7 @@ Sorceries
 1 Psychic Whorl
 1 Transgress the Mind
 1 Seeker's Folly
-1 Diabolic Tutor
-1 Gravedig
-1 Stir the Grave
 1 Head Games
+1 Diabolic Tutor
+1 Stir the Grave
+1 Gravedig

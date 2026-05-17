@@ -44,47 +44,43 @@ Creatures
 1 Birds of Paradise
 1 Faeburrow Elder
 1 Selvala, Explorer Returned
+1 Llanowar Elves
 1 Psychosis Crawler
 1 Body of Knowledge
-1 Mangara, the Diplomat
 1 Chasm Skulker
 1 Loran of the Third Path
-1 Kwain, Itinerant Meddler
-1 Archetype of Endurance
-1 Koma, World-Eater
 1 Twenty-Toed Toad
+1 Kwain, Itinerant Meddler
+1 Koma, World-Eater
+1 Archetype of Endurance
 1 Triskaidekaphile
-1 Llanowar Elves
-1 Avacyn's Pilgrim
-1 Bloom Tender
-1 Angel of the Ruins
 1 Kodama of the East Tree
-1 Slavering Branchsnapper
-1 Loot, Exuberant Explorer
-1 Jolrael, Mwonvuli Recluse
-1 Page, Loose Leaf
-1 The Lion-Turtle
-1 Shepherding Spirits
 1 Terastodon
+1 Avacyn's Pilgrim
+1 Ms. Bumbleflower
+1 Angel of the Ruins
+1 Sakura-Tribe Elder
+1 Prime Speaker Zegana
+1 Bloom Tender
+1 Mangara, the Diplomat
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Thought Vessel
-1 Fellwar Stone
 1 Swiftfoot Boots
+1 Fellwar Stone
 1 Mind Stone
 1 Talisman of Progress
 1 Chromatic Lantern
 1 Azorius Signet
-1 All-Fates Scroll
-1 Magnifying Glass
-1 Bender's Waterskin
 
 Enchantments
 1 Wizard Class
 1 Garruk's Uprising
 1 Reconnaissance
+1 Rites of Flourishing
+1 Propaganda
 
 Instants
 1 Growth Spiral
@@ -98,6 +94,9 @@ Instants
 1 Counterspell
 1 An Offer You Can't Refuse
 1 Long River's Pull
+1 Negate
+1 Peerless Recycling
+1 Teferi's Protection
 
 Sorceries
 1 Farseek
@@ -107,9 +106,10 @@ Sorceries
 1 Time Wipe
 1 Damning Verdict
 1 Cultivate
-1 Cut a Deal
+1 Secret Rendezvous
 1 Tempt with Discovery
 1 Tempt with Bunnies
+1 Cut a Deal
 
 Other
 1 Tamiyo, Field Researcher

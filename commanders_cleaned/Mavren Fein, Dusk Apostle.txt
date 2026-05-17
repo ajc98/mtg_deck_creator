@@ -29,64 +29,64 @@ Commander
 1 Maze's End
 10 Plains
 1 Solemn Simulacrum
+1 Changeling Wayfinder
 1 Mentor of the Meek
-1 Helpful Hunter
 1 Mangara, the Diplomat
+1 Helpful Hunter
 1 Survey Mechan
-1 Knight of Grace
+1 Adaptive Automaton
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Cathodion
-1 Adaptive Automaton
-1 Shepherding Spirits
 1 Linden, the Steadfast Queen
+1 Cathodion
+1 Shepherding Spirits
 1 Angel of the Ruins
-1 Hare Apparent
-1 Gathering Throng
+1 Sun Titan
+1 Knight of Grace
+1 Brass Herald
 1 Abzan Battle Priest
-1 Changeling Wayfinder
-1 Invasion Reinforcements
+1 Hare Apparent
 1 Sol Ring
 1 Arcane Signet
 1 Heraldic Banner
 1 Mind Stone
 1 Patchwork Banner
 1 Fellwar Stone
-1 Expedition Map
 1 Thought Vessel
-1 All-Fates Scroll
+1 Expedition Map
 1 Skullclamp
 1 Idol of Oblivion
-1 Found Footage
 1 Chronicle of Victory
-1 Ominous Parcel
-1 Swiftfoot Boots
+1 Found Footage
 1 Halo Fountain
+1 Swiftfoot Boots
 1 Gathering Stone
 1 Caduceus, Staff of Hermes
+1 Coat of Arms
 1 Oblivion Stone
-1 Charitable Levy
+1 All-Fates Scroll
 1 Reconnaissance
-1 Case of the Pilfered Proof
-1 Builder's Talent
-1 Path to Exile
+1 Ghostly Prison
+1 Charitable Levy
+1 Felidar Retreat
 1 Swords to Plowshares
+1 Path to Exile
 1 Disenchant
 1 Generous Gift
 1 Stroke of Midnight
+1 Crib Swap
 1 Make a Stand
-1 Riot Control
 1 Teferi's Protection
-1 Energybending
 1 Sanguine Sacrament
 1 Rootborn Defenses
 1 Duty Beyond Death
-1 Dawn's Truce
+1 Riot Control
 1 Cut a Deal
 1 Secret Rendezvous
-1 Dismantling Wave
 1 Dusk // Dawn
 1 Fumigate
 1 Winnowing
+1 Vanquish the Horde
+1 Dismantling Wave
 1 Tempt with Bunnies
 1 Elspeth, Sun's Champion

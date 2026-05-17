@@ -48,49 +48,50 @@ Creatures
 1 Knight of Grace
 1 Restoration Angel
 1 Aang, the Last Airbender
-1 Appa, Loyal Sky Bison
-1 Invasion Reinforcements
-1 Page, Loose Leaf
-1 Halo Scarab
 1 Charming Prince
-1 Cathodion
-1 Skyclave Apparition
+1 Appa, Loyal Sky Bison
 1 Suki, Courageous Rescuer
-1 Shepherding Spirits
-1 Angel of the Ruins
+1 Sun Titan
+1 Skyclave Apparition
+1 Invasion Reinforcements
 1 Exalted Sunborn
 1 Momo, Friendly Flier
 1 Avatar Enthusiasts
-1 Sun Titan
-1 Hare Apparent
+1 Page, Loose Leaf
+1 Halo Scarab
+1 Cathodion
+1 Shepherding Spirits
+1 Angel of the Ruins
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
-1 Coveted Jewel
 1 Thought Vessel
+1 Coveted Jewel
+1 Thran Dynamo
 1 Fellwar Stone
 1 Bender's Waterskin
-1 Thran Dynamo
 1 Skullclamp
-1 Found Footage
 1 Ominous Parcel
 1 Swiftfoot Boots
 1 Halo Fountain
-1 Oblivion Stone
 1 White Lotus Tile
 1 Gilded Lotus
+1 Idol of Oblivion
+1 Kyoshi Battle Fan
 
 Enchantments
 1 Airbender Ascension
 1 Aang's Iceberg
-1 Charitable Levy
+1 Team Avatar
+1 Ghostly Prison
+1 Path to Redemption
 
 Instants
 1 Dawn's Truce
-1 Path to Exile
 1 Swords to Plowshares
+1 Path to Exile
 1 Generous Gift
 1 Stroke of Midnight
 1 Personify
@@ -99,10 +100,9 @@ Instants
 
 Sorceries
 1 Cut a Deal
-1 Dusk // Dawn
-1 Vanquish the Horde
-1 Damning Verdict
 1 Secret Rendezvous
+1 Vanquish the Horde
+1 Dusk // Dawn
+1 Damning Verdict
 1 Another Round
-1 Dismantling Wave
 1 Aang's Journey

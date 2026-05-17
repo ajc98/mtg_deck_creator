@@ -35,7 +35,6 @@ Commander
 1 Suppression Ray // Orderly Plaza
 1 Perilous Landscape
 1 Ash Barrens
-1 Demolition Field
 1 Island
 1 Mountain
 1 Plains
@@ -44,20 +43,15 @@ Commander
 1 Lier, Disciple of the Drowned
 1 Guttersnipe
 1 Vivi Ornitier
-1 Rubble Rouser
+1 Coruscation Mage
 1 Monastery Mentor
 1 Veyran, Voice of Duality
 1 Third Path Iconoclast
 1 Stormcatch Mentor
-1 Page, Loose Leaf
-1 Shepherding Spirits
-1 Angel of the Ruins
-1 Halo Scarab
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Cathodion
+1 Goblin Electromancer
+1 Young Pyromancer
+1 Shiko and Narset, Unified
+1 Caldera Pyremaw
 1 Arcane Signet
 1 Sol Ring
 1 Talisman of Progress
@@ -67,25 +61,31 @@ Commander
 1 Boros Signet
 1 Swiftfoot Boots
 1 Cori-Steel Cutter
+1 Skullclamp
 1 Thought Vessel
-1 Patchwork Banner
 1 Whirlwind of Thought
 1 Impact Tremors
 1 Aligned Heart
-1 Cool but Rude
-1 Frantic Search
+1 Tempest Technique
+1 Ghostly Prison
 1 Opt
+1 Frantic Search
 1 Consider
 1 Swords to Plowshares
 1 Path to Exile
 1 Pongify
 1 Prismari Command
 1 Abrade
+1 Generous Gift
 1 Boros Charm
 1 Narset's Reversal
 1 Counterspell
-1 Arcane Denial
 1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Negate
+1 Big Score
+1 Shore Up
+1 Think Twice
 1 Suppression Ray // Orderly Plaza
 1 Ponder
 1 Preordain
@@ -97,6 +97,6 @@ Commander
 1 Blasphemous Act
 1 Vanquish the Horde
 1 Expressive Iteration
-1 Solve the Equation
+1 Mana Geyser
 1 Dismantling Wave
-1 Compulsive Research
+1 Ral, Crackling Wit

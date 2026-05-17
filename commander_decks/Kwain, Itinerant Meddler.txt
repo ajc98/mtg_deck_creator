@@ -48,16 +48,14 @@ Creatures
 1 Body of Knowledge
 1 Chasm Skulker
 1 Loran of the Third Path
-1 Survey Mechan
 1 Twenty-Toed Toad
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Cathodion
-1 Angel of the Ruins
-1 Shepherding Spirits
 1 Mischievous Mystic
 1 Fog Bank
-1 Knight of Grace
+1 Page, Loose Leaf
+1 Halo Scarab
+1 Baird, Steward of Argive
+1 Cathodion
+1 The Unagi of Kyoshi Island
 
 Artifacts
 1 Sol Ring
@@ -68,37 +66,38 @@ Artifacts
 1 Mind Stone
 1 Fellwar Stone
 1 Expedition Map
+1 Swiftfoot Boots
 1 Halo Fountain
 1 Ghirapur Orrery
-1 All-Fates Scroll
-1 Found Footage
-1 Oblivion Stone
+1 Spellbook
 
 Enchantments
 1 Wizard Class
 1 Propaganda
 1 Ghostly Prison
 1 Dictate of Kruphix
-1 Rest in Peace
+1 Tenuous Truce
+1 Monologue Tax
 
 Instants
 1 Arcane Denial
-1 Frantic Search
 1 Swords to Plowshares
 1 Path to Exile
 1 Generous Gift
 1 Pongify
 1 Stroke of Midnight
 1 Rapid Hybridization
+1 Disenchant
 1 Teferi's Protection
 1 Dawn's Truce
-1 Become Anonymous
 1 Counterspell
 1 An Offer You Can't Refuse
 1 Aetherize
-1 Opt
 1 Negate
 1 Long River's Pull
+1 Frantic Search
+1 Opt
+1 Narset's Reversal
 1 Intellectual Offering
 
 Sorceries
@@ -108,7 +107,8 @@ Sorceries
 1 Time Wipe
 1 Dusk // Dawn
 1 Vanquish the Horde
-1 Solve the Equation
+1 Promise of Loyalty
 1 Tempt with Bunnies
+1 Solve the Equation
 1 Ponder
 1 Preordain

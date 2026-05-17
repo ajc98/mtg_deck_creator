@@ -34,24 +34,22 @@ Commander
 1 Mentor of the Meek
 1 Mangara, the Diplomat
 1 Helpful Hunter
-1 Survey Mechan
-1 Knight of Grace
+1 Daily Bugle Reporters
+1 Sun Titan
 1 Abzan Battle Priest
+1 Ajani's Pridemate
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Daily Bugle Reporters
-1 Ajani's Pridemate
-1 Cathodion
-1 Sun Titan
-1 Shepherding Spirits
-1 Angel of the Ruins
-1 Hare Apparent
 1 Rosie Cotton of South Lane
 1 Metastatic Evangel
-1 Gathering Throng
 1 Healer's Hawk
 1 Hinterland Sanctifier
+1 Cathodion
 1 Cat Collector
+1 Shepherding Spirits
+1 Angel of the Ruins
+1 Knight of Grace
+1 Hare Apparent
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -65,15 +63,17 @@ Commander
 1 Skullclamp
 1 Found Footage
 1 Swiftfoot Boots
+1 Caduceus, Staff of Hermes
 1 Halo Fountain
 1 Basilisk Collar
-1 Caduceus, Staff of Hermes
+1 The Ozolith
 1 Oblivion Stone
-1 Fellwar Stone
 1 Banishing Light
-1 Felidar Retreat
-1 Charitable Levy
 1 Sheltered by Ghosts
+1 Felidar Retreat
+1 Twinblade Blessing
+1 Monologue Tax
+1 Charitable Levy
 1 Dawn's Truce
 1 Path to Exile
 1 Swords to Plowshares
@@ -81,9 +81,9 @@ Commander
 1 Stroke of Midnight
 1 Disenchant
 1 Duty Beyond Death
-1 Energybending
-1 Revelation of Power
 1 Keep Out
+1 Personify
+1 Sandbenders' Storm
 1 Cut a Deal
 1 Secret Rendezvous
 1 Damning Verdict

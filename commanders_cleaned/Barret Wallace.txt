@@ -27,28 +27,25 @@ Commander
 1 Ornithopter of Paradise
 1 Purple Dragon Punks
 1 Iron Myr
-1 Survey Mechan
+1 Changeling Wayfinder
 1 Oliphaunt
+1 Survey Mechan
 1 Battle-Scarred Goblin
+1 Enraged Flamecaster
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Enraged Flamecaster
 1 Flamekin Gildweaver
+1 Molten-Core Maestro
+1 Casey Jones, Jury-Rig Justiciar
+1 Foraging Wickermaw
+1 Warren Torchmaster
+1 Bedhead Beastie
 1 Halo Scarab
 1 Page, Loose Leaf
-1 Bedhead Beastie
-1 Casey Jones, Jury-Rig Justiciar
-1 Hoarding Dragon
-1 Storm-Kiln Artist
-1 Haradrim Spearmaster
-1 Zuko, Exiled Prince
-1 Molten-Core Maestro
-1 Changeling Wayfinder
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Goldvein Pick
-1 Glittering Stockpile
 1 Fellwar Stone
 1 Skullclamp
 1 Found Footage
@@ -57,23 +54,25 @@ Commander
 1 Sword of Hearth and Home
 1 Skinwing
 1 Bonehoard
-1 Cori-Steel Cutter
 1 Scytheclaw
+1 Cori-Steel Cutter
+1 Helm of the Host
+1 Gimli's Axe
+1 Glittering Stockpile
 1 Firdoch Core
 1 Heraldic Banner
-1 Helm of the Host
+1 Kyoshi Battle Fan
 1 All-Fates Scroll
-1 Magnifying Glass
-1 Gimli's Axe
-1 Bender's Waterskin
+1 Sticky Fingers
 1 Case of the Crimson Pulse
 1 Impact Tremors
 1 Cool but Rude
+1 Firebender Ascension
 1 Thrill of Possibility
 1 Big Score
-1 Take Out the Trash
 1 Abrade
 1 Siege Smash
+1 Take Out the Trash
 1 Impossible Inferno
 1 Lithobraking
 1 Chaos Warp
@@ -81,8 +80,9 @@ Commander
 1 Faithless Looting
 1 Crash Through
 1 Bot Bashing Time
-1 Processor Assault
 1 Cinder Strike
-1 Playful Shove
+1 Processor Assault
 1 Blasphemous Act
+1 Mana Geyser
 1 Glimpse the Impossible
+1 Dragon Fodder

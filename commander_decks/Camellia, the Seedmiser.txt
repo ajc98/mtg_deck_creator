@@ -56,19 +56,18 @@ Creatures
 1 Marionette Apprentice
 1 Chatterfang, Squirrel General
 1 Honored Dreyleader
-1 Squirrel Sovereign
 1 Vinereap Mentor
-1 Scurry of Squirrels
 1 Hazel's Brewmaster
+1 Squirrel Sovereign
+1 Academy Manufactor
+1 Osteomancer Adept
+1 Scurry of Squirrels
 1 Curious Forager
 1 Corpseberry Cultivator
 1 Deep Forest Hermit
-1 Academy Manufactor
-1 Osteomancer Adept
 1 Bushy Bodyguard
 1 Bakersbane Duo
 1 Nut Collector
-1 Prosperous Innkeeper
 
 Artifacts
 1 Sol Ring
@@ -79,14 +78,15 @@ Artifacts
 1 Idol of Oblivion
 1 Swiftfoot Boots
 1 Chitterspitter
-1 Talisman of Resilience
-1 Golgari Signet
-1 Mind Stone
+1 Sword of the Squeak
 
 Enchantments
 1 Moldervine Reclamation
-1 Binding the Old Gods
 1 Squirrel Nest
+1 Doubling Season
+1 Beastmaster Ascension
+1 Midnight Snack
+1 Parallel Lives
 
 Instants
 1 Deadly Dispute
@@ -108,6 +108,6 @@ Sorceries
 1 Rampant Growth
 1 Decree of Pain
 1 Swarmyard Massacre
-1 Cultivate
-1 Rootcast Apprenticeship
 1 Chatterstorm
+1 Rootcast Apprenticeship
+1 Cultivate

@@ -33,22 +33,17 @@ Commander
 1 Molten Gatekeeper
 1 Nettle Drone
 1 Etali, Primal Storm
+1 Burnished Hart
 1 Halo Scarab
 1 Page, Loose Leaf
-1 Fire Sages
 1 Bedhead Beastie
-1 Burnished Hart
+1 Fire Sages
+1 Oliphaunt
 1 Zuko, Exiled Prince
-1 Hoarding Dragon
 1 Akki Rockspeaker
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
 1 Cathodion
-1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Oliphaunt
-1 Alena, Kessig Trapper
-1 Slith Firewalker
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -60,15 +55,19 @@ Commander
 1 Bilbo's Ring
 1 Sword of Hearth and Home
 1 Thought Vessel
+1 The Ozolith
 1 All-Fates Scroll
+1 Basilisk Collar
 1 Magnifying Glass
-1 Bender's Waterskin
-1 Hedron Archive
+1 Sticky Fingers
 1 Cool but Rude
 1 Case of the Crimson Pulse
-1 Sticky Fingers
 1 Outpost Siege
 1 Powerbalance
+1 Underworld Breach
+1 Rain of Riches
+1 Firebender Ascension
+1 Curse of Opulence
 1 Thrill of Possibility
 1 Big Score
 1 Take Out the Trash
@@ -87,3 +86,4 @@ Commander
 1 Blasphemous Act
 1 Glimpse the Impossible
 1 Mana Geyser
+1 Crash Through

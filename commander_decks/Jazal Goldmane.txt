@@ -34,73 +34,73 @@ Lands
 Creatures
 1 Loyal Warhound
 1 Solemn Simulacrum
-1 Helpful Hunter
 1 Mentor of the Meek
+1 Helpful Hunter
 1 Jacked Rabbit
+1 Mangara, the Diplomat
+1 Loran of the Third Path
 1 Survey Mechan
-1 Knight of Grace
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Cathodion
-1 Shepherding Spirits
-1 Angel of the Ruins
+1 Sun Titan
 1 Ajani's Pridemate
 1 Hinterland Sanctifier
-1 Bearer of Glory
-1 Hare Apparent
-1 Resolute Reinforcements
-1 Sun Titan
-1 Gathering Throng
-1 Savannah Lions
 1 Regal Caracal
+1 Exalted Sunborn
+1 Evangel of Heliod
+1 Page, Loose Leaf
+1 Halo Scarab
+1 Resolute Reinforcements
+1 Savannah Lions
+1 Selfless Spirit
+1 Cathodion
+1 Inspiring Overseer
+1 Shepherding Spirits
+1 Angel of the Ruins
 
 Artifacts
 1 Sol Ring
-1 Mind Stone
 1 Arcane Signet
-1 Fellwar Stone
+1 Mind Stone
 1 Heraldic Banner
+1 Fellwar Stone
 1 Thought Vessel
 1 Thran Dynamo
-1 Expedition Map
+1 White Auracite
 1 Skullclamp
 1 Idol of Oblivion
-1 Found Footage
 1 Swiftfoot Boots
 1 Halo Fountain
-1 White Auracite
 1 Gilded Lotus
-1 Oblivion Stone
-1 All-Fates Scroll
+1 Carrot Cake
 
 Enchantments
 1 Banishing Light
-1 Charitable Levy
 1 Felidar Retreat
 1 Endless Foot Assault
+1 Ghostly Prison
+1 Charitable Levy
+1 Dictate of Heliod
 
 Instants
-1 Dawn's Truce
 1 Path to Exile
 1 Swords to Plowshares
 1 Generous Gift
 1 Stroke of Midnight
 1 Disenchant
 1 Make a Stand
+1 Rootborn Defenses
+1 Dawn's Truce
 1 Valorous Stance
 1 Teferi's Protection
-1 Rootborn Defenses
-1 Energybending
 
 Sorceries
 1 Cut a Deal
 1 Tempt with Bunnies
 1 Secret Rendezvous
 1 Dusk // Dawn
-1 Damning Verdict
+1 Fumigate
 1 Martial Coup
-1 Dismantling Wave
 1 Hop to It
+1 Battle Screech
 
 Other
 1 Elspeth, Sun's Champion

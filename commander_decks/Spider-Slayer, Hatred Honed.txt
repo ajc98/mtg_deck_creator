@@ -17,18 +17,18 @@ Lands
 
 Creatures
 1 Solemn Simulacrum
-1 Halo Scarab
 1 Circuit Mender
 1 Survey Mechan
 1 Eldrazi Ravager
 1 Bladegriff Prototype
 1 Krang, Utrom Warlord
 1 Junk Diver
-1 Page, Loose Leaf
-1 Cathodion
-1 Burnished Hart
 1 Adaptive Automaton
 1 Steel Hellkite
+1 Burnished Hart
+1 Halo Scarab
+1 Page, Loose Leaf
+1 Cathodion
 1 Changeling Wayfinder
 1 Camera Launcher
 1 Chrome Companion
@@ -42,6 +42,7 @@ Artifacts
 1 Hedron Archive
 1 Arcane Signet
 1 All-Fates Scroll
+1 Fellwar Stone
 1 Vexing Bauble
 1 Skullclamp
 1 Found Footage
@@ -51,25 +52,24 @@ Artifacts
 1 Thaumaton Torpedo
 1 Swiftfoot Boots
 1 Sword of Hearth and Home
-1 Fellwar Stone
 1 Mirage Mirror
-1 Expedition Map
 1 The Ozolith
+1 Coat of Arms
+1 Expedition Map
 1 Oblivion Stone
 1 Hall of Triumph
 1 Fountainport Bell
 1 Traveler's Amulet
-1 Coat of Arms
 1 Magnifying Glass
 1 Bender's Waterskin
+1 Bilbo's Ring
+1 Jalum Tome
+1 Coveted Jewel
 1 Heraldic Banner
 1 Patchwork Banner
-1 Bilbo's Ring
+1 Heirloom Epic
+1 Daredevil Dragster
 1 Inherited Envelope
-1 Jalum Tome
-1 Goldvein Pick
-1 Coveted Jewel
-1 Chromatic Lantern
 
 Enchantments
 1 Echoes of Eternity

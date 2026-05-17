@@ -35,48 +35,47 @@ Creatures
 1 Molten Gatekeeper
 1 Nettle Drone
 1 Éomer of the Riddermark
-1 Halo Scarab
 1 Riders of the Mark
-1 Page, Loose Leaf
 1 Combat Celebrant
-1 Akki Rockspeaker
 1 Rohirrim Lancer
-1 Storm-Kiln Artist
+1 Taurean Mauler
+1 Adaptive Automaton
+1 Taxi Driver
+1 Halo Scarab
+1 Page, Loose Leaf
 1 Alena, Kessig Trapper
+1 Akki Rockspeaker
+1 Storm-Kiln Artist
+1 Zuko, Exiled Prince
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
-1 Cathodion
-1 Zuko, Exiled Prince
-1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Rough Rhino Cavalry
-1 Adaptive Automaton
-1 Bedhead Beastie
-1 Taurean Mauler
-1 Mutant Town Musicians
 
 Artifacts
 1 Sol Ring
-1 Mind Stone
 1 Arcane Signet
+1 Mind Stone
 1 Heraldic Banner
 1 Fellwar Stone
 1 Glittering Stockpile
-1 Expedition Map
 1 Patchwork Banner
+1 Firdoch Core
+1 Expedition Map
 1 Found Footage
 1 Swiftfoot Boots
 1 Bilbo's Ring
 1 Sword of Hearth and Home
-1 Firdoch Core
-1 Gathering Stone
 1 Horn of the Mark
+1 Gathering Stone
+1 Coat of Arms
 
 Enchantments
 1 Case of the Crimson Pulse
 1 Impact Tremors
 1 Cool but Rude
+1 Berserkers' Onslaught
+1 Fire-Rim Form
+1 Fervor
 
 Instants
 1 Thrill of Possibility
@@ -86,18 +85,19 @@ Instants
 1 Abrade
 1 Smite the Deathless
 1 Impossible Inferno
-1 Burn Away
-1 Transforming Flourish
+1 Firebending Lesson
 1 Lithobraking
 1 Chaos Warp
+1 Sure Strike
 1 How to Start a Riot
+1 Valley Rally
 
 Sorceries
-1 Environmental Sciences
 1 Faithless Looting
 1 Crash Through
-1 Playful Shove
-1 Processor Assault
+1 Impolite Entrance
 1 Bumi Bash
+1 Processor Assault
+1 Incinerating Blast
 1 Blasphemous Act
 1 Rally at the Hornburg

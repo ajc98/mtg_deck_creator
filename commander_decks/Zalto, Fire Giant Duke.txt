@@ -30,30 +30,31 @@ Lands
 
 Creatures
 1 Solemn Simulacrum
+1 Iron Myr
 1 Zuko, Exiled Prince
 1 Survey Mechan
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Iron Myr
-1 Halo Scarab
-1 Page, Loose Leaf
 1 Inferno Titan
-1 Zog, Triceraton Castaway
+1 Boldwyr Aggressor
 1 Burnished Hart
-1 Storm-Kiln Artist
+1 Zog, Triceraton Castaway
+1 Goliath Daydreamer
+1 Halo Scarab
+1 Lavaleaper
+1 Page, Loose Leaf
+1 Bedhead Beastie
 1 Rough Rhino Cavalry
+1 Storm-Kiln Artist
+1 Oliphaunt
 1 Akki Rockspeaker
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
 1 Cathodion
 1 Flamekin Gildweaver
-1 Bedhead Beastie
-1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Boldwyr Aggressor
+1 Etali, Primal Storm
 1 Alena, Kessig Trapper
-1 Hoarding Dragon
 
 Artifacts
 1 Sol Ring
@@ -63,14 +64,13 @@ Artifacts
 1 Fellwar Stone
 1 Hedron Archive
 1 Thought Vessel
-1 Expedition Map
 1 Found Footage
 1 Swiftfoot Boots
 1 Bilbo's Ring
 1 Sword of Hearth and Home
 1 Basilisk Collar
 1 Thran Dynamo
-1 All-Fates Scroll
+1 Kite Shield
 
 Enchantments
 1 Case of the Crimson Pulse
@@ -81,13 +81,13 @@ Enchantments
 Instants
 1 Thrill of Possibility
 1 Big Score
+1 Starstorm
 1 Take Out the Trash
 1 Energybending
-1 Starstorm
 1 Abrade
 1 Cast into the Fire
-1 Impossible Inferno
 1 Giantfall
+1 Impossible Inferno
 1 Lithobraking
 1 Chaos Warp
 1 Bolt Bend
@@ -98,5 +98,5 @@ Sorceries
 1 Processor Assault
 1 Zuko's Offense
 1 Blasphemous Act
-1 Glimpse the Impossible
 1 Mana Geyser
+1 Glimpse the Impossible

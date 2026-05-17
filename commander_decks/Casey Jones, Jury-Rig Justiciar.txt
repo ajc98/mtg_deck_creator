@@ -37,64 +37,64 @@ Creatures
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Nettle Drone
+1 Dragonhawk, Fate's Tempest
+1 Ravenous Robots
+1 Raphael, the Nightwatcher
 1 Ornithopter of Paradise
+1 Raphael, Tough Turtle
+1 Ornithopter
 1 Halo Scarab
 1 Page, Loose Leaf
 1 Bedhead Beastie
-1 Ravenous Robots
 1 Storm-Kiln Artist
-1 Raphael, the Nightwatcher
-1 Zuko, Exiled Prince
-1 Hoarding Dragon
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Cathodion
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Expedition Map
-1 Mind Stone
 1 Goldvein Pick
+1 Mind Stone
 1 Fellwar Stone
 1 Glittering Stockpile
 1 Pyrite Spellbomb
 1 Soul-Guide Lantern
-1 Found Footage
+1 Vexing Bauble
 1 Swiftfoot Boots
 1 Bilbo's Ring
 1 Sword of Hearth and Home
-1 Hedron Archive
 1 Improvised Arsenal
-1 Thought Vessel
-1 Springleaf Drum
 1 Gimli's Axe
+1 Basilisk Collar
+1 Twin Blades
+1 Springleaf Drum
+1 Hedron Archive
+1 Thought Vessel
 1 Gilded Lotus
 1 All-Fates Scroll
-1 Twin Blades
-1 Basilisk Collar
 
 Enchantments
 1 Dragon Mantle
-1 Case of the Crimson Pulse
 1 Cool but Rude
 1 Underworld Breach
+1 Sticky Fingers
+1 Warstorm Surge
+1 Rain of Riches
+1 Curse of Opulence
 
 Instants
-1 Thrill of Possibility
 1 Big Score
+1 Thrill of Possibility
 1 Abrade
 1 Siege Smash
-1 Take Out the Trash
-1 Impossible Inferno
 1 Manhole Missile
+1 Take Out the Trash
 1 Jennika's Technique
 1 Chaos Warp
+1 Bolt Bend
 
 Sorceries
 1 Faithless Looting
 1 Processor Assault
+1 Shattering Spree
 1 Blasphemous Act
 1 Glimpse the Impossible

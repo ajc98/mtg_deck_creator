@@ -55,8 +55,8 @@ Creatures
 1 Courier of Comestibles
 1 Angel of the Ruins
 1 Shepherding Spirits
-1 Gathering Throng
 1 Saber-Tooth Moose-Lion
+1 Gathering Throng
 1 Hare Apparent
 1 Silhana Ledgewalker
 1 Spinner of Souls

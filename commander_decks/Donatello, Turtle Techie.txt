@@ -44,14 +44,13 @@ Creatures
 1 Kappa Cannoneer
 1 Triskaidekaphile
 1 Fugitive Droid
+1 Nimble Thopterist
+1 Kheru Spellsnatcher
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Emrakul's Messenger
 1 Cathodion
-1 Nimble Thopterist
-1 Kheru Spellsnatcher
 1 Donatello, Way with Machines
-1 Kefnet the Mindful
 
 Artifacts
 1 Sol Ring
@@ -68,15 +67,15 @@ Artifacts
 1 Ominous Parcel
 1 Swiftfoot Boots
 1 Omni-Cheese Pizza
+1 Sapphire Medallion
+1 Found Footage
 1 All-Fates Scroll
 1 Oblivion Stone
-1 Found Footage
-1 Sapphire Medallion
 1 Magnifying Glass
 1 Bender's Waterskin
-1 Inherited Envelope
+1 Coveted Jewel
 1 Expedition Map
-1 Heraldic Banner
+1 Inherited Envelope
 
 Instants
 1 Mind Transfer Protocol
@@ -87,18 +86,19 @@ Instants
 1 Become Anonymous
 1 Negate
 1 Counterspell
+1 Return to the Sewers
 1 Ooze Spill
 1 Essence Scatter
-1 Return to the Sewers
-1 Frantic Search
-1 An Offer You Can't Refuse
 1 Aetherize
-1 Energybending
+1 An Offer You Can't Refuse
+1 Frantic Search
 1 Case the Joint
+1 Energybending
 1 Curate
+1 Dig Through Time
 
 Sorceries
 1 Splash Portal
 1 Reverse Engineer
-1 Solve the Equation
 1 River's Rebuke
+1 Solve the Equation

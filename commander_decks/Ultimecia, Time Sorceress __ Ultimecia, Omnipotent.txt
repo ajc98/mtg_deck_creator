@@ -41,9 +41,9 @@ Creatures
 1 Dawnhand Eulogist
 1 Dominator Drone
 1 Triskaidekaphile
+1 Dimir House Guard
 1 Halo Scarab
 1 Page, Loose Leaf
-1 Dimir House Guard
 1 Cathodion
 1 Azula, On the Hunt
 1 Azula, Cunning Usurper
@@ -51,7 +51,6 @@ Creatures
 1 Twilight Diviner
 1 Mind Raker
 1 Kefnet the Mindful
-1 Sludge Crawler
 
 Artifacts
 1 Expedition Map
@@ -87,8 +86,8 @@ Instants
 1 Darkblast
 1 Become Anonymous
 1 Mystical Teachings
-1 Cabal Ritual
 1 Dig Through Time
+1 Memory Deluge
 
 Sorceries
 1 Environmental Sciences
@@ -102,3 +101,4 @@ Sorceries
 1 Psychic Whorl
 1 Seeker's Folly
 1 March from Velis Vel
+1 Head Games

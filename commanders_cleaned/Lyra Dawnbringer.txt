@@ -38,42 +38,42 @@ Commander
 1 Knight of Grace
 1 Angel of Vitality
 1 Youthful Valkyrie
+1 Emeria Shepherd
+1 Angel of Finality
+1 Serra Angel
+1 Vanguard Seraph
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Vanguard Seraph
-1 Angel of Finality
-1 Cathodion
-1 Emeria Shepherd
-1 Shepherding Spirits
-1 Serra Angel
-1 Hare Apparent
-1 Gathering Throng
-1 Healer's Hawk
 1 Exalted Sunborn
+1 Cathodion
+1 Shepherding Spirits
+1 Hare Apparent
+1 Healer's Hawk
+1 Gathering Throng
 1 Voltstorm Angel
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Patchwork Banner
 1 Heraldic Banner
-1 Hedron Archive
-1 Fellwar Stone
 1 Thought Vessel
+1 Hedron Archive
+1 Gilded Lotus
 1 Chronicle of Victory
 1 Found Footage
 1 Swiftfoot Boots
 1 Halo Fountain
+1 Fellwar Stone
+1 Thran Dynamo
+1 Gathering Stone
 1 Caduceus, Staff of Hermes
 1 Oblivion Stone
-1 Gathering Stone
-1 Gilded Lotus
-1 Thran Dynamo
-1 All-Fates Scroll
+1 Akroma's Memorial
 1 Banishing Light
-1 Charitable Levy
-1 Angelic Destiny
 1 Ghostly Prison
-1 Case of the Pilfered Proof
+1 Angelic Destiny
+1 Monologue Tax
+1 Charitable Levy
 1 Dawn's Truce
 1 Path to Exile
 1 Swords to Plowshares
@@ -82,13 +82,13 @@ Commander
 1 Stroke of Midnight
 1 Valorous Stance
 1 Teferi's Protection
-1 Energybending
 1 Make a Stand
 1 Divine Resilience
+1 Energybending
 1 Cut a Deal
 1 Secret Rendezvous
 1 Dismantling Wave
 1 Tempt with Bunnies
 1 Fumigate
-1 Dusk // Dawn
 1 Vanquish the Horde
+1 Dusk // Dawn

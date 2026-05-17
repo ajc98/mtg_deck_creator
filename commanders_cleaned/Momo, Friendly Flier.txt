@@ -28,28 +28,29 @@ Commander
 11 Plains
 1 Ornithopter of Paradise
 1 Angel of the Ruins
+1 Giada, Font of Hope
 1 Inspiring Overseer
 1 Mentor of the Meek
 1 Helpful Hunter
+1 Mangara, the Diplomat
 1 Survey Mechan
 1 Selfless Spirit
-1 Giada, Font of Hope
+1 Senu, Keen-Eyed Protector
 1 Jackdaw Savior
+1 Lifecreed Duo
+1 Healer's Hawk
+1 Appa, Steadfast Guardian
+1 Sunscorch Regent
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Lifecreed Duo
-1 Senu, Keen-Eyed Protector
-1 Cathodion
+1 Sage of the Skies
+1 Angel of Vitality
+1 Aang, the Last Airbender
 1 Shepherding Spirits
+1 Cathodion
 1 Dawnwing Marshal
 1 Knight of Grace
-1 Sage of the Skies
-1 Sunscorch Regent
-1 Hare Apparent
-1 Healer's Hawk
-1 Gathering Throng
-1 Appa, Steadfast Guardian
-1 Friendly Ghost
+1 Emeria Shepherd
 1 Sol Ring
 1 Arcane Signet
 1 Heraldic Banner
@@ -57,21 +58,20 @@ Commander
 1 Patchwork Banner
 1 Thought Vessel
 1 Fellwar Stone
-1 Expedition Map
 1 Chronicle of Victory
 1 Found Footage
-1 Ominous Parcel
 1 Swiftfoot Boots
 1 Halo Fountain
 1 White Lotus Tile
-1 Oblivion Stone
-1 All-Fates Scroll
 1 Gathering Stone
-1 Magnifying Glass
-1 Bender's Waterskin
-1 Charitable Levy
-1 Ghostly Prison
+1 Horn of the Mark
+1 Coat of Arms
+1 Oblivion Stone
 1 Murmuration
+1 Ghostly Prison
+1 Monologue Tax
+1 Felidar Retreat
+1 Charitable Levy
 1 Dawn's Truce
 1 Path to Exile
 1 Swords to Plowshares
@@ -80,12 +80,12 @@ Commander
 1 Thraben Charm
 1 Disenchant
 1 Teferi's Protection
-1 Energybending
+1 Duty Beyond Death
+1 Perch Protection
 1 Cut a Deal
 1 Secret Rendezvous
 1 Dismantling Wave
 1 Dusk // Dawn
 1 Vanquish the Horde
 1 Damning Verdict
-1 Tempt with Bunnies
 1 Battle Screech

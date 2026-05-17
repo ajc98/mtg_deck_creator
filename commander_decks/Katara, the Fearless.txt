@@ -35,39 +35,37 @@ Lands
 1 Skybridge Towers
 1 Yavimaya Coast
 1 Adarkar Wastes
-1 Demolition Field
 1 Tranquil Landscape
+1 Demolition Field
 1 Plains
 1 Island
 1 Forest
 
 Creatures
 1 Hermitic Herbalist
+1 Birds of Paradise
 1 Katara, Bending Prodigy
 1 Forecasting Fortune Teller
 1 Survey Mechan
 1 Earth Kingdom Protectors
 1 Earth King's Lieutenant
-1 Suki, Courageous Rescuer
-1 White Lotus Reinforcements
-1 Invasion Reinforcements
 1 Suki, Kyoshi Warrior
 1 Katara, Water Tribe's Hope
-1 Birds of Paradise
+1 Invasion Reinforcements
 1 Haru, Hidden Talent
 1 The Earth King
+1 White Lotus Reinforcements
 1 Avatar Enthusiasts
 1 Appa, Steadfast Guardian
-1 Selvala, Explorer Returned
-1 Page, Loose Leaf
-1 Raucous Audience
-1 Cathodion
-1 Slavering Branchsnapper
-1 Rowdy Snowballers
+1 Suki, Courageous Rescuer
 1 Aang, the Last Airbender
+1 Appa, Loyal Sky Bison
+1 Rowdy Snowballers
 1 Kyoshi Warriors
-1 Angel of the Ruins
 1 Compassionate Healer
+1 Earth Kingdom General
+1 Jeong Jeong's Deserters
+1 Walltop Sentries
 
 Artifacts
 1 Sol Ring
@@ -76,38 +74,40 @@ Artifacts
 1 White Lotus Tile
 1 Patchwork Banner
 1 Fellwar Stone
-1 Found Footage
 1 Chronicle of Victory
 1 Swiftfoot Boots
 1 Talisman of Progress
 1 Chromatic Lantern
 1 Thought Vessel
-1 Mind Stone
 
 Enchantments
 1 Waterbender Ascension
 1 Invasion Tactics
 1 Airbender Ascension
+1 Honest Work
+1 Watery Grasp
+1 Path to Redemption
 
 Instants
 1 Frantic Search
-1 Case the Joint
-1 Path to Exile
+1 Arcane Denial
 1 Swords to Plowshares
+1 Path to Exile
 1 Origin of Metalbending
 1 Beast Within
 1 Generous Gift
-1 Heritage Reclamation
 1 Octopus Form
-1 Cycle of Renewal
 1 It'll Quench Ya!
+1 Cycle of Renewal
 1 Counterspell
 
 Sorceries
 1 Farseek
 1 Rampant Growth
 1 Waterbending Lesson
+1 Explore
 1 Dusk // Dawn
 1 Time Wipe
 1 Damning Verdict
 1 Cultivate
+1 Aang's Journey

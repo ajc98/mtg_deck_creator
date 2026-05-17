@@ -45,57 +45,57 @@ Commander
 1 Knight of Malice
 1 Kardur, Doomscourge
 1 Zulaport Cutthroat
-1 Dimir House Guard
-1 Blood Artist
-1 Rubble Rouser
 1 Viscera Seer
-1 Shadowborn Apostle
-1 Boggart Cursecrafter
+1 Blood Artist
+1 Carrion Feeder
+1 Mirkwood Bats
+1 Woe Strider
+1 Perforating Artist
+1 Marionette Apprentice
+1 Mogg War Marshal
+1 Totentanz, Swarm Piper
 1 Vengeful Bloodwitch
-1 Halo Scarab
-1 Page, Loose Leaf
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Vindictive Warden
-1 Flamecache Gecko
-1 Brazen Collector
-1 Cathodion
-1 Storm-Kiln Artist
-1 Canyon Crawler
-1 Alena, Kessig Trapper
+1 Venerated Stormsinger
+1 Infestation Sage
+1 Umbral Collar Zealot
+1 Boggart Cursecrafter
+1 Dimir House Guard
+1 Rubble Rouser
+1 Molten Gatekeeper
+1 Shadowborn Apostle
+1 Stadium Headliner
 1 Arcane Signet
 1 Sol Ring
 1 Mind Stone
 1 Fellwar Stone
 1 Thought Vessel
 1 Expedition Map
+1 Heraldic Banner
 1 Glittering Stockpile
 1 Skullclamp
 1 Found Footage
 1 Swiftfoot Boots
-1 Wishclaw Talisman
-1 Heraldic Banner
+1 Spawning Pit
 1 Vampiric Rites
-1 Case of the Crimson Pulse
 1 Bastion of Remembrance
 1 Impact Tremors
 1 Cool but Rude
-1 Deadly Dispute
+1 Boggart Mischief
 1 Village Rites
+1 Deadly Dispute
 1 Corrupted Conviction
-1 Thrill of Possibility
 1 Plumb the Forbidden
+1 Thrill of Possibility
 1 Abrade
 1 Complete Disregard
-1 Take Out the Trash
 1 Lithobraking
 1 Wail of the Nim
-1 Environmental Sciences
+1 Chaos Warp
+1 Faithless Looting
 1 Feed the Swarm
+1 Eaten Alive
 1 Processor Assault
 1 Blasphemous Act
-1 Buried Alive
+1 Dragon Fodder
 1 Razaketh's Rite
-1 Diabolic Tutor
-1 Brainspoil
+1 Buried Alive

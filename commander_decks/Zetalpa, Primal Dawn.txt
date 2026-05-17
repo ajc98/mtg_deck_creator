@@ -36,24 +36,21 @@ Creatures
 1 Loyal Warhound
 1 Mangara, the Diplomat
 1 Loran of the Third Path
-1 Helpful Hunter
+1 Spirited Companion
 1 Angel of the Ruins
+1 Helpful Hunter
 1 Survey Mechan
-1 Krang, Utrom Warlord
-1 Ornithopter of Paradise
 1 Burnished Hart
+1 Sun Titan
+1 Ornithopter of Paradise
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Giada, Font of Hope
 1 Cathodion
 1 Shepherding Spirits
-1 Sun Titan
 1 Knight of Grace
+1 Emeria Shepherd
 1 Hare Apparent
-1 Gathering Throng
-1 Spirited Companion
-1 Shrike Force
-1 Towering Viewpoint
 
 Artifacts
 1 Sol Ring
@@ -65,24 +62,25 @@ Artifacts
 1 Thought Vessel
 1 Gilded Lotus
 1 Found Footage
-1 Ominous Parcel
 1 Swiftfoot Boots
+1 Sword of Hearth and Home
 1 Halo Fountain
 1 Basilisk Collar
+1 Hero's Blade
 1 Expedition Map
-1 Sword of Hearth and Home
 1 Heraldic Banner
 1 Goldvein Pick
-1 Oblivion Stone
 1 Caduceus, Staff of Hermes
-1 Hero's Blade
-1 All-Fates Scroll
+1 Helm of the Host
+1 Oblivion Stone
 
 Enchantments
 1 Sheltered by Ghosts
-1 Charitable Levy
 1 Ghostly Prison
+1 Charitable Levy
 1 Monologue Tax
+1 Tenuous Truce
+1 Felidar Retreat
 
 Instants
 1 Dawn's Truce
@@ -92,7 +90,7 @@ Instants
 1 Stroke of Midnight
 1 Disenchant
 1 Teferi's Protection
-1 Energybending
+1 Parting Gust
 
 Sorceries
 1 Cut a Deal
@@ -101,4 +99,8 @@ Sorceries
 1 Vanquish the Horde
 1 Fumigate
 1 Dusk // Dawn
-1 Tempt with Bunnies
+1 Martial Coup
+1 Promise of Loyalty
+
+Other
+1 Elspeth, Sun's Champion

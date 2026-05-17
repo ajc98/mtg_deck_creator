@@ -32,21 +32,19 @@ Lands
 Creatures
 1 Llanowar Elves
 1 Birds of Paradise
-1 Survey Mechan
 1 Reclamation Sage
+1 Survey Mechan
+1 Nyxborn Hydra
+1 Forgotten Ancient
 1 Poison Dart Frog
 1 Page, Loose Leaf
+1 Slavering Branchsnapper
 1 Thornvault Forager
 1 Wose Pathfinder
 1 Opaline Unicorn
 1 Raucous Audience
-1 Nyxborn Hydra
 1 Courier of Comestibles
 1 Halo Scarab
-1 Frog Butler
-1 Transdimensional Bovine
-1 Slavering Branchsnapper
-1 Cathodion
 
 Artifacts
 1 Sol Ring
@@ -59,28 +57,25 @@ Artifacts
 1 Instant Ramen
 1 Found Footage
 1 Ominous Parcel
+1 Swiftfoot Boots
+1 Emerald Medallion
 1 Thought Vessel
 1 Mind Stone
 1 Chromatic Lantern
 1 All-Fates Scroll
-1 Evolving Door
-1 Fellwar Stone
-1 Emerald Medallion
-1 Swiftfoot Boots
-1 Magnifying Glass
-1 Bender's Waterskin
-1 Cultivator's Caravan
-1 Inherited Envelope
+1 Vexing Bauble
+1 Galadhrim Bow
 
 Enchantments
 1 Garruk's Uprising
-1 Airtight Alibi
 1 Wild Growth
+1 Airtight Alibi
+1 Terrasymbiosis
 
 Instants
 1 Return of the Wildspeaker
 1 Heritage Reclamation
-1 Energybending
+1 Charge Through
 1 Emerald Charm
 1 Beast Within
 1 Origin of Metalbending
@@ -92,6 +87,9 @@ Instants
 1 Aim High
 1 Savage Surge
 1 Blossoming Defense
+1 Giant Growth
+1 Gaea's Gift
+1 Ranger's Guile
 
 Sorceries
 1 Rampant Growth
@@ -101,3 +99,5 @@ Sorceries
 1 Spry and Mighty
 1 Cultivate
 1 Primal Might
+1 Chatterstorm
+1 Fangs of Kalonia

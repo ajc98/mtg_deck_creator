@@ -40,59 +40,59 @@ Creatures
 1 Dragonhawk, Fate's Tempest
 1 Taurean Mauler
 1 Laelia, the Blade Reforged
-1 Halo Scarab
 1 Sizzling Changeling
-1 Page, Loose Leaf
+1 Combat Celebrant
+1 Etali, Primal Storm
+1 Adaptive Automaton
 1 Burnished Hart
+1 Halo Scarab
+1 Page, Loose Leaf
 1 Bedhead Beastie
-1 Alena, Kessig Trapper
-1 Spider-Slayer, Hatred Honed
-1 Zuko, Exiled Prince
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Cathodion
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Goldvein Pick
-1 Expedition Map
-1 Mind Stone
 1 Thought Vessel
+1 Patchwork Banner
+1 Expedition Map
 1 Found Footage
 1 Swiftfoot Boots
 1 Bilbo's Ring
 1 Sword of Hearth and Home
-1 Patchwork Banner
 1 Hero's Blade
-1 Glittering Stockpile
-1 All-Fates Scroll
 1 Maskwood Nexus
-1 Fellwar Stone
-1 Magnifying Glass
-1 Bender's Waterskin
+1 Improvised Arsenal
+1 Stalactite Dagger
+1 Basilisk Collar
+1 Mind Stone
+1 Mirage Mirror
+1 Glittering Stockpile
+1 The Ozolith
+1 All-Fates Scroll
 
 Enchantments
+1 Sticky Fingers
 1 Case of the Crimson Pulse
 1 Cool but Rude
+1 Rain of Riches
 1 Powerbalance
+1 Curse of Opulence
 
 Instants
 1 Thrill of Possibility
 1 Big Score
 1 Cunning Maneuver
-1 Take Out the Trash
 1 Giantfall
 1 Siege Smash
 1 Abrade
+1 Take Out the Trash
 1 Impossible Inferno
-1 Burn Away
 1 Lithobraking
 1 Reckless Ransacking
-1 Chaos Warp
 1 Rabid Gnaw
+1 Chaos Warp
+1 Turn Inside Out
 
 Sorceries
 1 Faithless Looting

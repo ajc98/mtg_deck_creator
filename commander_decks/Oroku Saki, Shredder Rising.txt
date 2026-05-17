@@ -37,45 +37,42 @@ Creatures
 1 Blighted Blackthorn
 1 Throat Slitter
 1 Accursed Marauder
-1 Survey Mechan
 1 Merciless Enforcers
 1 Gray Merchant of Asphodel
 1 Kami of Jealous Thirst
 1 Virus Beetle
+1 Insectoid Exterminator
+1 Squirrelanoids
+1 Skullsnatcher
+1 Okiba-Gang Shinobi
+1 Hullcarver
+1 Shredder, Unrelenting
+1 Super Shredder
+1 Appendage Amalgam
+1 Crypt Rats
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Dimir House Guard
-1 Shredder, Unrelenting
-1 Cathodion
-1 Shadowborn Apostle
-1 Azula, On the Hunt
-1 Skullsnatcher
-1 Vile Entomber
-1 Canyon Crawler
-1 Super Shredder
-1 Okiba-Gang Shinobi
-1 The Rise of Sozin // Fire Lord Sozin
-1 Insectoid Exterminator
 
 Artifacts
 1 Sol Ring
-1 Mind Stone
 1 Arcane Signet
+1 Mind Stone
 1 Bender's Waterskin
+1 Thran Dynamo
+1 Omni-Cheese Pizza
 1 Expedition Map
 1 All-Fates Scroll
-1 Coveted Jewel
-1 Ominous Parcel
-1 Thran Dynamo
 1 Found Footage
 1 Wishclaw Talisman
+1 Swiftfoot Boots
 1 Shredder's Armor
-1 Omni-Cheese Pizza
 
 Enchantments
 1 Greed
 1 The Cloning of Shredder
 1 Meathook Massacre II
+1 Exquisite Blood
+1 Sanguine Bond
 
 Instants
 1 Fell the Profane // Fell Mire
@@ -89,8 +86,13 @@ Instants
 1 Maximum Overdrive
 1 Not Dead After All
 1 Pain 101
-1 Undying Malice
 1 Fake Your Own Death
+1 Undying Malice
+1 Give In to Violence
+1 Blight Rot
+1 Howl from Beyond
+1 Gravkill
+1 Plumb the Forbidden
 
 Sorceries
 1 Environmental Sciences
@@ -99,11 +101,9 @@ Sorceries
 1 Shredder's Technique
 1 Feed the Swarm
 1 In Garruk's Wake
-1 Diabolic Tutor
-1 Buried Alive
-1 Razaketh's Rite
-1 Brainspoil
+1 Fell
 1 Duress
+1 Diabolic Tutor
 
 Other
 1 Liliana of the Dark Realms

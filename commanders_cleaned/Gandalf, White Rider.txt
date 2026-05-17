@@ -35,43 +35,44 @@ Commander
 1 Helpful Hunter
 1 Loran of the Third Path
 1 Inspiring Overseer
+1 Mangara, the Diplomat
 1 Survey Mechan
 1 Selfless Spirit
 1 Adept Watershaper
+1 Ornithopter
+1 Monastery Mentor
+1 Resolute Reinforcements
+1 Samwise the Stouthearted
+1 Sun Titan
 1 Giada, Font of Hope
 1 Page, Loose Leaf
-1 Halo Scarab
-1 Cathodion
-1 Monastery Mentor
-1 Ornithopter
-1 Shepherding Spirits
-1 Resolute Reinforcements
-1 Angel of the Ruins
-1 Samwise the Stouthearted
-1 Brightspear Zealot
-1 Knight of Grace
-1 Hare Apparent
 1 Ambrosia Whiteheart
+1 Halo Scarab
+1 Shepherding Spirits
+1 Cathodion
+1 Angel of the Ruins
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Fellwar Stone
 1 Heraldic Banner
 1 Thought Vessel
-1 Expedition Map
+1 Springleaf Drum
 1 Skullclamp
-1 Found Footage
 1 Swiftfoot Boots
 1 Halo Fountain
-1 Springleaf Drum
-1 All-Fates Scroll
-1 Oblivion Stone
-1 Magnifying Glass
-1 Bender's Waterskin
-1 Aligned Heart
-1 Charitable Levy
+1 Idol of Oblivion
+1 Horn of the Mark
 1 Murmuration
 1 Kinbinding
+1 Aligned Heart
+1 Feather of Flight
+1 Angelic Gift
+1 Endless Foot Assault
+1 Tempest Technique
+1 Monologue Tax
+1 Felidar Retreat
+1 Charitable Levy
 1 Dawn's Truce
 1 Path to Exile
 1 Swords to Plowshares
@@ -80,12 +81,11 @@ Commander
 1 Thraben Charm
 1 Disenchant
 1 Teferi's Protection
-1 Energybending
+1 Make a Stand
 1 Cut a Deal
 1 Secret Rendezvous
 1 Dusk // Dawn
 1 Vanquish the Horde
 1 Martial Coup
-1 Dismantling Wave
-1 Tempt with Bunnies
+1 Battle Screech
 1 Elspeth, Sun's Champion

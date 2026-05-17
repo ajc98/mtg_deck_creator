@@ -27,45 +27,42 @@ Commander
 1 Changeling Wayfinder
 1 Oliphaunt
 1 Solemn Simulacrum
-1 Survey Mechan
+1 Meteor Golem
 1 Battle-Scarred Goblin
+1 Survey Mechan
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Giant Cindermaw
+1 Rooftop Percher
 1 Ridgetop Raptor
+1 Brambleback Brute
+1 Giant Cindermaw
 1 Halo Scarab
 1 Page, Loose Leaf
-1 Rooftop Percher
 1 Akki Rockspeaker
-1 Purple Dragon Punks
 1 Storm-Kiln Artist
-1 Brambleback Brute
+1 Zog, Triceraton Castaway
+1 Purple Dragon Punks
+1 Zuko, Exiled Prince
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
 1 Cathodion
-1 Skirk Prospector
-1 Zuko, Exiled Prince
-1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Zog, Triceraton Castaway
-1 Alena, Kessig Trapper
-1 Rough Rhino Cavalry
 1 Arcane Signet
 1 Firdoch Core
-1 Mind Stone
 1 Sol Ring
+1 Mind Stone
 1 Coveted Jewel
 1 Fellwar Stone
 1 Thran Dynamo
 1 Patchwork Banner
 1 Chronicle of Victory
+1 Melded Moxite
 1 Found Footage
 1 Swiftfoot Boots
 1 Bilbo's Ring
-1 Sword of Hearth and Home
 1 Stalactite Dagger
 1 Glittering Stockpile
+1 Gimli's Axe
 1 Case of the Crimson Pulse
 1 Impact Tremors
 1 Cool but Rude
@@ -78,12 +75,15 @@ Commander
 1 Feed the Flames
 1 Abrade
 1 Shock
-1 Take Out the Trash
+1 Lightning Strike
 1 Lithobraking
 1 Reckless Ransacking
+1 Chaos Warp
+1 Bolt Bend
 1 Faithless Looting
 1 Cinder Strike
-1 Processor Assault
 1 Blasphemous Act
 1 Kindle the Inner Flame
 1 Burning Curiosity
+1 Agate Assault
+1 Act of Treason

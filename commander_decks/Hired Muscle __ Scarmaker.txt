@@ -48,11 +48,12 @@ Creatures
 1 Azula, On the Hunt
 1 Shadowborn Apostle
 1 Mind Raker
-1 Hog-Monkey
 1 Vile Entomber
+1 Hog-Monkey
 1 Woe Strider
 1 Lightless Evangel
 1 Sludge Crawler
+1 Fear of the Dark
 
 Artifacts
 1 Expedition Map
@@ -97,7 +98,6 @@ Sorceries
 1 Psychic Whorl
 1 Transgress the Mind
 1 Seeker's Folly
-1 Diabolic Tutor
 1 Head Games
+1 Diabolic Tutor
 1 Dance of Shadows
-1 Binding Negotiation

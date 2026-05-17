@@ -38,14 +38,14 @@ Commander
 1 Zetalpa, Primal Dawn
 1 Knight of Grace
 1 Nyx-Fleece Ram
+1 Ornithopter
+1 Sun Titan
+1 Shrike Force
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Cathodion
 1 Shepherding Spirits
-1 Shrike Force
-1 Ornithopter
 1 Hare Apparent
-1 Sun Titan
 1 Gathering Throng
 1 Haazda Vigilante
 1 Sol Ring
@@ -60,18 +60,18 @@ Commander
 1 Halo Fountain
 1 Bark of Doran
 1 Vanguard's Shield
+1 Kite Shield
+1 Basilisk Collar
 1 Oblivion Stone
 1 Magnifying Glass
 1 Bender's Waterskin
-1 Kite Shield
 1 Hedron Archive
-1 Aligned Heart
-1 Ghostly Prison
-1 Charitable Levy
 1 Angelic Gift
+1 Ghostly Prison
+1 Aligned Heart
+1 Charitable Levy
+1 Felidar Retreat
 1 Team Avatar
-1 Case of the Pilfered Proof
-1 Energybending
 1 Swords to Plowshares
 1 Path to Exile
 1 Disenchant
@@ -80,10 +80,10 @@ Commander
 1 Stroke of Midnight
 1 Seized from Slumber
 1 Refuse to Yield
-1 Make a Stand
 1 Riot Control
 1 Crib Swap
-1 Dawn's Truce
+1 Make a Stand
+1 Energybending
 1 Cut a Deal
 1 Secret Rendezvous
 1 Dismantling Wave

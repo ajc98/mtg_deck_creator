@@ -43,31 +43,27 @@ Creatures
 1 Solemn Simulacrum
 1 Persuasive Interrogators
 1 Loran of the Third Path
-1 Helpful Hunter
-1 Forerunner of the Coalition
+1 Spirited Companion
 1 Knight of Grace
 1 Survey Mechan
-1 Knight of Malice
-1 Nadier's Nightblade
 1 Mirkwood Bats
+1 Nadier's Nightblade
 1 Marionette Apprentice
 1 Academy Manufactor
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Cathodion
 1 Restoration Angel
 1 Charming Prince
-1 Azula, On the Hunt
 1 Umbral Collar Zealot
-1 Dimir House Guard
-1 The Rise of Sozin // Fire Lord Sozin
 1 Leonin Elder
-1 Shadowborn Apostle
-1 Shepherding Spirits
-1 Canyon Crawler
-1 Angel of the Ruins
-1 Vile Entomber
+1 Sun Titan
 1 Keskit, the Flesh Sculptor
+1 Forerunner of the Coalition
+1 Page, Loose Leaf
+1 Halo Scarab
+1 Skyclave Apparition
+1 Dimir House Guard
+1 Cathodion
+1 Shepherding Spirits
+1 Angel of the Ruins
 
 Artifacts
 1 Arcane Signet
@@ -81,35 +77,39 @@ Artifacts
 1 Magnifying Glass
 1 Idol of Oblivion
 1 Found Footage
-1 Wishclaw Talisman
-1 All-Fates Scroll
 
 Enchantments
 1 Obsessive Pursuit
+1 Tolls of War
+1 Airbender Ascension
+1 Ghostly Prison
+1 Hidden Stockpile
+1 Kaya's Ghostform
 
 Instants
 1 Deadly Dispute
 1 Eviscerator's Insight
+1 Village Rites
 1 Swords to Plowshares
 1 Path to Exile
 1 Generous Gift
-1 Complete Disregard
-1 Abstruse Appropriation
 1 Mortify
+1 Abstruse Appropriation
+1 Stroke of Midnight
+1 Complete Disregard
 1 Parting Gust
+1 Nasty End
+1 Undying Malice
 
 Sorceries
-1 Cut a Deal
 1 Dusk // Dawn
 1 Vanquish the Horde
 1 Damning Verdict
 1 Exsanguinate
-1 Buried Alive
+1 Another Round
 1 Razaketh's Rite
+1 Buried Alive
 1 Brainspoil
-1 Diabolic Tutor
-1 Secret Rendezvous
-1 Psychic Whorl
 
 Other
 1 Kaya, Bane of the Dead

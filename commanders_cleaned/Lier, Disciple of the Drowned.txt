@@ -32,12 +32,15 @@ Commander
 1 Archmage of Runes
 1 Triskaidekaphile
 1 Survey Mechan
+1 Haughty Djinn
 1 Micromancer
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Emrakul's Messenger
+1 Harbinger of the Seas
 1 Cathodion
-1 Haughty Djinn
+1 Mocking Sprite
+1 Kitsa, Otterball Elite
 1 Sol Ring
 1 Arcane Signet
 1 Thought Vessel
@@ -45,16 +48,14 @@ Commander
 1 Fellwar Stone
 1 Bender's Waterskin
 1 Expedition Map
-1 All-Fates Scroll
-1 Coveted Jewel
+1 Thran Dynamo
+1 Gilded Lotus
 1 Ominous Parcel
 1 Swiftfoot Boots
 1 Sapphire Medallion
-1 Oblivion Stone
 1 Found Footage
-1 Thran Dynamo
-1 Gilded Lotus
 1 Propaganda
+1 Wizard Class
 1 Fortune Teller's Talent
 1 Frantic Search
 1 Consider
@@ -68,24 +69,23 @@ Commander
 1 Slip Out the Back
 1 Become Anonymous
 1 Narset's Reversal
-1 Summary Dismissal
 1 Aetherize
+1 Summary Dismissal
+1 Counterspell
 1 Dig Through Time
 1 Pull from Tomorrow
 1 Drown in Dreams
-1 Think Twice
 1 Arcane Denial
-1 Counterspell
-1 Energybending
-1 Case the Joint
+1 An Offer You Can't Refuse
+1 Think Twice
 1 Ponder
 1 Preordain
 1 Solve the Equation
 1 Splash Portal
-1 Compulsive Research
-1 March from Velis Vel
-1 Finale of Revelation
 1 Curse of the Swine
+1 Compulsive Research
 1 Treasure Cruise
-1 Otterball Antics
-1 Deep Analysis
+1 Rite of Replication
+1 Finale of Revelation
+1 River's Rebuke
+1 March from Velis Vel

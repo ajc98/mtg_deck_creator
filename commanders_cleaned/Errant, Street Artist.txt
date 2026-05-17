@@ -36,18 +36,17 @@ Commander
 1 Kitsa, Otterball Elite
 1 Survey Mechan
 1 Lier, Disciple of the Drowned
-1 Kefnet the Mindful
 1 Triskaidekaphile
+1 Archmage of Runes
+1 Haughty Djinn
+1 Mocking Sprite
+1 Burnished Hart
+1 Kelpie Guide
 1 Guidelight Optimizer
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Emrakul's Messenger
-1 Burnished Hart
 1 Cathodion
-1 Archmage of Runes
-1 Haughty Djinn
-1 Mocking Sprite
-1 Kelpie Guide
 1 Sol Ring
 1 Arcane Signet
 1 Thought Vessel
@@ -55,15 +54,14 @@ Commander
 1 Fellwar Stone
 1 Gilded Lotus
 1 Thran Dynamo
-1 Expedition Map
+1 Hedron Archive
 1 Ominous Parcel
+1 Swiftfoot Boots
 1 Sapphire Medallion
 1 Adaptive Training Post
-1 Hedron Archive
-1 All-Fates Scroll
-1 Oblivion Stone
 1 Found Footage
 1 Propaganda
+1 Stormchaser's Talent
 1 Frantic Search
 1 Opt
 1 Arcane Denial
@@ -76,18 +74,20 @@ Commander
 1 Narset's Reversal
 1 Counterspell
 1 Dig Through Time
+1 Aetherize
+1 An Offer You Can't Refuse
 1 Negate
 1 Pull from Tomorrow
 1 Drown in Dreams
 1 Flashfreeze
-1 Aetherize
-1 An Offer You Can't Refuse
-1 Energybending
 1 Preordain
 1 Ponder
 1 Solve the Equation
 1 Treasure Cruise
 1 Splash Portal
 1 Replication Technique
+1 Rite of Replication
+1 Curse of the Swine
 1 Finale of Revelation
+1 Baral's Expertise
 1 Jace Reawakened

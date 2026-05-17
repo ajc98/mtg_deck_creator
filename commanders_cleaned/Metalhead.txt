@@ -34,7 +34,6 @@ Commander
 1 Forgotten Cave
 1 Brokers Hideout
 1 Sunken Palace
-1 Ash Barrens
 1 Demolition Field
 1 Island
 1 Mountain
@@ -42,60 +41,61 @@ Commander
 1 Ornithopter of Paradise
 1 Purple Dragon Punks
 1 Buzz Bots
+1 General Traag, Heart of Stone
 1 Kappa Cannoneer
 1 Krang, Utrom Warlord
 1 Molten Gatekeeper
 1 Rubble Rouser
 1 Ravenous Robots
-1 Iron Myr
-1 Silver Myr
-1 Nobody
 1 Fugitive Droid
 1 Donatello, Way with Machines
-1 Cathodion
-1 Page, Loose Leaf
-1 Junk Diver
 1 Donatello, Gadget Master
-1 Halo Scarab
 1 Academy Manufactor
-1 Goldhound
-1 Storm-Kiln Artist
+1 Nobody
+1 Junk Diver
+1 Third Path Iconoclast
+1 Iron Myr
+1 Silver Myr
 1 Mouser Mark III
-1 Haradrim Spearmaster
+1 Henchbots
+1 Casey Jones, Jury-Rig Justiciar
 1 Arcane Signet
 1 Sol Ring
 1 Izzet Signet
 1 Mind Stone
 1 Bender's Waterskin
-1 Fellwar Stone
+1 Omni-Cheese Pizza
+1 Thought Vessel
 1 Sewer-veillance Cam
 1 Cryogen Relic
-1 Omni-Cheese Pizza
-1 Found Footage
 1 Mouser Foundry
 1 Spicy Oatmeal Pizza
 1 Swiftfoot Boots
-1 Glittering Stockpile
 1 Improvised Arsenal
-1 Thought Vessel
+1 Hard-Won Jitte
+1 Bespoke Bō
+1 Glittering Stockpile
+1 Fellwar Stone
 1 Expedition Map
 1 Hedron Archive
-1 Hard-Won Jitte
+1 Melded Moxite
 1 Cool but Rude
 1 Prismari Command
 1 Big Score
-1 Frantic Search
 1 Mind Transfer Protocol
-1 Case the Joint
-1 Abrade
-1 Take Out the Trash
+1 Frantic Search
+1 Arcane Denial
 1 Manhole Missile
+1 Abrade
+1 Rapid Hybridization
 1 Lithobraking
 1 Ooze Spill
 1 Negate
 1 Counterspell
 1 Chaos Warp
+1 Aetherize
+1 Return to the Sewers
+1 Preordain
 1 Processor Assault
 1 Blasphemous Act
 1 Culmination of Studies
-1 Solve the Equation

@@ -37,16 +37,16 @@ Commander
 1 Survey Mechan
 1 Kefnet the Mindful
 1 Triskaidekaphile
+1 Haughty Djinn
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Emrakul's Messenger
 1 Cathodion
 1 Dragonstorm Forecaster
-1 Haughty Djinn
 1 Mischievous Mystic
-1 Spectral Sailor
 1 Echo Inspector
-1 Wonderscape Sage
+1 Skyship Buccaneer
+1 Spectral Sailor
 1 Arcane Signet
 1 Sol Ring
 1 Mind Stone
@@ -57,15 +57,15 @@ Commander
 1 Ominous Parcel
 1 Bident of Thassa
 1 Spine of Ish Sah
-1 Fellwar Stone
+1 Rolling Hamsphere
 1 Helm of the Host
 1 Tormod's Crypt
+1 Sapphire Medallion
+1 Fellwar Stone
+1 Found Footage
+1 Oblivion Stone
 1 Magnifying Glass
 1 Bender's Waterskin
-1 Oblivion Stone
-1 Found Footage
-1 Rolling Hamsphere
-1 Sapphire Medallion
 1 Hedron Archive
 1 Wizard Class
 1 Waterbender Ascension
@@ -78,17 +78,17 @@ Commander
 1 Evacuation
 1 Become Anonymous
 1 Octopus Form
-1 Dig Through Time
 1 Spell Snare
-1 Negate
+1 Dig Through Time
 1 Aetherize
-1 Energybending
+1 Negate
 1 Counterspell
 1 Case the Joint
+1 Energybending
 1 Curate
 1 Environmental Sciences
 1 Treasure Cruise
 1 Deep Analysis
 1 Splash Portal
-1 Solve the Equation
 1 Baral's Expertise
+1 Solve the Equation

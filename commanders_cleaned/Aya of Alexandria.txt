@@ -39,31 +39,28 @@ Commander
 1 Solemn Simulacrum
 1 Mangara, the Diplomat
 1 Loran of the Third Path
-1 Helpful Hunter
 1 Arabella, Abandoned Doll
 1 Molten Gatekeeper
 1 Sting-Slinger
 1 Senu, Keen-Eyed Protector
+1 Rosie Cotton of South Lane
+1 Ezio, Brash Novice
+1 Alexios, Deimos of Kosmos
+1 Aurelia, the Warleader
+1 Bre of Clan Stoutarm
+1 Laelia, the Blade Reforged
 1 Rubble Rouser
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Rosie Cotton of South Lane
-1 Ezio, Brash Novice
+1 Storm-Kiln Artist
 1 Akki Rockspeaker
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
 1 Cathodion
-1 Storm-Kiln Artist
+1 Shepherding Spirits
 1 Fire Nation Cadets
 1 Soulbright Seeker
-1 Zuko, Exiled Prince
-1 Rough Rhino Cavalry
-1 Alexios, Deimos of Kosmos
-1 Shepherding Spirits
-1 Angel of the Ruins
-1 Alena, Kessig Trapper
-1 Bedhead Beastie
 1 Arcane Signet
 1 Sol Ring
 1 Boros Signet
@@ -81,10 +78,11 @@ Commander
 1 Caduceus, Staff of Hermes
 1 Origin of the Hidden Ones
 1 Impact Tremors
-1 Cool but Rude
 1 Reconnaissance
-1 Thrill of Possibility
+1 Cool but Rude
 1 Dawn's Truce
+1 Thrill of Possibility
+1 Big Score
 1 Path to Exile
 1 Swords to Plowshares
 1 Generous Gift
@@ -93,6 +91,8 @@ Commander
 1 Boros Charm
 1 Teferi's Protection
 1 Chaos Warp
+1 Pyrrhic Strike
+1 Duty Beyond Death
 1 Faithless Looting
 1 Processor Assault
 1 Blasphemous Act

@@ -41,28 +41,26 @@ Lands
 
 Creatures
 1 Loran of the Third Path
-1 Helpful Hunter
 1 Mangara, the Diplomat
+1 Helpful Hunter
 1 Asmodeus the Archfiend
 1 Ayli, Eternal Pilgrim
 1 Elenda, Saint of Dusk
 1 Zetalpa, Primal Dawn
 1 Dominator Drone
+1 Baird, Steward of Argive
+1 Gonti, Lord of Luxury
+1 Syr Vondam, Sunstar Exemplar
+1 Tymaret, Chosen from Death
+1 Syr Alin, the Lion's Claw
 1 Page, Loose Leaf
+1 Mavren Fein, Dusk Apostle
 1 Halo Scarab
 1 Cathodion
 1 Dimir House Guard
 1 Azula, On the Hunt
-1 Syr Vondam, Sunstar Exemplar
-1 Shadowborn Apostle
-1 Baird, Steward of Argive
-1 The Rise of Sozin // Fire Lord Sozin
 1 Shepherding Spirits
-1 Gonti, Lord of Luxury
-1 Canyon Crawler
 1 Angel of the Ruins
-1 Vile Entomber
-1 Tymaret, Chosen from Death
 
 Artifacts
 1 Sol Ring
@@ -70,19 +68,19 @@ Artifacts
 1 Orzhov Signet
 1 Mind Stone
 1 Fellwar Stone
-1 Expedition Map
 1 Thought Vessel
+1 Expedition Map
+1 Thran Dynamo
 1 All-Fates Scroll
 1 Coveted Jewel
-1 Ominous Parcel
 1 Found Footage
 1 Swiftfoot Boots
 1 Sinister Monolith
 1 Halo Fountain
-1 Wishclaw Talisman
 1 Hero's Blade
 1 Whip of Erebos
-1 Thran Dynamo
+1 Helm of the Host
+1 Wishclaw Talisman
 
 Enchantments
 1 Greed
@@ -92,24 +90,26 @@ Instants
 1 Nasty End
 1 Energybending
 1 Mortify
-1 Path to Exile
 1 Swords to Plowshares
-1 Complete Disregard
+1 Path to Exile
 1 Murder
+1 Complete Disregard
+1 Dark Ritual
+1 Disenchant
+1 Teferi's Protection
 1 Doom Blade
+1 Make a Stand
+1 Generous Gift
 
 Sorceries
 1 Cut a Deal
-1 Tempt with Bunnies
+1 Diabolic Tutor
 1 Dusk // Dawn
 1 Damning Verdict
 1 Decree of Pain
-1 Diabolic Tutor
-1 Buried Alive
 1 Razaketh's Rite
+1 Buried Alive
 1 Brainspoil
-1 Psychic Whorl
-1 Transgress the Mind
 
 Other
 1 Kaya, Bane of the Dead

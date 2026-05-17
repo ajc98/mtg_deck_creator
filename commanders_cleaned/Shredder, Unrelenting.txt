@@ -34,64 +34,64 @@ Commander
 1 Solemn Simulacrum
 1 Oroku Saki, Shredder Rising
 1 Callous Inspector
-1 Survey Mechan
 1 Morbid Opportunist
 1 Poisoner's Apprentice
 1 The Rise of Sozin // Fire Lord Sozin
-1 Knight of Malice
+1 Survey Mechan
 1 Crypt Ghast
 1 Dream Beavers
 1 Gray Merchant of Asphodel
-1 Dimir House Guard
-1 Shadowborn Apostle
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Vile Entomber
-1 Canyon Crawler
+1 Squirrelanoids
 1 Ulna Alley Shopkeep
 1 Tunnel Rats
-1 Cathodion
-1 Squirrelanoids
-1 Azula, On the Hunt
 1 Super Shredder
+1 Massacre Wurm
+1 Hog-Monkey
+1 Vampire Nighthawk
+1 Dimir House Guard
+1 Scarblade Scout
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
 1 Bender's Waterskin
 1 Mind Stone
 1 Sword of Hearth and Home
-1 Expedition Map
-1 All-Fates Scroll
-1 Found Footage
+1 Heraldic Banner
+1 Gilded Lotus
 1 Swiftfoot Boots
 1 Bolas's Citadel
 1 Shredder's Armor
-1 Wishclaw Talisman
 1 Hall of Triumph
 1 Omni-Cheese Pizza
-1 Heraldic Banner
 1 Greed
+1 Waste Not
 1 Necropotence
 1 Fell the Profane // Fell Mire
 1 Eviscerator's Insight
 1 Sold Out
 1 Locust Spray
+1 Deadly Dispute
 1 Stomped by the Foot
 1 Murder
 1 Doom Blade
 1 Last Gasp
 1 Alesha's Legacy
 1 Pain 101
+1 Dark Ritual
+1 Gravkill
+1 Zuko's Conviction
+1 Foolish Fate
 1 Cabal Ritual
-1 Environmental Sciences
+1 Give In to Violence
+1 Azula Always Lies
+1 Blight Rot
 1 Shredder's Revenge
 1 Shredder's Technique
 1 Feed the Swarm
 1 Decree of Pain
-1 Buried Alive
-1 Psychic Whorl
-1 Razaketh's Rite
 1 Pull from the Grave
-1 Brainspoil
-1 Diabolic Tutor
+1 Ruinous Waterbending
+1 Worthy Cost
+1 Bubbling Muck
+1 Psychic Whorl
 1 Liliana of the Dark Realms

@@ -34,48 +34,47 @@ Creatures
 1 Solemn Simulacrum
 1 Rune-Scarred Demon
 1 Dread Presence
-1 Survey Mechan
+1 Morbid Opportunist
 1 Meteor Golem
+1 Survey Mechan
 1 Plaguecrafter
 1 Accursed Marauder
 1 Knight of Malice
 1 Iron-Shield Elf
 1 Gray Merchant of Asphodel
 1 Crypt Ghast
+1 Viscera Seer
+1 Burnished Hart
+1 Massacre Wurm
+1 Gonti, Night Minister
+1 Beamsaw Prospector
+1 Vile Entomber
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Burnished Hart
-1 Vile Entomber
-1 Cathodion
 1 Dimir House Guard
-1 Azula, On the Hunt
-1 Shadowborn Apostle
-1 The Rise of Sozin // Fire Lord Sozin
-1 Beamsaw Prospector
-1 Viscera Seer
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
-1 Expedition Map
 1 Fellwar Stone
+1 Expedition Map
 1 Thought Vessel
 1 Sword of Hearth and Home
-1 Found Footage
 1 Swiftfoot Boots
-1 Wishclaw Talisman
+1 Helm of the Host
 1 Thran Dynamo
-1 Hedron Archive
+1 Wishclaw Talisman
 1 Coveted Jewel
+1 Hedron Archive
 1 Gilded Lotus
-1 All-Fates Scroll
 
 Enchantments
 1 Greed
 1 Meathook Massacre II
-1 Necropotence
 1 Kaya's Ghostform
+1 Necropotence
+1 Black Market
 
 Instants
 1 Village Rites
@@ -84,18 +83,19 @@ Instants
 1 Corrupted Conviction
 1 Saw in Half
 1 Complete Disregard
+1 Hero's Downfall
 1 Grip of Desolation
-1 Deal Gone Bad
-1 Darkblast
 1 Not Dead After All
 1 Undying Malice
-1 Fake Your Own Death
 1 Dark Ritual
+1 Fake Your Own Death
+1 Rescue from the Underworld
 1 Cabal Ritual
 
 Sorceries
 1 Scrounge for Eternity
 1 Decree of Pain
+1 Cruelclaw's Heist
 1 Feed the Swarm
 1 Exsanguinate
 1 Buried Alive

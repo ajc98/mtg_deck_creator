@@ -48,11 +48,11 @@ Creatures
 1 Halo Scarab
 1 Cathodion
 1 Appa, Steadfast Guardian
-1 Gathering Throng
 1 Aang, the Last Airbender
-1 Hare Apparent
+1 Gathering Throng
 1 Veteran Survivor
 1 Expendable Lackey
+1 Hare Apparent
 
 Artifacts
 1 Expedition Map
@@ -67,8 +67,8 @@ Artifacts
 1 Halo Fountain
 1 Magnifying Glass
 1 Bender's Waterskin
-1 Oblivion Stone
 1 Hedron Archive
+1 Oblivion Stone
 
 Enchantments
 1 Banishing Light
@@ -87,10 +87,10 @@ Instants
 1 Titan's Presence
 1 Become Anonymous
 1 Dig Through Time
-1 Dawn's Truce
-1 Thirst for Identity
 1 Summary Dismissal
 1 Octopus Form
+1 Dawn's Truce
+1 Thirst for Identity
 1 Pull from Tomorrow
 
 Sorceries
@@ -105,6 +105,6 @@ Sorceries
 1 Solve the Equation
 1 Ponder
 1 Tempt with Bunnies
+1 Preordain
 1 Compulsive Research
 1 Teachings of the Archaics
-1 Divination

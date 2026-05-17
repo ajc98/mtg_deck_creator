@@ -42,27 +42,21 @@ Commander
 1 Nettle Guard
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Flowerfoot Swordmaster
 1 Manifold Mouse
-1 Whiskervale Forerunner
-1 Steelburr Champion
-1 Brambleguard Captain
-1 Emberheart Challenger
-1 Brave-Kin Duo
 1 Heartfire Hero
+1 Whiskervale Forerunner
+1 Brambleguard Captain
+1 Flowerfoot Swordmaster
+1 Emberheart Challenger
 1 Mouse Trapper
-1 Thistledown Players
-1 Roughshod Duo
+1 Steelburr Champion
 1 Veteran Guardmouse
+1 Thistledown Players
 1 Valley Questcaller
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Storm-Kiln Artist
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Cathodion
+1 Roughshod Duo
+1 Brave-Kin Duo
+1 Valley Flamecaller
+1 Three Tree Mascot
 1 Sol Ring
 1 Arcane Signet
 1 Patchwork Banner
@@ -72,30 +66,36 @@ Commander
 1 Sword of Hearth and Home
 1 Fountainport Bell
 1 Expedition Map
-1 Found Footage
+1 Heirloom Epic
 1 Swiftfoot Boots
 1 Sword of the Squeak
 1 Short Bow
+1 Basilisk Collar
+1 Thought Vessel
 1 Feather of Flight
+1 Banishing Light
 1 Cool but Rude
 1 War Squeak
+1 Echoing Assault
 1 Might of the Meek
 1 Dawn's Truce
-1 Thrill of Possibility
 1 Sazacap's Brew
+1 Thrill of Possibility
 1 Swords to Plowshares
 1 Path to Exile
 1 Repel Calamity
 1 Generous Gift
-1 Take Out the Trash
 1 Boros Charm
 1 Crumb and Get It
 1 Mabel's Mettle
 1 Valley Rally
+1 Rabid Gnaw
+1 Parting Gust
+1 Chaos Warp
 1 Dewdrop Cure
-1 Cut a Deal
 1 Playful Shove
-1 Processor Assault
+1 Cut a Deal
+1 Agate Assault
 1 Blasphemous Act
 1 Dusk // Dawn
 1 Elspeth, Sun's Champion

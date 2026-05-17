@@ -36,23 +36,20 @@ Creatures
 1 Mentor of the Meek
 1 Jacked Rabbit
 1 Survey Mechan
-1 Knight of Grace
+1 Boss's Chauffeur
+1 Academy Manufactor
+1 Ainok Bond-Kin
 1 Eastfarthing Farmer
+1 Sun Titan
+1 Bill the Pony
+1 Cat Collector
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Cat Collector
-1 Cathodion
-1 Bill the Pony
-1 Ainok Bond-Kin
 1 Stone Docent
-1 Shepherding Spirits
-1 Academy Manufactor
-1 Angel of the Ruins
-1 Boss's Chauffeur
-1 Helpful Hunter
-1 Hare Apparent
 1 Metastatic Evangel
-1 Gathering Throng
+1 Cathodion
+1 Exalted Sunborn
+1 Shepherding Spirits
 
 Artifacts
 1 Sol Ring
@@ -60,38 +57,42 @@ Artifacts
 1 Mind Stone
 1 Fellwar Stone
 1 Thought Vessel
-1 Expedition Map
 1 Goldvein Pick
 1 Heraldic Banner
 1 Magnifying Glass
-1 All-Fates Scroll
+1 Springleaf Drum
+1 Expedition Map
 1 Idol of Oblivion
 1 Skullclamp
 1 Halo Fountain
 1 Found Footage
-1 Ominous Parcel
 1 Swiftfoot Boots
 1 Carrot Cake
-1 Oblivion Stone
 1 Noble's Purse
+1 Bumbleflower's Sharepot
+1 The Ozolith
 
 Enchantments
 1 Felidar Retreat
-1 Builder's Talent
-1 Charitable Levy
 1 Monologue Tax
+1 Builder's Talent
+1 Endless Foot Assault
+1 Clachan Festival
+1 Uneasy Alliance
 
 Instants
 1 Dawn's Truce
-1 Path to Exile
 1 Swords to Plowshares
+1 Path to Exile
 1 Generous Gift
 1 Stroke of Midnight
 1 Disenchant
+1 Ajani's Response
 1 Rootborn Defenses
-1 Second Breakfast
 1 Teferi's Protection
-1 Energybending
+1 Second Breakfast
+1 Duty Beyond Death
+1 Thraben Charm
 
 Sorceries
 1 Cut a Deal
@@ -101,7 +102,6 @@ Sorceries
 1 Damning Verdict
 1 Martial Coup
 1 Hop to It
-1 Dismantling Wave
 
 Other
 1 Elspeth, Sun's Champion

@@ -32,8 +32,8 @@ Commander
 7 Swamp
 1 Solemn Simulacrum
 1 Dread Presence
+1 Morbid Opportunist
 1 Survey Mechan
-1 Asmodeus the Archfiend
 1 Plaguecrafter
 1 Accursed Marauder
 1 Knight of Malice
@@ -41,55 +41,55 @@ Commander
 1 Gray Merchant of Asphodel
 1 Crypt Ghast
 1 Burnished Hart
+1 Virus Beetle
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Cathodion
-1 Azula, On the Hunt
-1 The Rise of Sozin // Fire Lord Sozin
+1 Vampire Nighthawk
 1 Dimir House Guard
-1 Shadowborn Apostle
-1 Virus Beetle
+1 Gnat Miser
+1 Azula, On the Hunt
+1 Viscera Seer
 1 Sol Ring
 1 Arcane Signet
 1 Thran Dynamo
 1 Mind Stone
 1 Thought Vessel
 1 Expedition Map
-1 Fellwar Stone
 1 Gilded Lotus
+1 Fellwar Stone
 1 Wishclaw Talisman
-1 Found Footage
+1 Skullclamp
 1 Swiftfoot Boots
 1 Bolas's Citadel
-1 Hedron Archive
 1 Heraldic Banner
-1 All-Fates Scroll
+1 Hedron Archive
+1 Entropic Battlecruiser
 1 Waste Not
 1 Greed
+1 Vampiric Rites
 1 Necropotence
+1 Midnight Snack
+1 Sothera, the Supervoid
 1 Village Rites
+1 Corrupted Conviction
 1 Doom Blade
+1 Murder
 1 Grasp of Darkness
 1 Complete Disregard
 1 Grip of Desolation
-1 Deal Gone Bad
-1 Murder
 1 Dark Ritual
 1 Cabal Ritual
-1 Deadly Dispute
-1 Razaketh's Rite
 1 Diabolic Tutor
 1 Feed the Swarm
 1 Decree of Pain
 1 Exsanguinate
 1 Duress
-1 Buried Alive
+1 Bubbling Muck
+1 Corrupt
+1 Razaketh's Rite
 1 Agonizing Remorse
 1 Extract the Truth
 1 Stargaze
-1 Psychic Whorl
-1 Brainspoil
-1 Bubbling Muck
-1 Transgress the Mind
-1 Gravedig
+1 Buried Alive
 1 Liliana of the Dark Realms

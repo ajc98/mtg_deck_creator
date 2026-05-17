@@ -47,11 +47,12 @@ Creatures
 1 The Rise of Sozin // Fire Lord Sozin
 1 Survey Mechan
 1 Knight of Malice
-1 Iron-Shield Elf
 1 Kardur, Doomscourge
+1 Alexios, Deimos of Kosmos
 1 Rubble Rouser
-1 Page, Loose Leaf
 1 Dimir House Guard
+1 Demonic Taskmaster
+1 Page, Loose Leaf
 1 Akki Rockspeaker
 1 Fire Sages
 1 Jeong Jeong, the Deserter
@@ -59,16 +60,7 @@ Creatures
 1 Flamecache Gecko
 1 Brazen Collector
 1 Cathodion
-1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Fire Lord Azula
-1 Zuko, Exiled Prince
-1 Azula, On the Hunt
 1 Storm-Kiln Artist
-1 Alexios, Deimos of Kosmos
-1 Rough Rhino Cavalry
-1 Azula, Cunning Usurper
-1 Canyon Crawler
 
 Artifacts
 1 Arcane Signet
@@ -78,39 +70,47 @@ Artifacts
 1 Coveted Jewel
 1 Mind Stone
 1 Thought Vessel
+1 Chromatic Lantern
 1 Wishclaw Talisman
 1 Found Footage
+1 Swiftfoot Boots
 1 Sinister Monolith
-1 Chromatic Lantern
 
 Enchantments
 1 Demonic Pact
 1 Case of the Crimson Pulse
+1 Propaganda
+1 Shiny Impetus
+1 Curse of Opulence
 
 Instants
 1 Fell the Profane // Fell Mire
 1 Arcane Denial
 1 Frantic Search
 1 Case the Joint
-1 Take Out the Trash
+1 Abrade
 1 Foolish Fate
 1 Complete Disregard
-1 Sear
-1 Hero's Downfall
-1 Maestros Charm
+1 Take Out the Trash
 1 Lithobraking
-1 Hazel's Nocturne
+1 Maestros Charm
 1 Chaos Warp
+1 Counterspell
+1 An Offer You Can't Refuse
+1 Negate
+1 Dark Ritual
+1 Run Away Together
+1 Thrill of Possibility
+1 Aetherize
 
 Sorceries
+1 Faithless Looting
 1 Feed the Swarm
 1 Processor Assault
 1 Blasphemous Act
 1 Exsanguinate
 1 Harmless Offering
 1 Buried Alive
-1 Razaketh's Rite
-1 Brainspoil
 
 Other
 1 Ob Nixilis Reignited

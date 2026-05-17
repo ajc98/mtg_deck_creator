@@ -31,21 +31,14 @@ Commander
 1 Oliphaunt
 1 Survey Mechan
 1 Guttersnipe
+1 Magda, the Hoardmaster
 1 Halo Scarab
 1 Page, Loose Leaf
+1 Razorkin Needlehead
 1 Cathodion
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Zuko, Exiled Prince
 1 Bedhead Beastie
-1 Fire Nation Cadets
-1 Soulbright Seeker
-1 Magda, the Hoardmaster
-1 Alena, Kessig Trapper
-1 Hoarding Dragon
-1 Rough Rhino Cavalry
+1 Zuko, Exiled Prince
+1 Akki Rockspeaker
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -57,18 +50,19 @@ Commander
 1 Bilbo's Ring
 1 Sword of Hearth and Home
 1 Gimli's Axe
+1 Basilisk Collar
 1 Fellwar Stone
 1 Patchwork Banner
 1 Thought Vessel
-1 Basilisk Collar
-1 All-Fates Scroll
-1 Magnifying Glass
-1 Bender's Waterskin
 1 Case of the Crimson Pulse
 1 Fires of Mount Doom
-1 Maximum Carnage
 1 Impact Tremors
+1 Maximum Carnage
+1 Gratuitous Violence
 1 Cool but Rude
+1 Shiny Impetus
+1 Curse of Opulence
+1 Sticky Fingers
 1 Thrill of Possibility
 1 Big Score
 1 Starstorm
@@ -81,10 +75,16 @@ Commander
 1 Shock
 1 Lithobraking
 1 Chaos Warp
+1 Electrodominance
+1 Tweeze
+1 Bolt Bend
+1 Reckless Ransacking
 1 Faithless Looting
 1 Playful Shove
 1 Processor Assault
 1 Blasphemous Act
 1 Boltwave
 1 Fear, Fire, Foes!
+1 Mana Geyser
+1 Fire of Orthanc
 1 Burning Curiosity

@@ -42,32 +42,34 @@ Creatures
 1 Triskaidekaphile
 1 Psychosis Crawler
 1 Survey Mechan
-1 Kefnet the Mindful
 1 Twenty-Toed Toad
+1 Arcanis the Omnipotent
+1 Chasm Skulker
+1 Archmage of Runes
 1 Page, Loose Leaf
 1 Halo Scarab
+1 Harbinger of the Seas
+1 Haughty Djinn
 1 Emrakul's Messenger
 1 Cathodion
 1 Burnished Hart
-1 Chasm Skulker
+1 Body of Knowledge
 1 Aether Channeler
+1 Mischievous Mystic
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Thought Vessel
 1 Mind Stone
-1 Fellwar Stone
 1 Gilded Lotus
+1 Fellwar Stone
 1 Thran Dynamo
-1 Expedition Map
 1 Hedron Archive
+1 Expedition Map
 1 Swiftfoot Boots
 1 Sapphire Medallion
 1 Heraldic Banner
-1 Oblivion Stone
-1 Found Footage
-1 All-Fates Scroll
 
 Enchantments
 1 Wizard Class
@@ -81,29 +83,27 @@ Instants
 1 Pongify
 1 Rapid Hybridization
 1 Unsummon
+1 Sublime Epiphany
 1 Out of the Way
-1 Whoosh!
 1 Into the Roil
+1 Whoosh!
 1 Evacuation
 1 Become Anonymous
 1 Counterspell
-1 Pull from Tomorrow
 1 Negate
-1 Dig Through Time
 1 Aetherize
-1 Run Away Together
-1 Refute
 1 An Offer You Can't Refuse
 1 Narset's Reversal
-1 Disdainful Stroke
-1 Think Twice
-1 Energybending
+1 Pull from Tomorrow
+1 Dig Through Time
+1 Run Away Together
+1 Refute
 
 Sorceries
 1 Preordain
 1 Ponder
 1 Solve the Equation
+1 Curse of the Swine
+1 Treasure Cruise
 1 Divination
 1 Finale of Revelation
-1 Chart a Course
-1 Treasure Cruise

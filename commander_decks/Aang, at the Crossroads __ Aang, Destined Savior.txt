@@ -44,9 +44,9 @@ Creatures
 1 Raucous Audience
 1 Cathodion
 1 Aang, Swift Savior // Aang and La, Ocean's Fury
+1 Shepherding Spirits
 1 Knight of Grace
 1 Jackdaw Savior
-1 Shepherding Spirits
 1 Saber-Tooth Moose-Lion
 1 Aang, the Last Airbender
 1 Gathering Throng
@@ -55,8 +55,8 @@ Creatures
 1 Helpful Hunter
 1 Loot, Exuberant Explorer
 1 Blanchwood Prowler
-1 Exosuit Savior
-1 Spinner of Souls
+1 Veteran Survivor
+1 Expendable Lackey
 
 Artifacts
 1 Expedition Map
@@ -87,11 +87,11 @@ Instants
 1 Titan's Presence
 1 Snakeskin Veil
 1 Become Anonymous
+1 Dig Through Time
 1 Midnight Tilling
 1 Cache Grab
-1 Dig Through Time
-1 Lull
 1 Summary Dismissal
+1 Lull
 
 Sorceries
 1 Suppression Ray // Orderly Plaza

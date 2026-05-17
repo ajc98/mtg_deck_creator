@@ -34,7 +34,6 @@ Commander
 1 Windswept Heath
 1 The Fair Basilica
 1 Contaminated Landscape
-1 Demolition Field
 1 Island
 1 Swamp
 1 Plains
@@ -44,37 +43,34 @@ Commander
 1 Chasm Skulker
 1 Triskaidekaphile
 1 The Rise of Sozin // Fire Lord Sozin
-1 Knight of Grace
 1 Marauding Blight-Priest
 1 Starscape Cleric
 1 Vengeful Dead
+1 Body of Knowledge
+1 Loran of the Third Path
+1 Kwain, Itinerant Meddler
+1 Mischievous Mystic
+1 Dimir House Guard
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Dimir House Guard
-1 Forerunner of the Coalition
-1 Cathodion
-1 Azula, On the Hunt
-1 Azula, Cunning Usurper
-1 Angel of the Ruins
-1 Canyon Crawler
-1 Shepherding Spirits
-1 Shattered Seraph
-1 Kwain, Itinerant Meddler
 1 Sol Ring
 1 Arcane Signet
 1 Thought Vessel
 1 Talisman of Progress
 1 Azorius Signet
-1 Mind Stone
-1 Fellwar Stone
 1 Orzhov Signet
+1 Fellwar Stone
+1 Mind Stone
 1 Swiftfoot Boots
+1 Bolas's Citadel
 1 Chromatic Lantern
 1 Wizard Class
-1 Exquisite Blood
-1 Sanguine Bond
 1 Propaganda
+1 Sanguine Bond
 1 Ghostly Prison
+1 Exquisite Blood
+1 Greed
+1 Dictate of Kruphix
 1 Frantic Search
 1 Arcane Denial
 1 Opt
@@ -82,21 +78,25 @@ Commander
 1 Path to Exile
 1 Void Rend
 1 Generous Gift
+1 Obscura Charm
+1 Mortify
 1 Complete Disregard
 1 Teferi's Protection
 1 Counterspell
 1 Negate
+1 An Offer You Can't Refuse
+1 Dark Ritual
 1 Pull from Tomorrow
 1 Tainted Indulgence
+1 Consider
+1 Refute
+1 Sphinx's Revelation
 1 Suppression Ray // Orderly Plaza
 1 Ponder
 1 Preordain
 1 Time Wipe
 1 Dusk // Dawn
-1 Blood Tithe
 1 Diabolic Tutor
 1 Cut a Deal
-1 Buried Alive
-1 Brainspoil
-1 Razaketh's Rite
+1 Finale of Revelation
 1 Kaya, Bane of the Dead

@@ -38,64 +38,63 @@ Commander
 1 Solemn Simulacrum
 1 Loyal Warhound
 1 Loran of the Third Path
+1 Spirited Companion
 1 Helpful Hunter
 1 Asmodeus the Archfiend
-1 Sky Crier
-1 Spirited Companion
 1 Knight of Grace
-1 Purging Stormbrood // Absorb Essence
 1 Gray Merchant of Asphodel
-1 Glidedive Duo
 1 Xu-Ifit, Osteoharmonist
 1 Charming Prince
+1 Restoration Angel
+1 Sun Titan
+1 Desecration Demon
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Cathodion
-1 Restoration Angel
+1 Skyclave Apparition
 1 Dimir House Guard
-1 Azula, On the Hunt
-1 Shadowborn Apostle
-1 The Rise of Sozin // Fire Lord Sozin
+1 Cathodion
 1 Shepherding Spirits
-1 Sun Titan
-1 Canyon Crawler
 1 Angel of the Ruins
-1 Vile Entomber
-1 Daggerdrome Imp
+1 Canyon Crawler
+1 Appa, Steadfast Guardian
+1 Azula, On the Hunt
 1 Arcane Signet
 1 Sol Ring
 1 Orzhov Signet
 1 Fellwar Stone
-1 Mind Stone
 1 Sword of Hearth and Home
+1 Mind Stone
 1 Thought Vessel
 1 Bender's Waterskin
 1 Found Footage
 1 Swiftfoot Boots
+1 Bolas's Citadel
 1 Wishclaw Talisman
 1 Greed
 1 Lunar Convocation
 1 Airbender Ascension
+1 Sanguine Bond
 1 Dawn's Truce
-1 Energybending
+1 Deadly Dispute
 1 Swords to Plowshares
 1 Path to Exile
 1 Personify
 1 Generous Gift
-1 Complete Disregard
 1 Stroke of Midnight
-1 Purging Stormbrood // Absorb Essence
+1 Complete Disregard
+1 Teferi's Protection
 1 Not Dead After All
 1 Parting Gust
-1 Deadly Dispute
 1 Dark Ritual
 1 Cut a Deal
+1 Secret Rendezvous
 1 Damning Verdict
 1 Dusk // Dawn
 1 Decree of Pain
-1 Buried Alive
+1 Morningtide's Light
 1 Razaketh's Rite
+1 Buried Alive
 1 Brainspoil
-1 Diabolic Tutor
-1 Secret Rendezvous
+1 Another Round
+1 Feed the Swarm
 1 Kaya, Bane of the Dead

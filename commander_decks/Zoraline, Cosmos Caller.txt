@@ -41,29 +41,26 @@ Lands
 
 Creatures
 1 Moonstone Eulogist
-1 Helpful Hunter
 1 Starscape Cleric
 1 Mirkwood Bats
 1 Marauding Blight-Priest
 1 Glidedive Duo
-1 Essence Channeler
 1 Lifecreed Duo
-1 Starseer Mentor
-1 Moonrise Cleric
-1 Starlit Soothsayer
+1 Essence Channeler
 1 Darkstar Augur
 1 Star Charter
-1 Malakir Familiar
+1 Moonrise Cleric
+1 Starlit Soothsayer
+1 Starseer Mentor
 1 Wax-Wane Witness
-1 Page, Loose Leaf
-1 Halo Scarab
-1 Cathodion
+1 Malakir Familiar
 1 Valley Questcaller
-1 Dimir House Guard
-1 Azula, On the Hunt
 1 Momo, Friendly Flier
-1 Shadowborn Apostle
-1 The Rise of Sozin // Fire Lord Sozin
+1 Skeletal Vampire
+1 Bloodhunter Bat
+1 Blood Artist
+1 Jackdaw Savior
+1 Page, Loose Leaf
 
 Artifacts
 1 Sol Ring
@@ -72,44 +69,45 @@ Artifacts
 1 Patchwork Banner
 1 Mind Stone
 1 Fellwar Stone
-1 Expedition Map
-1 Fountainport Bell
 1 Thought Vessel
+1 Fountainport Bell
+1 Expedition Map
 1 All-Fates Scroll
 1 Sinister Monolith
-1 Found Footage
 1 Skullclamp
 1 Swiftfoot Boots
-1 Wishclaw Talisman
 
 Enchantments
 1 Lunar Convocation
 1 Banishing Light
 1 Sanguine Bond
+1 Exquisite Blood
+1 Ripples of Undeath
 
 Instants
 1 Dawn's Truce
 1 Deadly Dispute
+1 Village Rites
+1 Consumed by Greed
 1 Swords to Plowshares
 1 Path to Exile
 1 Mortify
 1 Generous Gift
-1 Complete Disregard
 1 Crumb and Get It
+1 Teferi's Protection
 1 Sonar Strike
+1 Hazel's Nocturne
+1 Dark Ritual
 
 Sorceries
 1 Diresight
-1 Cut a Deal
+1 Dewdrop Cure
 1 Fell
+1 Feed the Swarm
 1 Dusk // Dawn
 1 Fumigate
 1 Damning Verdict
+1 Stargaze
+1 Exsanguinate
 1 Buried Alive
 1 Diabolic Tutor
-1 Stargaze
-1 Razaketh's Rite
-1 Brainspoil
-
-Other
-1 Kaya, Bane of the Dead

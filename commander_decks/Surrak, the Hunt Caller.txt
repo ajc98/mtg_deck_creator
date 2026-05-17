@@ -37,44 +37,43 @@ Creatures
 1 Fierce Empath
 1 Reclamation Sage
 1 Survey Mechan
-1 Archetype of Endurance
-1 Page, Loose Leaf
-1 Thornvault Forager
-1 Goreclaw, Terror of Qal Sisma
-1 Halo Scarab
+1 Predator Ooze
 1 Ghalta, Primal Hunger
-1 Courier of Comestibles
-1 Cathodion
-1 End-Raze Forerunners
-1 Slavering Branchsnapper
-1 Shopkeeper's Bane
+1 Goreclaw, Terror of Qal Sisma
 1 Terastodon
 1 Gigantosaurus
+1 Rampaging Baloths
+1 Quakestrider Ceratops
+1 Shopkeeper's Bane
+1 Pelakka Wurm
+1 Apex Devastator
+1 End-Raze Forerunners
+1 Elvish Regrower
+1 Vizier of the Menagerie
+1 Page, Loose Leaf
+1 Heroes' Bane
+1 Thornvault Forager
 
 Artifacts
 1 Sol Ring
-1 Mind Stone
 1 Arcane Signet
-1 Expedition Map
+1 Mind Stone
+1 Hedron Archive
 1 Swiftfoot Boots
+1 Emerald Medallion
 1 Heraldic Banner
 1 Thought Vessel
-1 Hedron Archive
 1 All-Fates Scroll
-1 Fellwar Stone
-1 Magnifying Glass
-1 Bender's Waterskin
-1 Evolving Door
-1 Coveted Jewel
-1 Oblivion Stone
-1 Emerald Medallion
-1 Found Footage
+1 Sledge-Class Seedship
 
 Enchantments
 1 Garruk's Uprising
 1 Greater Good
 1 Wild Growth
+1 Unnatural Growth
 1 Hunter's Talent
+1 Ordeal of Nylea
+1 Primeval Bounty
 
 Instants
 1 Return of the Wildspeaker
@@ -86,7 +85,6 @@ Instants
 1 Snakeskin Veil
 1 Bite Down
 1 Cycle of Renewal
-1 Midnight Tilling
 1 Giant Growth
 
 Sorceries
@@ -94,11 +92,13 @@ Sorceries
 1 Bushwhack
 1 Tempt with Discovery
 1 Harmonize
-1 Explore
 1 Shamanic Revelation
+1 Explore
 1 Cultivate
+1 Overrun
 1 Primal Might
 1 Circuitous Route
+1 Grow from the Ashes
 
 Other
 1 Vivien Reid

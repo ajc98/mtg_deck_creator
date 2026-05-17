@@ -37,18 +37,17 @@ Commander
 1 Westfold Rider
 1 Museum Nightwatch
 1 Knight of Grace
-1 Page, Loose Leaf
-1 Halo Scarab
 1 Skyclave Apparition
-1 Cathodion
-1 Rosie Cotton of South Lane
 1 Inside Source
 1 Mage's Attendant
-1 Lifecreed Duo
 1 Healer's Hawk
+1 Rosie Cotton of South Lane
+1 Lifecreed Duo
+1 Emeria Shepherd
+1 Page, Loose Leaf
+1 Halo Scarab
+1 Cathodion
 1 Shepherding Spirits
-1 Dalkovan Packbeasts
-1 Hare Apparent
 1 Sword of Hearth and Home
 1 Goldvein Pick
 1 Sol Ring
@@ -59,15 +58,15 @@ Commander
 1 Halo Fountain
 1 Found Footage
 1 Carrot Cake
+1 Fishing Pole
+1 Orochi Hatchery
+1 Maskwood Nexus
 1 All-Fates Scroll
 1 Fellwar Stone
-1 Orochi Hatchery
 1 Magnifying Glass
-1 Fishing Pole
 1 Bender's Waterskin
-1 Maskwood Nexus
 1 Oblivion Stone
-1 Hedron Archive
+1 Coveted Jewel
 1 Banishing Light
 1 Sheltered by Ghosts
 1 Clachan Festival
@@ -84,6 +83,7 @@ Commander
 1 Parting Gust
 1 Boon of Safety
 1 Riot Control
+1 Swords to Plowshares
 1 Cut a Deal
 1 Dismantling Wave
 1 Tempt with Bunnies

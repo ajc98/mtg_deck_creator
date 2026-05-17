@@ -54,18 +54,18 @@ Creatures
 1 Selfless Safewright
 1 Lathril, Blade of the Elves
 1 Dominator Drone
-1 Glen Elendra Guardian
 1 Bitterbloom Bearer
 1 Imperious Perfect
-1 Unwelcome Sprite
-1 Birds of Paradise
-1 Dimir House Guard
-1 Glamer Gifter
-1 Chomping Changeling
+1 Glen Elendra Guardian
 1 High Perfect Morcant
-1 Slavering Branchsnapper
-1 Morcant's Loyalist
+1 Chomping Changeling
 1 Virulent Emissary
+1 Morcant's Loyalist
+1 Eclipsed Elf
+1 Glamermite
+1 Glamer Gifter
+1 Birds of Paradise
+1 Unwelcome Sprite
 1 Nightmare Sower
 
 Artifacts
@@ -73,36 +73,36 @@ Artifacts
 1 Arcane Signet
 1 Fellwar Stone
 1 Chronicle of Victory
-1 Found Footage
 1 Skullclamp
+1 Found Footage
 1 Swiftfoot Boots
-1 Wishclaw Talisman
+1 Maskwood Nexus
 1 Firdoch Core
+1 Wishclaw Talisman
 1 Bender's Waterskin
 1 Patchwork Banner
 1 Talisman of Resilience
 1 Thought Vessel
 1 Mind Stone
-1 All-Fates Scroll
-1 Sultai Banner
-1 Magnifying Glass
 
 Enchantments
 1 Necropotence
 
 Instants
-1 Frantic Search
 1 Arcane Denial
-1 Case the Joint
+1 Frantic Search
 1 Growth Spiral
+1 Case the Joint
 1 Beast Within
+1 Unforgiving Aim
 1 Complete Disregard
-1 Grip of Desolation
 1 Glen Elendra's Answer
-1 Faebloom Trick
 1 Counterspell
 1 An Offer You Can't Refuse
 1 Galadhrim Ambush
+1 Faebloom Trick
+1 Dark Ritual
+1 Negate
 
 Sorceries
 1 Farseek
@@ -110,4 +110,4 @@ Sorceries
 1 Stolen by the Fae
 1 Trystan's Command
 1 Cultivate
-1 Brainspoil
+1 Bloodline Bidding

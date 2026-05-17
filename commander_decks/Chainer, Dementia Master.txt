@@ -37,8 +37,8 @@ Creatures
 1 Dread Presence
 1 Razaketh, the Foulblooded
 1 Rune-Scarred Demon
-1 Survey Mechan
 1 Meteor Golem
+1 Survey Mechan
 1 Plaguecrafter
 1 Accursed Marauder
 1 Knight of Malice
@@ -48,59 +48,59 @@ Creatures
 1 Viscera Seer
 1 Massacre Wurm
 1 K'rrik, Son of Yawgmoth
-1 Page, Loose Leaf
-1 Halo Scarab
 1 Carrion Feeder
 1 Blood Artist
-1 Cathodion
-1 Burnished Hart
-1 Azula, On the Hunt
 1 Zulaport Cutthroat
-1 The Rise of Sozin // Fire Lord Sozin
 1 Twilight Diviner
 1 Umbral Collar Zealot
-1 Dimir House Guard
+1 Burnished Hart
+1 Valgavoth, Terror Eater
+1 Page, Loose Leaf
+1 Halo Scarab
+1 Morbid Opportunist
+1 Cathodion
+1 Angel of Suffering
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
-1 Expedition Map
 1 Mind Stone
+1 Expedition Map
 1 Fellwar Stone
 1 Thought Vessel
 1 Gilded Lotus
-1 Found Footage
+1 Skullclamp
 1 Swiftfoot Boots
 1 Bolas's Citadel
-1 All-Fates Scroll
-1 Magnifying Glass
-1 Bender's Waterskin
+1 Whip of Erebos
+1 Spawning Pit
+1 Crucible of Worlds
 
 Enchantments
 1 Greed
 1 Necropotence
 1 Ripples of Undeath
+1 Black Market
+1 Grave Pact
 
 Instants
 1 Village Rites
 1 Deadly Dispute
+1 Saw in Half
 1 Complete Disregard
 1 Grip of Desolation
-1 Saw in Half
 1 Deal Gone Bad
-1 Darkblast
 1 Dark Ritual
 1 Cabal Ritual
 
 Sorceries
 1 Buried Alive
+1 Diresight
 1 Feed the Swarm
 1 Decree of Pain
 1 Exsanguinate
+1 Bubbling Muck
 1 Diabolic Tutor
-1 Diresight
-1 Psychic Whorl
-1 Razaketh's Rite
 
 Other
 1 Liliana of the Dark Realms

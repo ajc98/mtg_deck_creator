@@ -56,10 +56,11 @@ Creatures
 1 Soulbright Seeker
 1 Zuko, Exiled Prince
 1 Azula, On the Hunt
+1 Canyon Crawler
 1 Heirloom Auntie
 1 Rough Rhino Cavalry
 1 Mauhúr, Uruk-hai Captain
-1 Canyon Crawler
+1 Bedhead Beastie
 
 Artifacts
 1 Expedition Map
@@ -97,8 +98,7 @@ Sorceries
 1 Environmental Sciences
 1 Intimidation Tactics
 1 Processor Assault
-1 Buried Alive
 1 Razaketh's Rite
-1 Diabolic Tutor
+1 Buried Alive
 1 Brainspoil
-1 Transgress the Mind
+1 Diabolic Tutor

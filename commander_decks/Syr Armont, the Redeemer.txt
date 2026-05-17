@@ -37,7 +37,6 @@ Lands
 1 Desert of the Indomitable
 1 Demolition Field
 1 Ash Barrens
-1 Shire Terrace
 1 Maze's End
 1 Plains
 1 Forest
@@ -54,15 +53,12 @@ Creatures
 1 Thornvault Forager
 1 Elvish Archdruid
 1 Halo Scarab
+1 Slavering Branchsnapper
 1 Raucous Audience
 1 Cathodion
-1 Courier of Comestibles
-1 Slavering Branchsnapper
 1 Brightcap Badger // Fungus Frolic
-1 Avatar of the Resolute
+1 Courier of Comestibles
 1 Angel of the Ruins
-1 Shepherding Spirits
-1 Saber-Tooth Moose-Lion
 
 Artifacts
 1 Sol Ring
@@ -76,8 +72,7 @@ Artifacts
 1 Magnifying Glass
 1 Bender's Waterskin
 1 Coveted Jewel
-1 Hedron Archive
-1 Oblivion Stone
+1 Swiftfoot Boots
 
 Enchantments
 1 Angelic Gift
@@ -85,29 +80,34 @@ Enchantments
 1 Sheltered by Ghosts
 1 Unflinching Courage
 1 Wild Growth
+1 Ordeal of Nylea
+1 Lion Umbra
+1 Verdant Haven
+1 Angelic Destiny
 
 Instants
 1 Energybending
-1 Heritage Reclamation
-1 Path to Exile
 1 Swords to Plowshares
+1 Path to Exile
 1 Generous Gift
 1 Stroke of Midnight
 1 Beast Within
 1 Disenchant
 1 Snakeskin Veil
-1 Brightcap Badger // Fungus Frolic
 1 Cycle of Renewal
 1 Sigil Blessing
-1 Midnight Tilling
+1 Naturalize
+1 Brightcap Badger // Fungus Frolic
 
 Sorceries
 1 Rampant Growth
-1 Tempt with Discovery
 1 Farseek
+1 Tempt with Discovery
 1 Open the Gates
+1 Grow from the Ashes
 1 Cut a Deal
 1 Dismantling Wave
+1 Harmonize
 1 Tempt with Bunnies
 1 Dusk // Dawn
 1 Damning Verdict

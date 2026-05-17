@@ -31,23 +31,23 @@ Commander
 1 Molten Gatekeeper
 1 Nettle Drone
 1 Burnished Hart
+1 Junk Diver
 1 Purple Dragon Punks
 1 Halo Scarab
 1 Page, Loose Leaf
+1 Ravenous Robots
 1 Cathodion
-1 Junk Diver
 1 Storm-Kiln Artist
+1 Bedhead Beastie
+1 Steel Hellkite
+1 Zuko, Exiled Prince
 1 Akki Rockspeaker
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
-1 Zuko, Exiled Prince
-1 Bedhead Beastie
+1 Alena, Kessig Trapper
 1 Fire Nation Cadets
 1 Soulbright Seeker
-1 Alena, Kessig Trapper
-1 Hoarding Dragon
-1 Rough Rhino Cavalry
 1 Oliphaunt
 1 Sol Ring
 1 Mind Stone
@@ -65,14 +65,13 @@ Commander
 1 Swiftfoot Boots
 1 Bilbo's Ring
 1 Sword of Hearth and Home
-1 Fellwar Stone
-1 Thought Vessel
 1 Mirage Mirror
+1 Thought Vessel
+1 Fellwar Stone
 1 Glittering Stockpile
-1 All-Fates Scroll
-1 Ring of the Lucii
 1 Case of the Crimson Pulse
 1 Cool but Rude
+1 Underworld Breach
 1 Thrill of Possibility
 1 Big Score
 1 Take Out the Trash
@@ -81,8 +80,9 @@ Commander
 1 Burn Away
 1 Lithobraking
 1 Chaos Warp
-1 Energybending
+1 Bolt Bend
 1 Faithless Looting
 1 Processor Assault
 1 Playful Shove
 1 Blasphemous Act
+1 Mana Geyser

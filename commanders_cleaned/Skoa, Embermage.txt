@@ -26,29 +26,23 @@ Commander
 13 Mountain
 1 Solemn Simulacrum
 1 Iron Myr
+1 Skirk Prospector
 1 Survey Mechan
 1 Darksteel Colossus
-1 Molten Gatekeeper
 1 Guttersnipe
+1 Molten Gatekeeper
 1 Devoted Duelist
-1 Skirk Prospector
+1 Fanatic of Mogis
+1 Inferno Titan
+1 Sunspine Lynx
+1 Burnished Hart
 1 Rubble Rouser
 1 Halo Scarab
 1 Page, Loose Leaf
-1 Storm-Kiln Artist
-1 Burnished Hart
-1 Akki Rockspeaker
-1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Cathodion
-1 Zuko, Exiled Prince
-1 Fire Nation Cadets
-1 Soulbright Seeker
+1 Lavaleaper
 1 Bedhead Beastie
-1 Fanatic of Mogis
-1 Alena, Kessig Trapper
-1 Hoarding Dragon
+1 Mogg War Marshal
+1 Storm-Kiln Artist
 1 Arcane Signet
 1 Mind Stone
 1 Sol Ring
@@ -56,34 +50,40 @@ Commander
 1 Glittering Stockpile
 1 Expedition Map
 1 Fellwar Stone
-1 Ominous Parcel
-1 Found Footage
 1 Hedron Archive
-1 Thaumaton Torpedo
-1 Spine of Ish Sah
+1 Found Footage
+1 Ominous Parcel
 1 Swiftfoot Boots
 1 Bilbo's Ring
+1 Helm of the Host
 1 Thought Vessel
 1 Omni-Cheese Pizza
-1 Helm of the Host
+1 Mirage Mirror
 1 Case of the Crimson Pulse
+1 Outpost Siege
 1 Impact Tremors
-1 Cool but Rude
 1 Gratuitous Violence
+1 Warstorm Surge
+1 Cool but Rude
+1 Echoing Assault
 1 Big Score
 1 Thrill of Possibility
 1 Take Out the Trash
-1 Energybending
+1 Sazacap's Brew
 1 Abrade
 1 Shock
 1 Lightning Strike
-1 Impossible Inferno
 1 Lithobraking
 1 Chaos Warp
 1 Faithless Looting
 1 Crash Through
 1 Processor Assault
+1 Skewer the Critics
 1 Blasphemous Act
 1 Mana Geyser
-1 Glimpse the Impossible
 1 Electroduplicate
+1 Glimpse the Impossible
+1 Dragon Fodder
+1 Burning Curiosity
+1 Kindle the Inner Flame
+1 Plasma Bolt

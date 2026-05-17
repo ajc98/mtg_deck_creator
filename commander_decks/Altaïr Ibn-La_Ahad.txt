@@ -51,17 +51,18 @@ Creatures
 1 Flamecache Gecko
 1 Brazen Collector
 1 Cathodion
+1 Storm-Kiln Artist
 1 Fire Nation Cadets
 1 Soulbright Seeker
-1 Storm-Kiln Artist
+1 Dimir House Guard
 1 Zuko, Exiled Prince
 1 Azula, On the Hunt
 1 Rough Rhino Cavalry
-1 Dimir House Guard
-1 The Rise of Sozin // Fire Lord Sozin
-1 Shadowborn Apostle
-1 Twilight Diviner
 1 Canyon Crawler
+1 Twilight Diviner
+1 The Rise of Sozin // Fire Lord Sozin
+1 Angel of the Ruins
+1 Shadowborn Apostle
 
 Artifacts
 1 Expedition Map
@@ -74,7 +75,6 @@ Artifacts
 1 Fellwar Stone
 1 Found Footage
 1 Magnifying Glass
-1 Bender's Waterskin
 
 Enchantments
 1 Case of the Crimson Pulse
@@ -98,10 +98,10 @@ Sorceries
 1 Processor Assault
 1 Dusk // Dawn
 1 Damning Verdict
-1 Buried Alive
 1 Razaketh's Rite
-1 Diabolic Tutor
+1 Buried Alive
 1 Brainspoil
+1 Diabolic Tutor
 
 Other
 1 Kaya, Bane of the Dead

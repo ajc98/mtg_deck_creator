@@ -29,22 +29,22 @@ Commander
 1 Maze's End
 10 Island
 1 Solemn Simulacrum
+1 Changeling Wayfinder
 1 Sphinx of Enlightenment
 1 Survey Mechan
 1 Sphinx of the Final Word
 1 Curator of Destinies
 1 Triskaidekaphile
+1 Alhammarret, High Arbiter
+1 Omni-Changeling
+1 Three Tree Mascot
 1 Page, Loose Leaf
 1 Halo Scarab
+1 Burnished Hart
+1 Barkform Harvester
 1 Emrakul's Messenger
 1 Cathodion
-1 Alhammarret, High Arbiter
 1 Kaho, Minamo Historian
-1 Burnished Hart
-1 Changeling Wayfinder
-1 Three Tree Mascot
-1 Omni-Changeling
-1 Barkform Harvester
 1 Sol Ring
 1 Thought Vessel
 1 Arcane Signet
@@ -58,15 +58,15 @@ Commander
 1 Ominous Parcel
 1 Swiftfoot Boots
 1 Sapphire Medallion
-1 Gathering Stone
 1 Patchwork Banner
-1 Oblivion Stone
 1 Heraldic Banner
+1 Gathering Stone
+1 Bident of Thassa
 1 Wizard Class
 1 Propaganda
+1 Witness Protection
 1 Arcane Denial
 1 Frantic Search
-1 Case the Joint
 1 Opt
 1 Pongify
 1 Rapid Hybridization
@@ -75,18 +75,18 @@ Commander
 1 Evacuation
 1 Counterspell
 1 Negate
-1 Dig Through Time
 1 An Offer You Can't Refuse
-1 Run Away Together
 1 Aetherize
-1 Disdainful Stroke
-1 Energybending
+1 Dig Through Time
 1 Flare of Denial
-1 Curate
+1 Run Away Together
+1 Narset's Reversal
+1 Disdainful Stroke
+1 Strix Serenade
 1 Ponder
 1 Preordain
 1 Treasure Cruise
 1 Splash Portal
-1 Solve the Equation
 1 Curse of the Swine
 1 Rite of Replication
+1 Solve the Equation

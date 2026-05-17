@@ -43,29 +43,26 @@ Creatures
 1 Solemn Simulacrum
 1 Helpful Hunter
 1 Asmodeus the Archfiend
-1 Survey Mechan
 1 Marauding Blight-Priest
 1 Sanguine Syphoner
 1 Starscape Cleric
-1 Page, Loose Leaf
-1 Halo Scarab
 1 Vampire Nighthawk
-1 Cathodion
-1 Dimir House Guard
-1 Azula, On the Hunt
-1 Forerunner of the Coalition
-1 Shadowborn Apostle
-1 The Rise of Sozin // Fire Lord Sozin
-1 Ajani's Pridemate
 1 Fiendish Panda
-1 Shepherding Spirits
+1 Ajani's Pridemate
 1 Blood Artist
 1 Vengeful Bloodwitch
-1 Canyon Crawler
-1 Angel of the Ruins
-1 Vile Entomber
 1 Essence Channeler
 1 Angel of Vitality
+1 Hinterland Sanctifier
+1 Healer's Hawk
+1 Stromkirk Bloodthief
+1 Qarsi Revenant
+1 Page, Loose Leaf
+1 Voice of the Blessed
+1 Halo Scarab
+1 Nullpriest of Oblivion
+1 Mavren Fein, Dusk Apostle
+1 Lifecreed Duo
 
 Artifacts
 1 Sol Ring
@@ -74,19 +71,22 @@ Artifacts
 1 Mind Stone
 1 Fellwar Stone
 1 Thought Vessel
+1 Heraldic Banner
 1 Expedition Map
 1 All-Fates Scroll
-1 Coveted Jewel
 1 Found Footage
+1 Sinister Monolith
 1 Swiftfoot Boots
 1 Caduceus, Staff of Hermes
-1 Wishclaw Talisman
 
 Enchantments
 1 Lunar Convocation
 1 Greed
 1 Sanguine Bond
+1 Exquisite Blood
+1 Twinblade Blessing
 1 Necropotence
+1 Midnight Snack
 
 Instants
 1 Dawn's Truce
@@ -96,20 +96,18 @@ Instants
 1 Mortify
 1 Stroke of Midnight
 1 Generous Gift
-1 Complete Disregard
+1 Hero's Downfall
 1 Divine Resilience
+1 Dark Ritual
+1 Riot Control
+1 Murder
+1 Disenchant
 
 Sorceries
+1 Diabolic Tutor
 1 Cut a Deal
-1 Tempt with Bunnies
+1 Feed the Swarm
 1 Fumigate
 1 Dusk // Dawn
 1 Damning Verdict
 1 Exsanguinate
-1 Diabolic Tutor
-1 Buried Alive
-1 Razaketh's Rite
-1 Brainspoil
-
-Other
-1 Kaya, Bane of the Dead
