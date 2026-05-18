@@ -68,7 +68,7 @@ _ARCHETYPES: dict[str, Archetype] = {
         extra_buckets=[
             ArchetypeBucket("sac_outlets",     {ROLE_SACRIFICE_OUTLET},            target=5),
             ArchetypeBucket("death_triggers",   {ROLE_DEATH_TRIGGER},               target=6),
-            ArchetypeBucket("token_producers",  {ROLE_TOKEN_PRODUCER},              target=5),
+            ArchetypeBucket("token_producers",  {ROLE_TOKEN_PRODUCER},              target=8),
             ArchetypeBucket("token_doublers",   {ROLE_TOKEN_DOUBLER},               target=2),
             ArchetypeBucket("leaves_bf",        {ROLE_LEAVES_BATTLEFIELD},          target=3),
         ],

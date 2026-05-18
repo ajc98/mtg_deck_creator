@@ -32,10 +32,10 @@ Lands
 1 Obscura Storefront
 1 Yavimaya, Cradle of Growth
 1 Desert of the Indomitable
+1 Disciple of Freyalise // Garden of Freyalise
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
-1 Rogue's Passage
 1 Maze's End
 1 Plains
 1 Forest
@@ -44,23 +44,23 @@ Creatures
 1 Guardian Sunmare
 1 Avacyn's Pilgrim
 1 Llanowar Elves
+1 Eldrazi Ravager
 1 District Mascot
 1 Unswerving Sloth
 1 Veteran Survivor
-1 Hare Apparent
+1 Scurry of Squirrels
+1 Avenger of Zendikar
+1 Scute Swarm
+1 Scourge of Skola Vale
 1 Surrak, the Hunt Caller
-1 Cavalry Pegasus
-1 Evercoat Ursine
-1 Eldrazi Ravager
-1 Toski, Bearer of Secrets
+1 Vengeful Villagers
+1 Hexgold Slith
+1 Rasaad yn Bashir
 1 Shepherd of the Clouds
+1 Cavalry Pegasus
 1 Halo Scarab
 1 Courier of Comestibles
-1 Selvala, Explorer Returned
-1 Adept Watershaper
-1 Compassionate Healer
-1 Metastatic Evangel
-1 Slavering Branchsnapper
+1 Mutable Explorer
 
 Artifacts
 1 Sol Ring
@@ -71,24 +71,25 @@ Artifacts
 1 Skybox Ferry
 1 Found Footage
 1 Halo Fountain
+1 Evolving Door
+1 Stitcher's Graft
 1 Broadcast Rambler
+1 The Ozolith
 1 Esika's Chariot
 1 Rolling Hamsphere
-1 The Ozolith
-1 Magnifying Glass
-1 Subway Train
+1 Goldvein Pick
 
 Enchantments
 1 Stocking the Pantry
 1 Terrasymbiosis
 1 Garruk's Uprising
-1 Felidar Retreat
+1 Sapling Nursery
 1 Greater Good
-1 Banishing Light
+1 Endless Foot Assault
+1 Felidar Retreat
 
 Instants
 1 Heritage Reclamation
-1 Return of the Wildspeaker
 1 Path to Exile
 1 Swords to Plowshares
 1 Beast Within
@@ -97,8 +98,6 @@ Instants
 1 Broken Wings
 1 Snakeskin Veil
 1 Run Over
-1 Biosynthic Burst
-1 Saved by the Shell
 
 Sorceries
 1 Rampant Growth
@@ -108,6 +107,7 @@ Sorceries
 1 Cut a Deal
 1 Damning Verdict
 1 Dusk // Dawn
+1 Winnowing
 1 Cultivate
 1 Fangs of Kalonia
 1 Zimone's Experiment

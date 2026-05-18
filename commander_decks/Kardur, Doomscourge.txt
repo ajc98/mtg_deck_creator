@@ -29,64 +29,72 @@ Lands
 1 Urborg, Tomb of Yawgmoth
 1 Polluted Delta
 1 Forgotten Cave
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
 1 Cryptic Caves
 1 Volatile Fault
 1 Rogue's Passage
-1 Reliquary Tower
-1 High Market
 1 Mountain
 1 Swamp
 
 Creatures
 1 Solemn Simulacrum
+1 Canyon Crawler
+1 Beamsaw Prospector
 1 Morbid Opportunist
 1 Garna, Bloodfist of Keld
 1 Survey Mechan
-1 The Rise of Sozin // Fire Lord Sozin
+1 Chittering Witch
 1 Knight of Malice
 1 Iron-Shield Elf
 1 Zulaport Cutthroat
 1 Guttersnipe
-1 Gray Merchant of Asphodel
-1 Sludge Crawler
-1 Venerated Stormsinger
-1 Culling Drone
-1 Pulse Tracker
-1 Dimir House Guard
-1 June, Bounty Hunter
+1 Combat Celebrant
+1 Thopter Engineer
+1 Garna, the Bloodflame
+1 Bloodvial Purveyor
+1 Grub, Storied Matriarch // Grub, Notorious Auntie
+1 Prosperous Bandit
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
+1 Body Dropper
+1 Woe Strider
 1 Massacre Wurm
-1 Ogre Slumlord
-1 Deathgreeter
-1 Canyon Crawler
-1 Beamsaw Prospector
-1 Blood Artist
-1 Alexios, Deimos of Kosmos
+1 Warehouse Tabby
+1 Voracious Fell Beast
+1 Riders of the Mark
+1 Dreadfeast Demon
+1 Tangled Colony
+1 Nested Shambler
+1 Super Shredder
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Fellwar Stone
-1 Coveted Jewel
 1 Sword of Hearth and Home
+1 Coveted Jewel
 1 Thought Vessel
-1 Expedition Map
-1 Glittering Stockpile
-1 Found Footage
-1 Swiftfoot Boots
 1 Skullclamp
-1 Helm of the Host
+1 Swiftfoot Boots
+1 Rolling Hamsphere
+1 The Ozolith
 
 Enchantments
-1 Case of the Crimson Pulse
-1 Shiny Impetus
 1 Vampiric Rites
-1 Black Market
+1 Meathook Massacre II
 1 Bastion of Remembrance
+1 Fervor
+1 Shiny Impetus
+1 Grave Pact
+1 Sothera, the Supervoid
+1 Dictate of Erebos
 1 Curse of Opulence
+1 Outpost Siege
 
 Instants
 1 Village Rites
@@ -96,20 +104,17 @@ Instants
 1 Abrade
 1 Complete Disregard
 1 Take Out the Trash
-1 Grip of Desolation
 1 Lithobraking
 1 Not Dead After All
-1 Fake Your Own Death
-1 Chaos Warp
-1 Undying Malice
 
 Sorceries
 1 Faithless Looting
 1 Feed the Swarm
 1 Processor Assault
 1 Blasphemous Act
-1 Electroduplicate
-1 Mana Geyser
+1 Ruinous Waterbending
+1 Foggy Swamp Visions
+1 Dread Summons
 
 Other
 1 Ob Nixilis Reignited

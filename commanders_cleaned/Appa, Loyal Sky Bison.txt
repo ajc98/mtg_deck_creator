@@ -44,8 +44,9 @@
 1 Earth Kingdom Protectors
 1 Vengeful Villagers
 1 Sun Titan
-1 Eldrazi Ravager
-1 Cavalry Pegasus
+1 Hexgold Slith
+1 Rasaad yn Bashir
+1 Syr Alin, the Lion's Claw
 1 Aang, the Last Airbender
 1 Appa, Steadfast Guardian
 1 Avatar Enthusiasts
@@ -72,7 +73,6 @@
 1 Meteor Sword
 1 Swiftfoot Boots
 1 Halo Fountain
-1 Sword of Hearth and Home
 1 Kyoshi Battle Fan
 1 Fellwar Stone
 1 Coveted Jewel

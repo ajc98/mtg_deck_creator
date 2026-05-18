@@ -9,8 +9,8 @@ Lands
 1 Ugin's Labyrinth
 1 Demolition Field
 1 Ash Barrens
-1 Maze's End
 1 Volatile Fault
+1 Maze's End
 1 High Market
 29 Wastes
 
@@ -21,15 +21,12 @@ Creatures
 1 Survey Mechan
 1 Meteor Golem
 1 Bladegriff Prototype
-1 Halo Scarab
 1 Burnished Hart
+1 Halo Scarab
 1 Page, Loose Leaf
 1 Cathodion
 1 Aetherjacket
 1 Changeling Wayfinder
-1 Treasure Keeper
-1 Academy Manufactor
-1 Steel Hellkite
 
 Artifacts
 1 Sol Ring
@@ -44,18 +41,23 @@ Artifacts
 1 Coveted Jewel
 1 Found Footage
 1 Chronicle of Victory
-1 Bilbo's Ring
+1 Magnifying Glass
+1 Skullclamp
 1 Ominous Parcel
-1 Thaumaton Torpedo
+1 Bumbleflower's Sharepot
 1 Swiftfoot Boots
 1 Akroma's Memorial
 1 Sword of Hearth and Home
 1 Ravenous Amulet
-1 Skullclamp
-1 Orochi Hatchery
-1 Magnifying Glass
-1 Idol of Oblivion
-1 Bonehoard
+1 Stalactite Dagger
+1 Skinwing
+1 Fishing Pole
+1 Starforged Sword
+1 Helm of the Host
+1 Kyoshi Battle Fan
+1 Fire Nation Warship
+1 Scytheclaw
+1 The Ozolith
 1 Mirage Mirror
 1 Fireshrieker
 1 Oblivion Stone
@@ -64,12 +66,10 @@ Artifacts
 1 Hall of Triumph
 1 Fountainport Bell
 1 Traveler's Amulet
+1 Idol of Oblivion
 1 Goldvein Pick
+1 Orochi Hatchery
 1 All-Fates Scroll
-1 Bender's Waterskin
-1 Heirloom Epic
-1 Daredevil Dragster
-1 Gathering Stone
 
 Enchantments
 1 Echoes of Eternity

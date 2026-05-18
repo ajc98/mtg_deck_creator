@@ -35,31 +35,31 @@
 1 Ash Barrens
 1 Contaminated Landscape
 1 Demolition Field
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Island
 1 Plains
 1 Swamp
 1 Persuasive Interrogators
 1 Knowledge Seeker
-1 The Rise of Sozin // Fire Lord Sozin
 1 Kappa Cannoneer
 1 Mirkwood Bats
 1 Nadier's Nightblade
 1 Marionette Apprentice
-1 Dominator Drone
-1 Dimir House Guard
-1 Syr Vondam, Sunstar Exemplar
+1 Starscape Cleric
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
+1 Ayli, Eternal Pilgrim
+1 Warehouse Tabby
+1 Moonstone Eulogist
 1 Academy Manufactor
-1 Inside Source
-1 Expendable Lackey
-1 Hare Apparent
-1 Lunarch Veteran // Luminous Phantom
+1 Voracious Fell Beast
+1 Eastfarthing Farmer
+1 Boss's Chauffeur
+1 Suki, Courageous Rescuer
+1 Super Shredder
 1 Junk Winder
 1 Wernog, Rider's Chaplain
-1 Halo Scarab
-1 Azula, On the Hunt
-1 Canyon Crawler
-1 Page, Loose Leaf
-1 Cathodion
 1 Arcane Signet
 1 Sol Ring
 1 Talisman of Progress
@@ -70,19 +70,19 @@
 1 Orzhov Signet
 1 Skullclamp
 1 Idol of Oblivion
-1 Found Footage
-1 Swiftfoot Boots
 1 Magnifying Glass
-1 Chromatic Lantern
-1 Bender's Waterskin
+1 Swiftfoot Boots
+1 The Ozolith
 1 Obsessive Pursuit
 1 Tolls of War
-1 Propaganda
-1 Ghostly Prison
+1 Meathook Massacre II
+1 Grave Pact
+1 Sothera, the Supervoid
+1 Dictate of Erebos
+1 Endless Foot Assault
 1 Deadly Dispute
+1 Drag the Canal
 1 Arcane Denial
-1 Case the Joint
-1 Frantic Search
 1 Swords to Plowshares
 1 Mortify
 1 Path to Exile
@@ -90,12 +90,12 @@
 1 Generous Gift
 1 Complete Disregard
 1 Teferi's Protection
-1 Drag the Canal
 1 Counterspell
 1 Negate
-1 An Offer You Can't Refuse
 1 Suppression Ray // Orderly Plaza
 1 Dusk // Dawn
 1 Time Wipe
+1 Ruinous Waterbending
 1 Martial Coup
-1 Tempt with Bunnies
+1 Foggy Swamp Visions
+1 Dread Summons

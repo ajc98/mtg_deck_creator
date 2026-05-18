@@ -28,6 +28,7 @@ Lands
 1 Desert of the Mindful
 1 Mortuary Mire
 1 Brokers Hideout
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Reliquary Tower
@@ -35,32 +36,26 @@ Lands
 1 Rogue's Passage
 1 Cryptic Caves
 1 Volatile Fault
-1 Arid Archway
 1 Island
 1 Swamp
 
 Creatures
-1 Asmodeus the Archfiend
 1 Forecasting Fortune Teller
+1 Asmodeus the Archfiend
 1 The Rise of Sozin // Fire Lord Sozin
+1 Plaguecrafter
 1 Survey Mechan
 1 Dominator Drone
-1 Dawnhand Eulogist
-1 Triskaidekaphile
-1 Expendable Lackey
-1 Canyon Crawler
-1 Gríma Wormtongue
-1 Dimir House Guard
-1 Heirloom Auntie
-1 Nezumi Graverobber // Nighteyes the Desecrator
+1 Marionette Apprentice
+1 Voracious Fell Beast
+1 Dreadfeast Demon
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Woe Strider
+1 Chittering Witch
+1 Warehouse Tabby
+1 Osteomancer Adept
 1 Consuming Aberration
-1 Halo Scarab
-1 Azula, On the Hunt
-1 Azula, Cunning Usurper
-1 Page, Loose Leaf
-1 Aven Courier
-1 Bellowing Crier
-1 Cathodion
 
 Artifacts
 1 Sol Ring
@@ -72,16 +67,18 @@ Artifacts
 1 White Lotus Tile
 1 Patchwork Banner
 1 Expedition Map
-1 All-Fates Scroll
 1 Found Footage
 1 Swiftfoot Boots
-1 Orochi Hatchery
 1 Sapphire Medallion
 
 Enchantments
 1 Waste Not
+1 Meathook Massacre II
+1 Boggart Mischief
+1 Bastion of Remembrance
 1 Stormchaser's Talent
-1 Necropotence
+1 Grave Pact
+1 Sothera, the Supervoid
 1 Propaganda
 
 Instants
@@ -97,17 +94,20 @@ Instants
 1 Deal Gone Bad
 1 Recoil
 1 Become Anonymous
-1 Deadly Dispute
+1 Consumed by Greed
 1 Unbury
+1 Feed the Cycle
 1 Counterspell
 1 An Offer You Can't Refuse
 1 Dark Ritual
 1 Negate
-1 Aetherize
-1 Flare of Denial
 
 Sorceries
+1 Scrounge for Eternity
 1 Ponder
 1 Feed the Swarm
-1 Diabolic Tutor
-1 Buried Alive
+1 Foggy Swamp Visions
+1 Wanderwine Farewell
+1 Coiling Rebirth
+1 Gravedig
+1 Ruinous Waterbending

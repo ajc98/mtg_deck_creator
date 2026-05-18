@@ -29,10 +29,10 @@
 1 Obscura Storefront
 1 Barren Moor
 1 Polluted Mire
+1 Disciple of Freyalise // Garden of Freyalise
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Swarmyard
-1 Ash Barrens
-1 Shire Terrace
 1 Grim Backwoods
 1 Forest
 1 Swamp
@@ -51,17 +51,17 @@
 1 Zulaport Cutthroat
 1 Scute Swarm
 1 Springheart Nantuko
-1 Beledros Witherbloom
+1 Scurry of Squirrels
+1 Voracious Fell Beast
 1 Viscera Seer
-1 Nantuko Husk
-1 Carrion Feeder
+1 Scourge of Skola Vale
+1 Dusk Mangler
 1 Nyx Weaver
 1 Golgari Findbroker
-1 Evolution Witness
-1 Spinner of Souls
-1 Sengir, the Dark Baron
-1 Poison-Tip Archer
-1 Haywire Mite
+1 Warehouse Tabby
+1 Ich-Tekik, Salvage Splicer
+1 Skyfisher Spider
+1 Bushy Bodyguard
 1 Sol Ring
 1 Arcane Signet
 1 Golgari Signet
@@ -70,31 +70,31 @@
 1 Skullclamp
 1 Thundering Broodwagon
 1 Swiftfoot Boots
+1 Chitterspitter
+1 Evolving Door
 1 Moldervine Reclamation
+1 Meathook Massacre II
 1 Bastion of Remembrance
 1 Insidious Roots
-1 Grave Pact
-1 Necropotence
+1 Sapling Nursery
+1 Sothera, the Supervoid
 1 Doubling Season
 1 Parallel Lives
-1 Village Rites
 1 Deadly Dispute
+1 Village Rites
 1 Plumb the Forbidden
-1 Corrupted Conviction
 1 Putrefy
 1 Beast Within
 1 Complete Disregard
-1 Saw in Half
-1 Grip of Desolation
-1 Not Dead After All
-1 Second Harvest
-1 Fake Your Own Death
-1 Cache Grab
-1 Unbury
+1 Sold Out
 1 Heritage Reclamation
+1 Wither and Bloom
+1 Not Dead After All
+1 Consumed by Greed
 1 Rampant Growth
-1 Feed the Swarm
 1 Decree of Pain
-1 Malevolent Rumble
-1 Recollect
-1 Treasured Find
+1 Foggy Swamp Visions
+1 Scrounge for Eternity
+1 Coiling Rebirth
+1 Gravedig
+1 Ruinous Waterbending

@@ -27,16 +27,18 @@
 1 Cabaretti Courtyard
 1 Polluted Delta
 1 Urborg, Tomb of Yawgmoth
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
 1 High Market
 1 Reliquary Tower
-1 Cryptic Caves
 1 Mountain
 1 Swamp
 1 Solemn Simulacrum
 1 Skirk Prospector
+1 Canyon Crawler
+1 Beamsaw Prospector
 1 Morbid Opportunist
 1 Siege-Gang Commander
 1 Survey Mechan
@@ -47,49 +49,45 @@
 1 Viscera Seer
 1 Carrion Feeder
 1 Woe Strider
-1 Midnight Reaper
-1 Uglúk of the White Hand
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Warehouse Tabby
+1 Moonstone Eulogist
+1 Ogre Slumlord
+1 Voracious Fell Beast
+1 Riders of the Mark
 1 Marionette Apprentice
-1 Mogg War Marshal
-1 Totentanz, Swarm Piper
-1 Venerated Stormsinger
-1 Infestation Sage
+1 Dreadfeast Demon
+1 Grub, Storied Matriarch // Grub, Notorious Auntie
+1 Tangled Colony
+1 Super Shredder
 1 Blood Artist
 1 Mirkwood Bats
 1 Perforating Artist
-1 Vengeful Bloodwitch
-1 Umbral Collar Zealot
-1 Boggart Cursecrafter
-1 Dimir House Guard
-1 Stadium Headliner
 1 Arcane Signet
 1 Sol Ring
 1 Mind Stone
 1 Fellwar Stone
 1 Thought Vessel
-1 Expedition Map
-1 Heraldic Banner
-1 Glittering Stockpile
 1 Skullclamp
-1 Found Footage
-1 Swiftfoot Boots
-1 Spawning Pit
 1 Ravenous Amulet
+1 Swiftfoot Boots
+1 The Ozolith
 1 Vampiric Rites
+1 Meathook Massacre II
 1 Bastion of Remembrance
 1 Impact Tremors
+1 Sothera, the Supervoid
 1 Boggart Mischief
-1 Grave Pact
-1 Black Market
-1 Dictate of Erebos
-1 Village Rites
+1 Outpost Siege
+1 Lithobraking
 1 Deadly Dispute
+1 Village Rites
 1 Corrupted Conviction
 1 Plumb the Forbidden
 1 Thrill of Possibility
 1 Abrade
-1 Complete Disregard
-1 Lithobraking
+1 Kolaghan's Command
 1 Wail of the Nim
 1 Chaos Warp
 1 Faithless Looting
@@ -97,4 +95,6 @@
 1 Eaten Alive
 1 Processor Assault
 1 Blasphemous Act
-1 Dragon Fodder
+1 Ruinous Waterbending
+1 Foggy Swamp Visions
+1 Dread Summons

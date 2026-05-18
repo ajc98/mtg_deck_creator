@@ -32,18 +32,20 @@
 1 Sunstar Lightsmith
 1 Spirited Companion
 1 Mangara, the Diplomat
+1 Eldrazi Ravager
 1 Adept Watershaper
 1 Sun Titan
-1 Linden, the Steadfast Queen
-1 Warren Warleader
-1 Eldrazi Ravager
-1 Kinscaer Sentry
+1 Rasaad yn Bashir
+1 Bladegriff Prototype
 1 Shrike Force
+1 Warren Warleader
+1 Linden, the Steadfast Queen
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Knight of the Keep
 1 Cathodion
 1 Shepherding Spirits
+1 Kinscaer Sentry
 1 Angel of the Ruins
 1 Hexgold Slith
 1 Sol Ring
@@ -53,17 +55,15 @@
 1 Thought Vessel
 1 Traveler's Amulet
 1 Fellwar Stone
-1 Expedition Map
+1 Sword of Hearth and Home
 1 Chronicle of Victory
-1 Halo Fountain
 1 Swiftfoot Boots
+1 Halo Fountain
+1 Scytheclaw
+1 Goldvein Pick
 1 Hall of Triumph
 1 Short Bow
-1 Sword of Hearth and Home
 1 Quick-Draw Katana
-1 Skullclamp
-1 All-Fates Scroll
-1 Argent Dais
 1 Feather of Flight
 1 Banishing Light
 1 Dictate of Heliod

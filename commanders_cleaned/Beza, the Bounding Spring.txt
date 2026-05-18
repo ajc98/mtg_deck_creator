@@ -39,9 +39,9 @@
 1 Inspiring Overseer
 1 Mangara, the Diplomat
 1 Survey Mechan
-1 Knight of Grace
-1 Hare Apparent
-1 Eastfarthing Farmer
+1 Boss's Chauffeur
+1 Sunstar Expansionist
+1 Indebted Spirit
 1 Furious Forebear
 1 Charming Prince
 1 Restoration Angel
@@ -50,9 +50,8 @@
 1 Distinguished Conjurer
 1 Circuit Mender
 1 Halo Scarab
-1 Page, Loose Leaf
-1 Academy Manufactor
-1 Cathodion
+1 Hare Apparent
+1 Jennika, Bad Apple Big Sister
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -61,32 +60,33 @@
 1 Fellwar Stone
 1 Expedition Map
 1 Skullclamp
+1 Bumbleflower's Sharepot
 1 Halo Fountain
 1 Spawning Pit
 1 Idol of Oblivion
 1 Magnifying Glass
-1 Crucible of Worlds
+1 Goldvein Pick
+1 Endless Foot Assault
+1 Murmuration
+1 Muster the Departed
 1 Monologue Tax
-1 Felidar Retreat
-1 Kinbinding
 1 Airbender Ascension
 1 Ghostly Prison
-1 Builder's Talent
-1 Aligned Heart
+1 Felidar Retreat
+1 Kinbinding
 1 Dawn's Truce
 1 Path to Exile
 1 Swords to Plowshares
 1 Generous Gift
 1 Stroke of Midnight
 1 Personify
-1 Disenchant
 1 Teferi's Protection
 1 Perch Protection
+1 Rootborn Defenses
 1 Parting Gust
-1 Second Breakfast
 1 Cut a Deal
-1 Secret Rendezvous
 1 Tempt with Bunnies
+1 Secret Rendezvous
 1 Vanquish the Horde
 1 Dusk // Dawn
 1 Another Round

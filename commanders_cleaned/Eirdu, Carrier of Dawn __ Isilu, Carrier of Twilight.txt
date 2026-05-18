@@ -19,6 +19,7 @@
 1 Polluted Delta
 1 Brokers Hideout
 1 Bojuka Bog
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
@@ -26,68 +27,69 @@
 1 Volatile Fault
 1 Arid Archway
 1 Ugin's Labyrinth
-9 Swamp
-1 Angel of the Ruins
-1 Shepherding Spirits
+1 Blighted Fen
+7 Swamp
 1 Canyon Crawler
-1 Helpful Hunter
-1 Asmodeus the Archfiend
-1 Survey Mechan
-1 Knight of Grace
-1 Purging Stormbrood // Absorb Essence
-1 Knight of Malice
-1 Dominator Drone
-1 Tivash, Gloom Summoner
-1 Hare Apparent
-1 Mavren Fein, Dusk Apostle
-1 Alharu, Solemn Ritualist
-1 Dimir House Guard
-1 June, Bounty Hunter
-1 Furious Forebear
-1 Sengir, the Dark Baron
+1 Beamsaw Prospector
 1 Halo Scarab
 1 Azula, On the Hunt
-1 Page, Loose Leaf
-1 Cathodion
-1 The Rise of Sozin // Fire Lord Sozin
-1 Beamsaw Prospector
-1 Expedition Map
+1 Sunstar Expansionist
+1 Jennika, Bad Apple Big Sister
+1 Common Crook
+1 Helpful Hunter
+1 Hanged Executioner
+1 Chittering Witch
+1 Knight of Grace
+1 Purging Stormbrood // Absorb Essence
+1 Marionette Apprentice
+1 Starscape Cleric
+1 Voracious Fell Beast
+1 Eastfarthing Farmer
+1 Boss's Chauffeur
+1 Dreadfeast Demon
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
+1 Warehouse Tabby
+1 Tivash, Gloom Summoner
+1 Hare Apparent
+1 Dimir House Guard
+1 Mavren Fein, Dusk Apostle
+1 Alharu, Solemn Ritualist
+1 Magnifying Glass
+1 Goldvein Pick
+1 Found Footage
+1 Bumbleflower's Sharepot
+1 Halo Fountain
 1 Mind Stone
 1 All-Fates Scroll
-1 Coveted Jewel
-1 Ominous Parcel
 1 Fellwar Stone
-1 Found Footage
-1 Halo Fountain
-1 Orochi Hatchery
-1 Magnifying Glass
 1 Bender's Waterskin
-1 Hedron Archive
-1 Greed
+1 Coveted Jewel
 1 Lunar Convocation
-1 Builder's Talent
 1 Waste Not
-1 Sothera, the Supervoid
-1 Aligned Heart
 1 Hoofprints of the Stag
-1 Energybending
-1 Darkblast
-1 Complete Disregard
-1 Grip of Desolation
-1 Deal Gone Bad
-1 Path to Exile
-1 Abstruse Appropriation
-1 Purging Stormbrood // Absorb Essence
-1 Not Dead After All
+1 The Cloning of Shredder
+1 Meathook Massacre II
+1 Endless Foot Assault
+1 Murmuration
+1 Grave Pact
+1 Builder's Talent
 1 Deadly Dispute
 1 Auspicious Arrival
-1 Environmental Sciences
-1 Cut a Deal
+1 Sold Out
+1 Complete Disregard
+1 Grip of Desolation
+1 Purging Stormbrood // Absorb Essence
+1 Rootborn Defenses
+1 Not Dead After All
+1 Scrounge for Eternity
 1 Tempt with Bunnies
-1 Intimidation Tactics
-1 Brainspoil
+1 Cut a Deal
 1 Dusk // Dawn
 1 Winnowing
-1 In Garruk's Wake
-1 Psychic Whorl
+1 Foggy Swamp Visions
+1 Dread Summons
+1 Ruinous Waterbending
+1 Razaketh's Rite
 1 Kaya, Bane of the Dead

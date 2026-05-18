@@ -42,14 +42,12 @@ Lands
 
 Creatures
 1 Storm-Kiln Artist
-1 Rubble Rouser
-1 Molten Gatekeeper
+1 Coruscation Mage
 1 Katara, Water Tribe's Hope
 1 Suki, Courageous Rescuer
 1 Monastery Mentor
 1 Invasion Reinforcements
-1 Kyoshi Warriors
-1 Appa, Steadfast Guardian
+1 Eastfarthing Farmer
 1 Furious Forebear
 1 Veyran, Voice of Duality
 1 Avatar Enthusiasts
@@ -67,8 +65,7 @@ Artifacts
 1 Boros Signet
 1 Skullclamp
 1 Swiftfoot Boots
-1 Kyoshi Battle Fan
-1 Idol of Oblivion
+1 Halo Fountain
 1 White Lotus Tile
 1 Patchwork Banner
 1 Thought Vessel
@@ -76,6 +73,8 @@ Artifacts
 Enchantments
 1 Whirlwind of Thought
 1 Impact Tremors
+1 Endless Foot Assault
+1 Murmuration
 1 Waterbender Ascension
 
 Instants
@@ -89,6 +88,7 @@ Instants
 1 Generous Gift
 1 Abrade
 1 Lightning Strike
+1 Lithobraking
 1 Octopus Form
 1 Boros Charm
 1 It'll Quench Ya!
@@ -107,7 +107,7 @@ Sorceries
 1 Price of Freedom
 1 Blasphemous Act
 1 Iroh's Demonstration
-1 Dusk // Dawn
 1 Culmination of Studies
+1 Wanderwine Farewell
 1 Expressive Iteration
 1 Waterbending Lesson

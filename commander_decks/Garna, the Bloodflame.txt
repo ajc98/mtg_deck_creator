@@ -29,13 +29,13 @@ Lands
 1 Polluted Mire
 1 Cabaretti Courtyard
 1 Rockface Village
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Ash Barrens
 1 Demolition Field
 1 Shire Terrace
 1 Reliquary Tower
 1 High Market
 1 Cryptic Caves
-1 Volatile Fault
 1 Mountain
 1 Swamp
 
@@ -54,15 +54,16 @@ Creatures
 1 Iron-Shield Elf
 1 Zulaport Cutthroat
 1 Gray Merchant of Asphodel
-1 Marionette Apprentice
 1 Viscera Seer
 1 Carrion Feeder
 1 Woe Strider
-1 Garna, Bloodfist of Keld
+1 Pirate Peddlers
+1 Moonstone Eulogist
+1 Osteomancer Adept
 1 Umbral Collar Zealot
 1 Blood Artist
+1 Marionette Apprentice
 1 Ornithopter
-1 Rubble Rouser
 
 Artifacts
 1 Sol Ring
@@ -74,16 +75,14 @@ Artifacts
 1 Bilbo's Ring
 1 Whip of Erebos
 1 Spawning Pit
-1 Wishclaw Talisman
 
 Enchantments
 1 Impact Tremors
 1 Bastion of Remembrance
-1 Dictate of Erebos
-1 Black Market
-1 Underworld Breach
-1 Necropotence
+1 Meathook Massacre II
+1 Sothera, the Supervoid
 1 The Sibsig Ceremony
+1 Dictate of Erebos
 1 Grave Pact
 
 Instants
@@ -93,12 +92,12 @@ Instants
 1 Thrill of Possibility
 1 Corrupted Conviction
 1 Abrade
+1 Kolaghan's Command
 1 Saw in Half
 1 Complete Disregard
-1 Take Out the Trash
-1 Kolaghan's Command
 1 Consumed by Greed
 1 Unbury
+1 Feed the Cycle
 1 Chaos Warp
 1 Dark Ritual
 
@@ -108,6 +107,7 @@ Sorceries
 1 Feed the Swarm
 1 Processor Assault
 1 Blasphemous Act
+1 Scrounge for Eternity
 1 Stir the Grave
 1 Gravedig
-1 Diabolic Tutor
+1 Ruinous Waterbending

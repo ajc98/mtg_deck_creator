@@ -33,7 +33,6 @@
 1 Forgotten Cave
 1 Brokers Hideout
 1 Sunken Palace
-1 Demolition Field
 1 Island
 1 Mountain
 1 Solemn Simulacrum
@@ -44,19 +43,19 @@
 1 Kappa Cannoneer
 1 Krang, Utrom Warlord
 1 Molten Gatekeeper
-1 Rubble Rouser
+1 Coruscation Mage
+1 Agate Instigator
 1 Ravenous Robots
 1 Donatello, Gadget Master
 1 Academy Manufactor
+1 Riders of the Mark
 1 Fugitive Droid
 1 Donatello, Way with Machines
 1 Nobody
 1 Junk Diver
 1 Third Path Iconoclast
 1 Mechan Assembler
-1 Iron Myr
 1 Halo Scarab
-1 Storm-Kiln Artist
 1 Arcane Signet
 1 Sol Ring
 1 Izzet Signet
@@ -66,25 +65,25 @@
 1 Thought Vessel
 1 Sewer-veillance Cam
 1 Cryogen Relic
+1 Melded Moxite
+1 Skullclamp
 1 Mouser Foundry
 1 Spicy Oatmeal Pizza
 1 Swiftfoot Boots
 1 Improvised Arsenal
 1 Spawning Pit
-1 Skullclamp
 1 The Ozolith
 1 Hard-Won Jitte
 1 Bespoke Bō
-1 Melded Moxite
-1 Cool but Rude
+1 Outpost Siege
 1 Curse of Opulence
 1 Prismari Command
 1 Big Score
 1 Mind Transfer Protocol
 1 Frantic Search
 1 Arcane Denial
-1 Manhole Missile
 1 Abrade
+1 Manhole Missile
 1 Rapid Hybridization
 1 Lithobraking
 1 Ooze Spill
@@ -94,7 +93,8 @@
 1 Aetherize
 1 Return to the Sewers
 1 Divert Disaster
-1 Preordain
 1 Processor Assault
 1 Blasphemous Act
 1 Culmination of Studies
+1 Wanderwine Farewell
+1 Stolen by the Fae

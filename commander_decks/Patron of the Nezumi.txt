@@ -20,6 +20,7 @@ Lands
 1 Exotic Orchard
 1 Great Hall of the Biblioplex
 1 Gemstone Mine
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
@@ -28,15 +29,16 @@ Lands
 1 Rogue's Passage
 1 Reliquary Tower
 1 Volatile Fault
-10 Swamp
+9 Swamp
 
 Creatures
 1 Solemn Simulacrum
 1 Refurbished Familiar
 1 Morbid Opportunist
-1 Survey Mechan
+1 Dimir House Guard
 1 Throat Slitter
 1 Chittering Witch
+1 Survey Mechan
 1 Plaguecrafter
 1 Accursed Marauder
 1 Knight of Malice
@@ -45,10 +47,10 @@ Creatures
 1 Crypt Ghast
 1 Graveshifter
 1 Nezumi Bone-Reader
-1 Dimir House Guard
+1 Pirate Peddlers
+1 Gríma Wormtongue
 1 Dusk Mangler
 1 Ogre Slumlord
-1 Massacre Wurm
 1 Skullsnatcher
 1 Crypt Rats
 1 Okiba-Gang Shinobi
@@ -58,7 +60,7 @@ Creatures
 1 Persistent Marshstalker
 1 Thornplate Intimidator
 1 Tangled Colony
-1 Halo Scarab
+1 Massacre Wurm
 
 Artifacts
 1 Sol Ring
@@ -68,9 +70,7 @@ Artifacts
 1 Thought Vessel
 1 Heraldic Banner
 1 Patchwork Banner
-1 Expedition Map
 1 Skullclamp
-1 Found Footage
 1 Swiftfoot Boots
 1 Bolas's Citadel
 
@@ -80,7 +80,7 @@ Enchantments
 1 Vampiric Rites
 1 Black Market
 1 Grave Pact
-1 Necropotence
+1 Meathook Massacre II
 
 Instants
 1 Village Rites
@@ -88,12 +88,13 @@ Instants
 1 Doom Blade
 1 Murder
 1 Complete Disregard
-1 Grip of Desolation
 1 Consumed by Greed
 1 Unbury
+1 Feed the Cycle
 1 Dark Ritual
 
 Sorceries
+1 Scrounge for Eternity
 1 Diabolic Tutor
 1 Feed the Swarm
 1 In Garruk's Wake

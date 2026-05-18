@@ -28,18 +28,22 @@
 1 Solemn Simulacrum
 1 Iron Myr
 1 Survey Mechan
-1 Rubble Rouser
-1 Nebula Dragon
-1 Dragonhawk, Fate's Tempest
-1 Molten Gatekeeper
-1 Nettle Drone
-1 Dragon Mage
-1 Etali, Primal Storm
 1 Eldrazi Ravager
 1 Bladegriff Prototype
-1 Vile Aggregate
+1 Nebula Dragon
+1 Dragonhawk, Fate's Tempest
+1 Rubble Rouser
+1 Molten Gatekeeper
+1 Nettle Drone
+1 Combat Celebrant
+1 Thopter Engineer
+1 Lavaleaper
+1 Dragon Mage
+1 Prosperous Bandit
+1 Stromkirk Noble
 1 Dragonspeaker Shaman
 1 Dragonlord's Servant
+1 Frogmyr Enforcer
 1 Dragonmaster Outcast
 1 Burnished Hart
 1 Zuko, Exiled Prince
@@ -48,8 +52,6 @@
 1 Brazen Collector
 1 Fire Nation Cadets
 1 Oliphaunt
-1 Rough Rhino Cavalry
-1 Steel Hellkite
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -60,15 +62,15 @@
 1 Hedron Archive
 1 Found Footage
 1 Swiftfoot Boots
-1 Bilbo's Ring
 1 Sword of Hearth and Home
-1 Gathering Stone
-1 Sapphire Medallion
+1 Bilbo's Ring
+1 Scytheclaw
+1 Goldvein Pick
+1 Emerald Medallion
 1 Basilisk Collar
-1 Thought Vessel
 1 Case of the Crimson Pulse
-1 Outpost Siege
 1 Cool but Rude
+1 Outpost Siege
 1 Fervor
 1 Gratuitous Violence
 1 Thrill of Possibility
@@ -78,12 +80,10 @@
 1 Abrade
 1 Shock
 1 Lightning Strike
-1 Impossible Inferno
 1 Lithobraking
 1 Chaos Warp
 1 Bolt Bend
 1 Faithless Looting
-1 Playful Shove
 1 Processor Assault
 1 Blasphemous Act
 1 Seismic Rupture

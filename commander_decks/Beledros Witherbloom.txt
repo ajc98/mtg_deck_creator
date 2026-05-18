@@ -46,12 +46,15 @@ Creatures
 1 Llanowar Elves
 1 Birds of Paradise
 1 Morbid Opportunist
+1 The Rise of Sozin // Fire Lord Sozin
 1 Archetype of Endurance
 1 Zulaport Cutthroat
 1 Mirkwood Bats
-1 Sludge Crawler
-1 Evercoat Ursine
-1 Dominator Drone
+1 Refurbished Familiar
+1 Duskwatch Recruiter // Krallenhorde Howler
+1 Scurry of Squirrels
+1 Rampant Frogantua
+1 Demon of Loathing
 1 Blood Artist
 1 Savra, Queen of the Golgari
 1 Gala Greeters
@@ -62,8 +65,6 @@ Creatures
 1 Gray Merchant of Asphodel
 1 Poison-Tip Archer
 1 Tendershoot Dryad
-1 Scute Swarm
-1 Starscape Cleric
 
 Artifacts
 1 Sol Ring
@@ -71,16 +72,16 @@ Artifacts
 1 Talisman of Resilience
 1 Skullclamp
 1 Swiftfoot Boots
-1 Gathering Stone
+1 Emerald Medallion
 1 Bolas's Citadel
-1 Golgari Signet
 
 Enchantments
 1 Moldervine Reclamation
 1 Vampiric Rites
 1 Greed
 1 Bastion of Remembrance
-1 Beastmaster Ascension
+1 The Sibsig Ceremony
+1 Necromantic Thirst
 1 Sanguine Bond
 1 Parallel Lives
 1 Exquisite Blood
@@ -109,6 +110,5 @@ Sorceries
 1 Casualties of War
 1 Deadly Brew
 1 In Garruk's Wake
-1 Decree of Pain
 1 Exsanguinate
 1 Cultivate

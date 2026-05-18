@@ -46,7 +46,7 @@ Creatures
 1 Invasion Reinforcements
 1 Appa, Steadfast Guardian
 1 Kyoshi Warriors
-1 Lita, Little Orphan Amphibian
+1 Eastfarthing Farmer
 1 Furious Forebear
 1 Charming Prince
 1 Sun Titan
@@ -55,12 +55,11 @@ Creatures
 1 Skyclave Apparition
 1 Jeong Jeong's Deserters
 1 Avatar Enthusiasts
+1 Lita, Little Orphan Amphibian
 1 Fiend Hunter
 1 Aang, the Last Airbender
 1 Halo Scarab
 1 Hare Apparent
-1 Resolute Reinforcements
-1 Page, Loose Leaf
 
 Artifacts
 1 Arcane Signet
@@ -76,22 +75,23 @@ Artifacts
 1 Halo Fountain
 1 Swiftfoot Boots
 1 Kyoshi Battle Fan
-1 Magnifying Glass
 
 Enchantments
 1 Banishing Light
 1 Monologue Tax
+1 Endless Foot Assault
+1 Murmuration
+1 Muster the Departed
 1 Airbender Ascension
 1 Path to Redemption
 1 Felidar Retreat
-1 Builder's Talent
 
 Instants
 1 Dawn's Truce
 1 Swords to Plowshares
 1 Path to Exile
-1 Generous Gift
 1 Personify
+1 Generous Gift
 1 Stroke of Midnight
 1 Make Your Move
 1 Teferi's Protection

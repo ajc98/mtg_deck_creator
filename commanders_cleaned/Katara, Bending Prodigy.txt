@@ -34,17 +34,19 @@
 1 Mischievous Mystic
 1 Chasm Skulker
 1 The Unagi of Kyoshi Island
-1 Psychosis Crawler
 1 Forecasting Fortune Teller
+1 Psychosis Crawler
 1 Survey Mechan
 1 Kappa Cannoneer
 1 Triskaidekaphile
+1 Nimble Thopterist
+1 Splash Lasher
 1 Knowledge Seeker
 1 Geyser Leaper
 1 Flexible Waterbender
 1 Halo Scarab
+1 Bill Ferny, Bree Swindler
 1 Master Pakku
-1 Page, Loose Leaf
 1 Sol Ring
 1 Bender's Waterskin
 1 Arcane Signet
@@ -56,14 +58,13 @@
 1 Meteor Sword
 1 Ominous Parcel
 1 Swiftfoot Boots
-1 Kyoshi Battle Fan
-1 Noble's Purse
 1 Sapphire Medallion
 1 Spellbook
+1 Noble's Purse
+1 Kyoshi Battle Fan
 1 Idol of Oblivion
 1 Stalactite Dagger
 1 Heraldic Banner
-1 Invasion Submersible
 1 Waterbender Ascension
 1 Wizard Class
 1 Watery Grasp
@@ -75,18 +76,17 @@
 1 Pongify
 1 Zuko's Exile
 1 Octopus Form
-1 Lost Days
 1 Counterspell
 1 An Offer You Can't Refuse
 1 Negate
 1 It'll Quench Ya!
 1 Aetherize
 1 Opt
+1 Lost Days
 1 Divert Disaster
 1 Consider
-1 Sokka's Haiku
 1 Waterbending Lesson
+1 Wanderwine Farewell
+1 Stolen by the Fae
 1 Season of Weaving
 1 Ponder
-1 Solve the Equation
-1 Preordain

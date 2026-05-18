@@ -56,19 +56,19 @@ Creatures
 1 Mirkwood Bats
 1 Nadier's Nightblade
 1 Viscera Seer
-1 Ruthless Knave
-1 Dimir House Guard
+1 Pirate Peddlers
+1 Scourge of Skola Vale
 1 Poison-Tip Archer
-1 Spinner of Souls
+1 Warehouse Tabby
+1 Ich-Tekik, Salvage Splicer
+1 Moonstone Eulogist
 1 Camellia, the Seedmiser
 1 Academy Manufactor
-1 Deep Forest Hermit
 1 Scurry of Squirrels
-1 Squirrel Sovereign
-1 Blood Artist
-1 Honored Dreyleader
 1 Hazel's Brewmaster
-1 Scute Swarm
+1 Three Tree Scribe
+1 Super Shredder
+1 Deep Forest Hermit
 
 Artifacts
 1 Sol Ring
@@ -78,18 +78,18 @@ Artifacts
 1 Skullclamp
 1 Idol of Oblivion
 1 Swiftfoot Boots
+1 Evolving Door
 1 Chitterspitter
+1 The Ozolith
 
 Enchantments
 1 Moldervine Reclamation
+1 Meathook Massacre II
 1 Bastion of Remembrance
-1 Greater Good
-1 Grave Pact
-1 Dictate of Erebos
+1 Sothera, the Supervoid
 1 Squirrel Nest
 1 Parallel Lives
 1 Doubling Season
-1 Beastmaster Ascension
 
 Instants
 1 Deadly Dispute
@@ -107,9 +107,9 @@ Sorceries
 1 Maelstrom Pulse
 1 Casualties of War
 1 Decree of Pain
-1 Swarmyard Massacre
+1 Ruinous Waterbending
 1 Chatterstorm
-1 Rootcast Apprenticeship
+1 Swarmyard Massacre
 
 Other
 1 Garruk, Cursed Huntsman

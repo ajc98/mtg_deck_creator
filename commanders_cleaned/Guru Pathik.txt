@@ -43,8 +43,9 @@
 1 Survey Mechan
 1 Archetype of Endurance
 1 Triskaidekaphile
-1 The Earth King
-1 Expendable Lackey
+1 Scurry of Squirrels
+1 Avenger of Zendikar
+1 Scourge of Skola Vale
 1 Master Pakku
 1 Walltop Sentries
 1 First-Time Flyer
@@ -53,23 +54,23 @@
 1 Platypus-Bear
 1 Raucous Audience
 1 Birds of Paradise
-1 Michelangelo, Game Master
-1 Evolution Witness
-1 Turtle-Duck
-1 Slavering Branchsnapper
-1 Rishkar, Peema Renegade
+1 The Earth King
+1 Mutable Explorer
+1 Jewel Thief
+1 Tender Wildguide
+1 Basking Broodscale
+1 Tireless Provisioner
+1 Argothian Opportunist
+1 Prosperous Innkeeper
 1 Sol Ring
 1 Arcane Signet
 1 Thought Vessel
 1 Bender's Waterskin
 1 Mind Stone
-1 Magnifying Glass
-1 The Ozolith
+1 Evolving Door
 1 Simic Ascendancy
+1 Sapling Nursery
 1 Greater Good
-1 Ballad of the Black Flag
-1 Honest Work
-1 Noggle the Mind
 1 Growth Spiral
 1 Zuko's Exile
 1 Sokka's Haiku
@@ -83,7 +84,6 @@
 1 Heritage Reclamation
 1 Octopus Form
 1 Snakeskin Veil
-1 Cache Grab
 1 Cycle of Renewal
 1 It'll Quench Ya!
 1 Counterspell
@@ -92,9 +92,9 @@
 1 Rampant Growth
 1 Waterbending Lesson
 1 Teachings of the Archaics
-1 Fractal Summoning
+1 Doppelgang
 1 Earthbending Lesson
 1 Rockalanche
+1 Fractal Summoning
 1 Cultivate
-1 Farseek
 1 Oko, Lorwyn Liege // Oko, Shadowmoor Scion

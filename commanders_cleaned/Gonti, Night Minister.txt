@@ -28,6 +28,8 @@
 10 Swamp
 1 Solemn Simulacrum
 1 Survey Mechan
+1 Gorbag of Minas Morgul
+1 Eldrazi Ravager
 1 Asmodeus the Archfiend
 1 The Rise of Sozin // Fire Lord Sozin
 1 Knight of Malice
@@ -35,11 +37,10 @@
 1 Crypt Ghast
 1 Gray Merchant of Asphodel
 1 Mirkwood Bats
-1 Sludge Crawler
-1 Gorbag of Minas Morgul
-1 Dominator Drone
-1 Eldrazi Ravager
-1 Culling Drone
+1 Demon of Loathing
+1 Skullsnatcher
+1 Throat Slitter
+1 Bladegriff Prototype
 1 Gonti, Lord of Luxury
 1 Vault Skirge
 1 Academy Manufactor
@@ -62,17 +63,16 @@
 1 Coveted Jewel
 1 Wishclaw Talisman
 1 Found Footage
-1 Idol of Oblivion
 1 Swiftfoot Boots
 1 Heraldic Banner
 1 Thran Dynamo
 1 Gilded Lotus
 1 Greed
 1 Meathook Massacre II
+1 March from the Black Gate
 1 Black Market
 1 Deadly Dispute
 1 Village Rites
-1 Energybending
 1 Complete Disregard
 1 Murder
 1 Grip of Desolation

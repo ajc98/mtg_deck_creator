@@ -40,17 +40,20 @@ Lands
 1 Mountain
 
 Creatures
+1 Oliphaunt
 1 Mentor of the Meek
 1 Helpful Hunter
+1 Eldrazi Ravager
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Aurelia, the Warleader
 1 Combat Celebrant
-1 Sun Titan
-1 Syr Alin, the Lion's Claw
-1 Sabertooth Outrider
-1 Eldrazi Ravager
-1 Dalkovan Packbeasts
+1 Thopter Engineer
+1 Lavaleaper
+1 Hexgold Slith
+1 Prosperous Bandit
+1 Rasaad yn Bashir
+1 Bladegriff Prototype
 1 Swiftblade Vindicator
 1 Riders of the Mark
 1 Fire Sages
@@ -58,13 +61,12 @@ Creatures
 1 Brazen Collector
 1 Fire Nation Cadets
 1 Zuko, Exiled Prince
+1 Syr Alin, the Lion's Claw
+1 Sun Titan
 1 Rough Rhino Cavalry
-1 Oliphaunt
+1 Sabertooth Outrider
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Storm-Kiln Artist
-1 Akki Rockspeaker
-1 Cathodion
 
 Artifacts
 1 Sol Ring
@@ -73,23 +75,23 @@ Artifacts
 1 Mind Stone
 1 Fellwar Stone
 1 Patchwork Banner
+1 Sword of Hearth and Home
 1 Heraldic Banner
 1 Expedition Map
-1 Glittering Stockpile
-1 Thought Vessel
 1 Found Footage
 1 Swiftfoot Boots
-1 Horn of the Mark
+1 Scytheclaw
+1 Thought Vessel
 
 Enchantments
 1 Case of the Crimson Pulse
 1 Impact Tremors
 1 Cool but Rude
+1 Fervor
 
 Instants
 1 Thrill of Possibility
 1 Take Out the Trash
-1 Big Score
 1 Path to Exile
 1 Swords to Plowshares
 1 Generous Gift
@@ -108,8 +110,6 @@ Sorceries
 1 Blasphemous Act
 1 Dusk // Dawn
 1 Heroic Reinforcements
-1 Rally at the Hornburg
-1 Martial Coup
 
 Other
 1 Elspeth, Sun's Champion

@@ -28,33 +28,34 @@
 1 Desert of the Mindful
 1 Mortuary Mire
 1 Brokers Hideout
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
 1 Reliquary Tower
-1 Cryptic Caves
 1 Island
 1 Swamp
 1 Solemn Simulacrum
 1 Ornithopter of Paradise
 1 Silver Myr
 1 Kaho, Minamo Historian
+1 Cabal Patriarch
 1 Meteor Golem
-1 Survey Mechan
 1 The Rise of Sozin // Fire Lord Sozin
+1 Plaguecrafter
 1 Kappa Cannoneer
 1 Marionette Apprentice
 1 Dominator Drone
 1 Triskaidekaphile
-1 Cabal Patriarch
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
 1 Dimir House Guard
-1 Expendable Lackey
+1 Moonstone Eulogist
+1 Osteomancer Adept
 1 Burnished Hart
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Azula, Cunning Usurper
-1 Junk Diver
-1 Textbook Tabulator
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -63,38 +64,37 @@
 1 Expedition Map
 1 Gilded Lotus
 1 Soul-Guide Lantern
+1 Skullclamp
 1 Cryogen Relic
 1 Found Footage
 1 Swiftfoot Boots
 1 Bolas's Citadel
-1 Skullclamp
 1 Wishclaw Talisman
 1 Thran Dynamo
 1 Hedron Archive
-1 Traveler's Amulet
+1 Meathook Massacre II
 1 Stormchaser's Talent
-1 Necropotence
+1 Grave Pact
+1 Sothera, the Supervoid
+1 Dictate of Erebos
 1 Ballad of the Black Flag
-1 Mornsong Aria
-1 Tezzeret's Touch
 1 Frantic Search
 1 Arcane Denial
 1 Deadly Dispute
-1 Case the Joint
 1 Complete Disregard
 1 Murder
 1 Grip of Desolation
 1 Recoil
 1 Become Anonymous
+1 Consumed by Greed
 1 Unbury
+1 Feed the Cycle
 1 Negate
 1 Counterspell
 1 Dark Ritual
 1 Mystical Teachings
-1 An Offer You Can't Refuse
 1 Reverse Engineer
 1 Ponder
 1 Feed the Swarm
-1 Pull from the Grave
-1 Buried Alive
+1 Scrounge for Eternity
 1 Tezzeret, Master of Metal

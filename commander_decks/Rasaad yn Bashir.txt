@@ -37,13 +37,15 @@ Creatures
 1 Ornithopter of Paradise
 1 Mentor of the Meek
 1 Mangara, the Diplomat
+1 Eldrazi Ravager
 1 Helpful Hunter
 1 Survey Mechan
 1 Zetalpa, Primal Dawn
 1 Knight of Grace
 1 Sun Titan
+1 Hexgold Slith
+1 Bladegriff Prototype
 1 Haazda Vigilante
-1 Eldrazi Ravager
 1 Nyx-Fleece Ram
 1 Ornithopter
 1 Shrike Force
@@ -58,27 +60,26 @@ Artifacts
 1 Mind Stone
 1 Expedition Map
 1 Fellwar Stone
-1 All-Fates Scroll
-1 Coveted Jewel
+1 Sword of Hearth and Home
+1 Goldvein Pick
 1 Found Footage
 1 Swiftfoot Boots
 1 Halo Fountain
+1 Scytheclaw
 1 Bark of Doran
 1 Vanguard's Shield
 1 Kite Shield
+1 All-Fates Scroll
 1 Basilisk Collar
-1 Sword of Hearth and Home
 1 Argent Dais
-1 Oblivion Stone
 1 Magnifying Glass
-1 Bender's Waterskin
 
 Enchantments
 1 Angelic Gift
-1 Martial Impetus
-1 Endless Foot Assault
 1 Ghostly Prison
 1 Aligned Heart
+1 Martial Impetus
+1 Endless Foot Assault
 1 Charitable Levy
 1 Felidar Retreat
 
@@ -99,7 +100,6 @@ Sorceries
 1 Cut a Deal
 1 Secret Rendezvous
 1 Dismantling Wave
-1 Tempt with Bunnies
 1 Dusk // Dawn
 1 Damning Verdict
 

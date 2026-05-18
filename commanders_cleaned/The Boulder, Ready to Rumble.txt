@@ -15,6 +15,7 @@
 1 Desert of the Indomitable
 1 Tranquil Thicket
 1 Escape Tunnel
+1 Disciple of Freyalise // Garden of Freyalise
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
@@ -25,25 +26,22 @@
 1 Crawling Barrens
 1 Inkmoth Nexus
 1 Maze's End
-12 Forest
+11 Forest
 1 Raucous Audience
 1 Llanowar Elves
 1 Topiary Stomper
 1 Sakura-Tribe Elder
 1 Saber-Tooth Moose-Lion
+1 Tireless Provisioner
 1 Surrak, Elusive Hunter
-1 Garruk's Packleader
 1 Survey Mechan
-1 Archetype of Endurance
+1 Bladegriff Prototype
 1 The Earth King
 1 Rampaging Baloths
-1 Avenger of Zendikar
-1 Scute Swarm
+1 Scurry of Squirrels
+1 Scourge of Skola Vale
 1 Surrak, the Hunt Caller
 1 Goreclaw, Terror of Qal Sisma
-1 Evercoat Ursine
-1 Eldrazi Ravager
-1 Toski, Bearer of Secrets
 1 Badgermole
 1 Earth Kingdom General
 1 Badgermole Cub
@@ -52,31 +50,34 @@
 1 Haru, Hidden Talent
 1 Azusa, Lost but Seeking
 1 Sandman, Shifting Scoundrel
+1 Avenger of Zendikar
 1 Foggy Swamp Vinebender
 1 Forgotten Ancient
-1 Tireless Provisioner
-1 Birds of Paradise
 1 Sol Ring
 1 Arcane Signet
-1 Bender's Waterskin
 1 Ominous Parcel
 1 Swiftfoot Boots
+1 Chitterspitter
 1 Evolving Door
+1 Rolling Hamsphere
+1 Stitcher's Graft
+1 Scytheclaw
+1 Goldvein Pick
 1 Emerald Medallion
 1 The Ozolith
 1 Garruk's Uprising
 1 Terrasymbiosis
 1 Hunter's Talent
 1 Greater Good
-1 Beastmaster Ascension
+1 Sapling Nursery
 1 Unnatural Growth
+1 Beastmaster Ascension
 1 Return of the Wildspeaker
 1 Heritage Reclamation
 1 Origin of Metalbending
 1 Beast Within
 1 Zuko's Exile
 1 Naturalize
-1 Titan's Presence
 1 Snakeskin Veil
 1 Cycle of Renewal
 1 Rampant Growth

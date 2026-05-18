@@ -44,15 +44,18 @@ Creatures
 1 Wandertale Mentor
 1 Garruk's Packleader
 1 Solemn Simulacrum
+1 Survey Mechan
 1 Teapot Slinger
 1 Rubble Rouser
 1 Molten Gatekeeper
+1 Combat Celebrant
+1 Thopter Engineer
 1 Lavaleaper
 1 Pyreswipe Hawk
 1 Goreclaw, Terror of Qal Sisma
-1 Evercoat Ursine
+1 Scurry of Squirrels
+1 Polis Crusher
 1 Archetype of Endurance
-1 Survey Mechan
 1 Silhana Ledgewalker
 1 Wildsear, Scouring Maw
 1 Kodama of the East Tree
@@ -87,15 +90,12 @@ Enchantments
 1 Sunbird's Invocation
 1 Warstorm Surge
 1 Primeval Bounty
-1 Gruul War Chant
-1 Path of Discovery
 
 Instants
 1 Starstorm
 1 Big Score
 1 Beast Within
 1 Abrade
-1 Take Out the Trash
 1 Lithobraking
 1 Snakeskin Veil
 1 Blossoming Defense

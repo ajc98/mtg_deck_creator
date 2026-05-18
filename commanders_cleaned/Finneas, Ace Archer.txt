@@ -41,12 +41,13 @@
 1 Birds of Paradise
 1 Jacked Rabbit
 1 Harvestrite Host
+1 Toski, Bearer of Secrets
 1 Hare Apparent
 1 Warren Warleader
 1 Pawpatch Recruit
+1 Scourge of Skola Vale
 1 Hazardroot Herbalist
-1 Toski, Bearer of Secrets
-1 Aragorn and Arwen, Wed
+1 Scurry of Squirrels
 1 Burrowguard Mentor
 1 Valley Questcaller
 1 Hinterland Sanctifier
@@ -61,19 +62,19 @@
 1 Arcane Signet
 1 Patchwork Banner
 1 Heaped Harvest
+1 Idol of Oblivion
 1 Chronicle of Victory
 1 Skullclamp
-1 Idol of Oblivion
 1 Swiftfoot Boots
 1 Halo Fountain
 1 Carrot Cake
+1 Evolving Door
+1 Rolling Hamsphere
 1 Stocking the Pantry
 1 Greater Good
 1 Beastmaster Ascension
-1 Hunter's Talent
+1 Endless Foot Assault
 1 Doubling Season
-1 Parallel Lives
-1 Felidar Retreat
 1 Dawn's Truce
 1 Pawpatch Formation
 1 Swords to Plowshares
@@ -83,7 +84,6 @@
 1 Repel Calamity
 1 Stroke of Midnight
 1 Rootborn Defenses
-1 Teferi's Protection
 1 Second Harvest
 1 Rabbit Response
 1 Parting Gust

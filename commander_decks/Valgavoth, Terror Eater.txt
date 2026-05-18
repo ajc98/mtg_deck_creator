@@ -21,6 +21,7 @@ Lands
 1 Great Hall of the Biblioplex
 1 Gemstone Mine
 1 Mudflat Village
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
@@ -29,13 +30,14 @@ Lands
 1 Cryptic Caves
 1 Volatile Fault
 1 Thespian's Stage
-9 Swamp
+8 Swamp
 
 Creatures
 1 Solemn Simulacrum
 1 Dread Presence
 1 Doomsday Excruciator
 1 Morbid Opportunist
+1 Dimir House Guard
 1 Rune-Scarred Demon
 1 Survey Mechan
 1 Accursed Marauder
@@ -46,16 +48,22 @@ Creatures
 1 Gray Merchant of Asphodel
 1 Valgavoth's Faithful
 1 Nullpriest of Oblivion
-1 Dimir House Guard
+1 Pirate Peddlers
+1 Gríma Wormtongue
+1 Woe Strider
+1 Chittering Witch
 1 June, Bounty Hunter
-1 Dusk Mangler
-1 Cabal Patriarch
 1 Massacre Wurm
-1 Heirloom Auntie
-1 Nezumi Graverobber // Nighteyes the Desecrator
-1 Canyon Crawler
-1 Beamsaw Prospector
-1 K'rrik, Son of Yawgmoth
+1 Warehouse Tabby
+1 Voracious Fell Beast
+1 Dreadfeast Demon
+1 Tangled Colony
+1 Nested Shambler
+1 Iridescent Vinelasher
+1 Thornplate Intimidator
+1 Darkstar Augur
+1 Starscape Cleric
+1 Super Shredder
 
 Artifacts
 1 Sol Ring
@@ -67,20 +75,18 @@ Artifacts
 1 Gilded Lotus
 1 Fellwar Stone
 1 Hedron Archive
-1 Found Footage
 1 Swiftfoot Boots
 1 Bolas's Citadel
 1 Whip of Erebos
-1 Orochi Hatchery
+1 The Ozolith
 
 Enchantments
 1 Waste Not
 1 Font of Agonies
 1 Meathook Massacre II
-1 Vampiric Rites
 1 Black Market
-1 Grave Pact
-1 Shadows of the Past
+1 Sothera, the Supervoid
+1 Dictate of Erebos
 1 Necropotence
 
 Instants
@@ -88,20 +94,18 @@ Instants
 1 Murder
 1 Complete Disregard
 1 Grip of Desolation
-1 Deal Gone Bad
-1 Hero's Downfall
+1 Sold Out
 1 Consumed by Greed
 1 Unbury
-1 Not Dead After All
-1 Dark Ritual
 
 Sorceries
 1 Diabolic Tutor
+1 Coiling Rebirth
 1 Feed the Swarm
 1 Exsanguinate
-1 Coiling Rebirth
-1 Dread Summons
-1 Bubbling Muck
+1 Gravedig
+1 Ruinous Waterbending
+1 Foggy Swamp Visions
 
 Other
 1 Liliana of the Dark Realms

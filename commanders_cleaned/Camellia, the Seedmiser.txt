@@ -54,16 +54,16 @@
 1 Hazel's Brewmaster
 1 Academy Manufactor
 1 Scurry of Squirrels
-1 Dimir House Guard
-1 Carrion Feeder
-1 June, Bounty Hunter
+1 Pirate Peddlers
+1 Scourge of Skola Vale
+1 Dusk Mangler
 1 Curious Forager
-1 Golgari Findbroker
-1 Spinner of Souls
+1 Warehouse Tabby
+1 Ich-Tekik, Salvage Splicer
 1 Osteomancer Adept
 1 Corpseberry Cultivator
-1 Chatterfang, Squirrel General
-1 Honored Dreyleader
+1 Three Tree Scribe
+1 Super Shredder
 1 Sol Ring
 1 Arcane Signet
 1 Heaped Harvest
@@ -72,23 +72,27 @@
 1 Idol of Oblivion
 1 Swiftfoot Boots
 1 Chitterspitter
+1 Evolving Door
+1 The Ozolith
 1 Moldervine Reclamation
-1 Squirrel Nest
-1 Greater Good
+1 Meathook Massacre II
 1 Bastion of Remembrance
+1 Squirrel Nest
+1 Grave Pact
+1 Sothera, the Supervoid
+1 Dictate of Erebos
 1 Doubling Season
 1 Parallel Lives
 1 Deadly Dispute
 1 Pawpatch Formation
-1 Putrefy
-1 Feed the Cycle
 1 Bake into a Pie
 1 Savor
+1 Feed the Cycle
+1 Putrefy
+1 Tainted Treats
 1 Beast Within
 1 Tear Asunder
-1 Tainted Treats
 1 Snakeskin Veil
-1 Hazel's Nocturne
 1 Cache Grab
 1 Second Harvest
 1 Consumed by Greed
@@ -96,5 +100,7 @@
 1 Many Partings
 1 Rampant Growth
 1 Decree of Pain
+1 Scrounge for Eternity
+1 Gravedig
 1 Coiling Rebirth
-1 Recollect
+1 Ruinous Waterbending

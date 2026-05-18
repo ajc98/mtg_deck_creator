@@ -31,25 +31,27 @@ Lands
 
 Creatures
 1 Solemn Simulacrum
+1 Halo Scarab
 1 Circuit Mender
 1 Survey Mechan
 1 Sarpadian Simulacrum
 1 Darksteel Colossus
 1 Rubble Rouser
-1 Molten Gatekeeper
-1 Nettle Drone
+1 Coruscation Mage
+1 Agate Instigator
+1 Mysidian Elder
 1 Gimli, Counter of Kills
-1 Halo Scarab
-1 Flamekin Gildweaver
+1 Riders of the Mark
+1 Prosperous Bandit
+1 Steampath Charger
+1 Manifold Mouse
+1 Mogg War Marshal
 1 Aetherjacket
 1 Frogmyr Enforcer
 1 Junk Diver
 1 Satyr Rambler
+1 Flamekin Gildweaver
 1 Storm-Kiln Artist
-1 Page, Loose Leaf
-1 Bedhead Beastie
-1 Cathodion
-1 Oliphaunt
 
 Artifacts
 1 Sol Ring
@@ -60,35 +62,34 @@ Artifacts
 1 Heraldic Banner
 1 Firdoch Core
 1 Thought Vessel
-1 Ominous Parcel
 1 Pyrite Spellbomb
 1 Chronicle of Victory
+1 Ravenous Amulet
 1 Found Footage
 1 Spine of Ish Sah
 1 Mouser Foundry
 1 Bilbo's Ring
 1 Sword of Hearth and Home
-1 Ravenous Amulet
 1 Maskwood Nexus
+1 Stalactite Dagger
+1 The Ozolith
 1 Oblivion Stone
 1 Gathering Stone
 1 Hard-Won Jitte
 1 Basilisk Collar
-1 Magnifying Glass
-1 Boom Box
 
 Enchantments
 1 Case of the Crimson Pulse
-1 Cool but Rude
 1 Firebender Ascension
+1 Outpost Siege
 1 Rain of Riches
 1 Fervor
+1 Cool but Rude
 
 Instants
 1 Big Score
 1 Manhole Missile
 1 Thrill of Possibility
-1 Take Out the Trash
 1 Lightning Strike
 1 Sear
 1 Jennika's Technique
@@ -99,5 +100,4 @@ Instants
 Sorceries
 1 Stone Rain
 1 Bot Bashing Time
-1 Glimpse the Impossible
 1 Portent of Betrayal

@@ -39,14 +39,13 @@
 1 Solemn Simulacrum
 1 Ornithopter of Paradise
 1 Loyal Warhound
-1 Curiosity Crafter
 1 Aether Channeler
+1 Curiosity Crafter
 1 Jacked Rabbit
 1 Spirited Companion
 1 Pollywog Prodigy
-1 Inspiring Overseer
-1 Siege-Gang Commander
 1 Hanged Executioner
+1 Siege-Gang Commander
 1 Selfless Spirit
 1 Agate Instigator
 1 Molten Gatekeeper
@@ -63,10 +62,10 @@
 1 Junk Winder
 1 Exalted Sunborn
 1 Combat Celebrant
+1 Inspiring Overseer
 1 Restoration Angel
 1 Plumecreed Escort
 1 Blade Splicer
-1 Thopter Engineer
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
@@ -76,11 +75,12 @@
 1 Mind Stone
 1 Bident of Thassa
 1 Skullclamp
-1 Helm of the Host
 1 Idol of Oblivion
+1 Helm of the Host
 1 Impact Tremors
 1 Echoing Assault
 1 Murmuration
+1 Endless Foot Assault
 1 Path to Exile
 1 Swords to Plowshares
 1 Rapid Hybridization

@@ -28,7 +28,6 @@ Lands
 1 Urza's Power Plant
 1 Shire Terrace
 1 Rogue's Passage
-1 Maze's End
 9 Mountain
 1 Wastes
 
@@ -39,22 +38,25 @@ Creatures
 1 Ornithopter of Paradise
 1 Circuit Mender
 1 Survey Mechan
+1 Eldrazi Ravager
 1 Meteor Golem
 1 Spawn-Gang Commander
 1 Emrakul, the World Anew
+1 Dragonhawk, Fate's Tempest
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Frogmyr Enforcer
-1 Eldrazi Ravager
-1 Vile Aggregate
+1 Dragonspeaker Shaman
+1 Dragonlord's Servant
+1 Thopter Engineer
+1 Lavaleaper
+1 Prosperous Bandit
+1 Bladegriff Prototype
 1 Oliphaunt
 1 Page, Loose Leaf
 1 Zuko, Exiled Prince
 1 Fire Sages
 1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Fire Nation Cadets
-1 Rough Rhino Cavalry
 
 Artifacts
 1 Sol Ring
@@ -66,18 +68,17 @@ Artifacts
 1 Skullclamp
 1 Found Footage
 1 Swiftfoot Boots
-1 Bilbo's Ring
-1 Gathering Stone
-1 Sapphire Medallion
 1 Sword of Hearth and Home
+1 Emerald Medallion
+1 Scytheclaw
+1 Goldvein Pick
 1 Fellwar Stone
 1 Glittering Stockpile
-1 Expedition Map
-1 Gilded Lotus
 
 Enchantments
 1 Case of the Crimson Pulse
 1 Cool but Rude
+1 Fervor
 1 Echoes of Eternity
 1 Sunbird's Invocation
 1 Warstorm Surge
@@ -85,7 +86,6 @@ Enchantments
 Instants
 1 Big Score
 1 Thrill of Possibility
-1 Take Out the Trash
 1 Abrade
 1 Warping Wail
 1 Titan's Presence
@@ -99,7 +99,7 @@ Sorceries
 1 Crash Through
 1 Processor Assault
 1 Blasphemous Act
-1 Electroduplicate
 1 Glimpse the Impossible
 1 Mana Geyser
 1 Act of Treason
+1 Electroduplicate

@@ -34,7 +34,6 @@
 1 Kyoshi Village
 1 Sheltering Landscape
 1 Demolition Field
-1 Adagia, Windswept Bastion
 1 Forest
 1 Plains
 1 Mountain
@@ -43,40 +42,44 @@
 1 Survey Mechan
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Hare Apparent
+1 Scurry of Squirrels
+1 Avenger of Zendikar
+1 Scute Swarm
+1 Scourge of Skola Vale
 1 Wildsear, Scouring Maw
 1 Evolution Witness
 1 Halo Scarab
 1 Courier of Comestibles
+1 Mutable Explorer
+1 Jewel Thief
+1 Brigid, Clachan's Heart // Brigid, Doun's Mind
+1 Tender Wildguide
+1 Noggle Robber
+1 Basking Broodscale
+1 Tireless Provisioner
+1 Argothian Opportunist
+1 Prosperous Innkeeper
 1 Storm-Kiln Artist
-1 Selvala, Explorer Returned
-1 Alexios, Deimos of Kosmos
-1 Slavering Branchsnapper
-1 Page, Loose Leaf
+1 Gilded Goose
+1 Flamekin Gildweaver
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
 1 Talisman of Impulse
 1 Found Footage
 1 Swiftfoot Boots
+1 Halo Fountain
+1 Evolving Door
 1 Gruul Signet
 1 Boros Signet
-1 Magnifying Glass
-1 Mind Stone
-1 Glittering Stockpile
-1 All-Fates Scroll
 1 Case of the Crimson Pulse
+1 Greater Good
 1 Origin of the Hidden Ones
 1 Maximum Carnage
-1 Cool but Rude
-1 Greater Good
-1 Reconnaissance
-1 Wild Growth
+1 Sapling Nursery
 1 Dawn's Truce
 1 Take Out the Trash
 1 Energybending
-1 Heritage Reclamation
-1 Thrill of Possibility
 1 Swords to Plowshares
 1 Path to Exile
 1 Beast Within
@@ -85,16 +88,13 @@
 1 Lithobraking
 1 Boros Charm
 1 Teferi's Protection
-1 Cache Grab
 1 Chaos Warp
-1 Abrade
 1 Farseek
 1 Rampant Growth
 1 Tempt with Discovery
+1 Tempt with Bunnies
 1 Cut a Deal
 1 Processor Assault
 1 Blasphemous Act
 1 Dusk // Dawn
-1 Tempt with Bunnies
 1 Cultivate
-1 Reconstruct History

@@ -43,12 +43,12 @@ Creatures
 1 Bladegriff Prototype
 1 Plumecreed Escort
 1 Triskaidekaphile
-1 Expendable Lackey
+1 Chasm Skulker
+1 Nimble Thopterist
 1 Iguana Parrot
 1 Glen Elendra Guardian
 1 Halo Scarab
-1 Page, Loose Leaf
-1 Shoreline Looter
+1 Bill Ferny, Bree Swindler
 
 Artifacts
 1 Sol Ring
@@ -61,16 +61,15 @@ Artifacts
 1 Gilded Lotus
 1 Ominous Parcel
 1 Swiftfoot Boots
-1 Helm of the Host
 1 Bident of Thassa
 1 Sapphire Medallion
+1 Helm of the Host
 
 Enchantments
 1 Honest Work
 1 Waterbender Ascension
 1 Noggle the Mind
 1 Aquitect's Defenses
-1 Blossombind
 
 Instants
 1 Opt
@@ -80,23 +79,24 @@ Instants
 1 Pongify
 1 Into the Flood Maw
 1 Slip Out the Back
-1 Lost Days
-1 Phantom Interference
 1 Counterspell
 1 Aetherize
 1 It'll Quench Ya!
+1 Lost Days
 1 Frantic Search
+1 Phantom Interference
 1 Octopus Form
 1 Mind Transfer Protocol
 1 Refute
 1 Anticipate
 1 Run Away Together
-1 Don't Make a Sound
 
 Sorceries
 1 Treasure Cruise
 1 Ponder
 1 Splash Portal
+1 Wanderwine Farewell
+1 Stolen by the Fae
 1 Preordain
 1 Curse of the Swine
 1 Waterbending Lesson

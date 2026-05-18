@@ -12,12 +12,13 @@
 1 Inkmoth Nexus
 29 Wastes
 1 Solemn Simulacrum
+1 Halo Scarab
 1 Circuit Mender
 1 Survey Mechan
 1 Eldrazi Ravager
 1 Bladegriff Prototype
 1 Krang, Utrom Warlord
-1 Halo Scarab
+1 Rooftop Percher
 1 Junk Diver
 1 Adaptive Automaton
 1 Steel Hellkite
@@ -27,7 +28,6 @@
 1 Changeling Wayfinder
 1 Camera Launcher
 1 Chrome Companion
-1 Treasure Keeper
 1 Sol Ring
 1 Mind Stone
 1 Thought Vessel
@@ -35,9 +35,8 @@
 1 Hedron Archive
 1 Arcane Signet
 1 All-Fates Scroll
-1 Fellwar Stone
-1 Vexing Bauble
 1 Skullclamp
+1 Vexing Bauble
 1 Found Footage
 1 Chronicle of Victory
 1 Spine of Ish Sah
@@ -50,6 +49,7 @@
 1 Mirage Mirror
 1 The Ozolith
 1 Coat of Arms
+1 Fellwar Stone
 1 Expedition Map
 1 Oblivion Stone
 1 Hall of Triumph
@@ -57,12 +57,12 @@
 1 Traveler's Amulet
 1 Magnifying Glass
 1 Bender's Waterskin
-1 Bilbo's Ring
-1 Jalum Tome
 1 Coveted Jewel
 1 Heraldic Banner
 1 Patchwork Banner
-1 Heirloom Epic
+1 Bilbo's Ring
+1 Jalum Tome
+1 Inherited Envelope
 1 Echoes of Eternity
 1 Zuko's Exile
 1 Energybending

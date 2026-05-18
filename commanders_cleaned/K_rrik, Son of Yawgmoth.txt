@@ -19,6 +19,7 @@
 1 Great Hall of the Biblioplex
 1 Gemstone Mine
 1 Mudflat Village
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
@@ -27,8 +28,9 @@
 1 Cryptic Caves
 1 Volatile Fault
 1 Arid Archway
-8 Swamp
+7 Swamp
 1 Skirge Familiar
+1 Canyon Crawler
 1 Asmodeus the Archfiend
 1 Dimir House Guard
 1 Vile Entomber
@@ -40,19 +42,20 @@
 1 Knight of Malice
 1 Gray Merchant of Asphodel
 1 Crypt Ghast
-1 Canyon Crawler
-1 Beamsaw Prospector
-1 Viscera Seer
-1 Carrion Feeder
-1 June, Bounty Hunter
+1 Voracious Fell Beast
+1 Dreadfeast Demon
+1 Tangled Colony
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
 1 Blood Celebrant
 1 Chainer, Dementia Master
 1 Blood Artist
 1 Shard of the Nightbringer
+1 Viscera Seer
 1 Vampire Nighthawk
 1 Massacre Wurm
 1 Halo Scarab
-1 Azula, On the Hunt
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -77,17 +80,15 @@
 1 Victim of Night
 1 Requiting Hex
 1 Complete Disregard
-1 Not Dead After All
-1 Deadly Dispute
 1 Dark Ritual
 1 Cabal Ritual
+1 Not Dead After All
 1 Undying Malice
-1 Environmental Sciences
 1 Diabolic Tutor
 1 Buried Alive
 1 Feed the Swarm
 1 Decree of Pain
 1 Exsanguinate
+1 Foggy Swamp Visions
 1 Bubbling Muck
-1 Duress
 1 Liliana of the Dark Realms

@@ -29,13 +29,13 @@ Lands
 1 Mortuary Mire
 1 Sunken Palace
 1 Brokers Hideout
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Reliquary Tower
 1 Shire Terrace
 1 Rogue's Passage
 1 Cryptic Caves
-1 Volatile Fault
 1 Island
 1 Swamp
 
@@ -49,16 +49,18 @@ Creatures
 1 Gray Merchant of Asphodel
 1 Dominator Drone
 1 Triskaidekaphile
-1 Meneldor, Swift Savior
-1 Sludge Crawler
-1 Adéwalé, Breaker of Chains
-1 Culling Drone
+1 Comet Crawler
+1 Demon of Loathing
+1 Vampire Gourmand
+1 Witch-king, Bringer of Ruin
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
 1 Dimir House Guard
-1 Massacre Wurm
+1 Warehouse Tabby
+1 Osteomancer Adept
 1 Gonti, Night Minister
 1 Hama, the Bloodbender
-1 Gonti, Lord of Luxury
-1 Halo Scarab
 
 Artifacts
 1 Sol Ring
@@ -71,18 +73,19 @@ Artifacts
 1 Thran Dynamo
 1 Found Footage
 1 Swiftfoot Boots
+1 Stitcher's Graft
 1 Whip of Erebos
-1 Sapphire Medallion
 
 Enchantments
 1 Obsessive Pursuit
-1 Necropotence
-1 Propaganda
+1 Meathook Massacre II
+1 Necromantic Thirst
+1 Grave Pact
+1 Sothera, the Supervoid
 
 Instants
 1 Frantic Search
 1 Arcane Denial
-1 Case the Joint
 1 Saw in Half
 1 Pongify
 1 Azula Always Lies
@@ -91,12 +94,11 @@ Instants
 1 Octopus Form
 1 Become Anonymous
 1 Not Dead After All
+1 Illusionist's Gambit
+1 Consumed by Greed
 1 Zuko's Conviction
-1 Unbury
+1 Feed the Cycle
 1 Counterspell
-1 Dark Ritual
-1 An Offer You Can't Refuse
-1 Negate
 
 Sorceries
 1 Splash Portal
@@ -108,6 +110,4 @@ Sorceries
 1 March from Velis Vel
 1 Zombify
 1 Stir the Grave
-1 Scrounge for Eternity
-1 Foggy Swamp Visions
-1 Dream Harvest
+1 Ruinous Waterbending

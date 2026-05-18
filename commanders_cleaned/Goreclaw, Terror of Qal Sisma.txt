@@ -31,11 +31,12 @@
 1 Surrak, Elusive Hunter
 1 Fierce Empath
 1 Survey Mechan
+1 Bladegriff Prototype
 1 Archetype of Endurance
 1 Surrak, the Hunt Caller
+1 Scurry of Squirrels
 1 Evercoat Ursine
 1 Eldrazi Ravager
-1 Kalonian Hydra
 1 Ghalta, Primal Hunger
 1 Terastodon
 1 End-Raze Forerunners
@@ -50,30 +51,30 @@
 1 Halo Scarab
 1 Wose Pathfinder
 1 Slavering Branchsnapper
+1 Raucous Audience
+1 Cathodion
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Ominous Parcel
 1 Swiftfoot Boots
+1 Scytheclaw
+1 Goldvein Pick
 1 Emerald Medallion
 1 Thought Vessel
 1 All-Fates Scroll
 1 Fellwar Stone
-1 Magnifying Glass
-1 Bender's Waterskin
-1 Coveted Jewel
 1 Garruk's Uprising
 1 Greater Good
 1 Hunter's Talent
-1 Beastmaster Ascension
 1 Unnatural Growth
 1 Wild Growth
+1 Beastmaster Ascension
 1 Return of the Wildspeaker
-1 Heritage Reclamation
 1 Beast Within
+1 Heritage Reclamation
 1 Naturalize
 1 Titan's Presence
-1 Artisan's Sorrow
 1 Snakeskin Veil
 1 Bite Down
 1 Gaea's Gift
@@ -85,4 +86,3 @@
 1 Explore
 1 Cultivate
 1 Overrun
-1 Vivien Reid

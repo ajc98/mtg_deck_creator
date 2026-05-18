@@ -33,7 +33,7 @@
 1 Shire Terrace
 1 Rogue's Passage
 1 Cryptic Caves
-1 Maze's End
+1 Volatile Fault
 1 Plains
 1 Mountain
 1 Goldhound
@@ -41,11 +41,15 @@
 1 Loyal Warhound
 1 Solemn Simulacrum
 1 Loran of the Third Path
-1 Helpful Hunter
 1 Zetalpa, Primal Dawn
-1 Rubble Rouser
-1 Molten Gatekeeper
-1 Hare Apparent
+1 Coruscation Mage
+1 Agate Instigator
+1 Mysidian Elder
+1 Eastfarthing Farmer
+1 Boss's Chauffeur
+1 Riders of the Mark
+1 Kithkeeper
+1 Sunstar Expansionist
 1 Furious Forebear
 1 Swiftblade Vindicator
 1 Shrike Force
@@ -56,6 +60,8 @@
 1 Aurelia, the Warleader
 1 Halo Scarab
 1 Storm-Kiln Artist
+1 Jennika, Bad Apple Big Sister
+1 Flamekin Gildweaver
 1 Arcane Signet
 1 Sol Ring
 1 Boros Signet
@@ -63,39 +69,33 @@
 1 Sword of Hearth and Home
 1 Fellwar Stone
 1 Idol of Oblivion
-1 Found Footage
 1 Swiftfoot Boots
-1 Improvised Arsenal
+1 Halo Fountain
 1 Basilisk Collar
+1 Improvised Arsenal
 1 Magnifying Glass
-1 Case of the Crimson Pulse
-1 Cool but Rude
-1 Builder's Talent
-1 Kinbinding
-1 Aligned Heart
 1 Hoofprints of the Stag
+1 Endless Foot Assault
+1 Murmuration
+1 Muster the Departed
 1 Airbender Ascension
 1 Legion Leadership // Legion Stronghold
 1 Thrill of Possibility
 1 Big Score
+1 Auspicious Arrival
 1 Swords to Plowshares
 1 Path to Exile
 1 Generous Gift
 1 Stroke of Midnight
 1 Abrade
-1 Take Out the Trash
+1 Lithobraking
 1 Boros Charm
-1 Parting Gust
 1 Chaos Warp
+1 Parting Gust
 1 Faithless Looting
 1 Cut a Deal
+1 Tempt with Bunnies
 1 Secret Rendezvous
 1 Processor Assault
 1 Blasphemous Act
 1 Vanquish the Horde
-1 Dusk // Dawn
-1 Tempt with Bunnies
-1 Reconstruct History
-1 Another Round
-1 Martial Coup
-1 Go Ninja Go

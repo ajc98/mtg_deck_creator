@@ -18,6 +18,7 @@
 1 Great Hall of the Biblioplex
 1 Gemstone Mine
 1 Mudflat Village
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
@@ -26,28 +27,30 @@
 1 Cryptic Caves
 1 Volatile Fault
 1 Arid Archway
-9 Swamp
+8 Swamp
 1 Common Crook
-1 Solemn Simulacrum
 1 Halo Scarab
+1 Solemn Simulacrum
 1 Moonglove Extractor
 1 Oroku Saki, Shredder Rising
 1 Morbid Opportunist
-1 Survey Mechan
+1 Dimir House Guard
 1 Accursed Marauder
 1 Plaguecrafter
-1 Knight of Malice
+1 Survey Mechan
 1 Merciless Enforcers
-1 Zulaport Cutthroat
+1 Voracious Fell Beast
+1 Dreadfeast Demon
+1 Tangled Colony
 1 Pirate Peddlers
-1 Dimir House Guard
-1 June, Bounty Hunter
+1 Dusk Mangler
+1 Gríma Wormtongue
+1 Woe Strider
+1 Moonstone Eulogist
 1 Qarsi Revenant
 1 Bonebind Orator
 1 Bile-Vial Boggart
 1 Squirrelanoids
-1 Shredder, Unrelenting
-1 Tunnel Rats
 1 Arcane Signet
 1 Sol Ring
 1 Mind Stone
@@ -59,15 +62,15 @@
 1 Black Mage's Rod
 1 Whip of Erebos
 1 Basilisk Collar
+1 Meathook Massacre II
 1 Bastion of Remembrance
-1 Black Market
-1 Grave Pact
-1 Shadows of the Past
-1 Obsessive Pursuit
-1 Corrupted Conviction
+1 Sothera, the Supervoid
+1 Dictate of Erebos
+1 Boggart Mischief
 1 Deadly Dispute
-1 Village Rites
+1 Corrupted Conviction
 1 Sold Out
+1 Village Rites
 1 Nasty End
 1 Murder
 1 Deal Gone Bad
@@ -75,18 +78,16 @@
 1 Heartless Act
 1 Doom Blade
 1 Maximum Overdrive
-1 Fake Your Own Death
-1 Scarblade's Malice
-1 Bake into a Pie
 1 Consumed by Greed
 1 Unbury
+1 Feed the Cycle
 1 Dark Ritual
+1 Fake Your Own Death
 1 Feed the Swarm
 1 Deadly Precision
-1 Decree of Pain
 1 Exsanguinate
+1 Foggy Swamp Visions
+1 Coiling Rebirth
 1 Stir the Grave
 1 Grim Discovery
-1 Gravedig
-1 Ruinous Waterbending
 1 Liliana of the Dark Realms

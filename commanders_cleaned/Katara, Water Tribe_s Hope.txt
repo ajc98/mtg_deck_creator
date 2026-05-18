@@ -34,30 +34,33 @@
 1 Sandstone Bridge
 1 Cabaretti Courtyard
 1 Demolition Field
+1 Volatile Fault
 1 Maze's End
 1 Island
 1 Plains
 1 Ornithopter of Paradise
 1 Giant Koi
 1 Katara, Bending Prodigy
-1 The Unagi of Kyoshi Island
 1 Jacked Rabbit
 1 Forecasting Fortune Teller
-1 Survey Mechan
+1 The Unagi of Kyoshi Island
 1 Earth Kingdom Protectors
 1 Triskaidekaphile
 1 Invasion Reinforcements
 1 Suki, Courageous Rescuer
+1 Eastfarthing Farmer
+1 Boss's Chauffeur
+1 Tobias, Doomed Conqueror
 1 Appa, Steadfast Guardian
-1 Monastery Mentor
-1 Kyoshi Warriors
-1 Mischievous Mystic
 1 Furious Forebear
 1 Compassionate Healer
 1 Water Tribe Rallier
+1 Monastery Mentor
 1 Tetsuko Umezawa, Fugitive
 1 Exalted Sunborn
+1 Mischievous Mystic
 1 Curiosity Crafter
+1 Kyoshi Warriors
 1 Halo Scarab
 1 Sol Ring
 1 Arcane Signet
@@ -72,16 +75,13 @@
 1 Idol of Oblivion
 1 Swiftfoot Boots
 1 Halo Fountain
-1 Kyoshi Battle Fan
 1 Waterbender Ascension
-1 Path to Redemption
+1 Murmuration
 1 Watery Grasp
 1 Aang's Iceberg
 1 Airbender Ascension
 1 Team Avatar
-1 Felidar Retreat
-1 Air Nomad Legacy
-1 Endless Foot Assault
+1 Path to Redemption
 1 Arcane Denial
 1 Path to Exile
 1 Swords to Plowshares
@@ -97,5 +97,5 @@
 1 Waterbending Lesson
 1 Dusk // Dawn
 1 Time Wipe
-1 Martial Coup
+1 Wanderwine Farewell
 1 Elspeth, Sun's Champion

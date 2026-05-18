@@ -50,18 +50,16 @@ Creatures
 1 Ravenous Squirrel
 1 Chittering Witch
 1 Plaguecrafter
-1 The Rise of Sozin // Fire Lord Sozin
 1 Archetype of Endurance
 1 Nadier's Nightblade
 1 Zulaport Cutthroat
-1 Mirkwood Bats
+1 Poison-Tip Archer
 1 Hazel's Brewmaster
 1 Scurry of Squirrels
 1 Academy Manufactor
 1 Camellia, the Seedmiser
 1 Woe Strider
-1 Dimir House Guard
-1 Poison-Tip Archer
+1 Pirate Peddlers
 1 Ogre Slumlord
 1 Moonstone Eulogist
 1 Chatterfang, Squirrel General
@@ -75,21 +73,21 @@ Artifacts
 1 Arcane Signet
 1 Talisman of Resilience
 1 Golgari Signet
-1 Patchwork Banner
 1 Skullclamp
 1 Idol of Oblivion
 1 Swiftfoot Boots
 1 Chitterspitter
+1 Evolving Door
 1 Maskwood Nexus
 
 Enchantments
 1 Binding the Old Gods
 1 Moldervine Reclamation
+1 Meathook Massacre II
 1 Bastion of Remembrance
 1 Squirrel Nest
 1 Doubling Season
 1 Parallel Lives
-1 Greater Good
 1 Beastmaster Ascension
 
 Instants
@@ -103,11 +101,13 @@ Instants
 1 Plumb the Forbidden
 
 Sorceries
+1 Many Partings
 1 Shamanic Revelation
 1 Maelstrom Pulse
 1 Casualties of War
 1 Decree of Pain
 1 Rootcast Apprenticeship
+1 Ruinous Waterbending
 1 Swarmyard Massacre
 1 Chatterstorm
 

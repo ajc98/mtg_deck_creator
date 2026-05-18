@@ -32,6 +32,7 @@
 1 Windswept Heath
 1 Obscura Storefront
 1 Yavimaya, Cradle of Growth
+1 Disciple of Freyalise // Garden of Freyalise
 1 Demolition Field
 1 Maze's End
 1 High Market
@@ -47,6 +48,8 @@
 1 Survey Mechan
 1 Archetype of Endurance
 1 Triskaidekaphile
+1 Scourge of Skola Vale
+1 Ich-Tekik, Salvage Splicer
 1 Spinner of Souls
 1 Expendable Lackey
 1 Sagu Pummeler
@@ -62,14 +65,12 @@
 1 Platypus-Bear
 1 Earth Kingdom General
 1 Katara, Bending Prodigy
-1 Haru, Hidden Talent
-1 Iguana Parrot
-1 Foggy Swamp Vinebender
 1 Sol Ring
 1 Arcane Signet
 1 Bender's Waterskin
 1 Meteor Sword
 1 Swiftfoot Boots
+1 Evolving Door
 1 Stormchaser's Talent
 1 Greater Good
 1 Watery Grasp
@@ -85,7 +86,6 @@
 1 Beast Within
 1 Rapid Hybridization
 1 Heritage Reclamation
-1 Pongify
 1 Octopus Form
 1 Peerless Recycling
 1 It'll Quench Ya!

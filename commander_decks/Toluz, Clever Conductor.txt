@@ -49,22 +49,19 @@ Creatures
 1 Psychosis Crawler
 1 Angel of the Ruins
 1 Chasm Skulker
-1 The Rise of Sozin // Fire Lord Sozin
 1 Knight of Grace
+1 Veteran Survivor
 1 Triskaidekaphile
-1 Dominator Drone
-1 Emrakul's Messenger
-1 Expendable Lackey
-1 Hare Apparent
+1 Voracious Fell Beast
+1 Eastfarthing Farmer
+1 Boss's Chauffeur
 1 Viscera Seer
-1 Cabal Patriarch
-1 Dimir House Guard
+1 Pirate Peddlers
+1 Dusk Mangler
 1 Sun Titan
-1 Odunos River Trawler
-1 Heirloom Auntie
+1 Warehouse Tabby
+1 Osteomancer Adept
 1 Psychic Frog
-1 Halo Scarab
-1 Canyon Crawler
 
 Artifacts
 1 Arcane Signet
@@ -75,30 +72,29 @@ Artifacts
 1 Fellwar Stone
 1 Orzhov Signet
 1 Swiftfoot Boots
-1 Skullclamp
-1 Mind Stone
-1 Bender's Waterskin
-1 Chromatic Lantern
 
 Enchantments
+1 Meathook Massacre II
 1 Shadows of the Past
-1 Waste Not
+1 Boggart Mischief
+1 Bastion of Remembrance
 1 Builder's Talent
-1 Stormchaser's Talent
-1 Necropotence
+1 Grave Pact
+1 Sothera, the Supervoid
 
 Instants
 1 Frantic Search
 1 Village Rites
-1 Nasty End
 1 Deadly Dispute
+1 Nasty End
 1 Corrupted Conviction
 1 Swords to Plowshares
+1 Obscura Charm
 1 Void Rend
 1 Path to Exile
-1 Obscura Charm
 1 Complete Disregard
-1 Become Anonymous
+1 Consumed by Greed
+1 Feed the Cycle
 1 Flare of Denial
 1 Counterspell
 1 An Offer You Can't Refuse
@@ -109,8 +105,12 @@ Sorceries
 1 Decree of Pain
 1 Dusk // Dawn
 1 Time Wipe
+1 Foggy Swamp Visions
+1 Scrounge for Eternity
+1 Coiling Rebirth
+1 Gravedig
+1 Ruinous Waterbending
 1 Dismantling Wave
-1 Razaketh's Rite
 
 Other
 1 Kaya, Bane of the Dead

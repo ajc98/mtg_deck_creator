@@ -18,6 +18,7 @@ Lands
 1 Yavimaya, Cradle of Growth
 1 Desert of the Indomitable
 1 Path of Ancestry
+1 Disciple of Freyalise // Garden of Freyalise
 1 Demolition Field
 1 Ash Barrens
 1 Nesting Grounds
@@ -26,7 +27,7 @@ Lands
 1 Rogue's Passage
 1 Reliquary Tower
 1 Maze's End
-12 Forest
+11 Forest
 
 Creatures
 1 Llanowar Elves
@@ -35,9 +36,10 @@ Creatures
 1 Reclamation Sage
 1 Acidic Slime
 1 Survey Mechan
+1 Scurry of Squirrels
+1 Scute Swarm
 1 Avenger of Zendikar
-1 Gala Greeters
-1 Jolrael, Mwonvuli Recluse
+1 Scourge of Skola Vale
 1 Forgotten Ancient
 1 Evolution Witness
 1 Managorger Hydra
@@ -45,13 +47,18 @@ Creatures
 1 Wildwood Scourge
 1 Kalonian Hydra
 1 Avatar of the Resolute
+1 Gala Greeters
 1 Servant of the Scale
-1 Halo Scarab
 1 Courier of Comestibles
+1 Halo Scarab
+1 Mutable Explorer
+1 Jewel Thief
+1 Tender Wildguide
+1 Tireless Provisioner
+1 Argothian Opportunist
+1 Prosperous Innkeeper
 1 Animal Attendant
-1 Page, Loose Leaf
-1 Thornvault Forager
-1 Raucous Audience
+1 Gilded Goose
 
 Artifacts
 1 Sol Ring
@@ -63,19 +70,16 @@ Artifacts
 1 Evolving Door
 1 Emerald Medallion
 1 Magnifying Glass
-1 All-Fates Scroll
-1 The Ozolith
-1 Fellwar Stone
+1 Goldvein Pick
 
 Enchantments
 1 Terrasymbiosis
 1 Garruk's Uprising
 1 Stocking the Pantry
 1 Greater Good
+1 Sapling Nursery
 1 Wild Growth
 1 Primeval Bounty
-1 Retreat to Kazandu
-1 Beastmaster Ascension
 
 Instants
 1 Return of the Wildspeaker
@@ -86,9 +90,6 @@ Instants
 1 Broken Wings
 1 Snakeskin Veil
 1 Gaea's Gift
-1 Cache Grab
-1 Solidarity of Heroes
-1 Gift of the Viper
 
 Sorceries
 1 Rampant Growth

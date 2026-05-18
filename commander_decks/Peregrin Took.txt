@@ -17,6 +17,7 @@ Lands
 1 Planar Nexus
 1 Oran-Rief, the Vastwood
 1 Desert of the Indomitable
+1 Disciple of Freyalise // Garden of Freyalise
 1 Demolition Field
 1 Ash Barrens
 1 Reliquary Tower
@@ -25,7 +26,8 @@ Lands
 1 Ugin's Labyrinth
 1 Maze's End
 1 Glimmerpost
-12 Forest
+1 Volatile Fault
+11 Forest
 1 Wastes
 
 Creatures
@@ -38,13 +40,16 @@ Creatures
 1 Courier of Comestibles
 1 Survey Mechan
 1 Archetype of Endurance
+1 Scourge of Skola Vale
+1 Ich-Tekik, Salvage Splicer
 1 Spinner of Souls
 1 Academy Manufactor
 1 Gala Greeters
 1 Arasta of the Endless Web
-1 Sarinth Steelseeker
-1 Scute Swarm
 1 Meriadoc Brandybuck
+1 Scute Swarm
+1 Three Tree Scribe
+1 Sarinth Steelseeker
 1 Tendershoot Dryad
 1 Honored Dreyleader
 1 Brandywine Farmer
@@ -52,28 +57,25 @@ Creatures
 1 Rampaging Baloths
 1 Birds of Paradise
 1 Glittermonger
-1 Galadriel, Gift-Giver
-1 Biowaste Blob
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Heaped Harvest
 1 Idol of Oblivion
-1 Mind Stone
+1 Skullclamp
 1 Bumbleflower's Sharepot
-1 Ominous Parcel
 1 Swiftfoot Boots
 1 Evolving Door
-1 Skullclamp
 1 Bootleggers' Stash
+1 The Ozolith
 1 Emerald Medallion
 1 Chitterspitter
 1 Noble's Purse
 
 Enchantments
-1 Sapling Nursery
 1 Greater Good
+1 Sapling Nursery
 1 Parallel Lives
 1 Doubling Season
 1 Welcome to Sweettooth
@@ -88,7 +90,7 @@ Instants
 1 Beast Within
 1 Seedship Impact
 1 Origin of Metalbending
-1 Titan's Presence
+1 Unforgiving Aim
 1 Second Harvest
 1 Stew the Coneys
 
@@ -97,6 +99,5 @@ Sorceries
 1 Rampant Growth
 1 Harmonize
 1 Explore
-1 Shamanic Revelation
 1 Cultivate
 1 Chatterstorm

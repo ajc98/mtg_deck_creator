@@ -46,17 +46,19 @@ Creatures
 1 Guttersnipe
 1 Coruscation Mage
 1 Mysidian Elder
-1 Young Pyromancer
-1 Third Path Iconoclast
-1 Expendable Lackey
+1 Riders of the Mark
+1 Chasm Skulker
 1 Veyran, Voice of Duality
 1 Stormcatch Mentor
 1 Goblin Electromancer
+1 Young Pyromancer
 1 Halo Scarab
+1 Bill Ferny, Bree Swindler
+1 Emrakul's Messenger
+1 Third Path Iconoclast
+1 Flamekin Gildweaver
 1 Rubble Rouser
 1 Page, Loose Leaf
-1 Akki Rockspeaker
-1 Fire Sages
 
 Artifacts
 1 Sol Ring
@@ -69,13 +71,11 @@ Artifacts
 1 Expedition Map
 1 Glittering Stockpile
 1 Swiftfoot Boots
-1 Sapphire Medallion
 
 Enchantments
 1 Underworld Breach
 1 Propaganda
 1 Cool but Rude
-1 Wizard Class
 
 Instants
 1 Frantic Search
@@ -101,15 +101,15 @@ Sorceries
 1 Ponder
 1 Preordain
 1 Faithless Looting
-1 Will of the Jeskai
 1 Processor Assault
 1 Blasphemous Act
 1 Boltwave
+1 Wanderwine Farewell
+1 Stolen by the Fae
 1 Expressive Iteration
+1 Will of the Jeskai
 1 Solve the Equation
 1 Mana Geyser
-1 Finale of Revelation
-1 Jaya's Immolating Inferno
 
 Other
 1 Ral, Crackling Wit

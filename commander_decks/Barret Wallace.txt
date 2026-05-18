@@ -30,27 +30,27 @@ Creatures
 1 Solemn Simulacrum
 1 Ornithopter of Paradise
 1 Purple Dragon Punks
-1 Iron Myr
-1 Changeling Wayfinder
 1 Oliphaunt
+1 Iron Myr
 1 Survey Mechan
+1 Eldrazi Ravager
 1 Battle-Scarred Goblin
 1 Enraged Flamecaster
-1 Rubble Rouser
-1 Molten Gatekeeper
+1 Dragonhawk, Fate's Tempest
 1 Combat Celebrant
-1 Sabertooth Outrider
-1 Eldrazi Ravager
-1 Vile Aggregate
+1 Thopter Engineer
+1 Lavaleaper
+1 Prosperous Bandit
+1 Bladegriff Prototype
+1 Stromkirk Noble
+1 Bloodmad Vampire
 1 Zuko, Exiled Prince
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
-1 Flamekin Gildweaver
 1 Fire Nation Cadets
-1 Rough Rhino Cavalry
-1 Molten-Core Maestro
-1 Casey Jones, Jury-Rig Justiciar
+1 Flamekin Gildweaver
+1 Sabertooth Outrider
 
 Artifacts
 1 Sol Ring
@@ -61,8 +61,8 @@ Artifacts
 1 Skullclamp
 1 Found Footage
 1 Swiftfoot Boots
-1 Bilbo's Ring
 1 Sword of Hearth and Home
+1 Bilbo's Ring
 1 Scytheclaw
 1 Skinwing
 1 Bonehoard
@@ -72,13 +72,13 @@ Artifacts
 1 Glittering Stockpile
 1 Firdoch Core
 1 Heraldic Banner
-1 Kyoshi Battle Fan
 
 Enchantments
 1 Sticky Fingers
 1 Case of the Crimson Pulse
 1 Impact Tremors
 1 Cool but Rude
+1 Fervor
 
 Instants
 1 Thrill of Possibility

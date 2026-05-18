@@ -29,59 +29,60 @@
 1 Polluted Delta
 1 Forgotten Cave
 1 Fell the Profane // Fell Mire
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Swarmyard
 1 Ash Barrens
-1 Shire Terrace
-1 High Market
 1 Volatile Fault
 1 Swamp
 1 Mountain
+1 Canyon Crawler
+1 Beamsaw Prospector
 1 Garna, Bloodfist of Keld
 1 Morbid Opportunist
 1 Chittering Witch
-1 Survey Mechan
 1 The Rise of Sozin // Fire Lord Sozin
+1 Survey Mechan
 1 Knight of Malice
-1 Iron-Shield Elf
 1 Mirkwood Bats
 1 Zulaport Cutthroat
 1 Viscera Seer
-1 Dimir House Guard
-1 June, Bounty Hunter
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
+1 Body Dropper
 1 Ogre Slumlord
 1 Warehouse Tabby
-1 Midnight Reaper
+1 Moonstone Eulogist
 1 Piper of the Swarm
 1 Tangled Colony
-1 Canyon Crawler
-1 Beamsaw Prospector
+1 Voracious Fell Beast
+1 Riders of the Mark
+1 Dreadfeast Demon
+1 Super Shredder
 1 Redcap Gutter-Dweller
 1 Persistent Marshstalker
 1 Typhoid Rats
 1 Blood Artist
-1 Crypt Rats
-1 Nadier's Nightblade
-1 Blightbelly Rat
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Patchwork Banner
 1 Fellwar Stone
 1 Heraldic Banner
-1 Thought Vessel
-1 Expedition Map
-1 Glittering Stockpile
+1 Magnifying Glass
 1 Skullclamp
 1 Swiftfoot Boots
+1 The Ozolith
 1 Vampiric Rites
+1 Meathook Massacre II
 1 Impact Tremors
 1 Bastion of Remembrance
 1 Grave Pact
-1 Black Market
-1 Dictate of Erebos
-1 Echoing Assault
+1 Sothera, the Supervoid
+1 Outpost Siege
 1 Fell the Profane // Fell Mire
+1 Lithobraking
 1 Village Rites
 1 Deadly Dispute
 1 Corrupted Conviction
@@ -89,13 +90,12 @@
 1 Thrill of Possibility
 1 Abrade
 1 Murder
-1 Lithobraking
-1 Not Dead After All
-1 Chaos Warp
-1 Environmental Sciences
 1 Faithless Looting
 1 Feed the Swarm
 1 Eaten Alive
 1 Processor Assault
 1 Blasphemous Act
+1 Ruinous Waterbending
 1 Revenge of the Rats
+1 Foggy Swamp Visions
+1 Dread Summons

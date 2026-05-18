@@ -20,6 +20,7 @@ Lands
 1 Great Hall of the Biblioplex
 1 Gemstone Mine
 1 Mudflat Village
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Rogue's Passage
@@ -28,13 +29,14 @@ Lands
 1 Reliquary Tower
 1 High Market
 1 Volatile Fault
-10 Swamp
+9 Swamp
 
 Creatures
 1 Canyon Crawler
 1 Solemn Simulacrum
 1 Vile Entomber
 1 Stinkweed Imp
+1 Dimir House Guard
 1 Survey Mechan
 1 The Rise of Sozin // Fire Lord Sozin
 1 Knight of Malice
@@ -43,16 +45,19 @@ Creatures
 1 Crypt Ghast
 1 Doomed Necromancer
 1 Valgavoth's Faithful
-1 Dimir House Guard
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
 1 Nezumi Bone-Reader
-1 June, Bounty Hunter
-1 Massacre Wurm
+1 Moonstone Eulogist
+1 Warehouse Tabby
 1 Qarsi Revenant
+1 Osteomancer Adept
 1 Twilight Diviner
 1 Umbral Collar Zealot
 1 Valgavoth, Terror Eater
 1 Moonshadow
-1 Halo Scarab
+1 Massacre Wurm
 
 Artifacts
 1 Sol Ring
@@ -62,19 +67,15 @@ Artifacts
 1 Expedition Map
 1 Thought Vessel
 1 Fellwar Stone
-1 Patchwork Banner
 1 Found Footage
 1 Swiftfoot Boots
 1 Whip of Erebos
 
 Enchantments
-1 Greed
 1 Meathook Massacre II
-1 Sothera, the Supervoid
-1 Grave Pact
-1 Black Market
-1 Necropotence
+1 Dictate of Erebos
 1 Ripples of Undeath
+1 Sothera, the Supervoid
 
 Instants
 1 Village Rites
@@ -91,10 +92,9 @@ Instants
 1 Undying Malice
 1 Dark Ritual
 1 Fake Your Own Death
-1 Cabal Ritual
-1 Corpse Churn
 
 Sorceries
+1 Scrounge for Eternity
 1 Buried Alive
 1 Diresight
 1 Feed the Swarm
@@ -102,3 +102,4 @@ Sorceries
 1 Exsanguinate
 1 Zombify
 1 Stir the Grave
+1 Ruinous Waterbending

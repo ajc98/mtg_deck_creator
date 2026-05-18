@@ -47,8 +47,8 @@ Lands
 
 Creatures
 1 Sage of the Maze
-1 Ulvenwald Hydra
 1 Uro, Titan of Nature's Wrath
+1 Ulvenwald Hydra
 1 Elvish Archdruid
 1 Tatyova, Benthic Druid
 1 Wonderscape Sage
@@ -56,10 +56,10 @@ Creatures
 1 Lord of the Unreal
 1 Triskaidekaphile
 1 Aven Courier
+1 Scurry of Squirrels
 1 Rampant Frogantua
-1 Evercoat Ursine
-1 Eldrazi Ravager
-1 Toski, Bearer of Secrets
+1 Curiosity Crafter
+1 April, Reporter of the Weird
 1 Dryad of the Ilysian Grove
 1 Avenger of Zendikar
 1 Magus of the Candelabra
@@ -97,6 +97,7 @@ Instants
 1 Pongify
 1 Rapid Hybridization
 1 Evacuation
+1 Illusionist's Gambit
 1 Counterspell
 
 Sorceries
@@ -109,7 +110,6 @@ Sorceries
 1 Aggressive Biomancy
 1 Curse of the Swine
 1 Replication Technique
-1 Doppelgang
 
 Other
 1 Vivien Reid

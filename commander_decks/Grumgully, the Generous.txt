@@ -51,38 +51,40 @@ Creatures
 1 Archetype of Endurance
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Jolrael, Mwonvuli Recluse
-1 Gala Greeters
+1 Scurry of Squirrels
+1 Avenger of Zendikar
+1 Scute Swarm
+1 Scourge of Skola Vale
 1 Forgotten Ancient
 1 Evolution Witness
 1 Wildwood Scourge
 1 Courier of Comestibles
 1 Animal Attendant
-1 Slavering Branchsnapper
-1 Thornvault Forager
-1 Halo Scarab
+1 Generous Ent
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Gruul Signet
 1 Swiftfoot Boots
+1 Evolving Door
 1 Talisman of Impulse
 1 Mind Stone
 1 Fellwar Stone
 1 Patchwork Banner
 1 Magnifying Glass
+1 Goldvein Pick
 1 Glittering Stockpile
 1 The Ozolith
-1 All-Fates Scroll
 
 Enchantments
 1 Garruk's Uprising
 1 Terrasymbiosis
-1 Stocking the Pantry
 1 Greater Good
+1 Stocking the Pantry
 1 Impact Tremors
 1 Lasting Tarfire
+1 Sapling Nursery
 1 Doubling Season
 1 Cool but Rude
 
@@ -93,7 +95,6 @@ Instants
 1 Abrade
 1 Lithobraking
 1 Snakeskin Veil
-1 Cache Grab
 1 Chaos Warp
 
 Sorceries
@@ -106,10 +107,7 @@ Sorceries
 1 Decimate
 1 Processor Assault
 1 Blasphemous Act
-1 Goblin Negotiation
 1 Cultivate
 1 Dragon Fodder
+1 Goblin Negotiation
 1 Fangs of Kalonia
-
-Other
-1 Domri, Anarch of Bolas

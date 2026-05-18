@@ -28,8 +28,9 @@
 1 Arid Archway
 1 Ugin's Labyrinth
 8 Swamp
-1 Refurbished Familiar
+1 The Rise of Sozin // Fire Lord Sozin
 1 Blighted Blackthorn
+1 Refurbished Familiar
 1 Throat Slitter
 1 Accursed Marauder
 1 Merciless Enforcers
@@ -38,24 +39,23 @@
 1 Shredder, Unrelenting
 1 Okiba-Gang Shinobi
 1 Skullsnatcher
-1 Appendage Amalgam
-1 Sludge Crawler
+1 Demon of Loathing
 1 Virus Beetle
 1 Insectoid Exterminator
 1 Squirrelanoids
 1 Hullcarver
 1 Super Shredder
+1 Appendage Amalgam
 1 Crypt Rats
-1 Azula, On the Hunt
-1 The Rise of Sozin // Fire Lord Sozin
+1 Gorbag of Minas Morgul
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Bender's Waterskin
+1 Sword of Hearth and Home
 1 Thran Dynamo
 1 Omni-Cheese Pizza
 1 Expedition Map
-1 All-Fates Scroll
 1 Found Footage
 1 Wishclaw Talisman
 1 Swiftfoot Boots
@@ -63,6 +63,7 @@
 1 Greed
 1 The Cloning of Shredder
 1 Meathook Massacre II
+1 Necromantic Thirst
 1 Exquisite Blood
 1 Sanguine Bond
 1 Fell the Profane // Fell Mire
@@ -83,7 +84,6 @@
 1 Howl from Beyond
 1 Gravkill
 1 Plumb the Forbidden
-1 Environmental Sciences
 1 Shredder's Revenge
 1 Decode Transmissions
 1 Shredder's Technique

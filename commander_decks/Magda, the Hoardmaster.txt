@@ -29,74 +29,73 @@ Lands
 
 Creatures
 1 Storm-Kiln Artist
-1 Solemn Simulacrum
 1 Flamekin Gildweaver
-1 Survey Mechan
+1 Solemn Simulacrum
 1 Drakuseth, Maw of Flames
+1 Survey Mechan
 1 Dragonhawk, Fate's Tempest
 1 Rubble Rouser
-1 Molten Gatekeeper
-1 Eldrazi Ravager
-1 Prosperous Bandit
+1 Coruscation Mage
+1 Frogmyr Enforcer
+1 Dragonspeaker Shaman
+1 Dragonlord's Servant
+1 Thopter Engineer
+1 Lavaleaper
+1 Bladegriff Prototype
 1 Halo Scarab
 1 Rose Room Treasurer
 1 Academy Manufactor
+1 Riders of the Mark
+1 Steampath Charger
+1 Manifold Mouse
+1 Agate Instigator
 1 Hearthborn Battler
-1 Goblin Glasswright // Craft with Pride
-1 Oliphaunt
-1 Zuko, Exiled Prince
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
-1 Glittering Stockpile
 1 Goldvein Pick
-1 Fellwar Stone
+1 Glittering Stockpile
 1 Noble's Purse
+1 Fellwar Stone
 1 Idol of Oblivion
+1 Magnifying Glass
 1 Found Footage
 1 Swiftfoot Boots
-1 Bilbo's Ring
 1 Sword of Hearth and Home
-1 Gathering Stone
-1 Sapphire Medallion
+1 Bilbo's Ring
+1 Emerald Medallion
+1 Rolling Hamsphere
+1 Stitcher's Graft
 1 Ravenous Amulet
 1 Unlicensed Hearse
-1 Orochi Hatchery
-1 Magnifying Glass
+1 Mouser Foundry
+1 The Ozolith
 
 Enchantments
 1 Sticky Fingers
-1 Case of the Crimson Pulse
-1 Impact Tremors
-1 Shiny Impetus
 1 Cool but Rude
-1 Curse of Opulence
+1 Fervor
+1 Shiny Impetus
+1 Outpost Siege
 1 Rain of Riches
-1 Alchemist's Talent
-1 Warstorm Surge
 
 Instants
 1 Big Score
 1 Thrill of Possibility
-1 Take Out the Trash
+1 Sazacap's Brew
+1 Cunning Maneuver
 1 Abrade
 1 Shock
 1 Ghostfire Slice
 1 Lightning Strike
-1 Impossible Inferno
 1 Lithobraking
 1 Reckless Ransacking
 1 Chaos Warp
-1 Bolt Bend
 
 Sorceries
 1 Faithless Looting
 1 Playful Shove
 1 Processor Assault
 1 Blasphemous Act
-1 Electroduplicate
-1 Spiteful Repossession
-1 Glimpse the Impossible
-1 Goblin Glasswright // Craft with Pride

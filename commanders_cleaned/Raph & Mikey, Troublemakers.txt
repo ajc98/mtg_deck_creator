@@ -36,28 +36,30 @@
 1 Maze's End
 1 Mountain
 1 Forest
+1 Eldrazi Ravager
 1 Survey Mechan
 1 Darksteel Colossus
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Combat Celebrant
+1 Thopter Engineer
+1 Lavaleaper
 1 Etali, Primal Storm
+1 Scurry of Squirrels
 1 Goreclaw, Terror of Qal Sisma
-1 Evercoat Ursine
-1 Savage Ventmaw
-1 Rampant Frogantua
+1 Prosperous Bandit
+1 Bladegriff Prototype
 1 Raphael, the Nightwatcher
 1 Ghalta, Primal Hunger
 1 Terastodon
+1 Savage Ventmaw
+1 Evercoat Ursine
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
 1 Fire Nation Cadets
 1 Zuko, Exiled Prince
-1 Birds of Paradise
-1 Llanowar Elves
 1 Rough Rhino Cavalry
-1 Oliphaunt
 1 Sol Ring
 1 Arcane Signet
 1 Talisman of Impulse
@@ -68,20 +70,19 @@
 1 Found Footage
 1 Swiftfoot Boots
 1 Emerald Medallion
-1 Thought Vessel
 1 Garruk's Uprising
 1 Greater Good
 1 Case of the Crimson Pulse
 1 Cool but Rude
+1 Fervor
 1 Wild Growth
 1 Unnatural Growth
 1 Return of the Wildspeaker
 1 Big Score
-1 Take Out the Trash
 1 Beast Within
+1 Take Out the Trash
 1 Abrade
 1 Heritage Reclamation
-1 Impossible Inferno
 1 Lithobraking
 1 Snakeskin Veil
 1 Bolt Bend
@@ -97,4 +98,3 @@
 1 Blasphemous Act
 1 Cultivate
 1 Mana Geyser
-1 Circuitous Route

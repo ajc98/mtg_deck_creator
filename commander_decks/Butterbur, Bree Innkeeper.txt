@@ -34,8 +34,8 @@ Lands
 1 Yavimaya, Cradle of Growth
 1 Tranquil Thicket
 1 Desert of the Indomitable
+1 Disciple of Freyalise // Garden of Freyalise
 1 Shire Terrace
-1 Demolition Field
 1 Maze's End
 1 High Market
 1 Forest
@@ -46,8 +46,12 @@ Creatures
 1 Tireless Provisioner
 1 Generous Ent
 1 Prosperous Innkeeper
-1 Avacyn's Pilgrim
+1 Galadriel, Gift-Giver
 1 Peregrin Took
+1 Jolrael, Mwonvuli Recluse
+1 Courier of Comestibles
+1 Scourge of Skola Vale
+1 Ich-Tekik, Salvage Splicer
 1 Spinner of Souls
 1 Furious Forebear
 1 Rosie Cotton of South Lane
@@ -55,14 +59,13 @@ Creatures
 1 Meriadoc Brandybuck
 1 Brandywine Farmer
 1 Academy Manufactor
-1 Lunarch Veteran // Luminous Phantom
+1 Suki, Courageous Rescuer
+1 Three Tree Scribe
 1 Mushroom Watchdogs
 1 Bill the Pony
 1 Honored Dreyleader
-1 Galadriel, Gift-Giver
 1 Llanowar Elves
-1 Bakersbane Duo
-1 Courier of Comestibles
+1 Avacyn's Pilgrim
 
 Artifacts
 1 Sol Ring
@@ -70,43 +73,40 @@ Artifacts
 1 Idol of Oblivion
 1 Mind Stone
 1 Instant Ramen
-1 Bagel and Schmear
-1 Found Footage
 1 Bumbleflower's Sharepot
-1 Swiftfoot Boots
 1 Halo Fountain
+1 Evolving Door
+1 The Ozolith
 1 Heaped Harvest
-1 Carrot Cake
 
 Enchantments
 1 Greater Good
+1 Sapling Nursery
 1 Welcome to Sweettooth
 1 Doubling Season
 1 Parallel Lives
 1 Gourmand's Talent
-1 Clachan Festival
 
 Instants
 1 Pawpatch Formation
 1 Swords to Plowshares
 1 Path to Exile
 1 Beast Within
+1 Personify
 1 Generous Gift
 1 You Cannot Pass!
-1 Keep Out
-1 Snakeskin Veil
 1 Crumb and Get It
+1 Snakeskin Veil
 1 Stew the Coneys
 1 Second Breakfast
-1 Personify
+1 Keep Out
 
 Sorceries
 1 Many Partings
 1 Rampant Growth
 1 Farseek
+1 Tempt with Bunnies
 1 Explore
-1 Harmonize
-1 Cut a Deal
 1 Fumigate
 1 Dusk // Dawn
 1 Damning Verdict

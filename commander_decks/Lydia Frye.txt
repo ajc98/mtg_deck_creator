@@ -31,11 +31,11 @@ Lands
 1 Desert of the Mindful
 1 Urborg, Tomb of Yawgmoth
 1 Brokers Hideout
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Rogue's Passage
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
-1 Reliquary Tower
 1 Island
 1 Swamp
 
@@ -44,25 +44,25 @@ Creatures
 1 Roshan, Hidden Magister
 1 Survey Mechan
 1 The Rise of Sozin // Fire Lord Sozin
+1 Plaguecrafter
 1 Dominator Drone
 1 Dawnhand Eulogist
 1 Triskaidekaphile
+1 Ironclad Revolutionary
 1 Vampire Soulcaller
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
 1 Dimir House Guard
-1 Carrion Feeder
-1 Razaketh, the Foulblooded
-1 Heirloom Auntie
-1 Expendable Lackey
+1 Moonstone Eulogist
+1 Osteomancer Adept
 1 Adéwalé, Breaker of Chains
 1 Agate-Blade Assassin
 1 Hullcarver
+1 Razaketh, the Foulblooded
 1 Halo Scarab
 1 Azula, Cunning Usurper
 1 Towering Viewpoint
-1 Raffine's Silencer
-1 Page, Loose Leaf
-1 Iridescent Vinelasher
-1 Cathodion
 
 Artifacts
 1 Sol Ring
@@ -73,21 +73,20 @@ Artifacts
 1 Patchwork Banner
 1 Springleaf Drum
 1 Expedition Map
-1 All-Fates Scroll
 1 Assassin Gauntlet
 1 Adrestia
 1 Bident of Thassa
 1 Smoke Bomb
 1 Swiftfoot Boots
-1 Maskwood Nexus
 
 Enchantments
 1 The Revelations of Ezio
+1 Meathook Massacre II
 1 Stormchaser's Talent
-1 Necropotence
+1 Grave Pact
+1 Sothera, the Supervoid
+1 Dictate of Erebos
 1 Propaganda
-1 Waterbender Ascension
-1 Ballad of the Black Flag
 
 Instants
 1 Consider
@@ -98,14 +97,15 @@ Instants
 1 Grip of Desolation
 1 Recoil
 1 Become Anonymous
+1 Consumed by Greed
 1 Unbury
+1 Feed the Cycle
 1 Counterspell
 1 Negate
 1 Dark Ritual
-1 Don't Make a Sound
-1 An Offer You Can't Refuse
 
 Sorceries
+1 Scrounge for Eternity
 1 Eagle Vision
 1 Ponder
 1 Diresight

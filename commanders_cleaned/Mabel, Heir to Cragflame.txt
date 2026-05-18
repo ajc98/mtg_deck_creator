@@ -38,16 +38,18 @@
 1 Plains
 1 Mountain
 1 Whiskerquill Scribe
+1 Survey Mechan
 1 Nettle Guard
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Knight of Grace
-1 Survey Mechan
 1 Veteran Survivor
+1 Aurelia, the Warleader
+1 Combat Celebrant
 1 Thistledown Players
-1 Warren Warleader
-1 Sun Titan
-1 Eldrazi Ravager
+1 Hexgold Slith
+1 Prosperous Bandit
+1 Rasaad yn Bashir
 1 Manifold Mouse
 1 Heartfire Hero
 1 Whiskervale Forerunner
@@ -64,20 +66,18 @@
 1 Arcane Signet
 1 Patchwork Banner
 1 Boros Signet
+1 Sword of Hearth and Home
 1 Mind Stone
 1 Fellwar Stone
-1 Sword of Hearth and Home
 1 Fountainport Bell
 1 Expedition Map
-1 Heirloom Epic
 1 Swiftfoot Boots
+1 Bilbo's Ring
 1 Sword of the Squeak
-1 Short Bow
 1 Feather of Flight
+1 Sheltered by Ghosts
 1 Banishing Light
 1 Cool but Rude
-1 Sheltered by Ghosts
-1 War Squeak
 1 Might of the Meek
 1 Dawn's Truce
 1 Sazacap's Brew
@@ -90,11 +90,11 @@
 1 Crumb and Get It
 1 Teferi's Protection
 1 Divine Resilience
+1 Perch Protection
 1 Mabel's Mettle
 1 Dewdrop Cure
 1 Playful Shove
 1 Cut a Deal
-1 Agate Assault
 1 Blasphemous Act
 1 Dusk // Dawn
 1 Elspeth, Sun's Champion

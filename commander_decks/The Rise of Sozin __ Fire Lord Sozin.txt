@@ -19,6 +19,7 @@ Lands
 1 Gemstone Mine
 1 Mudflat Village
 1 Bojuka Bog
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
@@ -28,76 +29,76 @@ Lands
 1 Ugin's Labyrinth
 1 Thespian's Stage
 1 Maze's End
-11 Swamp
+10 Swamp
 
 Creatures
-1 Canyon Crawler
-1 Survey Mechan
-1 Asmodeus the Archfiend
+1 Azula, On the Hunt
+1 Gorbag of Minas Morgul
 1 Dimir House Guard
-1 Knight of Malice
-1 Iron-Shield Elf
-1 Dominator Drone
-1 Kami of Jealous Thirst
-1 Sludge Crawler
-1 Skullsnatcher
+1 Survey Mechan
 1 Eldrazi Ravager
-1 Culling Drone
+1 Asmodeus the Archfiend
 1 June, Bounty Hunter
 1 Cabal Patriarch
-1 Heirloom Auntie
-1 Nezumi Graverobber // Nighteyes the Desecrator
-1 Azula, On the Hunt
+1 Throat Slitter
+1 Knight of Malice
+1 Iron-Shield Elf
+1 Basilica Stalker
+1 Dominator Drone
+1 Kami of Jealous Thirst
+1 Comet Crawler
+1 Demon of Loathing
+1 Vampire Gourmand
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
+1 Warehouse Tabby
+1 Osteomancer Adept
 1 Halo Scarab
+1 Sludge Crawler
 1 Page, Loose Leaf
-1 Cathodion
 
 Artifacts
+1 Sword of Hearth and Home
 1 Expedition Map
 1 Mind Stone
+1 Goldvein Pick
 1 All-Fates Scroll
 1 Coveted Jewel
-1 Ominous Parcel
-1 Fellwar Stone
-1 Fountainport Bell
 1 Found Footage
-1 Bilbo's Ring
-1 Sword of Hearth and Home
+1 Stitcher's Graft
 1 Whip of Erebos
-1 Magnifying Glass
-1 Bender's Waterskin
-1 Hedron Archive
+1 Fellwar Stone
 
 Enchantments
 1 Greed
-1 Demonic Pact
+1 Meathook Massacre II
+1 Obsessive Pursuit
+1 Necromantic Thirst
+1 Grave Pact
+1 Sothera, the Supervoid
 1 Necropotence
 
 Instants
+1 Consumed by Greed
 1 Energybending
-1 Darkblast
 1 Complete Disregard
+1 Wither and Bloom
 1 Grip of Desolation
 1 Deal Gone Bad
-1 Wither and Bloom
-1 Sold Out
-1 Consumed by Greed
+1 Darkblast
 1 Unbury
+1 Feed the Cycle
 
 Sorceries
-1 Environmental Sciences
 1 Scrounge for Eternity
+1 Environmental Sciences
 1 Buried Alive
-1 Intimidation Tactics
-1 Razaketh's Rite
-1 Brainspoil
 1 In Garruk's Wake
 1 Decree of Pain
 1 Decode Transmissions
 1 Stir the Grave
 1 Zombify
 1 Gravedig
-1 Binding Negotiation
-1 Psychic Whorl
-1 Transgress the Mind
-1 Seeker's Folly
+1 Ruinous Waterbending
+1 Razaketh's Rite

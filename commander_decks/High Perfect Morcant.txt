@@ -48,20 +48,24 @@ Creatures
 1 Asmodeus the Archfiend
 1 Reclamation Sage
 1 The Rise of Sozin // Fire Lord Sozin
+1 Plaguecrafter
 1 Selfless Safewright
 1 Lathril, Blade of the Elves
 1 Poison-Tip Archer
 1 Imperious Perfect
-1 Dwynen's Elite
-1 Dimir House Guard
-1 Novice Dissector
+1 Scurry of Squirrels
+1 Avenger of Zendikar
+1 Pirate Peddlers
+1 Scourge of Skola Vale
 1 Morcant's Loyalist
 1 Virulent Emissary
 1 Eclipsed Elf
+1 Dwynen's Elite
 1 Gloom Ripper
 1 Moon-Vigil Adherents
 1 Maha, Its Feathers Night
-1 Canyon Crawler
+1 Dimir House Guard
+1 Courier of Comestibles
 
 Artifacts
 1 Sol Ring
@@ -72,23 +76,22 @@ Artifacts
 1 Skullclamp
 1 Found Footage
 1 Swiftfoot Boots
+1 Evolving Door
 1 Gathering Stone
 1 Dawn-Blessed Pennant
 1 Firdoch Core
 1 Golgari Signet
-1 Magnifying Glass
 
 Enchantments
 1 Moldervine Reclamation
 1 Greed
 1 Morcant's Eyes
-1 Greater Good
 1 Doubling Season
 1 Binding the Old Gods
 
 Instants
-1 Energybending
 1 Deadly Dispute
+1 Energybending
 1 Putrefy
 1 Beast Within
 1 Unforgiving Aim
@@ -97,9 +100,6 @@ Instants
 1 Snakeskin Veil
 1 Galadhrim Ambush
 1 Scarblade's Malice
-1 Midnight Tilling
-1 Second Harvest
-1 Blight Rot
 
 Sorceries
 1 Rampant Growth

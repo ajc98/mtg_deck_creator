@@ -34,19 +34,20 @@ Lands
 9 Plains
 
 Creatures
+1 Halo Scarab
 1 Mentor of the Meek
 1 Jacked Rabbit
-1 Survey Mechan
 1 Boss's Chauffeur
 1 Academy Manufactor
 1 Eastfarthing Farmer
-1 Cat Collector
+1 Kithkeeper
 1 Furious Forebear
 1 Suki, Courageous Rescuer
 1 Lunarch Veteran // Luminous Phantom
 1 Ainok Bond-Kin
 1 Sun Titan
-1 Halo Scarab
+1 Cat Collector
+1 Jennika, Bad Apple Big Sister
 1 Hare Apparent
 1 Bill the Pony
 1 Page, Loose Leaf
@@ -55,25 +56,24 @@ Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
-1 Fellwar Stone
-1 Thought Vessel
 1 Goldvein Pick
-1 Heraldic Banner
+1 Fellwar Stone
 1 Magnifying Glass
-1 Springleaf Drum
-1 Expedition Map
+1 Thought Vessel
+1 Noble's Purse
+1 Heraldic Banner
 1 Idol of Oblivion
 1 Skullclamp
 1 Halo Fountain
-1 Found Footage
+1 Bumbleflower's Sharepot
 1 Swiftfoot Boots
 1 The Ozolith
 1 Carrot Cake
-1 Noble's Purse
-1 Bumbleflower's Sharepot
 
 Enchantments
+1 Hoofprints of the Stag
 1 Felidar Retreat
+1 Muster the Departed
 1 Monologue Tax
 1 Builder's Talent
 1 Endless Foot Assault
@@ -90,7 +90,7 @@ Instants
 1 Generous Gift
 1 Stroke of Midnight
 1 Disenchant
-1 Ajani's Response
+1 Personify
 1 Rootborn Defenses
 1 Teferi's Protection
 1 Second Breakfast

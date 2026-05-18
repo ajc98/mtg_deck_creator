@@ -22,6 +22,7 @@ Lands
 1 Great Hall of the Biblioplex
 1 Gemstone Mine
 1 Mudflat Village
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Rogue's Passage
@@ -30,37 +31,40 @@ Lands
 1 Volatile Fault
 1 Reliquary Tower
 1 Arid Archway
-8 Swamp
+7 Swamp
 
 Creatures
 1 Solemn Simulacrum
+1 Canyon Crawler
+1 Beamsaw Prospector
 1 Vile Entomber
 1 Rune-Scarred Demon
-1 Survey Mechan
 1 Plaguecrafter
 1 Accursed Marauder
-1 The Rise of Sozin // Fire Lord Sozin
+1 Survey Mechan
 1 Knight of Malice
-1 Iron-Shield Elf
 1 Gray Merchant of Asphodel
 1 Crypt Ghast
 1 Mirkwood Bats
 1 Witch-king, Bringer of Ruin
-1 Gollum, Scheming Guide
-1 Sunset Saboteur
-1 Sludge Crawler
+1 Bloodvial Purveyor
+1 Comet Crawler
 1 Doomed Necromancer
-1 Gríma Wormtongue
-1 Viscera Seer
-1 Dimir House Guard
-1 June, Bounty Hunter
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Woe Strider
+1 Chittering Witch
 1 Massacre Wurm
-1 Midnight Reaper
-1 Suspicious Shambler
+1 Warehouse Tabby
+1 Osteomancer Adept
 1 Gothmog, Morgul Lieutenant
 1 Voracious Fell Beast
-1 Dunland Crebain
-1 Canyon Crawler
+1 Tangled Colony
+1 Nested Shambler
+1 Iridescent Vinelasher
+1 Thornplate Intimidator
+1 Darkstar Augur
+1 Starscape Cleric
 
 Artifacts
 1 Sol Ring
@@ -70,40 +74,37 @@ Artifacts
 1 Fellwar Stone
 1 Thought Vessel
 1 Expedition Map
-1 Heraldic Banner
 1 Swiftfoot Boots
-1 Bolas's Citadel
+1 Rolling Hamsphere
+1 Stitcher's Graft
 1 Whip of Erebos
 
 Enchantments
-1 March from the Black Gate
-1 Black Market
-1 Grave Pact
-1 Necropotence
-1 Corpseweft
+1 Necromantic Thirst
+1 Meathook Massacre II
 
 Instants
 1 Nasty End
-1 Village Rites
 1 Deadly Dispute
+1 Village Rites
 1 Corrupted Conviction
 1 Murder
 1 Saw in Half
+1 Sold Out
 1 Complete Disregard
+1 Not Dead After All
 1 Consumed by Greed
 1 Unbury
-1 Not Dead After All
-1 Shelob's Ambush
 
 Sorceries
-1 Environmental Sciences
 1 Buried Alive
 1 Mordor Muster
+1 Coiling Rebirth
 1 Diresight
-1 Decree of Pain
 1 Claim the Precious
 1 Feed the Swarm
 1 Lash of the Balrog
-1 Coiling Rebirth
+1 Decree of Pain
 1 Scrounge for Eternity
-1 Dread Summons
+1 Ruinous Waterbending
+1 Foggy Swamp Visions

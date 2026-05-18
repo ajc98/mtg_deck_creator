@@ -22,83 +22,86 @@ Lands
 1 Mortuary Mire
 1 Brokers Hideout
 1 Bojuka Bog
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
 1 Cryptic Caves
 1 Volatile Fault
 1 Arid Archway
-10 Swamp
+1 Blighted Fen
+1 Dark Depths
+7 Swamp
 
 Creatures
-1 Canyon Crawler
-1 Solemn Simulacrum
-1 Asmodeus the Archfiend
-1 Survey Mechan
+1 Azula, Cunning Usurper
+1 Azula, On the Hunt
 1 The Rise of Sozin // Fire Lord Sozin
-1 Knight of Malice
-1 Iron-Shield Elf
-1 Dawnhand Eulogist
-1 Dominator Drone
-1 Triskaidekaphile
-1 Appendage Amalgam
-1 Sludge Crawler
-1 Adéwalé, Breaker of Chains
-1 Culling Drone
+1 Gorbag of Minas Morgul
+1 Asmodeus the Archfiend
 1 Eldrazi Ravager
 1 Dimir House Guard
+1 Survey Mechan
+1 Throat Slitter
+1 Plaguecrafter
+1 Abyssal Gorestalker
+1 Knight of Malice
+1 Iron-Shield Elf
+1 Dominator Drone
+1 Dawnhand Eulogist
+1 Triskaidekaphile
+1 Comet Crawler
+1 Demon of Loathing
+1 Vampire Gourmand
+1 Pirate Peddlers
+1 Gríma Wormtongue
 1 Dusk Mangler
-1 Heirloom Auntie
-1 Expendable Lackey
-1 Azula, On the Hunt
-1 Azula, Cunning Usurper
+1 Warehouse Tabby
+1 Osteomancer Adept
+1 Appendage Amalgam
 1 Halo Scarab
-1 Page, Loose Leaf
-1 Cathodion
 
 Artifacts
 1 Expedition Map
 1 Mind Stone
+1 Sword of Hearth and Home
+1 Goldvein Pick
 1 All-Fates Scroll
-1 Coveted Jewel
-1 Ominous Parcel
-1 Fellwar Stone
-1 Fountainport Bell
 1 Found Footage
+1 Stitcher's Graft
 1 Whip of Erebos
-1 Wishclaw Talisman
-1 Magnifying Glass
-1 Bender's Waterskin
-1 Dimir Keyrune
+1 Fellwar Stone
 
 Enchantments
+1 Meathook Massacre II
 1 Shadows of the Past
+1 Obsessive Pursuit
+1 Necromantic Thirst
 1 Stormchaser's Talent
-1 Sothera, the Supervoid
+1 Grave Pact
+1 Dictate of Erebos
 1 Necropotence
 
 Instants
 1 Case the Joint
 1 Frantic Search
 1 Energybending
+1 Consumed by Greed
 1 Cerebral Download
-1 Curate
 1 Complete Disregard
-1 Grip of Desolation
 1 Wither and Bloom
+1 Grip of Desolation
 1 Recoil
 1 Deal Gone Bad
-1 Darkblast
 1 Become Anonymous
+1 Illusionist's Gambit
 1 Unbury
-1 Mystical Teachings
+1 Feed the Cycle
 
 Sorceries
-1 Environmental Sciences
+1 Scrounge for Eternity
 1 Ancestral Vision
-1 Intimidation Tactics
-1 Tezzeret's Betrayal
 1 March from Velis Vel
+1 Ruinous Waterbending
 1 Buried Alive
 1 Brainspoil
-1 Razaketh's Rite

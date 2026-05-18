@@ -33,20 +33,22 @@
 1 Angel of the Ruins
 1 Loran of the Third Path
 1 Mentor of the Meek
-1 Helpful Hunter
+1 Eldrazi Ravager
 1 Survey Mechan
+1 Bladegriff Prototype
 1 Selfless Spirit
 1 Sun Titan
-1 Kinscaer Sentry
-1 Eldrazi Ravager
-1 Silver Sable, Mercenary Leader
+1 Hexgold Slith
+1 Rasaad yn Bashir
+1 Syr Alin, the Lion's Claw
 1 Emeria Shepherd
 1 Skyclave Apparition
+1 Kinscaer Sentry
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Cathodion
+1 Silver Sable, Mercenary Leader
 1 Shepherding Spirits
-1 Knight of Grace
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -56,15 +58,13 @@
 1 Expedition Map
 1 Skullclamp
 1 Found Footage
-1 Ominous Parcel
 1 Swiftfoot Boots
 1 Halo Fountain
-1 Argent Dais
+1 Scytheclaw
+1 Goldvein Pick
 1 All-Fates Scroll
+1 Argent Dais
 1 Magnifying Glass
-1 Bender's Waterskin
-1 Oblivion Stone
-1 Coveted Jewel
 1 Ghostly Prison
 1 Monologue Tax
 1 Charitable Levy

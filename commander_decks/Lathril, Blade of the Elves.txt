@@ -44,15 +44,17 @@ Creatures
 1 Llanowar Elves
 1 Elves of Deep Shadow
 1 Asmodeus the Archfiend
+1 Eldrazi Ravager
 1 Reclamation Sage
 1 The Rise of Sozin // Fire Lord Sozin
 1 Selfless Safewright
 1 Poison-Tip Archer
 1 Nadier's Nightblade
 1 Venerated Stormsinger
-1 Thornbow Archer
-1 Sludge Crawler
-1 Dai Li Agents
+1 Scurry of Squirrels
+1 Rampant Frogantua
+1 Demon of Loathing
+1 Skullsnatcher
 1 Imperious Perfect
 1 High Perfect Morcant
 1 Morcant's Loyalist
@@ -61,8 +63,9 @@ Creatures
 1 Golgari Findbroker
 1 Eclipsed Elf
 1 Virulent Emissary
+1 Gorbag of Minas Morgul
 1 Azula, On the Hunt
-1 Dimir House Guard
+1 Thornbow Archer
 
 Artifacts
 1 Sol Ring
@@ -73,19 +76,17 @@ Artifacts
 1 Chronicle of Victory
 1 Found Footage
 1 Swiftfoot Boots
-1 Bolas's Citadel
+1 Goldvein Pick
 1 Talisman of Resilience
 1 Emerald Medallion
-1 Mind Stone
-1 Coat of Arms
 
 Enchantments
 1 Binding the Old Gods
 1 Moldervine Reclamation
-1 Greed
-1 Beastmaster Ascension
+1 Necromantic Thirst
 1 Doubling Season
 1 Parallel Lives
+1 Beastmaster Ascension
 
 Instants
 1 Return of the Wildspeaker
@@ -96,7 +97,6 @@ Instants
 1 Tear Asunder
 1 Snakeskin Veil
 1 Galadhrim Ambush
-1 Murder
 
 Sorceries
 1 Rampant Growth

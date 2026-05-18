@@ -17,6 +17,7 @@
 1 Great Hall of the Biblioplex
 1 Gemstone Mine
 1 Mudflat Village
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
@@ -25,12 +26,12 @@
 1 Cryptic Caves
 1 Volatile Fault
 1 Arid Archway
-10 Swamp
+9 Swamp
 1 Solemn Simulacrum
 1 Skirge Familiar
 1 Vile Entomber
-1 Dread Presence
 1 Razaketh, the Foulblooded
+1 Dread Presence
 1 Rune-Scarred Demon
 1 Meteor Golem
 1 Survey Mechan
@@ -44,9 +45,10 @@
 1 Nullpriest of Oblivion
 1 Viscera Seer
 1 Carrion Feeder
-1 Dimir House Guard
+1 Pirate Peddlers
+1 Gríma Wormtongue
 1 Massacre Wurm
-1 Nezumi Graverobber // Nighteyes the Desecrator
+1 Osteomancer Adept
 1 K'rrik, Son of Yawgmoth
 1 Blood Artist
 1 Zulaport Cutthroat
@@ -64,11 +66,10 @@
 1 Swiftfoot Boots
 1 Bolas's Citadel
 1 Whip of Erebos
-1 Spawning Pit
 1 Greed
 1 Black Market
 1 Grave Pact
-1 Dictate of Erebos
+1 Meathook Massacre II
 1 Necropotence
 1 Ripples of Undeath
 1 Village Rites
@@ -78,7 +79,6 @@
 1 Grip of Desolation
 1 Deal Gone Bad
 1 Consumed by Greed
-1 Unbury
 1 Dark Ritual
 1 Cabal Ritual
 1 Buried Alive
@@ -86,6 +86,7 @@
 1 Feed the Swarm
 1 Decree of Pain
 1 Exsanguinate
+1 Scrounge for Eternity
 1 Gravedig
 1 Bubbling Muck
 1 Liliana of the Dark Realms

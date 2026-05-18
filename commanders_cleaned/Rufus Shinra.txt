@@ -45,20 +45,20 @@
 1 Mirkwood Bats
 1 Dominator Drone
 1 Sun Titan
-1 Sludge Crawler
-1 Culling Drone
-1 Eldrazi Ravager
-1 Sauron, the Necromancer
+1 Hexgold Slith
+1 Demon of Loathing
+1 Skullsnatcher
 1 Blood Artist
 1 Viscera Seer
+1 Gorbag of Minas Morgul
 1 Azula, On the Hunt
 1 The Rise of Sozin // Fire Lord Sozin
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Dimir House Guard
 1 Cathodion
+1 Sludge Crawler
 1 Shepherding Spirits
-1 Syr Vondam, Sunstar Exemplar
 1 Arcane Signet
 1 Sol Ring
 1 Orzhov Signet
@@ -74,8 +74,8 @@
 1 Hero's Blade
 1 Basilisk Collar
 1 Bastion of Remembrance
+1 Necromantic Thirst
 1 Grave Pact
-1 Hidden Stockpile
 1 Deadly Dispute
 1 Village Rites
 1 Corrupted Conviction

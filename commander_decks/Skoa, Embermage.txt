@@ -36,17 +36,19 @@ Creatures
 1 Guttersnipe
 1 Molten Gatekeeper
 1 Devoted Duelist
+1 Riders of the Mark
+1 Prosperous Bandit
+1 Steampath Charger
+1 Coruscation Mage
+1 Manifold Mouse
 1 Fanatic of Mogis
 1 Inferno Titan
 1 Sunspine Lynx
 1 Halo Scarab
 1 Mogg War Marshal
 1 Storm-Kiln Artist
+1 Flamekin Gildweaver
 1 Burnished Hart
-1 Rubble Rouser
-1 Page, Loose Leaf
-1 Lavaleaper
-1 Bedhead Beastie
 
 Artifacts
 1 Arcane Signet
@@ -56,13 +58,15 @@ Artifacts
 1 Glittering Stockpile
 1 Expedition Map
 1 Fellwar Stone
+1 Melded Moxite
 1 Hedron Archive
 1 Found Footage
 1 Ominous Parcel
 1 Swiftfoot Boots
 1 Bilbo's Ring
 1 Helm of the Host
-1 Melded Moxite
+1 Mouser Foundry
+1 The Ozolith
 1 Magnifying Glass
 1 Thought Vessel
 1 Omni-Cheese Pizza
@@ -71,19 +75,18 @@ Enchantments
 1 Case of the Crimson Pulse
 1 Outpost Siege
 1 Impact Tremors
-1 Echoing Assault
 1 Gratuitous Violence
 1 Warstorm Surge
-1 Cool but Rude
+1 Echoing Assault
 
 Instants
 1 Big Score
 1 Thrill of Possibility
-1 Take Out the Trash
 1 Sazacap's Brew
 1 Abrade
 1 Shock
 1 Lightning Strike
+1 Take Out the Trash
 1 Lithobraking
 1 Chaos Warp
 
@@ -91,11 +94,8 @@ Sorceries
 1 Faithless Looting
 1 Crash Through
 1 Processor Assault
-1 Skewer the Critics
 1 Blasphemous Act
 1 Electroduplicate
+1 Mana Geyser
 1 Glimpse the Impossible
 1 Kindle the Inner Flame
-1 Mana Geyser
-1 Dragon Fodder
-1 Burning Curiosity

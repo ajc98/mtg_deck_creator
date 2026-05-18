@@ -36,24 +36,25 @@ Lands
 1 Ash Barrens
 1 Shire Terrace
 1 Reliquary Tower
-1 Maze's End
 1 Mountain
 1 Plains
 
 Creatures
 1 Solemn Simulacrum
+1 Oliphaunt
 1 Helpful Hunter
-1 Survey Mechan
+1 Eldrazi Ravager
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Aya of Alexandria
-1 Hare Apparent
+1 Eastfarthing Farmer
+1 Boss's Chauffeur
+1 Combat Celebrant
 1 Aurelia, the Warleader
+1 Thopter Engineer
 1 Sun Titan
-1 Syr Alin, the Lion's Claw
-1 Haazda Vigilante
-1 Eldrazi Ravager
-1 Rasaad yn Bashir
+1 Vengeful Villagers
+1 Prosperous Bandit
 1 Alexios, Deimos of Kosmos
 1 Senu, Keen-Eyed Protector
 1 Fire Sages
@@ -61,9 +62,6 @@ Creatures
 1 Brazen Collector
 1 Fire Nation Cadets
 1 Zuko, Exiled Prince
-1 Rough Rhino Cavalry
-1 Halo Scarab
-1 Storm-Kiln Artist
 
 Artifacts
 1 Sol Ring
@@ -74,25 +72,28 @@ Artifacts
 1 Fellwar Stone
 1 Sword of Hearth and Home
 1 Expedition Map
-1 Glittering Stockpile
 1 Found Footage
 1 Swiftfoot Boots
 1 Smoke Bomb
+1 Halo Fountain
+1 Rolling Hamsphere
+1 Stitcher's Graft
 1 Basilisk Collar
 1 Caduceus, Staff of Hermes
 
 Enchantments
+1 Sticky Fingers
 1 Case of the Crimson Pulse
-1 Angelic Gift
 1 Origin of the Hidden Ones
 1 Cool but Rude
-1 Sticky Fingers
+1 Endless Foot Assault
+1 Scurry of Gremlins
+1 Fervor
 1 Reconnaissance
 
 Instants
 1 Thrill of Possibility
 1 Take Out the Trash
-1 Might of the Meek
 1 Path to Exile
 1 Swords to Plowshares
 1 Abrade
@@ -104,10 +105,9 @@ Instants
 
 Sorceries
 1 Faithless Looting
+1 Tempt with Bunnies
 1 Cut a Deal
 1 Blasphemous Act
 1 Damning Verdict
 1 Dusk // Dawn
-1 Tempt with Bunnies
-1 Heroic Reinforcements
 1 Reconstruct History

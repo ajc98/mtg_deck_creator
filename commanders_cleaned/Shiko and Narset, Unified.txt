@@ -44,14 +44,16 @@
 1 Guttersnipe
 1 Vivi Ornitier
 1 Coruscation Mage
-1 Rubble Rouser
 1 Goblin Electromancer
 1 Haughty Djinn
 1 Stormcatch Mentor
-1 Archmage of Runes
+1 Frogmyr Enforcer
+1 Thopter Engineer
+1 Lavaleaper
 1 Elsha, Threefold Master
 1 Velomachus Lorehold
-1 Eldrazi Ravager
+1 Hexgold Slith
+1 Curiosity Crafter
 1 Veyran, Voice of Duality
 1 Monastery Mentor
 1 Caldera Pyremaw
@@ -64,9 +66,9 @@
 1 Azorius Signet
 1 Boros Signet
 1 Swiftfoot Boots
-1 Adaptive Training Post
 1 Whirlwind of Thought
-1 Shiny Impetus
+1 Cool but Rude
+1 Fervor
 1 Aligned Heart
 1 Ghostly Prison
 1 Frantic Search
@@ -83,7 +85,6 @@
 1 Boros Charm
 1 Narset's Reversal
 1 Electrodominance
-1 Big Score
 1 Suppression Ray // Orderly Plaza
 1 Ponder
 1 Preordain
@@ -98,4 +99,3 @@
 1 Faithless Looting
 1 Compulsive Research
 1 Deep Analysis
-1 Rite of Replication

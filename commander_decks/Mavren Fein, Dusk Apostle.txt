@@ -33,25 +33,28 @@ Lands
 
 Creatures
 1 Solemn Simulacrum
-1 Changeling Wayfinder
+1 Halo Scarab
 1 Mentor of the Meek
 1 Mangara, the Diplomat
-1 Helpful Hunter
 1 Survey Mechan
-1 Hare Apparent
-1 Alharu, Solemn Ritualist
-1 Invasion Reinforcements
+1 Eastfarthing Farmer
+1 Boss's Chauffeur
+1 Kithkeeper
+1 Sunstar Expansionist
+1 Indebted Spirit
 1 Furious Forebear
 1 Adaptive Automaton
-1 Halo Scarab
-1 Page, Loose Leaf
+1 Jennika, Bad Apple Big Sister
+1 Hare Apparent
+1 Invasion Reinforcements
+1 Alharu, Solemn Ritualist
 1 Resolute Reinforcements
+1 Page, Loose Leaf
 1 Inside Source
 1 Linden, the Steadfast Queen
 1 Dwarven Castle Guard
-1 Cathodion
 1 Blade Splicer
-1 Shepherding Spirits
+1 Changeling Wayfinder
 
 Artifacts
 1 Sol Ring
@@ -61,24 +64,23 @@ Artifacts
 1 Patchwork Banner
 1 Fellwar Stone
 1 Thought Vessel
-1 Expedition Map
-1 Skullclamp
-1 Idol of Oblivion
-1 Chronicle of Victory
-1 Found Footage
-1 Halo Fountain
-1 Swiftfoot Boots
 1 Magnifying Glass
+1 Idol of Oblivion
+1 Skullclamp
+1 Halo Fountain
+1 Chronicle of Victory
+1 Swiftfoot Boots
+1 Carrot Cake
 1 Gathering Stone
-1 Caduceus, Staff of Hermes
 
 Enchantments
-1 Builder's Talent
-1 Felidar Retreat
-1 Aligned Heart
 1 Hoofprints of the Stag
+1 Murmuration
+1 Muster the Departed
+1 Felidar Retreat
+1 Builder's Talent
+1 Aligned Heart
 1 Reconnaissance
-1 Ghostly Prison
 
 Instants
 1 Swords to Plowshares
@@ -86,21 +88,19 @@ Instants
 1 Disenchant
 1 Generous Gift
 1 Stroke of Midnight
-1 Crib Swap
+1 Personify
 1 Make a Stand
-1 Teferi's Protection
 1 Rootborn Defenses
 1 Sanguine Sacrament
 1 Duty Beyond Death
-1 Auspicious Arrival
 
 Sorceries
 1 Cut a Deal
 1 Secret Rendezvous
+1 Tempt with Bunnies
 1 Dusk // Dawn
 1 Fumigate
 1 Winnowing
-1 Tempt with Bunnies
 
 Other
 1 Elspeth, Sun's Champion

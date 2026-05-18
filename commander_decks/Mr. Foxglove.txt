@@ -47,18 +47,18 @@ Creatures
 1 Llanowar Elves
 1 Psychosis Crawler
 1 Body of Knowledge
+1 Twenty-Toed Toad
 1 Chasm Skulker
 1 Loran of the Third Path
-1 Twenty-Toed Toad
 1 Kwain, Itinerant Meddler
 1 Koma, World-Eater
 1 Archetype of Endurance
 1 Triskaidekaphile
-1 Sun Titan
-1 Kinscaer Sentry
-1 Evercoat Ursine
-1 Eldrazi Ravager
-1 Civil Servant
+1 Scurry of Squirrels
+1 Rampant Frogantua
+1 Hexgold Slith
+1 Curiosity Crafter
+1 April, Reporter of the Weird
 1 Kodama of the East Tree
 1 Terastodon
 1 Avacyn's Pilgrim

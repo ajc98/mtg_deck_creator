@@ -45,26 +45,27 @@ Creatures
 1 Great Forest Druid
 1 Faeburrow Elder
 1 Birds of Paradise
-1 Moonlit Lamenter
 1 Blighted Blackthorn
+1 Moonlit Lamenter
 1 The Rise of Sozin // Fire Lord Sozin
 1 Zetalpa, Primal Dawn
 1 Dominator Drone
+1 Lathril, Blade of the Elves
 1 Surrak, the Hunt Caller
-1 Sludge Crawler
-1 Evercoat Ursine
-1 Eldrazi Ravager
-1 Culling Drone
-1 Toski, Bearer of Secrets
+1 Scurry of Squirrels
+1 Rampant Frogantua
+1 Hexgold Slith
+1 Demon of Loathing
+1 Rasaad yn Bashir
 1 Fecund Greenshell
 1 Nyx-Fleece Ram
 1 Reaping Willow
 1 Quickbeam, Upstart Ent
+1 Gorbag of Minas Morgul
 1 Azula, On the Hunt
 1 Slavering Branchsnapper
 1 Dimir House Guard
 1 Selvala, Explorer Returned
-1 Arasta of the Endless Web
 
 Artifacts
 1 Sol Ring
@@ -75,6 +76,7 @@ Artifacts
 1 Swiftfoot Boots
 1 Bark of Doran
 1 Orzhov Signet
+1 Goldvein Pick
 1 Talisman of Resilience
 1 Golgari Signet
 1 Chromatic Lantern
@@ -109,5 +111,3 @@ Sorceries
 1 Dusk // Dawn
 1 Cultivate
 1 Razaketh's Rite
-1 Brainspoil
-1 Feed the Swarm

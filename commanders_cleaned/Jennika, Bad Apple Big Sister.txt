@@ -27,12 +27,12 @@
 1 Maze's End
 11 Plains
 1 Angel of the Ruins
+1 Halo Scarab
 1 Rabaroo Troop
-1 Loyal Warhound
+1 Sunstar Expansionist
 1 Spirited Companion
 1 Helpful Hunter
 1 Survey Mechan
-1 Eldrazi Ravager
 1 Westfold Rider
 1 Museum Nightwatch
 1 Knight of Grace
@@ -44,27 +44,26 @@
 1 Healer's Hawk
 1 Lifecreed Duo
 1 Emeria Shepherd
-1 Halo Scarab
 1 Hare Apparent
 1 Lita, Little Orphan Amphibian
 1 Page, Loose Leaf
 1 Invasion Reinforcements
-1 Cathodion
-1 Sword of Hearth and Home
+1 Eager Glyphmage
 1 Goldvein Pick
+1 Sword of Hearth and Home
 1 Sol Ring
 1 Thought Vessel
 1 Springleaf Drum
-1 Expedition Map
-1 Mind Stone
+1 Magnifying Glass
 1 Halo Fountain
 1 Found Footage
 1 Carrot Cake
 1 Orochi Hatchery
 1 Fishing Pole
 1 Maskwood Nexus
-1 Magnifying Glass
 1 Turtle Blimp
+1 Mind Stone
+1 Hoofprints of the Stag
 1 Banishing Light
 1 Sheltered by Ghosts
 1 Clachan Festival
@@ -73,7 +72,7 @@
 1 Felidar Retreat
 1 Builder's Talent
 1 Aligned Heart
-1 Energybending
+1 Auspicious Arrival
 1 Thraben Charm
 1 Disenchant
 1 Generous Gift
@@ -83,8 +82,9 @@
 1 Boon of Safety
 1 Riot Control
 1 Swords to Plowshares
+1 Tempt with Bunnies
 1 Cut a Deal
 1 Dismantling Wave
-1 Tempt with Bunnies
 1 Dusk // Dawn
 1 Damning Verdict
+1 Winnowing

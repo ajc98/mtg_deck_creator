@@ -41,21 +41,23 @@ Lands
 
 Creatures
 1 Solemn Simulacrum
-1 Shoreline Looter
-1 Psychosis Crawler
-1 Triskaidekaphile
-1 The Rise of Sozin // Fire Lord Sozin
-1 Kami of Jealous Thirst
-1 Dominator Drone
-1 Dreadwing Scavenger
-1 Sludge Crawler
-1 Adéwalé, Breaker of Chains
-1 Azula, On the Hunt
 1 Azula, Cunning Usurper
+1 Azula, On the Hunt
+1 Shoreline Looter
+1 Dreadwing Scavenger
+1 Psychosis Crawler
+1 The Rise of Sozin // Fire Lord Sozin
+1 Triskaidekaphile
+1 Dominator Drone
+1 Kami of Jealous Thirst
+1 Curiosity Crafter
+1 April, Reporter of the Weird
+1 Demon of Loathing
+1 Skullsnatcher
+1 Gorbag of Minas Morgul
 1 Hullcarver
 1 Dimir House Guard
 1 Chasm Skulker
-1 Canyon Crawler
 
 Artifacts
 1 Sol Ring
@@ -64,20 +66,20 @@ Artifacts
 1 Mind Stone
 1 Fellwar Stone
 1 Expedition Map
-1 All-Fates Scroll
-1 Coveted Jewel
-1 Ominous Parcel
+1 Sword of Hearth and Home
 1 Bident of Thassa
 1 Swiftfoot Boots
 1 Black Mage's Rod
 1 Assassin Gauntlet
+1 Goldvein Pick
 1 Wishclaw Talisman
 
 Enchantments
 1 Wizard Class
 1 Aquitect's Defenses
-1 Gossip's Talent
+1 Necromantic Thirst
 1 Propaganda
+1 Gossip's Talent
 
 Instants
 1 Frantic Search
@@ -89,7 +91,7 @@ Instants
 1 Pongify
 1 Grip of Desolation
 1 Slip Out the Back
-1 Not Dead After All
+1 Illusionist's Gambit
 1 Counterspell
 1 Negate
 1 Dark Ritual
@@ -109,5 +111,3 @@ Sorceries
 1 Buried Alive
 1 Brainspoil
 1 Preordain
-1 Eagle Vision
-1 Razaketh's Rite

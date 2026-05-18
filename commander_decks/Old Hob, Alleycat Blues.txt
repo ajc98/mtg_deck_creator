@@ -44,14 +44,14 @@ Creatures
 1 Solemn Simulacrum
 1 Null Group Biological Assets
 1 Casey Jones, Vigilante
+1 Agate Instigator
 1 Molten Gatekeeper
 1 Arabella, Abandoned Doll
-1 Agate Instigator
 1 Lita, Little Orphan Amphibian
 1 Ravenous Robots
 1 Mechanized Ninja Cavalry
-1 Featherbrained Filcher
-1 Rose Room Treasurer
+1 Eastfarthing Farmer
+1 Riders of the Mark
 1 Furious Forebear
 1 Raphael, Tough Turtle
 1 Raphael, the Nightwatcher
@@ -59,12 +59,12 @@ Creatures
 1 Leonardo, Big Brother
 1 EPF Point Squad
 1 Rock Soldiers
+1 Featherbrained Filcher
 1 High-Flying Ace
+1 Rose Room Treasurer
 1 Casey Jones, Jury-Rig Justiciar
 1 East Wind Avatar
 1 Exalted Sunborn
-1 Halo Scarab
-1 Storm-Kiln Artist
 
 Artifacts
 1 Arcane Signet
@@ -77,7 +77,7 @@ Artifacts
 1 Sword of Hearth and Home
 1 Skullclamp
 1 Idol of Oblivion
-1 Mind Stone
+1 Halo Fountain
 1 Mouser Foundry
 1 Swiftfoot Boots
 
@@ -86,6 +86,7 @@ Enchantments
 1 Impact Tremors
 1 Endless Foot Assault
 1 Felidar Retreat
+1 Murmuration
 1 Uneasy Alliance
 
 Instants
@@ -103,7 +104,6 @@ Instants
 1 Make Your Move
 1 Turtles Forever
 1 Abrade
-1 Teferi's Protection
 
 Sorceries
 1 Cut a Deal

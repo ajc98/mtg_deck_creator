@@ -22,6 +22,7 @@ Lands
 1 Great Hall of the Biblioplex
 1 Gemstone Mine
 1 Mudflat Village
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Rogue's Passage
@@ -30,36 +31,39 @@ Lands
 1 Cryptic Caves
 1 Volatile Fault
 1 Arid Archway
-1 High Market
-8 Swamp
+7 Swamp
 
 Creatures
 1 Ruthless Knave
 1 Changeling Wayfinder
+1 Common Crook
 1 Morbid Opportunist
-1 Survey Mechan
+1 Dimir House Guard
+1 Canyon Crawler
 1 Mudbutton Cursetosser
-1 The Rise of Sozin // Fire Lord Sozin
+1 Survey Mechan
 1 Knight of Malice
 1 Iron-Shield Elf
 1 Venerated Stormsinger
 1 Zulaport Cutthroat
 1 Boggart Prankster
-1 Sludge Crawler
-1 Dominator Drone
-1 Eldrazi Ravager
-1 Dimir House Guard
-1 June, Bounty Hunter
+1 Bloodvial Purveyor
+1 Comet Crawler
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
+1 Woe Strider
+1 Chittering Witch
 1 Heirloom Auntie
+1 Warehouse Tabby
 1 Warg Rider
 1 Mordor Trebuchet
 1 Gothmog, Morgul Lieutenant
-1 Dunland Crebain
-1 Common Crook
-1 Weirding Shaman
-1 Graveshifter
-1 Champion of the Weird
-1 Bile-Vial Boggart
+1 Voracious Fell Beast
+1 Dreadfeast Demon
+1 Tangled Colony
+1 Nested Shambler
+1 Super Shredder
 
 Artifacts
 1 Sol Ring
@@ -69,19 +73,18 @@ Artifacts
 1 Thought Vessel
 1 Fellwar Stone
 1 Patchwork Banner
-1 Firdoch Core
 1 Skullclamp
 1 Chronicle of Victory
-1 Found Footage
 1 Swiftfoot Boots
-1 Maskwood Nexus
+1 Rolling Hamsphere
+1 The Ozolith
 
 Enchantments
-1 Greed
+1 Vampiric Rites
+1 Meathook Massacre II
 1 Boggart Mischief
 1 Bastion of Remembrance
 1 March from the Black Gate
-1 Vampiric Rites
 1 Grave Pact
 1 Black Market
 1 Dictate of Erebos
@@ -91,16 +94,14 @@ Instants
 1 Village Rites
 1 Corrupted Conviction
 1 Doom Blade
+1 Sold Out
 1 Murder
 1 Complete Disregard
-1 Grip of Desolation
-1 Fake Your Own Death
-1 Not Dead After All
-1 Unbury
 
 Sorceries
 1 Mordor Muster
 1 Feed the Swarm
-1 Shredder's Technique
 1 Decree of Pain
 1 In Garruk's Wake
+1 Ruinous Waterbending
+1 Foggy Swamp Visions

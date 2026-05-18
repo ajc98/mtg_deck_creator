@@ -40,10 +40,13 @@
 1 Beza, the Bounding Spring
 1 Circuit Mender
 1 Survey Mechan
+1 Hanged Executioner
 1 Knight of Grace
+1 Ballyrush Banneret
 1 Invasion Reinforcements
 1 Suki, Courageous Rescuer
-1 Hare Apparent
+1 Eastfarthing Farmer
+1 Boss's Chauffeur
 1 Furious Forebear
 1 Luminous Broodmoth
 1 Restoration Angel
@@ -59,37 +62,34 @@
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
-1 Thought Vessel
 1 Coveted Jewel
+1 Thought Vessel
 1 Thran Dynamo
 1 Fellwar Stone
 1 Bender's Waterskin
 1 Skullclamp
-1 Ominous Parcel
-1 Swiftfoot Boots
 1 Halo Fountain
+1 Swiftfoot Boots
+1 Emerald Medallion
 1 Gathering Stone
-1 Sapphire Medallion
 1 Idol of Oblivion
 1 Kyoshi Battle Fan
-1 Magnifying Glass
-1 Path to Redemption
+1 Endless Foot Assault
+1 Murmuration
 1 Airbender Ascension
 1 Aang's Iceberg
+1 Path to Redemption
 1 Kinbinding
-1 Builder's Talent
-1 Charitable Levy
 1 Dawn's Truce
 1 Swords to Plowshares
 1 Path to Exile
 1 Generous Gift
-1 Stroke of Midnight
 1 Personify
+1 Stroke of Midnight
 1 Teferi's Protection
 1 Parting Gust
+1 Rootborn Defenses
 1 Cut a Deal
-1 Secret Rendezvous
 1 Vanquish the Horde
 1 Dusk // Dawn
 1 Damning Verdict
-1 Tempt with Bunnies

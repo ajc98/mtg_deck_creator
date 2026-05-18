@@ -36,14 +36,16 @@ Lands
 1 Ash Barrens
 1 Shire Terrace
 1 Rogue's Passage
+1 Maze's End
+1 Dark Depths
 1 Plains
 1 Mountain
 
 Creatures
 1 Solemn Simulacrum
-1 Helpful Hunter
-1 Dragonhawk, Fate's Tempest
 1 Rubble Rouser
+1 Survey Mechan
+1 Dragonhawk, Fate's Tempest
 1 Molten Gatekeeper
 1 Sun Titan
 1 Emeria Shepherd
@@ -52,14 +54,13 @@ Creatures
 1 Furious Forebear
 1 Veteran Survivor
 1 Stone Docent
+1 Emrakul, the World Anew
 1 Knight of Grace
-1 Survey Mechan
-1 Dragon Mage
-1 Eldrazi Ravager
+1 Aurelia, the Warleader
+1 Combat Celebrant
+1 Vengeful Villagers
+1 Hexgold Slith
 1 Fire Sages
-1 Jeong Jeong, the Deserter
-1 Brazen Collector
-1 Fire Nation Cadets
 
 Artifacts
 1 Sol Ring
@@ -68,13 +69,14 @@ Artifacts
 1 Mind Stone
 1 Thought Vessel
 1 Fellwar Stone
-1 Expedition Map
-1 Glittering Stockpile
+1 Sword of Hearth and Home
 1 Goldvein Pick
+1 Bilbo's Ring
 1 Found Footage
 1 Swiftfoot Boots
+1 Smoke Bomb
 1 Caduceus, Staff of Hermes
-1 Bilbo's Ring
+1 Stitcher's Graft
 
 Enchantments
 1 Dragon Mantle
@@ -82,31 +84,29 @@ Enchantments
 1 Sticky Fingers
 1 Tenuous Truce
 1 Chosen by Heliod
-1 Case of the Crimson Pulse
 1 Sheltered by Ghosts
 1 Cool but Rude
 1 Builder's Talent
 1 Bound by Moonsilver
 1 Shiny Impetus
-1 Martial Impetus
 1 Curse of Opulence
+1 Martial Impetus
 
 Instants
 1 Thrill of Possibility
+1 Dawn's Truce
 1 Swords to Plowshares
 1 Path to Exile
 1 Generous Gift
+1 Valorous Stance
 1 Disenchant
-1 Take Out the Trash
 1 Lithobraking
 1 Boros Charm
 1 Teferi's Protection
-1 Valorous Stance
-1 Dawn's Truce
+1 Duty Beyond Death
 1 Chaos Warp
 
 Sorceries
-1 Secret Rendezvous
 1 Processor Assault
 1 Blasphemous Act
 1 Dusk // Dawn

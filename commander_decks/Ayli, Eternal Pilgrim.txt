@@ -29,43 +29,40 @@ Lands
 1 Cabaretti Courtyard
 1 Polluted Delta
 1 Brokers Hideout
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
 1 Rogue's Passage
 1 Reliquary Tower
 1 High Market
-1 Cryptic Caves
 1 Plains
 1 Swamp
 
 Creatures
 1 Solemn Simulacrum
-1 Mentor of the Meek
 1 Midnight Reaper
+1 Mentor of the Meek
 1 Inspiring Overseer
-1 Morbid Opportunist
 1 Selfless Spirit
 1 Marauding Blight-Priest
 1 Zulaport Cutthroat
-1 Gray Merchant of Asphodel
-1 Viscera Seer
-1 Pirate Peddlers
-1 Dimir House Guard
-1 Syr Vondam, Sunstar Exemplar
-1 Massacre Wurm
-1 Cat Collector
 1 Starscape Cleric
-1 Infestation Sage
-1 Warehouse Tabby
-1 Lunarch Veteran // Luminous Phantom
+1 Dusk Mangler
+1 Gríma Wormtongue
+1 Woe Strider
+1 Chittering Witch
+1 Viscera Seer
+1 Moonstone Eulogist
+1 Voracious Fell Beast
+1 Eastfarthing Farmer
+1 Boss's Chauffeur
+1 Dreadfeast Demon
+1 Suki, Courageous Rescuer
+1 Super Shredder
 1 Blood Artist
 1 Hinterland Sanctifier
 1 Fiendish Panda
-1 Vengeful Bloodwitch
-1 Ajani's Pridemate
-1 Sun Titan
-1 Angel of Vitality
 
 Artifacts
 1 Sol Ring
@@ -78,25 +75,25 @@ Artifacts
 1 Thought Vessel
 1 Hedron Archive
 1 Skullclamp
-1 Swiftfoot Boots
 1 Ravenous Amulet
+1 Swiftfoot Boots
+1 The Ozolith
 
 Enchantments
 1 Vampiric Rites
 1 Lunar Convocation
 1 Greed
-1 Hidden Stockpile
+1 Meathook Massacre II
+1 Sothera, the Supervoid
+1 Boggart Mischief
 1 Bastion of Remembrance
-1 Grave Pact
-1 Dictate of Erebos
-1 Black Market
-1 Midnight Snack
-1 Felidar Retreat
+1 Endless Foot Assault
+1 Murmuration
 1 Sanguine Bond
 
 Instants
-1 Village Rites
 1 Deadly Dispute
+1 Village Rites
 1 Swords to Plowshares
 1 Path to Exile
 1 Mortify
@@ -104,12 +101,15 @@ Instants
 1 Stroke of Midnight
 1 Generous Gift
 1 Divine Resilience
+1 Rootborn Defenses
 
 Sorceries
 1 Feed the Swarm
 1 Fumigate
 1 Dusk // Dawn
 1 Exsanguinate
+1 Ruinous Waterbending
+1 Foggy Swamp Visions
 
 Other
 1 Elspeth, Sun's Champion

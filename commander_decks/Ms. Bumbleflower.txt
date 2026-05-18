@@ -50,17 +50,17 @@ Creatures
 1 Kwain, Itinerant Meddler
 1 Psychosis Crawler
 1 Triskaidekaphile
-1 Steelburr Champion
-1 Octomancer
-1 Kheru Spellsnatcher
-1 Qiqirn Merchant
+1 Scurry of Squirrels
+1 Scourge of Skola Vale
+1 Memory Guardian
+1 Mocking Sprite
+1 Ballyrush Banneret
 1 Forgotten Ancient
 1 Managorger Hydra
 1 Mangara, the Diplomat
 1 Kalonian Hydra
 1 Spore Frog
 1 Body of Knowledge
-1 Evolution Witness
 
 Artifacts
 1 Sol Ring
@@ -69,14 +69,13 @@ Artifacts
 1 Fellwar Stone
 1 Mind Stone
 1 Swiftfoot Boots
-1 Gathering Stone
+1 Evolving Door
 
 Enchantments
 1 Wizard Class
 1 Simic Ascendancy
-1 Fisher's Talent
+1 Sapling Nursery
 1 Greater Good
-1 Ballad of the Black Flag
 1 Communal Brewing
 1 Rites of Flourishing
 
@@ -94,11 +93,11 @@ Instants
 1 Dawn's Truce
 1 Arcane Denial
 1 Counterspell
-1 Spellgyre
-1 Refute
+1 Consign to Memory
+1 Flare of Denial
+1 Make Disappear
 1 An Offer You Can't Refuse
 1 Riot Control
-1 Illusionist's Gambit
 
 Sorceries
 1 Farseek
@@ -108,6 +107,7 @@ Sorceries
 1 Dusk // Dawn
 1 Time Wipe
 1 Tempt with Bunnies
+1 Doppelgang
 1 Cultivate
 1 Promise of Loyalty
 

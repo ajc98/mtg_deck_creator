@@ -40,19 +40,22 @@
 1 Ornithopter of Paradise
 1 Loran of the Third Path
 1 Survey Mechan
+1 Kefnet the Mindful
+1 Bladegriff Prototype
 1 Radiant, Serra Archangel
 1 Triskaidekaphile
+1 Long River Lurker
 1 Knight of Grace
 1 Plumecreed Escort
-1 Kefnet the Mindful
 1 Veteran Survivor
+1 Hexgold Slith
+1 Curiosity Crafter
+1 Rasaad yn Bashir
+1 Syr Alin, the Lion's Claw
 1 Silver Sable, Mercenary Leader
 1 Sun Titan
-1 Eldrazi Ravager
 1 Page, Loose Leaf
 1 Halo Scarab
-1 Spider-Man, Web-Slinger
-1 Loyal Warhound
 1 Sol Ring
 1 Arcane Signet
 1 Azorius Signet
@@ -67,19 +70,15 @@
 1 Goldvein Pick
 1 Bender's Waterskin
 1 Thran Dynamo
-1 Basilisk Collar
 1 Sheltered by Ghosts
 1 Propaganda
 1 Twinblade Blessing
 1 Ghostly Prison
 1 Witness Protection
-1 Utter Insignificance
 1 Frantic Search
+1 Dawn's Truce
 1 Arcane Denial
 1 Case the Joint
-1 Opt
-1 Dawn's Truce
-1 Consider
 1 Swords to Plowshares
 1 Path to Exile
 1 Generous Gift
@@ -88,6 +87,7 @@
 1 Become Anonymous
 1 Teferi's Protection
 1 Slip Out the Back
+1 Illusionist's Gambit
 1 Counterspell
 1 An Offer You Can't Refuse
 1 Negate

@@ -21,6 +21,7 @@ Lands
 1 Polluted Delta
 1 Forgotten Cave
 1 Boggart Trawler // Boggart Bog
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
@@ -29,77 +30,89 @@ Lands
 1 Arid Archway
 1 Blighted Fen
 1 Maze's End
-9 Swamp
+8 Swamp
 
 Creatures
-1 Rubble Rouser
-1 Survey Mechan
-1 Asmodeus the Archfiend
-1 Gristle Glutton
-1 Siege-Gang Commander
-1 The Rise of Sozin // Fire Lord Sozin
-1 Knight of Malice
-1 Iron-Shield Elf
-1 Dominator Drone
-1 Molten Gatekeeper
-1 Sludge Crawler
-1 Culling Drone
-1 Eldrazi Ravager
-1 Shock Brigade
-1 Dimir House Guard
-1 June, Bounty Hunter
-1 Cabal Patriarch
-1 Body Dropper
-1 Akki Avalanchers
-1 Heirloom Auntie
-1 Nezumi Graverobber // Nighteyes the Desecrator
-1 Mogg War Marshal
-1 Elder Auntie
 1 Canyon Crawler
 1 Beamsaw Prospector
-1 Halo Scarab
 1 Storm-Kiln Artist
+1 Halo Scarab
 1 Azula, On the Hunt
+1 Dimir House Guard
+1 Survey Mechan
+1 June, Bounty Hunter
+1 Cabal Patriarch
+1 The Rise of Sozin // Fire Lord Sozin
+1 Plaguecrafter
+1 Knight of Malice
+1 Iron-Shield Elf
+1 Basilica Stalker
+1 Dominator Drone
+1 Coruscation Mage
+1 Starscape Cleric
+1 Combat Celebrant
+1 Thopter Engineer
+1 Garna, the Bloodflame
+1 Bloodvial Purveyor
+1 Prosperous Bandit
+1 Comet Crawler
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
+1 Woe Strider
+1 Chittering Witch
+1 Warehouse Tabby
+1 Moonstone Eulogist
+1 Osteomancer Adept
+1 Voracious Fell Beast
+1 Riders of the Mark
+1 Tangled Colony
+1 Nested Shambler
+1 Iridescent Vinelasher
+1 Thornplate Intimidator
+1 Darkstar Augur
+1 Super Shredder
 
 Artifacts
-1 Expedition Map
-1 Mind Stone
-1 Glittering Stockpile
-1 All-Fates Scroll
-1 Coveted Jewel
-1 Ominous Parcel
-1 Fellwar Stone
-1 Fountainport Bell
-1 Found Footage
-1 Bilbo's Ring
-1 Sword of Hearth and Home
-1 Orochi Hatchery
 1 Magnifying Glass
+1 Sword of Hearth and Home
+1 Goldvein Pick
+1 Found Footage
+1 Mouser Foundry
+1 Rolling Hamsphere
+1 Stitcher's Graft
+1 The Ozolith
 
 Enchantments
 1 Case of the Crimson Pulse
-1 Greed
-1 Boggart Mischief
-1 Cool but Rude
-1 Necropotence
 1 Waste Not
+1 Greed
+1 The Cloning of Shredder
+1 Meathook Massacre II
+1 Boggart Mischief
+1 Fervor
+1 Necromantic Thirst
+1 Grave Pact
+1 Sothera, the Supervoid
+1 Dictate of Erebos
+1 Outpost Siege
 
 Instants
-1 Take Out the Trash
-1 Energybending
-1 Thrill of Possibility
-1 Complete Disregard
-1 Grip of Desolation
-1 Deal Gone Bad
-1 Impossible Inferno
 1 Lithobraking
+1 Deadly Dispute
+1 Sold Out
+1 Take Out the Trash
+1 Complete Disregard
+1 Blooming Blast
 1 Consumed by Greed
 1 Unbury
-1 Deadly Dispute
 
 Sorceries
-1 Environmental Sciences
-1 Intimidation Tactics
+1 Scrounge for Eternity
 1 Grub's Command
 1 Processor Assault
+1 Coiling Rebirth
 1 Gravedig
+1 Ruinous Waterbending
+1 Foggy Swamp Visions
+1 Dread Summons

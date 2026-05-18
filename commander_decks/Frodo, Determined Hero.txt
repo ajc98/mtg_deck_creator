@@ -35,12 +35,12 @@ Creatures
 1 Solemn Simulacrum
 1 Loran of the Third Path
 1 Mangara, the Diplomat
-1 Helpful Hunter
-1 Survey Mechan
-1 Sun Titan
 1 Eldrazi Ravager
-1 Haazda Vigilante
-1 Meanders Guide
+1 Helpful Hunter
+1 Sun Titan
+1 Hexgold Slith
+1 Syr Alin, the Lion's Claw
+1 Bladegriff Prototype
 1 Samwise the Stouthearted
 1 Page, Loose Leaf
 1 Halo Scarab
@@ -49,8 +49,8 @@ Creatures
 1 Shepherding Spirits
 1 Angel of the Ruins
 1 Knight of Grace
+1 Haazda Vigilante
 1 Hare Apparent
-1 Gathering Throng
 
 Artifacts
 1 Sol Ring
@@ -61,18 +61,19 @@ Artifacts
 1 Thought Vessel
 1 Inherited Envelope
 1 Expedition Map
-1 All-Fates Scroll
+1 Goldvein Pick
 1 Bilbo's Ring
 1 Found Footage
 1 Swiftfoot Boots
 1 Caduceus, Staff of Hermes
 1 Halo Fountain
-1 Argent Dais
+1 Scytheclaw
 1 Fireshrieker
 1 Basilisk Collar
 1 Hero's Blade
+1 Argent Dais
 1 Oblivion Stone
-1 Magnifying Glass
+1 All-Fates Scroll
 
 Enchantments
 1 Banishing Light
@@ -92,7 +93,6 @@ Instants
 1 Slash of Light
 1 Hold at Bay
 1 Ajani's Response
-1 Energybending
 
 Sorceries
 1 Cut a Deal

@@ -31,13 +31,15 @@
 1 Hashep Oasis
 1 Barren Moor
 1 Polluted Mire
+1 Disciple of Freyalise // Garden of Freyalise
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
-1 Ash Barrens
 1 Forest
 1 Swamp
 1 Sakura-Tribe Elder
 1 Llanowar Elves
 1 Satyr Wayfinder
+1 Wight of the Reliquary
 1 Golgari Grave-Troll
 1 Asmodeus the Archfiend
 1 Reclamation Sage
@@ -50,51 +52,49 @@
 1 Golgari Findbroker
 1 Xu-Ifit, Osteoharmonist
 1 Viscera Seer
-1 Carrion Feeder
-1 Wight of the Reliquary
-1 Dimir House Guard
-1 Spinner of Souls
+1 Pirate Peddlers
+1 Scourge of Skola Vale
+1 Moonstone Eulogist
+1 Camellia, the Seedmiser
+1 Corpseberry Cultivator
 1 Dryad of the Ilysian Grove
 1 Spore Frog
 1 Haywire Mite
 1 Blood Artist
+1 Carrion Feeder
+1 Dimir House Guard
 1 Frog Butler
 1 Mona Lisa, Science Geek
-1 Halo Scarab
 1 Sol Ring
 1 Arcane Signet
 1 Golgari Signet
-1 Expedition Map
 1 Found Footage
 1 Swiftfoot Boots
-1 Talisman of Resilience
+1 Evolving Door
 1 Moldervine Reclamation
 1 Greater Good
-1 Greed
+1 Meathook Massacre II
 1 Bastion of Remembrance
+1 Grave Pact
+1 Sothera, the Supervoid
 1 Dictate of Erebos
-1 Necropotence
 1 Village Rites
 1 Energybending
 1 Corrupted Conviction
 1 Deadly Dispute
+1 Heritage Reclamation
 1 Beast Within
 1 Putrefy
 1 Murder
 1 Complete Disregard
-1 Grip of Desolation
 1 Snakeskin Veil
-1 Dose of Dawnglow
-1 Heritage Reclamation
-1 Midnight Tilling
+1 Consumed by Greed
 1 Rampant Growth
 1 Farseek
 1 Bushwhack
 1 Casualties of War
 1 Deadly Brew
-1 Decree of Pain
 1 Life // Death
 1 Recollect
+1 Ruinous Waterbending
 1 Cultivate
-1 Diabolic Tutor
-1 Buried Alive

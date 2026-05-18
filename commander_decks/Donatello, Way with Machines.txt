@@ -46,12 +46,13 @@ Creatures
 1 Krang, Utrom Warlord
 1 Triskaidekaphile
 1 Donatello, Gadget Master
-1 Mechan Assembler
 1 Fugitive Droid
 1 Utrom Scientists
+1 Mechan Assembler
 1 Academy Manufactor
 1 Halo Scarab
 1 Emrakul's Messenger
+1 Bill Ferny, Bree Swindler
 1 Henchbots
 1 Aetherjacket
 1 Page, Loose Leaf
@@ -65,25 +66,23 @@ Artifacts
 1 Omni-Cheese Pizza
 1 Thran Dynamo
 1 Sewer-veillance Cam
+1 Magnifying Glass
 1 Hedron Archive
 1 Ominous Parcel
 1 Swiftfoot Boots
 1 Bespoke Bō
 1 Sapphire Medallion
-1 Magnifying Glass
 1 Idol of Oblivion
 1 Turtle Blimp
 1 Fellwar Stone
+1 Cryogen Relic
 1 Firdoch Core
 1 Springleaf Drum
-1 Cryogen Relic
 1 Basilisk Collar
-1 The Ozolith
 
 Enchantments
 1 Propaganda
 1 Witness Protection
-1 Honest Work
 
 Instants
 1 Arcane Denial
@@ -93,14 +92,15 @@ Instants
 1 Pongify
 1 Rapid Hybridization
 1 Ooze Spill
-1 Return to the Sewers
 1 Negate
 1 Counterspell
+1 Return to the Sewers
 1 An Offer You Can't Refuse
-1 Run Away Together
 
 Sorceries
 1 Reverse Engineer
-1 Preordain
 1 Splash Portal
+1 Wanderwine Farewell
+1 Stolen by the Fae
 1 Solve the Equation
+1 Preordain

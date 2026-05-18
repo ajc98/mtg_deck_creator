@@ -21,6 +21,7 @@ Lands
 1 Great Hall of the Biblioplex
 1 Gemstone Mine
 1 Mudflat Village
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
@@ -29,13 +30,15 @@ Lands
 1 Cryptic Caves
 1 Volatile Fault
 1 Arid Archway
-9 Swamp
+8 Swamp
 
 Creatures
 1 Gorbag of Minas Morgul
 1 Solemn Simulacrum
+1 Canyon Crawler
 1 Morbid Opportunist
 1 Chittering Witch
+1 Sauron, the Necromancer
 1 The Rise of Sozin // Fire Lord Sozin
 1 Survey Mechan
 1 Knight of Malice
@@ -49,8 +52,9 @@ Creatures
 1 Ogre Slumlord
 1 Voracious Fell Beast
 1 Gríma Wormtongue
-1 Dimir House Guard
-1 Pirate Peddlers
+1 Dusk Mangler
+1 Woe Strider
+1 Moonstone Eulogist
 1 Blood Artist
 1 Piper of the Swarm
 1 Zulaport Cutthroat
@@ -58,8 +62,6 @@ Creatures
 1 Nested Shambler
 1 Crypt Ghast
 1 Bitterbloom Bearer
-1 Infestation Sage
-1 Marionette Apprentice
 
 Artifacts
 1 Sol Ring
@@ -69,28 +71,26 @@ Artifacts
 1 Fellwar Stone
 1 Thought Vessel
 1 Inherited Envelope
-1 Expedition Map
 1 Idol of Oblivion
 1 Skullclamp
-1 Found Footage
 1 Swiftfoot Boots
 
 Enchantments
 1 Vampiric Rites
+1 Waste Not
+1 Meathook Massacre II
 1 Bastion of Remembrance
 1 March from the Black Gate
+1 Sothera, the Supervoid
 1 Grave Pact
-1 Black Market
-1 Dictate of Erebos
 
 Instants
-1 Village Rites
 1 Deadly Dispute
+1 Village Rites
 1 Nasty End
 1 Corrupted Conviction
 1 Murder
 1 Overkill
-1 Doom Blade
 1 Dark Ritual
 1 Fake Your Own Death
 1 Shelob's Ambush
@@ -102,4 +102,5 @@ Sorceries
 1 Claim the Precious
 1 Decree of Pain
 1 Dread Summons
+1 Ruinous Waterbending
 1 Army of the Damned

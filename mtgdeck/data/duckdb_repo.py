@@ -381,6 +381,26 @@ def get_candidates_by_sql(
     return [dict(zip(cols, row)) for row in rows]
 
 
+def get_owned_candidates_by_sql(
+    conn: duckdb.DuckDBPyConnection,
+    extra_where: str,
+) -> list[dict]:
+    """Fetch ALL owned cards matching an arbitrary WHERE clause fragment.
+
+    Joins directly with the collection table so the full owned pool is searched
+    without a row limit — critical for archetype expansion where the generic
+    card table has thousands of matches but we only care about owned ones.
+    """
+    sql = (
+        f"SELECT c.* FROM cards c "
+        f"JOIN collection col ON c.normalized_name = col.normalized_name "
+        f"WHERE c.legal_commander = TRUE AND ({extra_where})"
+    )
+    rows = conn.execute(sql).fetchall()
+    cols = [d[0] for d in conn.description]
+    return [dict(zip(cols, row)) for row in rows]
+
+
 # ---------------------------------------------------------------------------
 # Generated decks
 # ---------------------------------------------------------------------------

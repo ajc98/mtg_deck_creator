@@ -33,54 +33,55 @@
 1 Cryptic Caves
 1 Volatile Fault
 1 Arid Archway
-1 Maze's End
 1 Mountain
 1 Swamp
-1 Rubble Rouser
+1 Brazen Collector
 1 Neheb, Dreadhorde Champion
 1 Survey Mechan
 1 The Rise of Sozin // Fire Lord Sozin
 1 Knight of Malice
 1 Iron-Shield Elf
 1 Dominator Drone
-1 Molten Gatekeeper
+1 Vindictive Warden
+1 Rubble Rouser
+1 Combat Celebrant
 1 Kragma Warcaller
-1 Sludge Crawler
-1 Sunset Saboteur
-1 Culling Drone
-1 Brazen Collector
+1 Thopter Engineer
+1 Prosperous Bandit
+1 Demon of Loathing
+1 Skullsnatcher
+1 Throat Slitter
 1 Felhide Petrifier
 1 Ragemonger
 1 Fanatic of Mogis
 1 Taurean Mauler
 1 Adaptive Automaton
 1 Minotaur Skullcleaver
+1 Oliphaunt
 1 Fire Sages
 1 Jeong Jeong, the Deserter
-1 Vindictive Warden
+1 Gorbag of Minas Morgul
 1 Fire Nation Cadets
 1 Zuko, Exiled Prince
 1 Azula, On the Hunt
-1 Oliphaunt
-1 Rough Rhino Cavalry
-1 Dimir House Guard
 1 Sol Ring
 1 Arcane Signet
 1 Patchwork Banner
 1 Mind Stone
 1 Fellwar Stone
 1 Heraldic Banner
+1 Sword of Hearth and Home
 1 Expedition Map
 1 Glittering Stockpile
 1 Chronicle of Victory
 1 Found Footage
 1 Swiftfoot Boots
-1 Sword of Hearth and Home
-1 Gathering Stone
 1 Waste Not
 1 Case of the Crimson Pulse
 1 Greed
 1 Cool but Rude
+1 Fervor
+1 Necromantic Thirst
 1 Thrill of Possibility
 1 Big Score
 1 Kolaghan's Command
@@ -91,7 +92,6 @@
 1 Lithobraking
 1 Chaos Warp
 1 Dark Ritual
-1 Environmental Sciences
 1 Faithless Looting
 1 Feed the Swarm
 1 Processor Assault

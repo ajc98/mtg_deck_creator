@@ -18,6 +18,7 @@
 1 Great Hall of the Biblioplex
 1 Gemstone Mine
 1 Mudflat Village
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
@@ -26,7 +27,7 @@
 1 Volatile Fault
 1 Blast Zone
 1 Rogue's Passage
-9 Swamp
+8 Swamp
 1 Solemn Simulacrum
 1 Canyon Crawler
 1 Azula, On the Hunt
@@ -43,15 +44,24 @@
 1 Zulaport Cutthroat
 1 Graveshifter
 1 Doomed Necromancer
-1 Dimir House Guard
-1 Ruthless Knave
-1 June, Bounty Hunter
-1 Heirloom Auntie
-1 Halo Scarab
-1 Ravine Raider
-1 Daggerfang Duo
-1 Nadier's Nightblade
-1 Umbral Collar Zealot
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
+1 Woe Strider
+1 Chittering Witch
+1 Warehouse Tabby
+1 Moonstone Eulogist
+1 Ogre Slumlord
+1 Osteomancer Adept
+1 Voracious Fell Beast
+1 Dreadfeast Demon
+1 Tangled Colony
+1 Nested Shambler
+1 Iridescent Vinelasher
+1 Thornplate Intimidator
+1 Darkstar Augur
+1 Starscape Cleric
+1 Super Shredder
 1 Mind Stone
 1 Arcane Signet
 1 Sol Ring
@@ -60,33 +70,27 @@
 1 Instant Ramen
 1 Soul-Guide Lantern
 1 Spine of Ish Sah
-1 Spawning Pit
-1 Malefic Scythe
-1 Orochi Hatchery
+1 The Ozolith
 1 Obsessive Pursuit
 1 Meathook Massacre II
 1 Bastion of Remembrance
-1 Grave Pact
-1 Black Market
-1 Dictate of Erebos
-1 Necropotence
-1 Waste Not
+1 Sothera, the Supervoid
+1 Boggart Mischief
 1 Deadly Dispute
 1 Eviscerator's Insight
 1 Doom Blade
-1 Throttle
-1 Essence Extraction
+1 Bake into a Pie
+1 Wither and Bloom
 1 Unlikely Aid
 1 Consumed by Greed
-1 Unbury
-1 Wither and Bloom
-1 Bake into a Pie
-1 Fake Your Own Death
 1 Scrounge for Eternity
 1 Diresight
 1 Buried Alive
 1 Deadly Precision
 1 Tragic Trajectory
 1 Decree of Pain
+1 Coiling Rebirth
 1 Zombify
 1 Gravedig
+1 Ruinous Waterbending
+1 Foggy Swamp Visions

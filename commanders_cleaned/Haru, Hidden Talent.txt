@@ -20,6 +20,7 @@
 1 Desert of the Indomitable
 1 Centaur Garden
 1 Oakhollow Village
+1 Disciple of Freyalise // Garden of Freyalise
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
@@ -28,15 +29,17 @@
 1 Maze's End
 1 Nesting Grounds
 1 Reliquary Tower
-7 Forest
-1 Changeling Wayfinder
+1 Volatile Fault
+6 Forest
 1 Mutable Explorer
+1 Changeling Wayfinder
 1 Tireless Provisioner
 1 Survey Mechan
 1 Archetype of Endurance
 1 The Earth King
+1 Scurry of Squirrels
 1 Scute Swarm
-1 Rampaging Baloths
+1 Scourge of Skola Vale
 1 Earth Kingdom General
 1 Rebellious Captives
 1 Badgermole Cub
@@ -44,14 +47,15 @@
 1 Badgermole
 1 The Boulder, Ready to Rumble
 1 Walltop Sentries
+1 Rampaging Baloths
 1 Springheart Nantuko
 1 Springbloom Druid
 1 Foggy Swamp Vinebender
 1 Yedora, Grave Gardener
 1 Avenger of Zendikar
-1 Halo Scarab
 1 Spinner of Souls
 1 Courier of Comestibles
+1 Halo Scarab
 1 Sol Ring
 1 Expedition Map
 1 Arcane Signet
@@ -67,7 +71,6 @@
 1 Stalactite Dagger
 1 Patchwork Banner
 1 Magnifying Glass
-1 Mind Stone
 1 Terrasymbiosis
 1 Invasion Tactics
 1 Greater Good
@@ -75,13 +78,11 @@
 1 Garruk's Uprising
 1 Sapling Nursery
 1 Eusocial Engineering
-1 Retreat to Kazandu
 1 Return of the Wildspeaker
 1 Beast Within
 1 Origin of Metalbending
 1 Zuko's Exile
 1 Heritage Reclamation
-1 Titan's Presence
 1 Cycle of Renewal
 1 Rampant Growth
 1 Sylvan Scrying

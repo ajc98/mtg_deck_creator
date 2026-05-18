@@ -32,48 +32,52 @@
 1 Oran-Rief, the Vastwood
 1 Obscura Storefront
 1 Desert of the Indomitable
-1 Demolition Field
+1 Disciple of Freyalise // Garden of Freyalise
 1 Shire Terrace
 1 Maze's End
 1 Plains
 1 Forest
-1 Llanowar Elves
 1 Galadriel, Gift-Giver
+1 Llanowar Elves
 1 Rishkar, Peema Renegade
 1 Avacyn's Pilgrim
 1 Wose Pathfinder
 1 Peregrin Took
 1 Generous Ent
+1 Eldrazi Ravager
 1 Reclamation Sage
 1 Rosie Cotton of South Lane
-1 Butterbur, Bree Innkeeper
-1 Frodo, Determined Hero
-1 Evercoat Ursine
-1 Eldrazi Ravager
-1 Finneas, Ace Archer
-1 Toski, Bearer of Secrets
+1 Scurry of Squirrels
+1 Avenger of Zendikar
+1 Scourge of Skola Vale
+1 Vengeful Villagers
+1 Hexgold Slith
 1 Evolution Witness
 1 Abzan Battle Priest
 1 Gandalf, White Rider
 1 Tuskguard Captain
+1 Butterbur, Bree Innkeeper
 1 Birds of Paradise
+1 Frodo, Determined Hero
 1 Meriadoc Brandybuck
-1 Scute Swarm
-1 Protector of Gondor
 1 Sol Ring
 1 Arcane Signet
 1 Bilbo's Ring
 1 Mind Stone
 1 Swiftfoot Boots
 1 Halo Fountain
+1 Evolving Door
+1 Rolling Hamsphere
+1 Stitcher's Graft
 1 The Ozolith
-1 Thought Vessel
+1 Goldvein Pick
 1 Terrasymbiosis
-1 Garruk's Uprising
 1 Banishing Light
-1 Felidar Retreat
+1 Sapling Nursery
 1 Greater Good
+1 Endless Foot Assault
 1 Doubling Season
+1 Felidar Retreat
 1 Dawn's Truce
 1 Path to Exile
 1 Swords to Plowshares
@@ -84,8 +88,6 @@
 1 Teferi's Protection
 1 Stew the Coneys
 1 Second Breakfast
-1 Galadhrim Ambush
-1 Rootborn Defenses
 1 Rampant Growth
 1 Many Partings
 1 Shamanic Revelation
@@ -95,6 +97,4 @@
 1 Dusk // Dawn
 1 Cultivate
 1 Farseek
-1 Martial Coup
 1 Elspeth, Sun's Champion
-1 Ajani, Caller of the Pride

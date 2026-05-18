@@ -42,18 +42,20 @@
 1 Lier, Disciple of the Drowned
 1 Guttersnipe
 1 Vivi Ornitier
-1 Coruscation Mage
-1 Tori D'Avenant, Fury Rider
-1 Jeskai Elder
-1 Eldrazi Ravager
-1 Ty Lee, Artful Acrobat
+1 Aurelia, the Warleader
+1 Combat Celebrant
+1 Thopter Engineer
+1 Lavaleaper
+1 Hexgold Slith
+1 Curiosity Crafter
+1 Syr Alin, the Lion's Claw
+1 Gateway Sneak
 1 Monastery Mentor
 1 Veyran, Voice of Duality
 1 Third Path Iconoclast
 1 Stormcatch Mentor
 1 Goblin Electromancer
 1 Young Pyromancer
-1 Shiko and Narset, Unified
 1 Arcane Signet
 1 Sol Ring
 1 Talisman of Progress
@@ -62,11 +64,13 @@
 1 Azorius Signet
 1 Boros Signet
 1 Swiftfoot Boots
-1 Bident of Thassa
+1 Assassin Gauntlet
 1 Cori-Steel Cutter
 1 Skullclamp
 1 Whirlwind of Thought
 1 Impact Tremors
+1 Cool but Rude
+1 Fervor
 1 Aligned Heart
 1 Tempest Technique
 1 Opt
@@ -79,12 +83,10 @@
 1 Abrade
 1 Generous Gift
 1 Boros Charm
+1 Illusionist's Gambit
 1 Narset's Reversal
 1 Counterspell
 1 An Offer You Can't Refuse
-1 Arcane Denial
-1 Negate
-1 Big Score
 1 Suppression Ray // Orderly Plaza
 1 Ponder
 1 Preordain
@@ -95,7 +97,5 @@
 1 Time Wipe
 1 Blasphemous Act
 1 Vanquish the Horde
-1 Heroic Reinforcements
 1 Expressive Iteration
 1 Mana Geyser
-1 Ral, Crackling Wit

@@ -31,21 +31,20 @@
 1 Morbid Opportunist
 1 Survey Mechan
 1 Doomsday Excruciator
+1 Bladegriff Prototype
 1 Plaguecrafter
 1 Accursed Marauder
 1 Knight of Malice
 1 Iron-Shield Elf
 1 Crypt Ghast
 1 Gray Merchant of Asphodel
-1 Witch-king, Bringer of Ruin
-1 Sludge Crawler
-1 Dominator Drone
-1 Eldrazi Ravager
-1 Culling Drone
+1 Skullsnatcher
+1 Throat Slitter
 1 Burnished Hart
 1 Nighthowler
 1 Vampire Nighthawk
 1 Massacre Wurm
+1 Gorbag of Minas Morgul
 1 Azula, On the Hunt
 1 The Rise of Sozin // Fire Lord Sozin
 1 Desecration Demon
@@ -64,13 +63,15 @@
 1 Bilbo's Ring
 1 Found Footage
 1 Swiftfoot Boots
+1 Scytheclaw
 1 Fireshrieker
 1 Thran Dynamo
 1 Gilded Lotus
 1 Basilisk Collar
-1 Hero's Blade
 1 Greed
 1 Derelict Attic // Widow's Walk
+1 Necromantic Thirst
+1 March from the Black Gate
 1 Black Market
 1 Kaya's Ghostform
 1 Murder
@@ -88,4 +89,3 @@
 1 Bubbling Muck
 1 Razaketh's Rite
 1 Liliana of the Dark Realms
-1 Ob Nixilis Reignited

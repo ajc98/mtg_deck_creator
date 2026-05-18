@@ -23,6 +23,7 @@
 1 Mortuary Mire
 1 Cabaretti Courtyard
 1 Forgotten Cave
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
@@ -32,31 +33,32 @@
 1 Arid Archway
 1 Rogue's Passage
 1 Mountain
-3 Swamp
+2 Swamp
 1 Solemn Simulacrum
 1 Ornithopter of Paradise
 1 Iron Myr
 1 Refurbished Familiar
-1 Survey Mechan
+1 Dimir House Guard
 1 Meteor Golem
-1 The Rise of Sozin // Fire Lord Sozin
+1 Survey Mechan
 1 Knight of Malice
-1 Iron-Shield Elf
 1 Marionette Apprentice
 1 Ironclad Revolutionary
-1 Rubble Rouser
-1 Dimir House Guard
-1 June, Bounty Hunter
+1 Pirate Peddlers
+1 Dusk Mangler
+1 Gríma Wormtongue
+1 Body Dropper
+1 Woe Strider
+1 Warehouse Tabby
+1 Moonstone Eulogist
 1 Ravenous Robots
-1 Wurmcoil Larva
+1 Voracious Fell Beast
+1 Riders of the Mark
+1 Dreadfeast Demon
+1 Grub, Storied Matriarch // Grub, Notorious Auntie
+1 Super Shredder
 1 Frogmyr Enforcer
 1 Junk Diver
-1 Ornithopter
-1 Canyon Crawler
-1 Halo Scarab
-1 Storm-Kiln Artist
-1 Azula, On the Hunt
-1 Umbral Collar Zealot
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
@@ -71,28 +73,27 @@
 1 Mouser Foundry
 1 Swiftfoot Boots
 1 Bolas's Citadel
-1 Ravenous Amulet
 1 Cranial Ram
-1 Improvised Arsenal
-1 Melded Moxite
+1 The Ozolith
 1 Basilisk Collar
-1 Whip of Erebos
-1 Springleaf Drum
-1 Gilded Lotus
-1 Magnifying Glass
 1 Obsessive Pursuit
 1 Case of the Crimson Pulse
+1 Meathook Massacre II
+1 Boggart Mischief
+1 Grave Pact
+1 Sothera, the Supervoid
+1 Dictate of Erebos
+1 Outpost Siege
 1 Deadly Dispute
 1 Big Score
 1 Abrade
 1 Saw in Half
 1 Lithobraking
 1 Chaos Warp
-1 Dark Ritual
-1 Pyretic Rebirth
-1 Eviscerator's Insight
 1 Faithless Looting
 1 Feed the Swarm
 1 Processor Assault
 1 Blasphemous Act
-1 Razaketh's Rite
+1 Ruinous Waterbending
+1 Foggy Swamp Visions
+1 Dread Summons

@@ -31,54 +31,54 @@ Lands
 Creatures
 1 Solemn Simulacrum
 1 Changeling Wayfinder
-1 Iron Myr
 1 Storm-Kiln Artist
+1 Iron Myr
 1 Masked Meower
 1 Survey Mechan
+1 Darksteel Colossus
+1 Dragonhawk, Fate's Tempest
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Dragonhawk, Fate's Tempest
+1 Riders of the Mark
+1 Mogg War Marshal
 1 Combat Celebrant
+1 Thopter Engineer
+1 Lavaleaper
 1 Laelia, the Blade Reforged
-1 Etali, Primal Storm
-1 Eldrazi Ravager
-1 Bloodmad Vampire
+1 Prosperous Bandit
+1 Bladegriff Prototype
 1 Taurean Mauler
 1 Sizzling Changeling
+1 Etali, Primal Storm
 1 Oliphaunt
 1 Zuko, Exiled Prince
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
-1 Fire Nation Cadets
-1 Halo Scarab
-1 Rough Rhino Cavalry
 
 Artifacts
 1 Sol Ring
 1 Arcane Signet
 1 Goldvein Pick
+1 Sword of Hearth and Home
 1 Thought Vessel
 1 Patchwork Banner
-1 Expedition Map
 1 Found Footage
 1 Swiftfoot Boots
 1 Bilbo's Ring
-1 Sword of Hearth and Home
 1 Maskwood Nexus
-1 Improvised Arsenal
-1 Stalactite Dagger
-1 Rolling Hamsphere
+1 Stitcher's Graft
+1 Scytheclaw
 1 Hero's Blade
-1 Helm of the Host
-1 Magnifying Glass
+1 Improvised Arsenal
+1 Rolling Hamsphere
 
 Enchantments
 1 Sticky Fingers
 1 Case of the Crimson Pulse
 1 Cool but Rude
+1 Fervor
 1 Rain of Riches
-1 Curse of Opulence
 
 Instants
 1 Thrill of Possibility

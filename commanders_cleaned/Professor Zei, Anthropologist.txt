@@ -36,23 +36,23 @@
 1 Island
 1 Mountain
 1 Storm-Kiln Artist
-1 Rubble Rouser
 1 Emrakul's Messenger
+1 Rubble Rouser
 1 Archmage Emeritus
 1 Survey Mechan
 1 Guttersnipe
-1 Psychosis Crawler
 1 Coruscation Mage
-1 Mischievous Mystic
-1 Knowledge Seeker
-1 Third Path Iconoclast
-1 Chasm Skulker
+1 Psychosis Crawler
+1 Expendable Lackey
+1 Riders of the Mark
+1 Ovika, Enigma Goliath
+1 Splash Lasher
+1 Prosperous Bandit
 1 Dour Port-Mage
 1 Goblin Electromancer
 1 Stormcatch Mentor
 1 Archmage of Runes
-1 Young Pyromancer
-1 Halo Scarab
+1 Mischievous Mystic
 1 Arcane Signet
 1 Sol Ring
 1 Izzet Signet
@@ -62,10 +62,11 @@
 1 Thought Vessel
 1 Swiftfoot Boots
 1 Dawn-Blessed Pennant
-1 Soul-Guide Lantern
-1 Cool but Rude
+1 Mouser Foundry
+1 The Ozolith
 1 Stormchaser's Talent
 1 Underworld Breach
+1 Outpost Siege
 1 Frantic Search
 1 Consider
 1 Abandon Attachments
@@ -78,17 +79,14 @@
 1 Rapid Hybridization
 1 Lithobraking
 1 Octopus Form
-1 Lost Days
+1 Phantom Interference
 1 Counterspell
 1 It'll Quench Ya!
 1 Chaos Warp
 1 Negate
 1 An Offer You Can't Refuse
+1 Lost Days
 1 Big Score
-1 Thrill of Possibility
-1 Aetherize
-1 Opt
-1 Magma Opus
 1 Faithless Looting
 1 Preordain
 1 Ponder
@@ -96,5 +94,7 @@
 1 Price of Freedom
 1 Iroh's Demonstration
 1 Blasphemous Act
+1 Culmination of Studies
+1 Wanderwine Farewell
+1 Stolen by the Fae
 1 Waterbending Lesson
-1 Solve the Equation

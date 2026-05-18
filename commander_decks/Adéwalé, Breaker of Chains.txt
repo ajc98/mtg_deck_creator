@@ -22,83 +22,86 @@ Lands
 1 Mortuary Mire
 1 Brokers Hideout
 1 Bojuka Bog
+1 Arguel's Blood Fast // Temple of Aclazotz
 1 Demolition Field
 1 Ash Barrens
 1 Shire Terrace
 1 Cryptic Caves
 1 Volatile Fault
 1 Arid Archway
-10 Swamp
+1 Blighted Fen
+1 Dark Depths
+7 Swamp
 
 Creatures
-1 Canyon Crawler
-1 Solemn Simulacrum
-1 Asmodeus the Archfiend
-1 Survey Mechan
+1 Azula, Cunning Usurper
+1 Azula, On the Hunt
 1 The Rise of Sozin // Fire Lord Sozin
+1 Gorbag of Minas Morgul
+1 Eldrazi Ravager
+1 Asmodeus the Archfiend
+1 Dimir House Guard
+1 Survey Mechan
+1 Throat Slitter
+1 Bladegriff Prototype
+1 Plaguecrafter
+1 Abyssal Gorestalker
 1 Knight of Malice
 1 Iron-Shield Elf
-1 Forerunner of the Coalition
 1 Dominator Drone
+1 Forerunner of the Coalition
 1 Triskaidekaphile
-1 Sludge Crawler
-1 Eldrazi Ravager
-1 Culling Drone
-1 Appendage Amalgam
-1 Dimir House Guard
+1 Marionette Apprentice
+1 Comet Crawler
+1 Demon of Loathing
+1 Vampire Gourmand
+1 Dusk Mangler
+1 Gríma Wormtongue
 1 Pirate Peddlers
-1 Expendable Lackey
-1 Azula, On the Hunt
-1 Azula, Cunning Usurper
+1 Warehouse Tabby
+1 Osteomancer Adept
 1 Halo Scarab
-1 Page, Loose Leaf
-1 Cathodion
-1 Mind Raker
-1 Nezumi Graverobber // Nighteyes the Desecrator
+1 Sludge Crawler
 
 Artifacts
 1 Expedition Map
+1 Sword of Hearth and Home
 1 Mind Stone
+1 Goldvein Pick
 1 All-Fates Scroll
-1 Coveted Jewel
-1 Ominous Parcel
-1 Fellwar Stone
-1 Fountainport Bell
 1 Adrestia
 1 Found Footage
-1 Sword of Hearth and Home
+1 Stitcher's Graft
+1 Fellwar Stone
 1 Magnifying Glass
 1 Bender's Waterskin
-1 Wishclaw Talisman
-1 Hedron Archive
 
 Enchantments
+1 Meathook Massacre II
+1 Obsessive Pursuit
+1 Necromantic Thirst
 1 Stormchaser's Talent
+1 Grave Pact
+1 Sothera, the Supervoid
 1 Necropotence
 
 Instants
 1 Case the Joint
 1 Frantic Search
 1 Energybending
+1 Consumed by Greed
 1 Cerebral Download
-1 Curate
 1 Complete Disregard
 1 Grip of Desolation
 1 Recoil
 1 Deal Gone Bad
-1 Darkblast
 1 Become Anonymous
+1 Illusionist's Gambit
 1 Unbury
-1 Mystical Teachings
+1 Feed the Cycle
 
 Sorceries
-1 Environmental Sciences
-1 Intimidation Tactics
-1 Tezzeret's Betrayal
-1 Brainspoil
+1 Scrounge for Eternity
+1 Ruinous Waterbending
 1 Buried Alive
 1 Diabolic Tutor
-1 Transgress the Mind
-1 Razaketh's Rite
-1 Psychic Whorl
-1 Seeker's Folly

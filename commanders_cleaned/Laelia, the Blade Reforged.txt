@@ -28,49 +28,51 @@
 1 Storm-Kiln Artist
 1 Iron Myr
 1 Survey Mechan
+1 Eldrazi Ravager
+1 Darksteel Colossus
 1 Dragonhawk, Fate's Tempest
 1 Molten Gatekeeper
-1 Nettle Drone
-1 Halo Scarab
+1 Mysidian Elder
+1 Coruscation Mage
+1 Riders of the Mark
+1 Mogg War Marshal
+1 Prosperous Bandit
+1 Combat Celebrant
+1 Thopter Engineer
+1 Lavaleaper
 1 Etali, Primal Storm
-1 Slith Firewalker
-1 Ardent Dustspeaker
-1 Eldrazi Ravager
-1 Vile Aggregate
-1 Goblin Surveyor
+1 Bladegriff Prototype
+1 Halo Scarab
 1 Oliphaunt
 1 Fire Sages
+1 Slith Firewalker
 1 Zuko, Exiled Prince
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
 1 Fire Nation Cadets
-1 Rough Rhino Cavalry
-1 Burnished Hart
 1 Sol Ring
 1 Arcane Signet
 1 Mind Stone
 1 Glittering Stockpile
 1 Fellwar Stone
-1 Expedition Map
+1 Sword of Hearth and Home
 1 Found Footage
 1 Swiftfoot Boots
 1 Bilbo's Ring
-1 Sword of Hearth and Home
-1 Thought Vessel
-1 Magnifying Glass
-1 The Ozolith
+1 Rolling Hamsphere
+1 Stitcher's Graft
+1 Scytheclaw
 1 Sticky Fingers
 1 Cool but Rude
 1 Case of the Crimson Pulse
 1 Outpost Siege
-1 Curse of Opulence
-1 Firebender Ascension
+1 Fervor
 1 Underworld Breach
-1 Powerbalance
+1 Firebender Ascension
+1 Curse of Opulence
 1 Thrill of Possibility
 1 Big Score
 1 Take Out the Trash
-1 Energybending
 1 Abrade
 1 Siege Smash
 1 Impossible Inferno
@@ -78,11 +80,9 @@
 1 Lithobraking
 1 Chaos Warp
 1 Bolt Bend
-1 Solstice Revelations
 1 Faithless Looting
 1 Processor Assault
 1 Playful Shove
 1 Blasphemous Act
 1 Glimpse the Impossible
-1 Electroduplicate
 1 Mana Geyser

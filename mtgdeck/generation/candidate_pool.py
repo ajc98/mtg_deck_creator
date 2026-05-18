@@ -22,7 +22,22 @@ _ROLE_SQL: dict[str, str] = {
     "counterspell": "oracle_text LIKE '%counter target spell%'",
     "recursion":  "oracle_text LIKE '%from%graveyard%'",
 }
+
+# SQL conditions for archetype-role expansion (pulls cards EDHREC/vector may miss)
+_ARCH_ROLE_SQL: dict[str, str] = {
+    "token_producer":    "(oracle_text LIKE '%create%token%' OR oracle_text LIKE '%put%token%onto the battlefield%')",
+    "death_trigger":     "(oracle_text LIKE '%whenever%dies%' OR oracle_text LIKE '%graveyard from the battlefield%')",
+    "sacrifice_outlet":  "(oracle_text LIKE '%sacrifice%creature%' OR oracle_text LIKE '%sacrifice%permanent%')",
+    "token_doubler":     "(oracle_text LIKE '%twice as many%' OR oracle_text LIKE '%additional%token%')",
+    "leaves_battlefield": "oracle_text LIKE '%leaves the battlefield%'",
+    "extra_combat":      "oracle_text LIKE '%additional combat%'",
+    "haste_enabler":     "(oracle_text LIKE '%have haste%' OR oracle_text LIKE '%gain haste%')",
+    "cost_reducer":      "oracle_text LIKE '%cost%less%'",
+    "combat_trigger":    "(oracle_text LIKE '%whenever%attacks%' OR oracle_text LIKE '%combat damage%')",
+}
+
 _MANDATORY_MIN = 25   # candidates per role before we hit the DB
+_ARCH_MIN = 15        # archetype-role candidates before we do expansion
 _DB_FETCH_LIMIT = 120
 
 
@@ -34,6 +49,7 @@ class CandidateCard:
     edhrec_rec: dict | None
     vector_score: float
     roles: list[str] = field(default_factory=list)
+    arch_expanded: bool = False   # True if added via archetype expansion (not EDHREC/vector)
 
 
 def _row_color_identity(row: dict) -> list[str]:
@@ -57,8 +73,11 @@ def build_candidate_pool(
     1. EDHREC recommendations (primary signal)
     2. Vector search results per role query (if embeddings are loaded)
     3. DB queries for mandatory roles that are under-represented
+    4. Archetype expansion: owned cards with archetype-relevant roles that
+       EDHREC and vector search missed (e.g. Scute Swarm for a sacrifice deck)
     """
     from mtgdeck.data.duckdb_repo import get_card_by_normalized_name, get_candidates_by_sql
+    from mtgdeck.generation.archetypes import detect_archetypes, get_archetype_objects, merged_extra_buckets
 
     commander_ci   = profile.color_identity
     commander_name = profile.card.name
@@ -115,7 +134,51 @@ def build_candidate_pool(
                 roles=classify_card(row),
             )
 
-    # ── 4. Owned-only filter ─────────────────────────────────────────────────
+    # ── 4. Archetype expansion ───────────────────────────────────────────────
+    # Always add ALL owned cards with archetype-relevant roles. This is how
+    # Scute Swarm and Avenger of Zendikar enter the pool for a sacrifice deck —
+    # they produce tokens to sacrifice, but their oracle text doesn't match the
+    # commander thematically via vector search, and EDHREC may not list them.
+    # We never skip this by count — we want every owned candidate considered.
+    cmd_oracle = getattr(profile.card, "oracle_text", "") or ""
+    cmd_type   = getattr(profile.card, "type_line", "") or ""
+    arch_names  = detect_archetypes(cmd_oracle, cmd_type)
+    arch_objs   = get_archetype_objects(arch_names)
+    arch_buckets = merged_extra_buckets(arch_objs)
+    arch_roles   = {role for ab in arch_buckets for role in ab.roles}
+
+    for role in arch_roles:
+        sql = _ARCH_ROLE_SQL.get(role)
+        if not sql:
+            continue
+        # When owned_only, join directly with the collection — no row limit needed
+        # since the owned pool is small (~3k cards). This ensures cards like
+        # Scute Swarm and Avenger of Zendikar aren't lost to a 120-row cutoff
+        # over 2000+ generic token producers in the full card table.
+        if owned_only:
+            from mtgdeck.data.duckdb_repo import get_owned_candidates_by_sql
+            rows = get_owned_candidates_by_sql(conn, sql)
+        else:
+            rows = get_candidates_by_sql(conn, sql, limit=_DB_FETCH_LIMIT)
+        for row in rows:
+            norm = row["normalized_name"]
+            if norm in pool or norm == profile.card.normalized_name:
+                continue
+            if not row.get("legal_commander"):
+                continue
+            if not is_within_color_identity(_row_color_identity(row), commander_ci):
+                continue
+            pool[norm] = CandidateCard(
+                normalized_name=norm,
+                name=row["name"],
+                card_row=row,
+                edhrec_rec=edhrec_map.get(norm),
+                vector_score=0.0,
+                roles=classify_card(row),
+                arch_expanded=True,
+            )
+
+    # ── 5. Owned-only filter ─────────────────────────────────────────────────
     if owned_only and owned_names:
         pool = {k: v for k, v in pool.items() if v.name in owned_names}
 

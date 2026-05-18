@@ -44,26 +44,28 @@ Creatures
 1 Solemn Simulacrum
 1 Inspiring Overseer
 1 Helpful Hunter
+1 Eldrazi Ravager
+1 Dragonhawk, Fate's Tempest
 1 Rubble Rouser
-1 Molten Gatekeeper
 1 Combat Celebrant
-1 Sun Titan
-1 Etali, Primal Storm
-1 Tori D'Avenant, Fury Rider
-1 Linden, the Steadfast Queen
-1 Haazda Vigilante
+1 Thopter Engineer
+1 Lavaleaper
+1 Hexgold Slith
+1 Prosperous Bandit
+1 Syr Alin, the Lion's Claw
+1 Bladegriff Prototype
 1 Lyra Dawnbringer
 1 Angel of Vitality
 1 Youthful Valkyrie
 1 Anya, Merciless Angel
 1 Angel of Finality
+1 Sun Titan
+1 Linden, the Steadfast Queen
+1 Tori D'Avenant, Fury Rider
+1 Etali, Primal Storm
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
-1 Fire Nation Cadets
-1 Zuko, Exiled Prince
-1 Oliphaunt
-1 Rough Rhino Cavalry
 
 Artifacts
 1 Sol Ring
@@ -76,22 +78,20 @@ Artifacts
 1 Hedron Archive
 1 Found Footage
 1 Swiftfoot Boots
+1 Scytheclaw
 1 Helm of the Host
-1 Heraldic Banner
-1 Patchwork Banner
-1 Thought Vessel
 
 Enchantments
 1 Case of the Crimson Pulse
 1 Impact Tremors
 1 Cool but Rude
+1 Fervor
 1 Gratuitous Violence
 1 Angelic Destiny
 
 Instants
 1 Thrill of Possibility
 1 Dawn's Truce
-1 Take Out the Trash
 1 Swords to Plowshares
 1 Path to Exile
 1 Generous Gift

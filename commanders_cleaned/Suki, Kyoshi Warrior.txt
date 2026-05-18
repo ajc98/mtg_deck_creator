@@ -40,26 +40,24 @@
 1 Llanowar Elves
 1 Avacyn's Pilgrim
 1 Mentor of the Meek
+1 Jolrael, Mwonvuli Recluse
 1 Earth Kingdom Protectors
-1 Appa, Loyal Sky Bison
-1 Evercoat Ursine
-1 Eldrazi Ravager
-1 Toski, Bearer of Secrets
+1 Scurry of Squirrels
+1 Vengeful Villagers
 1 Suki, Courageous Rescuer
 1 Kyoshi Warriors
 1 Invasion Reinforcements
 1 The Earth King
-1 Appa, Steadfast Guardian
+1 Avenger of Zendikar
+1 Scourge of Skola Vale
+1 Ich-Tekik, Salvage Splicer
 1 Spinner of Souls
 1 Furious Forebear
 1 Avatar Enthusiasts
 1 Haru, Hidden Talent
 1 White Lotus Reinforcements
 1 Earth King's Lieutenant
-1 Walltop Sentries
-1 Badgermole
-1 Jeong Jeong's Deserters
-1 Compassionate Healer
+1 Appa, Steadfast Guardian
 1 Sol Ring
 1 Arcane Signet
 1 Bender's Waterskin
@@ -68,17 +66,18 @@
 1 Idol of Oblivion
 1 Skullclamp
 1 Halo Fountain
-1 Found Footage
 1 Swiftfoot Boots
+1 Rolling Hamsphere
+1 Stitcher's Graft
 1 Kyoshi Battle Fan
+1 Evolving Door
 1 Invasion Tactics
-1 Beastmaster Ascension
+1 Endless Foot Assault
 1 Path to Redemption
 1 Parallel Lives
 1 Doubling Season
 1 Greater Good
 1 Team Avatar
-1 Dawn's Truce
 1 Path to Exile
 1 Swords to Plowshares
 1 Origin of Metalbending
@@ -94,6 +93,7 @@
 1 Explore
 1 Shamanic Revelation
 1 Harmonize
+1 Tempt with Bunnies
 1 Dusk // Dawn
 1 Damning Verdict
 1 Cultivate

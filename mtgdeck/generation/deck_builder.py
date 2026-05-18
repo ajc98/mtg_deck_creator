@@ -83,12 +83,39 @@ def _bucket_target(bucket_name: str, config: DeckConfig) -> int:
     return 0
 
 
-def _role_sort_key(candidate, bucket_roles: set[str]) -> float:
+def _role_sort_key(
+    candidate,
+    bucket_roles: set[str],
+    role_boosts: dict[str, float] | None = None,
+    arch_bucket: bool = False,
+) -> float:
     rec = candidate.edhrec_rec
     edhrec = 0.0
     if rec:
         edhrec = float(rec.get("deck_percentage") or 0) / 100.0
-    return edhrec * 2.0 + candidate.vector_score * 0.20
+    base = edhrec * 2.0 + candidate.vector_score * 0.20
+    # For archetype buckets: cards injected via arch expansion but with no EDHREC
+    # data get a bonus so they rank above low-EDHREC fillers.
+    # 0.50 beats any card with < 25% EDHREC. A quality bonus (up to +0.15)
+    # breaks ties among arch_expanded cards, preferring bulk token producers
+    # ("for each", "copy of", "X tokens") over single-token drips.
+    if arch_bucket and getattr(candidate, "arch_expanded", False) and edhrec == 0.0:
+        oracle = (candidate.card_row.get("oracle_text") or "").lower()
+        quality = 0.0
+        if re.search(r"\bfor each\b", oracle):
+            quality += 0.10  # creates N tokens based on board state
+        if re.search(r"copy of (this|a|the)", oracle):
+            quality += 0.08  # exponential — copies itself or another
+        if re.search(r"create \bx\b|x \d/\d|x charge", oracle):
+            quality += 0.06  # variable X tokens
+        if re.search(r"landfall|whenever .{0,30}land .{0,20}enters", oracle):
+            quality += 0.05  # land-triggered (repeatable)
+        base += 0.50 + quality
+    elif role_boosts:
+        boost = max((role_boosts.get(r, 1.0) for r in candidate.roles), default=1.0)
+        if boost > 1.0:
+            base += (boost - 1.0) * 0.10
+    return base
 
 
 _FETCH_TYPE_RE = re.compile(
@@ -242,6 +269,7 @@ def build_deck(
             and c.name not in used
             and (not c.card_row.get("is_land") or _land_is_useful(c.card_row, commander_ci))
         ]
+        is_arch_bucket = bucket in arch_bucket_dicts
         if bname == "land":
             eligible.sort(key=lambda c: _land_sort_key(c, commander_ci), reverse=True)
             # Cap colorless-only utility lands; shortfall is filled with basic lands in Phase 3
@@ -250,7 +278,10 @@ def build_deck(
             colorless_lands = [c for c in eligible if _land_sort_key(c, commander_ci)[0] == 0][:_MAX_COLORLESS]
             eligible = color_lands + colorless_lands
         else:
-            eligible.sort(key=lambda c: _role_sort_key(c, broles), reverse=True)
+            eligible.sort(
+                key=lambda c: _role_sort_key(c, broles, role_boosts, is_arch_bucket),
+                reverse=True,
+            )
 
         for candidate in eligible[:target]:
             cs = score_card(candidate, current_role_counts, _ROLE_TARGETS, weights)

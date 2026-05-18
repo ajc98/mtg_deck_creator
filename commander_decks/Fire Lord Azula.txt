@@ -36,7 +36,6 @@ Lands
 1 Cabaretti Courtyard
 1 Forgotten Cave
 1 Seething Landscape
-1 Demolition Field
 1 Island
 1 Mountain
 1 Swamp
@@ -52,15 +51,19 @@ Creatures
 1 Guttersnipe
 1 Vivi Ornitier
 1 Vindictive Warden
+1 Combat Celebrant
+1 Thopter Engineer
+1 Garna, the Bloodflame
 1 Etali, Primal Storm
-1 Fire Sages
-1 Ty Lee, Artful Acrobat
-1 Sludge Crawler
-1 Jeong Jeong, the Deserter
+1 Neheb, the Worthy
+1 Curiosity Crafter
+1 April, Reporter of the Weird
+1 Prosperous Bandit
 1 Goblin Electromancer
-1 Stormcatch Mentor
-1 Archmage of Runes
+1 Refurbished Familiar
+1 Imskir Iron-Eater
 1 Veyran, Voice of Duality
+1 Stormcatch Mentor
 
 Artifacts
 1 Arcane Signet
@@ -71,8 +74,8 @@ Artifacts
 1 Swiftfoot Boots
 
 Enchantments
+1 Fervor
 1 Firebender Ascension
-1 Underworld Breach
 
 Instants
 1 Frantic Search
@@ -89,25 +92,22 @@ Instants
 1 Azula Always Lies
 1 Firebending Lesson
 1 Heartless Act
+1 Take Out the Trash
 1 Lithobraking
 1 Octopus Form
+1 Illusionist's Gambit
 1 Counterspell
+1 Phantom Interference
+1 Geistlight Snare
+1 Dispelling Exhale
 1 It'll Quench Ya!
-1 Spellgyre
-1 Consign to Memory
-1 Refute
 1 Electrodominance
 1 Dark Ritual
 1 Narset's Reversal
 1 An Offer You Can't Refuse
 1 Chaos Warp
-1 Bolt Bend
-1 Cabal Ritual
-1 Negate
-1 Mystical Teachings
 
 Sorceries
 1 Processor Assault
 1 Blasphemous Act
 1 Exsanguinate
-1 Mana Geyser

@@ -37,17 +37,18 @@ Creatures
 1 Coruscation Mage
 1 Rubble Rouser
 1 Young Pyromancer
+1 Riders of the Mark
+1 Mogg War Marshal
 1 Halo Scarab
 1 Molten-Core Maestro
 1 Caldera Pyremaw
+1 Flamekin Gildweaver
 1 Burnished Hart
 1 Bedhead Beastie
 1 Page, Loose Leaf
 1 Etali, Primal Storm
 1 Monastery Swiftspear
 1 Oliphaunt
-1 Hoarding Dragon
-1 Brazen Collector
 
 Artifacts
 1 Sol Ring
@@ -61,6 +62,7 @@ Artifacts
 1 Swiftfoot Boots
 1 Bilbo's Ring
 1 Sword of Hearth and Home
+1 Stalactite Dagger
 1 Basilisk Collar
 1 Thought Vessel
 1 Hero's Blade
@@ -72,7 +74,6 @@ Enchantments
 1 Outpost Siege
 1 Cool but Rude
 1 Underworld Breach
-1 Gratuitous Violence
 
 Instants
 1 Thrill of Possibility
@@ -84,10 +85,9 @@ Instants
 1 Siege Smash
 1 Take Out the Trash
 1 Lithobraking
-1 Reckless Ransacking
-1 Cunning Maneuver
 1 Chaos Warp
 1 Bolt Bend
+1 Reckless Ransacking
 1 Solstice Revelations
 1 Turn Inside Out
 
@@ -98,5 +98,5 @@ Sorceries
 1 Processor Assault
 1 Blasphemous Act
 1 Boltwave
-1 Glimpse the Impossible
 1 Mana Geyser
+1 Glimpse the Impossible

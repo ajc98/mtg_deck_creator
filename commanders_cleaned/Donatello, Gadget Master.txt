@@ -34,20 +34,23 @@
 1 Silver Myr
 1 Donatello, Turtle Techie
 1 Meteor Golem
-1 Survey Mechan
 1 Kappa Cannoneer
 1 Krang, Utrom Warlord
 1 Triskaidekaphile
-1 Eldrazi Ravager
-1 Gateway Sneak
-1 Expendable Lackey
+1 Curiosity Crafter
+1 Flitterwing Nuisance
+1 Bladegriff Prototype
+1 Chasm Skulker
+1 Splash Lasher
+1 Finch Formation
+1 Thundertrap Trainer
+1 Silvergill Mentor
 1 Ornithopter
 1 Fugitive Droid
 1 Donatello, Way with Machines
 1 Bill Ferny, Bree Swindler
 1 Halo Scarab
 1 Emrakul's Messenger
-1 Buzz Bots
 1 Sol Ring
 1 Arcane Signet
 1 Thought Vessel
@@ -55,23 +58,19 @@
 1 Thran Dynamo
 1 Gilded Lotus
 1 Fellwar Stone
-1 Cryogen Relic
-1 Bident of Thassa
 1 Idol of Oblivion
+1 Bident of Thassa
+1 Cryogen Relic
 1 Coveted Jewel
-1 Found Footage
 1 Spine of Ish Sah
-1 Ominous Parcel
 1 Swiftfoot Boots
-1 Assassin Gauntlet
-1 Sword of Hearth and Home
-1 Helm of the Host
-1 Orochi Hatchery
-1 Magnifying Glass
+1 Rolling Hamsphere
+1 Stitcher's Graft
+1 Scytheclaw
 1 Sapphire Medallion
 1 Fireshrieker
-1 Bender's Waterskin
-1 Bespoke Bō
+1 Helm of the Host
+1 Magnifying Glass
 1 Waterbender Ascension
 1 Propaganda
 1 Arcane Denial
@@ -79,15 +78,16 @@
 1 Pongify
 1 Rapid Hybridization
 1 Into the Flood Maw
-1 Ooze Spill
-1 Divert Disaster
+1 Sublime Epiphany
+1 Illusionist's Gambit
+1 Phantom Interference
 1 Counterspell
 1 An Offer You Can't Refuse
 1 Negate
 1 Aetherize
-1 Mind Transfer Protocol
+1 Ooze Spill
+1 Divert Disaster
 1 Season of Weaving
 1 Ponder
-1 Replication Technique
-1 Rite of Replication
-1 Solve the Equation
+1 Stolen by the Fae
+1 Wanderwine Farewell

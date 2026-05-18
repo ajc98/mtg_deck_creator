@@ -36,6 +36,7 @@ Lands
 1 Rogue's Passage
 1 Shire Terrace
 1 Reliquary Tower
+1 Maze's End
 1 Mountain
 1 Plains
 
@@ -43,29 +44,29 @@ Creatures
 1 Storm-Kiln Artist
 1 Solemn Simulacrum
 1 Helpful Hunter
+1 Drakuseth, Maw of Flames
 1 Guttersnipe
 1 Rubble Rouser
 1 Molten Gatekeeper
 1 Aurelia, the Warleader
 1 Combat Celebrant
+1 Thopter Engineer
+1 Lavaleaper
+1 Hexgold Slith
+1 Prosperous Bandit
+1 Rasaad yn Bashir
+1 Syr Alin, the Lion's Claw
+1 Bladegriff Prototype
+1 Frogmyr Enforcer
+1 Ballyrush Banneret
+1 Caldera Pyremaw
 1 Etali, Primal Storm
-1 Dragon Mage
-1 Drakuseth, Maw of Flames
-1 Laelia, the Blade Reforged
-1 Eldrazi Ravager
 1 Dragonspeaker Shaman
 1 Dragonlord's Servant
-1 Caldera Pyremaw
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
-1 Fire Nation Cadets
-1 Zuko, Exiled Prince
-1 Oliphaunt
-1 Rough Rhino Cavalry
-1 Page, Loose Leaf
-1 Burnished Hart
-1 Young Pyromancer
+1 Dragon Mage
 
 Artifacts
 1 Sol Ring
@@ -79,11 +80,12 @@ Artifacts
 1 Hedron Archive
 1 Found Footage
 1 Swiftfoot Boots
-1 Gathering Stone
+1 Emerald Medallion
+1 Sapphire Medallion
 
 Enchantments
-1 Case of the Crimson Pulse
 1 Cool but Rude
+1 Fervor
 
 Instants
 1 Big Score
@@ -94,11 +96,9 @@ Instants
 1 Generous Gift
 1 Stroke of Midnight
 1 Abrade
-1 Take Out the Trash
 1 Boros Charm
 1 Teferi's Protection
 1 Chaos Warp
-1 Bolt Bend
 
 Sorceries
 1 Faithless Looting

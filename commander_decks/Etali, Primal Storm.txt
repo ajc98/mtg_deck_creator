@@ -32,28 +32,30 @@ Creatures
 1 Solemn Simulacrum
 1 Iron Myr
 1 Survey Mechan
+1 Eldrazi Ravager
 1 Drakuseth, Maw of Flames
 1 Meteor Golem
+1 Dragonhawk, Fate's Tempest
 1 Rubble Rouser
 1 Molten Gatekeeper
-1 Dragonhawk, Fate's Tempest
+1 Thunderdrum Soloist
 1 Combat Celebrant
+1 Thopter Engineer
 1 Lavaleaper
-1 Laelia, the Blade Reforged
-1 Inferno Titan
-1 Ardent Dustspeaker
-1 Eldrazi Ravager
-1 Vile Aggregate
+1 Prosperous Bandit
+1 Bladegriff Prototype
+1 Stromkirk Noble
 1 Burnished Hart
 1 Ornithopter of Paradise
+1 Laelia, the Blade Reforged
 1 Fire Sages
 1 Zuko, Exiled Prince
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
+1 Inferno Titan
 1 Fire Nation Cadets
 1 Oliphaunt
 1 Rough Rhino Cavalry
-1 Halo Scarab
 
 Artifacts
 1 Sol Ring
@@ -66,25 +68,25 @@ Artifacts
 1 Glittering Stockpile
 1 Found Footage
 1 Swiftfoot Boots
-1 Bilbo's Ring
 1 Sword of Hearth and Home
+1 Bilbo's Ring
+1 Scytheclaw
+1 Goldvein Pick
 1 Helm of the Host
 1 Gilded Lotus
 
 Enchantments
 1 Case of the Crimson Pulse
-1 Outpost Siege
 1 Cool but Rude
+1 Outpost Siege
 1 Fervor
 1 Powerbalance
 1 Sunbird's Invocation
-1 Firebender Ascension
 
 Instants
 1 Thrill of Possibility
 1 Big Score
 1 Take Out the Trash
-1 Energybending
 1 Abrade
 1 Final Flare
 1 Impossible Inferno
@@ -95,8 +97,6 @@ Instants
 Sorceries
 1 Faithless Looting
 1 Impolite Entrance
-1 Playful Shove
 1 Processor Assault
 1 Blasphemous Act
 1 Mana Geyser
-1 Glimpse the Impossible

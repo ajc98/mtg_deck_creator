@@ -31,13 +31,12 @@
 1 Circuit Mender
 1 Dour Port-Mage
 1 Meteor Golem
+1 Bladegriff Prototype
 1 Survey Mechan
 1 Triskaidekaphile
-1 Wingshield Agent
-1 Eldrazi Ravager
-1 Bladegriff Prototype
-1 Aven Courier
+1 Gateway Sneak
 1 Shield Broker
+1 Wingshield Agent
 1 Page, Loose Leaf
 1 Halo Scarab
 1 Emrakul's Messenger
@@ -50,15 +49,16 @@
 1 Fellwar Stone
 1 Bender's Waterskin
 1 Expedition Map
-1 All-Fates Scroll
+1 Goldvein Pick
 1 Bident of Thassa
-1 Ominous Parcel
 1 Swiftfoot Boots
+1 Assassin Gauntlet
+1 Scytheclaw
 1 Sapphire Medallion
 1 Fireshrieker
 1 Gossip's Talent
+1 Waterbender Ascension
 1 Propaganda
-1 Witness Protection
 1 Arcane Denial
 1 Frantic Search
 1 Opt
@@ -69,6 +69,7 @@
 1 Evacuation
 1 Octopus Form
 1 Shore Up
+1 Illusionist's Gambit
 1 Negate
 1 Counterspell
 1 Aetherize
@@ -87,4 +88,3 @@
 1 Solve the Equation
 1 Curse of the Swine
 1 Trade the Helm
-1 Chart a Course

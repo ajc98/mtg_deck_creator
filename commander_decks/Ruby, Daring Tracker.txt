@@ -44,6 +44,7 @@ Creatures
 1 Savage Ventmaw
 1 Llanowar Elves
 1 Garruk's Packleader
+1 Eldrazi Ravager
 1 Drakuseth, Maw of Flames
 1 Survey Mechan
 1 Cactusfolk Sureshot
@@ -51,13 +52,15 @@ Creatures
 1 Dragonhawk, Fate's Tempest
 1 Rubble Rouser
 1 Molten Gatekeeper
+1 Combat Celebrant
+1 Thopter Engineer
+1 Lavaleaper
 1 Surrak, the Hunt Caller
-1 Raccoon Rallier
 1 Etali, Primal Storm
 1 Goreclaw, Terror of Qal Sisma
+1 Scurry of Squirrels
 1 Raph & Mikey, Troublemakers
-1 Inferno Titan
-1 Slith Firewalker
+1 Prosperous Bandit
 1 Apex Devastator
 1 Bloodbraid Challenger
 1 Rampaging Baloths
@@ -66,11 +69,10 @@ Creatures
 1 Ghalta, Primal Hunger
 1 End-Raze Forerunners
 1 Avenger of Zendikar
+1 Inferno Titan
 1 Fire Sages
 1 Jeong Jeong, the Deserter
 1 Brazen Collector
-1 Fire Nation Cadets
-1 Oliphaunt
 
 Artifacts
 1 Sol Ring
@@ -84,7 +86,6 @@ Enchantments
 1 Greater Good
 1 Case of the Crimson Pulse
 1 Cool but Rude
-1 Fervor
 1 Encroaching Dragonstorm
 1 Sunbird's Invocation
 1 Warstorm Surge
@@ -92,10 +93,9 @@ Enchantments
 Instants
 1 Return of the Wildspeaker
 1 Big Score
-1 Take Out the Trash
 1 Beast Within
 1 Abrade
-1 Heritage Reclamation
+1 Take Out the Trash
 1 Lithobraking
 1 Snakeskin Veil
 1 Chaos Warp

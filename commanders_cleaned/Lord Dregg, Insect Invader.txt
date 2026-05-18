@@ -32,52 +32,52 @@
 1 Obscura Storefront
 1 Mosswort Bridge
 1 Polluted Mire
+1 Disciple of Freyalise // Garden of Freyalise
 1 Ash Barrens
 1 Grim Backwoods
-1 High Market
 1 Swamp
 1 Forest
 1 Tireless Provisioner
 1 Gilded Goose
+1 Wight of the Reliquary
 1 Llanowar Elves
 1 Sakura-Tribe Elder
-1 Transdimensional Bovine
 1 Peregrin Took
 1 Ice Cream Kitty
 1 Ravenous Squirrel
-1 The Rise of Sozin // Fire Lord Sozin
 1 Archetype of Endurance
 1 Mirkwood Bats
-1 Nadier's Nightblade
 1 Marionette Apprentice
+1 Nadier's Nightblade
 1 Dross Hopper
-1 Nantuko Husk
-1 Woe Strider
-1 Wight of the Reliquary
-1 Spinner of Souls
-1 Moonstone Eulogist
-1 Scavenger Drake
-1 Sengir, the Dark Baron
+1 Pirate Peddlers
+1 Scourge of Skola Vale
+1 Dusk Mangler
+1 Warehouse Tabby
+1 Ich-Tekik, Salvage Splicer
 1 Arasta of the Endless Web
 1 Bitterbloom Bearer
-1 Scute Swarm
-1 Aatchik, Emerald Radian
+1 Scurry of Squirrels
+1 Avenger of Zendikar
+1 Three Tree Scribe
+1 Super Shredder
 1 Chatterfang, Squirrel General
 1 Blood Artist
-1 Necrosquito
-1 Umbral Collar Zealot
-1 Morbid Opportunist
-1 Academy Manufactor
 1 Sol Ring
 1 Arcane Signet
-1 Talisman of Resilience
-1 Idol of Oblivion
 1 Skullclamp
+1 Idol of Oblivion
 1 Swiftfoot Boots
+1 Evolving Door
+1 Chitterspitter
+1 The Ozolith
 1 Vampiric Rites
+1 Meathook Massacre II
 1 Bastion of Remembrance
 1 Grave Pact
-1 Moldervine Reclamation
+1 Sothera, the Supervoid
+1 Dictate of Erebos
+1 Sapling Nursery
 1 Doubling Season
 1 Parallel Lives
 1 Deadly Dispute
@@ -85,16 +85,16 @@
 1 Corrupted Conviction
 1 Putrefy
 1 Tear Asunder
-1 Stomped by the Foot
 1 Tainted Treats
+1 Stomped by the Foot
 1 Windgrace's Judgment
 1 Snakeskin Veil
-1 Second Harvest
 1 Farseek
 1 Rampant Growth
 1 Lash of the Balrog
 1 Feed the Swarm
 1 Deadly Brew
 1 Decree of Pain
-1 Mutant Chain Reaction
-1 Cultivate
+1 Ruinous Waterbending
+1 Foggy Swamp Visions
+1 Dread Summons
