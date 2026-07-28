@@ -118,6 +118,15 @@ def _role_sort_key(
     return base
 
 
+def _priority_sort(items: list, key_fn, owned_only: bool, *, reverse: bool = True) -> list:
+    """Sort with owned cards ranked before non-owned when owned_only is active."""
+    if not owned_only:
+        return sorted(items, key=key_fn, reverse=reverse)
+    owned     = sorted([c for c in items if c.is_owned],     key=key_fn, reverse=reverse)
+    non_owned = sorted([c for c in items if not c.is_owned], key=key_fn, reverse=reverse)
+    return owned + non_owned
+
+
 _FETCH_TYPE_RE = re.compile(
     r"search your library for (?:a |an )?(.+?)card",
     re.IGNORECASE,
@@ -234,6 +243,24 @@ def build_deck(
     arch_extra_buckets   = merged_extra_buckets(detected_arch_objs)
     role_boosts          = merged_role_boosts(detected_arch_objs)
 
+    # ── Cap archetype slots so baseline + archetype + ~10 synergy ≤ 99 ────────
+    # Baseline buckets (excl. land) consume a fixed number of slots.
+    _BASELINE_NONLAND = sum(
+        b["target"] for b in _BUCKETS if b["name"] != "land"
+    )
+    _SYNERGY_RESERVE = 5    # always leave a handful of flex slots for Phase 2
+    _ARCH_CAP = 99 - config.num_lands - _BASELINE_NONLAND - _SYNERGY_RESERVE
+    _ARCH_CAP = max(_ARCH_CAP, 0)
+
+    total_arch_requested = sum(ab.target for ab in arch_extra_buckets)
+    if total_arch_requested > _ARCH_CAP and total_arch_requested > 0:
+        # Scale each bucket's target proportionally to fit within the cap
+        scale = _ARCH_CAP / total_arch_requested
+        arch_extra_buckets = [
+            type(ab)(name=ab.name, roles=ab.roles, target=max(1, round(ab.target * scale)))
+            for ab in arch_extra_buckets
+        ]
+
     # Convert archetype extra buckets to the same dict format as _BUCKETS
     arch_bucket_dicts = [
         {"name": ab.name, "roles": ab.roles, "target": ab.target}
@@ -247,6 +274,7 @@ def build_deck(
     deck_scores: list[CardScore] = []
     role_counts: dict[str, int]  = {b["name"]: 0 for b in all_buckets}
     role_counts["synergy"] = 0
+    supplement_names: set[str] = set()  # non-owned cards added as fallback
 
     current_role_counts: dict[str, int] = {}
 
@@ -270,17 +298,27 @@ def build_deck(
             and (not c.card_row.get("is_land") or _land_is_useful(c.card_row, commander_ci))
         ]
         is_arch_bucket = bucket in arch_bucket_dicts
+        _MAX_COLORLESS = 8
         if bname == "land":
-            eligible.sort(key=lambda c: _land_sort_key(c, commander_ci), reverse=True)
-            # Cap colorless-only utility lands; shortfall is filled with basic lands in Phase 3
-            _MAX_COLORLESS = 8
-            color_lands = [c for c in eligible if _land_sort_key(c, commander_ci)[0] >= 1]
-            colorless_lands = [c for c in eligible if _land_sort_key(c, commander_ci)[0] == 0][:_MAX_COLORLESS]
-            eligible = color_lands + colorless_lands
+            eligible = _priority_sort(
+                eligible, lambda c: _land_sort_key(c, commander_ci), config.owned_only
+            )
+            # Cap colorless utility lands while preserving owned-first order
+            colorless_seen = 0
+            capped: list = []
+            for c in eligible:
+                if _land_sort_key(c, commander_ci)[0] == 0:
+                    if colorless_seen < _MAX_COLORLESS:
+                        capped.append(c)
+                        colorless_seen += 1
+                else:
+                    capped.append(c)
+            eligible = capped
         else:
-            eligible.sort(
-                key=lambda c: _role_sort_key(c, broles, role_boosts, is_arch_bucket),
-                reverse=True,
+            eligible = _priority_sort(
+                eligible,
+                lambda c: _role_sort_key(c, broles, role_boosts, is_arch_bucket),
+                config.owned_only,
             )
 
         for candidate in eligible[:target]:
@@ -291,6 +329,8 @@ def build_deck(
             role_counts[bname] += 1
             for r in candidate.roles:
                 current_role_counts[r] = current_role_counts.get(r, 0) + 1
+            if config.owned_only and not candidate.is_owned:
+                supplement_names.add(candidate.name)
 
         # Immediately backfill land shortfall with basics so Phase 2 doesn't steal land slots
         if bname == "land":
@@ -313,14 +353,8 @@ def build_deck(
                 role_counts["land"] += 1
 
     # ── Phase 2: two-tier synergy fill ───────────────────────────────────────
-    # Tier A (Plan A): EDHREC-recommended cards above threshold — always preferred.
-    #   Any owned card EDHREC says belongs in ≥15% of decks gets in before
-    #   vector-only candidates compete for the same slots.
-    # Tier B (Plan B): vector search fills whatever slots remain — important but
-    #   secondary; captures thematic cards EDHREC may not cover.
-    # Archetype role boosts are applied to role_need_score for Tier B ranking so
-    #   archetype-relevant cards (sac outlets, death triggers, etc.) bubble up
-    #   even when they score low on EDHREC / vector.
+    # When owned_only=True, owned cards are sorted first within both tiers so
+    # the collection is exhausted before any supplement cards are touched.
     _EDHREC_GUARANTEE_PCT = 15.0
 
     remaining = 99 - len(deck_cards)
@@ -338,21 +372,30 @@ def build_deck(
             boost = max((role_boosts.get(r, 1.0) for r in c.roles), default=1.0)
             return cs.final_score * boost
 
-        # Tier A: high-EDHREC cards sorted by EDHREC score descending
-        tier_a = sorted(
-            [c for c in non_land if _edhrec_pct(c) >= _EDHREC_GUARANTEE_PCT],
-            key=lambda c: score_card(c, current_role_counts, _ROLE_TARGETS, weights).edhrec_score,
-            reverse=True,
-        )
-        # Tier B: everything else sorted by boosted final_score
-        tier_a_names = {c.name for c in tier_a}
-        tier_b = sorted(
-            [c for c in non_land if c.name not in tier_a_names],
-            key=_boosted_score,
-            reverse=True,
-        )
+        def _build_tiers(group: list) -> list:
+            ta = sorted(
+                [c for c in group if _edhrec_pct(c) >= _EDHREC_GUARANTEE_PCT],
+                key=lambda c: score_card(c, current_role_counts, _ROLE_TARGETS, weights).edhrec_score,
+                reverse=True,
+            )
+            ta_names = {c.name for c in ta}
+            tb = sorted(
+                [c for c in group if c.name not in ta_names],
+                key=_boosted_score,
+                reverse=True,
+            )
+            return ta + tb
 
-        for candidate in (tier_a + tier_b)[:remaining]:
+        if config.owned_only:
+            # Owned cards fill first (both tiers), then supplement from full collection
+            ordered_synergy = (
+                _build_tiers([c for c in non_land if c.is_owned]) +
+                _build_tiers([c for c in non_land if not c.is_owned])
+            )
+        else:
+            ordered_synergy = _build_tiers(non_land)
+
+        for candidate in ordered_synergy[:remaining]:
             cs = score_card(candidate, current_role_counts, _ROLE_TARGETS, weights)
             deck_cards.append(candidate.card_row)
             deck_scores.append(cs)
@@ -360,6 +403,8 @@ def build_deck(
             role_counts["synergy"] += 1
             for r in candidate.roles:
                 current_role_counts[r] = current_role_counts.get(r, 0) + 1
+            if config.owned_only and not candidate.is_owned:
+                supplement_names.add(candidate.name)
 
     # ── Phase 3: basic land backfill ─────────────────────────────────────────
     while len(deck_cards) < 99:
@@ -382,6 +427,16 @@ def build_deck(
 
     # ── Phase 4: compute warnings ─────────────────────────────────────────────
     warnings: list[str] = []
+
+    if config.owned_only and supplement_names:
+        n = len(supplement_names)
+        owned_nonland = 99 - sum(1 for c in deck_cards if c.get("is_land")) - n
+        warnings.append(
+            f"Your collection only provided {owned_nonland} non-land cards for this deck. "
+            f"Added {n} card{'s' if n != 1 else ''} from the full Magic: The Gathering "
+            f"card pool to fill the remaining slots."
+        )
+
     if detected_arch_names:
         warnings.append(f"Detected archetypes: {', '.join(detected_arch_names)}.")
     land_count = sum(1 for c in deck_cards if c.get("is_land"))

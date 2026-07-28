@@ -25,6 +25,7 @@ _ROLE_SQL: dict[str, str] = {
 
 # SQL conditions for archetype-role expansion (pulls cards EDHREC/vector may miss)
 _ARCH_ROLE_SQL: dict[str, str] = {
+    # Original roles
     "token_producer":    "(oracle_text LIKE '%create%token%' OR oracle_text LIKE '%put%token%onto the battlefield%')",
     "death_trigger":     "(oracle_text LIKE '%whenever%dies%' OR oracle_text LIKE '%graveyard from the battlefield%')",
     "sacrifice_outlet":  "(oracle_text LIKE '%sacrifice%creature%' OR oracle_text LIKE '%sacrifice%permanent%')",
@@ -34,6 +35,30 @@ _ARCH_ROLE_SQL: dict[str, str] = {
     "haste_enabler":     "(oracle_text LIKE '%have haste%' OR oracle_text LIKE '%gain haste%')",
     "cost_reducer":      "oracle_text LIKE '%cost%less%'",
     "combat_trigger":    "(oracle_text LIKE '%whenever%attacks%' OR oracle_text LIKE '%combat damage%')",
+    "recursion":         "oracle_text LIKE '%from%graveyard%'",
+    # Implicit-fuel roles
+    "discard_outlet":    "(oracle_text LIKE '%draw%discard%' OR oracle_text LIKE '%discard%draw%' OR oracle_text LIKE '%you may discard%')",
+    "self_mill":         "(oracle_text LIKE '%mill%' OR oracle_text LIKE '%put the top%card%graveyard%' OR oracle_text LIKE '%dredge%')",
+    "proliferate":       "oracle_text LIKE '%proliferate%'",
+    "overrun":           "(oracle_text LIKE '%creatures you control get +%' OR oracle_text LIKE '%creatures you control have trample%')",
+    "evasion_giver":     "(oracle_text LIKE '%creatures you control%flying%' OR oracle_text LIKE '%creatures you control%trample%' OR oracle_text LIKE '%creatures you control%unblockable%')",
+    "extra_land_drop":   "(oracle_text LIKE '%additional land%' OR oracle_text LIKE '%play two lands%' OR oracle_text LIKE '%play an additional land%')",
+    "blink":             "(oracle_text LIKE '%exile%you control%return%under%' OR oracle_text LIKE '%exile target%you control%return%')",
+    "anthem":            "(oracle_text LIKE '%creatures you control get +%' OR oracle_text LIKE '%creature tokens you control get +%')",
+    "changeling":        "(oracle_text LIKE '%changeling%' OR type_line LIKE '%Changeling%')",
+    "wheel":             "(oracle_text LIKE '%each player discards%' OR oracle_text LIKE '%each player draws%cards%')",
+    "etb_payoff":        "(oracle_text LIKE '%whenever%creature%enters%under your control%' OR oracle_text LIKE '%whenever a creature%enters the battlefield%')",
+    "spell_copy":        "(oracle_text LIKE '%copy%instant%' OR oracle_text LIKE '%copy%sorcery%' OR oracle_text LIKE '%copy%spell%')",
+    # Tribal lords — "other [Type] creatures get/have/gain" — become global anthems for Omo/alltype
+    # Use lower() because DuckDB LIKE is case-sensitive and some oracle text is capitalized
+    "tribal_lord":       "(lower(oracle_text) LIKE '%other % creatures you control%get +%' OR lower(oracle_text) LIKE '%other % creatures%get +1%' OR lower(oracle_text) LIKE '%other %s you control%have %' OR lower(oracle_text) LIKE '%other %s you control%get +%' OR lower(oracle_text) LIKE '%chosen type%get +%')",
+    # Counter store/move — Ozolith (saves counters), Goldberry (moves counters)
+    "counter_store":     "(lower(oracle_text) LIKE '%put those counters on%' OR lower(oracle_text) LIKE '%move%counter%from%onto%' OR lower(oracle_text) LIKE '%counters%from%onto target%' OR lower(oracle_text) LIKE '%move a counter%')",
+    # Coat of Arms and similar — every creature type commanders turn these into global anthems
+    "shared_type":       "(lower(oracle_text) LIKE '%shares at least one creature type%' OR lower(oracle_text) LIKE '%shares a creature type%' OR lower(oracle_text) LIKE '%same creature type%' OR lower(oracle_text) LIKE '%of the same type%get%')",
+    # Desert / Gate payoffs — subtheme land-type scaling effects
+    # Use '%or more desert%' (no leading word) to catch "five or more Deserts" etc.
+    "land_type_payoff":  "(lower(oracle_text) LIKE '%for each desert%' OR lower(oracle_text) LIKE '%or more desert%' OR lower(oracle_text) LIKE '%number of desert%' OR lower(oracle_text) LIKE '%for each gate%' OR lower(oracle_text) LIKE '%or more gate%')",
 }
 
 _MANDATORY_MIN = 25   # candidates per role before we hit the DB
@@ -50,6 +75,7 @@ class CandidateCard:
     vector_score: float
     roles: list[str] = field(default_factory=list)
     arch_expanded: bool = False   # True if added via archetype expansion (not EDHREC/vector)
+    is_owned: bool = True         # False = not in the user's uploaded collection (supplement only)
 
 
 def _row_color_identity(row: dict) -> list[str]:
@@ -151,15 +177,9 @@ def build_candidate_pool(
         sql = _ARCH_ROLE_SQL.get(role)
         if not sql:
             continue
-        # When owned_only, join directly with the collection — no row limit needed
-        # since the owned pool is small (~3k cards). This ensures cards like
-        # Scute Swarm and Avenger of Zendikar aren't lost to a 120-row cutoff
-        # over 2000+ generic token producers in the full card table.
-        if owned_only:
-            from mtgdeck.data.duckdb_repo import get_owned_candidates_by_sql
-            rows = get_owned_candidates_by_sql(conn, sql)
-        else:
-            rows = get_candidates_by_sql(conn, sql, limit=_DB_FETCH_LIMIT)
+        # Always query the full card table so non-owned cards are available as fallback.
+        # Ownership is marked at step 5; the deck builder decides which to prefer.
+        rows = get_candidates_by_sql(conn, sql, limit=_DB_FETCH_LIMIT)
         for row in rows:
             norm = row["normalized_name"]
             if norm in pool or norm == profile.card.normalized_name:
@@ -178,9 +198,14 @@ def build_candidate_pool(
                 arch_expanded=True,
             )
 
-    # ── 5. Owned-only filter ─────────────────────────────────────────────────
-    if owned_only and owned_names:
-        pool = {k: v for k, v in pool.items() if v.name in owned_names}
+    # ── 5. Mark ownership — do NOT filter ───────────────────────────────────────
+    # When a collection is loaded we mark each candidate as owned/not-owned so
+    # the deck builder can prefer owned cards and fall back to the full pool only
+    # when the collection is insufficient. We intentionally keep all candidates
+    # so the builder always has enough material to reach 99 cards.
+    if owned_names is not None:
+        for card in pool.values():
+            card.is_owned = card.name in owned_names
 
     return list(pool.values())
 

@@ -11,5 +11,18 @@ build/
 venv/
 *.json
 !pyproject.toml
+!web/package.json
+!web/package-lock.json
+!web/tsconfig.json
+!.claude/settings.json
+.claude/settings.local.json
 .pytest_cache/
 .mypy_cache/
+
+# Run artifacts
+*_explanation.md
+api_output*.log
+scripts/edhrec_check_err.txt
+scripts/edhrec_check_log.txt
+scripts/edhrec_missing.txt
+scripts/edhrec_ok.txt

@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import csv
+import tempfile
 from pathlib import Path
 
 import duckdb
@@ -34,11 +35,13 @@ def ingest_collection(
 
     Returns (inserted, skipped).
     replace=True clears existing rows for *source* before inserting.
+    Parses all rows into memory first then does a single bulk executemany.
     """
     if replace:
-        conn.execute("DELETE FROM collection WHERE source = ?", [source])
+        # Wipe all rows so the bulk INSERT below needs no conflict check
+        conn.execute("DELETE FROM collection")
 
-    rows_inserted = 0
+    batch: list[tuple] = []
     rows_skipped = 0
 
     with path.open(newline="", encoding="utf-8-sig") as fh:
@@ -67,7 +70,7 @@ def ingest_collection(
                 continue
 
             quantity = 1
-            if count_idx is not None and row[count_idx].strip().isdigit():
+            if count_idx is not None and count_idx < len(row) and row[count_idx].strip().isdigit():
                 quantity = int(row[count_idx].strip())
 
             set_code = row[set_idx].strip() if set_idx is not None and set_idx < len(row) else ""
@@ -75,21 +78,55 @@ def ingest_collection(
             foil_raw = row[foil_idx].strip().lower() if foil_idx is not None and foil_idx < len(row) else "no"
             foil     = foil_raw in ("yes", "true", "1", "foil")
 
-            norm = normalize_name(raw_name)
+            batch.append((normalize_name(raw_name), raw_name, quantity, set_code, cn, foil, source))
 
-            conn.execute(
-                """
-                INSERT INTO collection (normalized_name, name, quantity, set_code, collector_number, foil, source)
-                VALUES (?, ?, ?, ?, ?, ?, ?)
-                ON CONFLICT (normalized_name) DO UPDATE SET
-                    quantity         = collection.quantity + EXCLUDED.quantity,
-                    set_code         = EXCLUDED.set_code,
-                    collector_number = EXCLUDED.collector_number,
-                    foil             = EXCLUDED.foil,
-                    source           = EXCLUDED.source
-                """,
-                [norm, raw_name, quantity, set_code, cn, foil, source],
+    if not batch:
+        return 0, rows_skipped
+
+    # Deduplicate within the CSV (same card listed multiple times → sum quantities)
+    merged: dict[str, list] = {}
+    for row in batch:
+        norm = row[0]
+        if norm in merged:
+            merged[norm][2] += row[2]   # accumulate quantity
+        else:
+            merged[norm] = list(row)
+    deduped = [tuple(r) for r in merged.values()]
+
+    # Write processed rows to a temp CSV then load via DuckDB's vectorised
+    # read_csv bulk-loader.  This is ~600× faster than row-by-row executemany.
+    tmp_csv: Path | None = None
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w", suffix=".csv", delete=False, newline="", encoding="utf-8"
+        ) as fh:
+            writer = csv.writer(fh)
+            writer.writerow(["normalized_name", "name", "quantity", "set_code",
+                              "collector_number", "foil", "source"])
+            writer.writerows(deduped)
+            tmp_csv = Path(fh.name)
+
+        safe_path = str(tmp_csv).replace("\\", "/")
+        conn.execute(f"""
+            INSERT INTO collection
+                (normalized_name, name, quantity, set_code, collector_number, foil, source)
+            SELECT * FROM read_csv(
+                '{safe_path}',
+                header = true,
+                columns = {{
+                    'normalized_name': 'VARCHAR',
+                    'name':            'VARCHAR',
+                    'quantity':        'INTEGER',
+                    'set_code':        'VARCHAR',
+                    'collector_number':'VARCHAR',
+                    'foil':            'BOOLEAN',
+                    'source':          'VARCHAR'
+                }}
             )
-            rows_inserted += 1
+        """
+        )
+    finally:
+        if tmp_csv and tmp_csv.exists():
+            tmp_csv.unlink()
 
-    return rows_inserted, rows_skipped
+    return len(deduped), rows_skipped
